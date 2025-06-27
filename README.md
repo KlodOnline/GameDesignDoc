@@ -4,16 +4,13 @@ ______
 Bienvenue dans le Game Design Document de **Klod Online**.  
 Ce document mixte sert à la fois de référence de conception pour le développement et de base future pour le wiki public à destination des joueurs.
 ## Table des matières
- - [[01 Gameplay Général]]
- - [[02 Le Monde]]
-
+ - [01 Gameplay général](01%20Gameplay%20Général)
+ - [02 Le monde](02%20Le%20Monde)
+ - [03 Les tours](03%20Les%20tours)
 
 ____
 # BROUILLON : 
-### 1. Présentation générale
-- [[01 Univers et Contexte]]
-- [[02 Concepts de Base]]
-- [[03 Le Monde]]
+
 ### 4. Ressources et économie
   - [[04.1 Types de Ressources]]
   - [[04.2 Récolte et Production]]
