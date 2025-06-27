@@ -46,4 +46,4 @@ ____
 
 ## Contact
 
-Pour toute contribution ou question, contacter l’équipe Klod via le canal de développement ou en ouvrant une issue sur le dépôt Git.
+Pour toute contribution ou question, ça se passe sur le Discord !
