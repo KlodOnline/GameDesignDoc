@@ -9,7 +9,7 @@ Ce document mixte sert à la fois de référence de conception pour le développ
  - [03 Les tours](03%20Les%20tours)
 
 ____
-# BROUILLON : 
+# Point non encore rédigés :
 
 ### 4. Ressources et économie
   - [[04.1 Types de Ressources]]

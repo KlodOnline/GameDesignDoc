@@ -1,4 +1,5 @@
 ___
+# Gameplay Général
 ## Pitch
 Klod Online est un **jeu de stratégie massivement multijoueur** basé sur des **tours synchronisés toutes les X minutes**.  Chaque joueur incarne un empire indépendant, qui évolue dans un monde commun persistant, généré de façon procédurale, et composé d’hexagones. Ils peuvent choisir de se faire la guerre, de coopérer, ou d'extraire des ressources plus ou moins rares.
 ## Gameplay classique ...
