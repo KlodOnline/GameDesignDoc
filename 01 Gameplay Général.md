@@ -11,9 +11,9 @@ Comme dans beaucoup de 4X, le jeu doit proposer
  - Une gestion des villes fine, avec ressources, croissance de la population, bâtiments
 ## ...et innovations !
 Au-delà du gameplay classique des 4X on trouvera comme innovations principales :
- - Un _MMO_ digne de ce nom, avec au moins 200 joueurs par monde de jeu
- - Une gestion des ressources via des _inventaires_ (façon WoW) avec un mécanisme de rareté issu des MMO (blanc, vert, bleu, violet, orange ...)
- - Une _logistique_ à jouer dans le détail : aucun système magique permettant d'envoyer de l'argent ou des ressources à un autre joueur en dehors des unités de jeu.
- - Une gestion des ville où chaque ville peut se _spécialiser_ avec un arbre de talent.
- - Un terrain qui peut être _modifié_ par les joueurs (routes, irrigations, canaux)
- - Un système de _missions individualisée_ permettant aux joueur de jouer la diplomatie fine si ils le souhaitent.
+ - Un **_MMO_** digne de ce nom, avec au moins 200 joueurs par monde de jeu
+ - Une gestion des ressources via des **_inventaires_** (façon WoW) avec un mécanisme de rareté issu des MMO (blanc, vert, bleu, violet, orange ...)
+ - Une **_logistique_** à jouer dans le détail : aucun système magique permettant d'envoyer de l'argent ou des ressources à un autre joueur en dehors des unités de jeu.
+ - Une gestion des ville où chaque ville peut se **_spécialiser_** avec un arbre de talent.
+ - Un terrain qui peut être **_modifié_** par les joueurs (routes, irrigations, canaux)
+ - Un système de _**missions individualisée**_ permettant aux joueur de jouer la diplomatie fine si ils le souhaitent.
