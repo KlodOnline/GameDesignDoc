@@ -27,12 +27,20 @@
             "state": {
               "type": "markdown",
               "state": {
+<<<<<<< HEAD
                 "file": "03 Les tours.md",
+=======
+                "file": "02 Le Monde.md",
+>>>>>>> 573deb4 (reset du depot local)
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
+<<<<<<< HEAD
               "title": "03 Les tours"
+=======
+              "title": "02 Le Monde"
+>>>>>>> 573deb4 (reset du depot local)
             }
           }
         ],
@@ -203,8 +211,13 @@
   },
   "active": "9c7218eee1449d79",
   "lastOpenFiles": [
+<<<<<<< HEAD
     "README.md",
     "03 Les tours.md",
+=======
+    "03 Les tours.md",
+    "README.md",
+>>>>>>> 573deb4 (reset du depot local)
     "02 Le Monde.md",
     "01 Gameplay Général.md",
     "_sidebar.md",
