@@ -8,20 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "43ea1628ed9793a8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_sidebar.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "_sidebar"
-            }
-          },
-          {
             "id": "9c7218eee1449d79",
             "type": "leaf",
             "state": {
@@ -33,6 +19,20 @@
               },
               "icon": "lucide-file",
               "title": "03 Les tours"
+            }
+          },
+          {
+            "id": "6cc542f0d883b6d0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "04 Les ressources.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "04 Les ressources"
             }
           }
         ],
@@ -230,12 +230,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "9c7218eee1449d79",
+  "active": "6cc542f0d883b6d0",
   "lastOpenFiles": [
-    "02 Le Monde.md",
     "03 Les tours.md",
-    "_sidebar.md",
+    "04 Les ressources.md",
     "README.md",
+    "_sidebar.md",
+    "02 Le Monde.md",
     "01 Gameplay Général.md",
     "01 Univers et Contexte.md",
     "02 Concepts de Base.md",
@@ -262,7 +263,6 @@
     "07 - Jeu par tours/07 Jeu par Tours.md",
     "07 - Jeu par tours",
     "06 - Villes/06.3 Bâtiments et Talents.md",
-    "06 - Villes/06.2 Spécialisations Culturelles.md",
     "06 - Villes",
     "05 - Unités",
     "04 - Resources",

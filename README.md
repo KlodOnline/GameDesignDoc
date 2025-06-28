@@ -7,6 +7,8 @@ Ce document mixte sert à la fois de référence de conception pour le développ
  - [01 Gameplay général](01%20Gameplay%20Général)
  - [02 Le monde](02%20Le%20Monde)
  - [03 Les tours](03%20Les%20tours)
+ - [04 Les ressources](04%20Les%20ressources.md)
+ - 
 
 ____
 # Point non encore rédigés :
