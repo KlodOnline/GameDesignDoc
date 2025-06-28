@@ -8,11 +8,15 @@ Donc on peut compter 61 cases d'aire pour une ville, **_305_** pour un joueur. O
 C'est pourquoi j'ai choisi comme valeur par défaut un monde de **_320x200_**. Je pense qu'il pourrait passer à 450x300 si les joueurs sont trop à l'étroit, et en fonction des retour, si 200 joueurs est suffisant ou non, si 5 villes à jouer c'est trop peu ou non ...
 ## Génération procédurale (WIP)
 Je n'y peux rien, j'aime ça. De plus l'exploration me fait toujours plaisir. Donc la carte doit être générée de façon procédurale avec une cohérence réaliste. Voici comment cela devrait être fait :
+### Températures
  - Soit H la distance pole nord/pole sud du monde (le nombre de rangées)
  - Le cercle polaire, c'est 1/14 de H
  - Les tropiques, sont à 1/8 de H de l'équateur
  - Les zones chaudes sont entre les deux tropiques
  - Les zones froides au delà des cercles polaire
  - Les zones gelées, pour éviter d'en prendre trop sur la carte, sont limitées à 4 cases des bords nord/sud
- - L'équateur, à la moitié du monde, permet de calculer les tropiques,  
- - 
+### Océans et montagnes
+ Ensuite, les plaques tectoniques doivent simplement séparer des plaques continentales par des montagnes ou des océans (que l'on garde volontairement en forme de couloir pour maximiser les lieux de jeux des joueurs).
+### Humidité
+C'est simple, sur terre il existe un vent dominant Est-Ouest du fait de la rotation de la Terre. 
+ 
