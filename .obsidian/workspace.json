@@ -45,7 +45,7 @@
           {
             "id": "a61fe51bb3658903",
             "type": "tabs",
-            "dimension": 28.942307692307693,
+            "dimension": 37.980769230769226,
             "children": [
               {
                 "id": "5d4e24676473d086",
@@ -54,7 +54,7 @@
                   "type": "markdown",
                   "state": {
                     "file": "_sidebar.md",
-                    "mode": "source",
+                    "mode": "preview",
                     "source": false
                   },
                   "icon": "lucide-file",
@@ -66,7 +66,7 @@
           {
             "id": "9e13ce3c1b2640b5",
             "type": "tabs",
-            "dimension": 71.0576923076923,
+            "dimension": 62.019230769230774,
             "children": [
               {
                 "id": "b2b67196c98ee911",
@@ -230,12 +230,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "6cc542f0d883b6d0",
+  "active": "5d4e24676473d086",
   "lastOpenFiles": [
-    "03 Les tours.md",
     "04 Les ressources.md",
-    "README.md",
     "_sidebar.md",
+    "README.md",
+    "03 Les tours.md",
     "02 Le Monde.md",
     "01 Gameplay Général.md",
     "01 Univers et Contexte.md",
