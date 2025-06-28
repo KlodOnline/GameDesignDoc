@@ -27,44 +27,65 @@
             "state": {
               "type": "markdown",
               "state": {
-<<<<<<< HEAD
-                "file": "03 Les tours.md",
-=======
                 "file": "02 Le Monde.md",
->>>>>>> 573deb4 (reset du depot local)
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-<<<<<<< HEAD
-              "title": "03 Les tours"
-=======
               "title": "02 Le Monde"
->>>>>>> 573deb4 (reset du depot local)
             }
           }
         ],
         "currentTab": 1
       },
       {
-        "id": "a61fe51bb3658903",
-        "type": "tabs",
+        "id": "9cb7619c5dbd199a",
+        "type": "split",
         "children": [
           {
-            "id": "5d4e24676473d086",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "README"
-            }
+            "id": "a61fe51bb3658903",
+            "type": "tabs",
+            "dimension": 28.942307692307693,
+            "children": [
+              {
+                "id": "5d4e24676473d086",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "_sidebar.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "_sidebar"
+                }
+              }
+            ]
+          },
+          {
+            "id": "9e13ce3c1b2640b5",
+            "type": "tabs",
+            "dimension": 71.0576923076923,
+            "children": [
+              {
+                "id": "b2b67196c98ee911",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "README.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "README"
+                }
+              }
+            ]
           }
-        ]
+        ],
+        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
@@ -211,16 +232,11 @@
   },
   "active": "9c7218eee1449d79",
   "lastOpenFiles": [
-<<<<<<< HEAD
     "README.md",
-    "03 Les tours.md",
-=======
-    "03 Les tours.md",
-    "README.md",
->>>>>>> 573deb4 (reset du depot local)
-    "02 Le Monde.md",
-    "01 Gameplay Général.md",
     "_sidebar.md",
+    "02 Le Monde.md",
+    "03 Les tours.md",
+    "01 Gameplay Général.md",
     "01 Univers et Contexte.md",
     "02 Concepts de Base.md",
     "Les tours.md",
