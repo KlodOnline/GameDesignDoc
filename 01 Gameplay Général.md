@@ -10,6 +10,9 @@ Comme dans beaucoup de 4X, le jeu doit proposer
  - Combats, alliances, commerce
  - une "IA" minimaliste permettant à des unités PNJ de zoner sur le monde
  - Une gestion des villes fine, avec ressources, croissance de la population, bâtiments
+
+### Inspirations
+Civilisation, Travian, Heroes of Might and Magic Kingdom etc.
 ## ...et innovations !
 Au-delà du gameplay classique des 4X on trouvera comme innovations principales :
  - Un **_MMO_** digne de ce nom, avec au moins 200 joueurs par monde de jeu
@@ -18,3 +21,6 @@ Au-delà du gameplay classique des 4X on trouvera comme innovations principales 
  - Une gestion des ville où chaque ville peut se **_spécialiser_** avec un arbre de talent.
  - Un terrain qui peut être **_modifié_** par les joueurs (routes, irrigations, canaux)
  - Un système de _**missions individualisée**_ permettant aux joueur de jouer la diplomatie fine si ils le souhaitent.
+
+### Inspirations
+World of Warcraf, Risk, Mortal Online
