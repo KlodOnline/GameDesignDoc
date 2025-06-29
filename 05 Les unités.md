@@ -8,10 +8,15 @@ Il existe différent type d'unités. Elle sont de différentes catégories :
  - Ouvrière
  - 
 ## Mouvement
-Le mouvement des unités est calculé ...
+Le mouvement des unités est calculé :
+ - en fonction de la vitesse de l'unité
+ - en fonction de la difficulté du terrain
+
 ## Inventaire
-Les unités disposent d'un inventaire avec une place exprimée en slots, et va de 0 à 6 slots
+Les unités disposent d'un inventaire avec une place exprimée en slots, et va de 0 à 6 slots.
+Lorsqu'elle meurent, elles laissent sur place un loot, qui se degrade avec le temps.
 ## Combat
+
 ## FOV
 Le **_FOV_** c'est le "field of view". C'est le nombre de cases (rayon) que voit une unité. Il y a un score en fonction de l'unité, puis un bonus en fonction du terrain. Valeurs classiques :
  - Unités de base : 1
