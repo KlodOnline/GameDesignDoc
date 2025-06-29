@@ -15,6 +15,7 @@ Je n'y peux rien, j'aime ça. De plus l'exploration me fait toujours plaisir. Do
  - Les zones chaudes sont entre les deux tropiques
  - Les zones froides au delà des cercles polaire
  - Les zones gelées, pour éviter d'en prendre trop sur la carte, sont limitées à 4 cases des bords nord/sud
+
 ### Océans et montagnes
  Ensuite, les plaques tectoniques doivent simplement séparer des plaques continentales par des **montagnes** ou des **océans** (que l'on garde volontairement en forme de couloir pour maximiser les lieux de jeux des joueurs).
 ### Humidité
@@ -24,3 +25,24 @@ Très simple, tirage aléatoire d'une montagne avec de la plaine adjacente, déf
 ### Déserts
  Facile, une plaine en zone chaude devient une savane. Une grande zone de savane créé un désert en son sein.
  
+## Aménagement du territoire
+Comme dans pas mal de jeu, on peut aménager le territoire pour améliorer son environnement. Des unités "ouvrier" dédié peuvent changer :
+ - Les cases de Jungle en plaine
+ - Les cases de Foret en plaine
+ - Les cases de marais en plaine
+ - Les cases de plaine ou de savane en irrigation, si adjacente à une rivière ou un océan ou un canal
+ - Ajouter une route
+ - Ajouter un canal
+
+## Vie du territoire (WIP)
+Les calculs de zones chaude/tempérée/froide/humide devraient rester quelques part pour permettre à chaque tour ces vérification
+
+### Partout
+ - une case plaine entourée de plaine ou de savane en zone chaude devient une savane
+ - une case savane entourée de cases savane ou de désert sur 3 de rayon devient un désert
+
+### Dans les zones hors de contrôle de joueurs  
+Une fois par jour (donc tout les 288 tours)
+ - une case entourée de 4 forêts ou de jungle  a une 1/6 chances de devenir elle même une forêt ou une jungle.
+ - une case forêt ou jungle entourée de 4 plaines a  1/6 chances de devenir elle même une plaine
+ - 

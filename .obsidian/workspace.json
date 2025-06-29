@@ -1,28 +1,29 @@
 {
   "main": {
-    "id": "ecf82f1ecd208631",
+    "id": "0ad8dd39f04da8cd",
     "type": "split",
     "children": [
       {
-        "id": "3affdb7cd3187b1b",
+        "id": "e787a200bbc617e4",
         "type": "tabs",
+        "dimension": 56.91624365482234,
         "children": [
           {
-            "id": "9c7218eee1449d79",
+            "id": "cb88bce7113b93f6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 Gameplay Général.md",
+                "file": "02 Le Monde.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "01 Gameplay Général"
+              "title": "02 Le Monde"
             }
           },
           {
-            "id": "8fcab0acd0674b48",
+            "id": "e43f52d28f7d3831",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -39,16 +40,17 @@
         "currentTab": 1
       },
       {
-        "id": "42cb26a3279b7ef6",
+        "id": "bd3cec6ff85b0e35",
         "type": "split",
+        "dimension": 43.08375634517766,
         "children": [
           {
-            "id": "d60c0affb1b2bd1b",
+            "id": "9d205a900f5cfa8e",
             "type": "tabs",
-            "dimension": 35.19230769230769,
+            "dimension": 43.17307692307693,
             "children": [
               {
-                "id": "0cac2b279f5a48b3",
+                "id": "94bc15fa3022beab",
                 "type": "leaf",
                 "state": {
                   "type": "markdown",
@@ -64,12 +66,12 @@
             ]
           },
           {
-            "id": "9e13ce3c1b2640b5",
+            "id": "2050749ca57422b9",
             "type": "tabs",
-            "dimension": 64.8076923076923,
+            "dimension": 56.82692307692307,
             "children": [
               {
-                "id": "b2b67196c98ee911",
+                "id": "d76299dc12147093",
                 "type": "leaf",
                 "state": {
                   "type": "markdown",
@@ -91,15 +93,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "e47236aa22ead02e",
+    "id": "13be6c9ebf882d41",
     "type": "split",
     "children": [
       {
-        "id": "39864a8a285f7904",
+        "id": "f88b006f2774b59d",
         "type": "tabs",
         "children": [
           {
-            "id": "b74fd3460fb4ebdc",
+            "id": "4e4bb391040bccf8",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -112,7 +114,7 @@
             }
           },
           {
-            "id": "b388a12ede334fdf",
+            "id": "62307861929d33b6",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -129,7 +131,7 @@
             }
           },
           {
-            "id": "ef3f79a2007f60ae",
+            "id": "f306dab407d37544",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -142,22 +144,23 @@
       }
     ],
     "direction": "horizontal",
-    "width": 239.5
+    "width": 300
   },
   "right": {
-    "id": "050975172dd4e749",
+    "id": "a3b2fed07ece7788",
     "type": "split",
     "children": [
       {
-        "id": "7e106ad114cbccd5",
+        "id": "763214fa773b73af",
         "type": "tabs",
         "children": [
           {
-            "id": "6b0a547bca5d67da",
+            "id": "22fe14de3f7b5921",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
+                "file": "_sidebar.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -167,24 +170,25 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for _sidebar"
             }
           },
           {
-            "id": "0f6c04a9682ed69c",
+            "id": "974f907af00018e0",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "_sidebar.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from _sidebar"
             }
           },
           {
-            "id": "00426869161b1374",
+            "id": "9a5f02c4658e19c8",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -199,17 +203,18 @@
             }
           },
           {
-            "id": "796938e2b836bec3",
+            "id": "b36440f430ef9583",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
+                "file": "_sidebar.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of _sidebar"
             }
           }
         ]
@@ -221,52 +226,51 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-git:Open Git source control": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "obsidian-git:Open Git source control": false
+      "command-palette:Open command palette": false
     }
   },
-  "active": "8fcab0acd0674b48",
+  "active": "e43f52d28f7d3831",
   "lastOpenFiles": [
-    "GDD-KlodOnline/objects/8f/9d2928974582a656cf432353aa11301f2aa24c",
-    "GDD-KlodOnline/objects/bb",
-    "GDD-KlodOnline/objects/b7",
-    "GDD-KlodOnline/objects/b0/e55110e3b458ef34c0dfa7704457961fbb1bc2",
-    "GDD-KlodOnline/objects/b4/2615264ddeaf3099d1737d723667b9cf63aa04",
-    "GDD-KlodOnline/objects/b5",
-    "GDD-KlodOnline/objects/af/bf2b54b029f2231145f973cd7564f3444bfffd",
-    "GDD-KlodOnline/objects/b4",
-    "GDD-KlodOnline/objects/ac/98e905af545b8ee59350f0801b8e705a6e69ff",
-    "GDD-KlodOnline/objects/b0",
-    "GDD-KlodOnline/objects/af",
-    "04 Les ressources.md",
-    "03 Les tours.md",
     "02 Le Monde.md",
-    "GDD-KlodOnline/03 - Le Monde/03.2 Génération Procédurale.md",
-    "GDD-KlodOnline/03 - Le Monde/03.1 Carte Hexagonale.md",
+    "04 Les ressources.md",
     "05 Les unités.md",
     "01 Gameplay Général.md",
-    "README.md",
+    "03 Les tours.md",
     "_sidebar.md",
-    "04 Les unités.md",
-    "01 Univers et Contexte.md",
-    "02 Concepts de Base.md",
-    "Les tours.md",
-    "01.md",
-    "'01.md",
-    "03 Le Monde.md",
-    "03 - Le Monde/03.2 Génération Procédurale.md",
-    "03 - Le Monde/03.1 Carte Hexagonale.md",
-    "GDD-KlodOnline/00 - Index.md",
+    "README.md",
+    "index.html",
+    "GDD-KlodOnline/logs/refs/remotes/origin/main",
+    "GDD-KlodOnline/refs/remotes/origin/main",
+    "GDD-KlodOnline/logs/refs/heads/main",
+    "GDD-KlodOnline/logs/refs/remotes/origin",
+    "GDD-KlodOnline/objects/fc/5c69b64d9a9d6650281cf8c6c2acd17930b483",
+    "GDD-KlodOnline/objects/f9/e1ca13d739e3061ee58c3a87a45be9f5a65b67",
+    "GDD-KlodOnline/objects/f8/1eb235eca4e7359a4b128a2c51379d803c3b78",
+    "GDD-KlodOnline/objects/f6/70ff436eb9bf20624705015174ef58b3a7085f",
+    "GDD-KlodOnline/objects/f0/878b0b0fe4e99d687c752bd935867e243055a5",
+    "GDD-KlodOnline/03 - Le Monde/03.2 Génération Procédurale.md",
+    "GDD-KlodOnline/03 - Le Monde/03.1 Carte Hexagonale.md",
     "09 - Interface et ergonomie/09.2 Intégration In-Game.md",
     "09 - Interface et ergonomie/09.1 Interface Générale.md",
     "09 - Interface et ergonomie/09 Interface et Ergonomie.md",
     "08 - Divinités et missions/08.2 Missions Dynamiques.md",
     "08 - Divinités et missions/08.1 Système de Foi.md",
-    "08 - Divinités et missions/08 Divinités et Missions.md"
+    "08 - Divinités et missions/08 Divinités et Missions.md",
+    "07 - Jeu par tours/07.3 Optimisation Backend.md",
+    "07 - Jeu par tours/07.2 Ordres et Résolution.md",
+    "07 - Jeu par tours/07.1 Système de Ticks.md",
+    "07 - Jeu par tours/07 Jeu par Tours.md",
+    "06 - Villes/06.3 Bâtiments et Talents.md",
+    "06 - Villes/06.2 Spécialisations Culturelles.md",
+    "06 - Villes/06.1 Fondation et Croissance.md",
+    "05 - Unités/05.3 Combat et Initiative.md",
+    "05 - Unités/05.2 Mouvements et Inventaire.md",
+    "05 - Unités/05.1 Types d’Unités.md"
   ]
 }
