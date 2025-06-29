@@ -14,8 +14,6 @@ Le **_FOV_** c'est le "field of view". C'est le nombre de cases (rayon) que voit
  - Collines : +1
  - Villes : 1 / niveau de ville (Cf. villes), max 4 ou 5
 
-
-
 ## Campement
 
 
