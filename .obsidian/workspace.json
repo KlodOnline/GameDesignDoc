@@ -232,6 +232,8 @@
   },
   "active": "8fcab0acd0674b48",
   "lastOpenFiles": [
+    "GDD-KlodOnline/ab14fd1e5b3cc8a2c0ec8cdf3ecb417439c539",
+    "GDD-KlodOnline",
     "01 Gameplay Général.md",
     "03 Les tours.md",
     "05 Les unités.md",
@@ -261,7 +263,6 @@
     "08 - Divinités et missions",
     "07 - Jeu par tours/07.3 Optimisation Backend.md",
     "07 - Jeu par tours/07.2 Ordres et Résolution.md",
-    "07 - Jeu par tours/07.1 Système de Ticks.md",
     "07 - Jeu par tours",
     "06 - Villes",
     "05 - Unités",
