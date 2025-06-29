@@ -10,7 +10,7 @@ Il existe différent type d'unités. Elle sont de différentes catégories :
 ## Mouvement
 Le mouvement des unités est calculé ...
 ## Inventaire
-Les unités disposent d'un inventaire avec une place exprimée en slots, et va de 0 à 
+Les unités disposent d'un inventaire avec une place exprimée en slots, et va de 0 à 6 slots
 ## Combat
 ## FOV
 Le **_FOV_** c'est le "field of view". C'est le nombre de cases (rayon) que voit une unité. Il y a un score en fonction de l'unité, puis un bonus en fonction du terrain. Valeurs classiques :
