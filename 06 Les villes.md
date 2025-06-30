@@ -1,5 +1,6 @@
 ___
 # Villes (WIP)
+![[Ville.png]]
 ## Zone d'influence et de production
 
 ## Resources

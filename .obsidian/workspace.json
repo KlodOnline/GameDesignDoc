@@ -249,8 +249,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e43f52d28f7d3831",
+  "active": "4e4bb391040bccf8",
   "lastOpenFiles": [
+    "media",
+    "media/Ville.png",
     "04 Les ressources.md",
     "06 Les villes.md",
     "README.md",
@@ -285,7 +287,6 @@
     "06 - Villes/06.2 Spécialisations Culturelles.md",
     "06 - Villes/06.1 Fondation et Croissance.md",
     "05 - Unités/05.3 Combat et Initiative.md",
-    "05 - Unités/05.2 Mouvements et Inventaire.md",
-    "05 - Unités/05.1 Types d’Unités.md"
+    "05 - Unités/05.2 Mouvements et Inventaire.md"
   ]
 }
