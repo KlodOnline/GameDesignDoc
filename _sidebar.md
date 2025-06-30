@@ -4,3 +4,4 @@
  - [03 Les tours](03%20Les%20tours)
  - [04 Les ressources](04%20Les%20ressources.md)
  - [05 Les unités](05%20Les%20unités.md)
+ - [06 Les villes](06%20Les%20villes.md)

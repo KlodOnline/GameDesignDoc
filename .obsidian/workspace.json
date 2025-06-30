@@ -35,9 +35,23 @@
               "icon": "lucide-file",
               "title": "05 Les unités"
             }
+          },
+          {
+            "id": "9c20dcf7b60d80af",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "06 Les villes.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "06 Les villes"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       },
       {
         "id": "bd3cec6ff85b0e35",
@@ -235,15 +249,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e43f52d28f7d3831",
+  "active": "9c20dcf7b60d80af",
   "lastOpenFiles": [
-    "03 Les tours.md",
     "05 Les unités.md",
-    "02 Le Monde.md",
-    "04 Les ressources.md",
-    "01 Gameplay Général.md",
-    "_sidebar.md",
     "README.md",
+    "01 Gameplay Général.md",
+    "06 Les villes.md",
+    "02 Le Monde.md",
+    "_sidebar.md",
+    "03 Les tours.md",
+    "04 Les ressources.md",
     "index.html",
     "GDD-KlodOnline/logs/refs/remotes/origin/main",
     "GDD-KlodOnline/refs/remotes/origin/main",
