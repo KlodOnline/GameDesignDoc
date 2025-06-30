@@ -5,16 +5,24 @@ ___
 Les villes définissent l'influence et le territoire des joueurs. Une ville commence avec un territoire d'un rayon de 1 case et peuvent croître jusqu'à un rayon de 3 (pour le moment, cette valeur pourrait évoluer en fonction des retours utilisateurs)
 Le joueur "voit" tout ce qui est dans son territoire +1 case (zone claire sur l'image)
 ## Population
+### Croissance
 A la façon de Civilization 1er du nom, la ville commence avec 1.000 habitants. A chaque tour, elle produira des ressources, de la nourriture...
-Si il y a des stock de nourriture de bois et de pierre suffisant, la ville peut gagner 1000 hab. supplémentaire (tout les 12 tours). (techniquement il faut caler un ordre "croissance" dans la liste des ordres, qui teste si il y a ce qu'il faut, et qui le repousse de 1 tour tant qu'il n'y a pas ce qu'il faut.)
-## Resources
-Chaque case dans 
-
+Après que la ville apparaît, au bout de 12 tours :
+ - Si il y a des stock de nourriture ( de quoi tenir 24h, donc pop/1000x288 ) suffisant, les gens de la ville voient l'avenir radieux, et pensent à avoir des gosses
+ - Sil il y a des stock de bois **ou** de pierre suffisant (100), des logements sont naturellement construits (en consommant ces ressources)
+Si ces deux conditions sont remplies, la ville prend 1.000 habitants. Sinon, elle retentera au tour prochain directement. Dès qu'elle croît, elle décale sont prochain test de 12 tours.
+On ne contrôle pas la population elle se reproduit d'elle même.
+### Décroissance
+Si la ville n'a pas les stock suffisant pour nourrir tout le monde au tour courant, elle perd 100 habitants. Cela peut être déséquilibré, peut être que cela ne se testera que toutes les heures en fonction des retour joueurs.
+## Production de resources
+En général un terrain produit entre 1 et 3 unités de ressources. 
+1 unité de nourriture nourri 1000hab. sur 1 TIC. Un stack de nourriture c'est 100 unités.
+Si le terrain a un "node" spécial, il produit **en plus** de sa production normale, la production spéciale. Ces nodes ont un stock (en général un stack, à étudier) de ressource qui s'épuise à la production. Les villes spécialisé (ou les ouvriers spécialisés) peuvent vider le stock plus vite que 1/tour.
 ## Batiments
-qsddqsd
+a ecrire
 ## Production d'unités
-sqqsd
+a ecrire
 ## Garnison
-qdqsd
+a ecrire
 
 

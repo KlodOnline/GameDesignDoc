@@ -5,6 +5,7 @@ Le principe des tours de jeu est un classique des anciens MMORTS web, le **_TIC_
 **Pour faciliter tout le système de jeu, il faut trouver moyen de rendre toute action dans l'interface comme un "ordre" soumis au TIC.**. Même les actions "évidentes" comme renommer une ville ou décharger quelque chose de l'inventaire.
 ## Ordre d'action
 ### Tour des villes
+
 Les villes des joueurs jouent avant les villes des IA si il y en a. Les villes jouent dans cet ordre :
  - Elle produisent des ressources
  - Elle mangent des ressources (nourriture)
