@@ -1,5 +1,5 @@
 ____
-# Unités (WIP)
+# Unités
 Les unités sont le coeur du gameplay, puis qu'elle permettent au joueur d'explorer, de construire, de récolter, de faire la guerre.
 ## Type
 Il existe différent type d'unités. Elle sont de différentes catégories :
@@ -7,6 +7,12 @@ Il existe différent type d'unités. Elle sont de différentes catégories :
  - Transport
  - Ouvrière
  - Navale
+
+## Moral
+Le moral est la valeur de "vie" des unités. Elle peut en perdre :
+ - au combat
+ - lorsqu'elle est en dehors des frontières du royaume ou de ses alliés. (perte de 5 points si elle est en dehors des frontières après 22h00, à la trêve du soir)
+ - Lorsqu'elle est en terrain difficile (perte de 1 points par tour sur le terrain difficile (désert/banquise).
 
 ## Mouvement
 Les unités peuvent être groupées en stack, pour ensuite réaliser un déplacement simultané. Sur le jeu, on autorise une stack de 3 unités maximum.
@@ -21,12 +27,22 @@ Cela devra éventuellement être révisé en fonction du retour des joueurs, en 
  - Unité (0.5, 1.5, 2.5, 3.5) / Sols (0.5, 1.5, 2.5, 3.5, 4.5) => échelle de 1 à 8 (5min à 40min)
  - Unité (0.5, 1, 1.5, 2) / Sols (0.5, 1, 1.5, 2, 2.5) => échelle de 1 à 5 (5min à 25min) (arrondi sup.)
 
+La nuit, tout les ordres de mouvements sont figés, de 22h00 à 7h00, même si le jeu fonctionne et est accessible. Cela permet d'éviter la victoire automatique des no-life.
+
+Les unités terrestre ne peuvent aller sur l'eau, sauf les rivieres. Si une unité terrestre est sur une rivière elle ne peut que la quitter. Autrement dit elle n'ont que le droit de traverser les rivières. 
+Les unités navales ne peuvent aller sur la terre, sauf les villes qui sont considéré comme des ports dès qu'elles sont en bord d’océan ou de rivière. Ce n'est pas très précis, mais cela apportera beaucoup au gameplay.
+
 ## Inventaire
 Les unités disposent d'un inventaire avec une place exprimée en slots, et va de 0 à 6 slots.
 Lorsqu'elle meurent, elles laissent sur place un loot, qui se degrade avec le temps.
 ## Combat
-
-
+Les principes de combat sont assez simples. Les unités ont des scores d'attaque et de défense, les terrains ont un score de combat. Le calcul devient :
+	(Score Attaque + Score terrain) - (Score Defense + Score terrain) = Resultat
+Les Attaque/Defense vont de 1 à 5, les bonus du terrain, de -1 à 2. Il peut y avoir des bonus de fortification en cas de combat depuis une ville ou un fortin (+1 à +3 max en fonction du niveau)
+Donc en théorie un Résultat peut être de -10 à +10.
+Un résultat positif signifie une attaque réussie, et le défenseur perd (Résultat)x10 moral.
+Un résultat négatif signifie une attaque échouée, et l'attaquant perd (Résultat)x10 moral.
+Le moral de base est 100. Une unité peux mourir en un combat dans les cas extrêmes.
 ## FOV
 Le **_FOV_** c'est le "field of view". C'est le nombre de cases (rayon) que voit une unité. Il y a un score en fonction de l'unité, puis un bonus en fonction du terrain. Valeurs classiques :
  - Unités de base : 1

@@ -14,24 +14,12 @@ Ce document mixte sert à la fois de référence de conception pour le développ
 ____
 # Point non encore rédigés :
 
-### 4. Ressources et économie
-  - [[04.1 Types de Ressources]]
-  - [[04.2 Récolte et Production]]
-  - [[04.3 Transport et Logistique]]
-### 5. Unités
-  - [[05.1 Types d’Unités]]
-  - [[05.2 Mouvements et Inventaire]]
-  - [[05.3 Combat et Initiative]]
+
 ### 5. Villes
   - [[06.1 Fondation et Croissance]]
   - [[06.2 Spécialisations Culturelles]]
   - [[06.3 Bâtiments et Talents]]
 
-### 6. Système de tours
-- [[07 Jeu par Tours]]
-  - [[07.1 Système de Ticks]]
-  - [[07.2 Ordres et Résolution]]
-  - [[07.3 Optimisation Backend]]
 ### 7. Divinités et missions
 - [[08 Divinités et Missions]]
   - [[08.1 Système de Foi]]
@@ -46,4 +34,4 @@ ____
 
 ## Contact
 
-Pour toute contribution ou question, ça se passe sur le Discord !
+Pour toute contribution ou question, ça se passe sur le [Discord](https://discord.gg/UcyS3enr)!
