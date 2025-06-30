@@ -1,10 +1,7 @@
 ___
 # Villes (WIP)
-
-## Population
-!sqlqsùldkq
 ## Resources
-qsqsqsd
+
 ## Batiments
 qsddqsd
 ## Production d'unités
@@ -13,3 +10,5 @@ sqqsd
 qdqsd
 
 
+## Population
+La population de la ville croît 
