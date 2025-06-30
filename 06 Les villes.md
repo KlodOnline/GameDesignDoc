@@ -1,6 +1,9 @@
 ___
 # Villes (WIP)
+## Zone d'influence et de production
+
 ## Resources
+
 
 ## Batiments
 qsddqsd
