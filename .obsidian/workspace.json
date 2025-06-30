@@ -51,7 +51,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       },
       {
         "id": "bd3cec6ff85b0e35",
@@ -249,12 +249,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9c20dcf7b60d80af",
+  "active": "e43f52d28f7d3831",
   "lastOpenFiles": [
+    "06 Les villes.md",
     "05 Les unités.md",
     "README.md",
     "01 Gameplay Général.md",
-    "06 Les villes.md",
     "02 Le Monde.md",
     "_sidebar.md",
     "03 Les tours.md",

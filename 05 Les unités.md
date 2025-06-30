@@ -7,6 +7,7 @@ Il existe différent type d'unités. Elle sont de différentes catégories :
  - Transport
  - Ouvrière
  - Navale
+
 ## Mouvement
 Les unités peuvent être groupées en stack, pour ensuite réaliser un déplacement simultané. Sur le jeu, on autorise une stack de 3 unités maximum.
 
