@@ -31,5 +31,8 @@ Les unités qui ont survécus au coût d'entretien sont ensuite traitées
  - Les loots qui traînent se dégradent (-1% du stack max) (par exemple si le bois se stack par 100, il perd 1 bois par tour (toutes les 5 minutes)
  - Les ressources qui n'ont pas de node de production sont générées aléatoirement sur la map
 
-## Echelle de temps
-1 TIC c'est à peu près égale à 1h de la vie des pions. Ce n'est pas parfaitement juste, puisque les villes peuvent avoir des naissances etc. tout les "jours" IRL, et 
+## Echelle de temps/distance (WP)
+définir :
+ - échelle de temps pour les unités
+ - échelles de temps pour les villes
+ - échelle de distance pour les cases

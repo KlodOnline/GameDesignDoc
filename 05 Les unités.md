@@ -13,6 +13,7 @@ Le mouvement des unités est calculé :
  - en fonction de la difficulté du terrain
 Cela donne un résultat en nombre de tour qu'il faut passer avant de déplacer effectivement l'unité sur une autre case.
 Les unités peuvent être groupées en stack, pour ensuite réaliser un déplacement simultané. Sur le jeu, on autorise une stack de 3 unités maximum.
+
 ## Inventaire
 Les unités disposent d'un inventaire avec une place exprimée en slots, et va de 0 à 6 slots.
 Lorsqu'elle meurent, elles laissent sur place un loot, qui se degrade avec le temps.
