@@ -10,7 +10,7 @@ Les villes des joueurs jouent avant les villes des IA si il y en a. Les villes j
  - Elle mangent des ressources (nourriture)
  - Les unités et/ou les bâtiments et/ou les aménagement du territoire etc. peuvent avoir un entretien à payer, en nourriture ou autre. Ne pas payer l'entretien dégrade ou détruit l'item concernée (à définir dans les règles) - l'entretien se fait avant la création de choses.
  - Elle avancent leur constructions (conso d'autre ressources)
- - elle croissent si il y a des ressources & nourriture dispo (pour les maisons etc)
+ - elle croissent si il y a des ressources & nourriture dispo (pour les maisons etc) (à voir, peut être passer ce truc tout les 12 tours )
 
 ### Tour des unités 
 Les unités qui ont survécus au coût d'entretien sont ensuite traitées
@@ -30,3 +30,6 @@ Les unités qui ont survécus au coût d'entretien sont ensuite traitées
  - Nuance pour les canaux : un canal "isolé" (sans voisin océan, rivière, canal) disparaît instantanément
  - Les loots qui traînent se dégradent (-1% du stack max) (par exemple si le bois se stack par 100, il perd 1 bois par tour (toutes les 5 minutes)
  - Les ressources qui n'ont pas de node de production sont générées aléatoirement sur la map
+
+## Echelle de temps
+1 TIC c'est à peu près égale à 1h de la vie des pions. Ce n'est pas parfaitement juste, puisque les villes peuvent avoir des naissances etc. tout les "jours" IRL, et 
