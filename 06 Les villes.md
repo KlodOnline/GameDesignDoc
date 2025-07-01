@@ -6,7 +6,6 @@ Les villes définissent l'influence et le territoire des joueurs. Une ville comm
 Le joueur "voit" tout ce qui est dans son territoire +1 case (zone claire sur l'image)
 Lorsqu'une ville dépasse 6.000 habitant, le rayon de cette zone augmente d'une case (=2).
 Lorsqu'une ville dépasse 18.000 habitant, le rayon de cette zone augmente d'une case supplémentaire (=3).
-
 ## Population
 ### Croissance
 A la façon de Civilization 1er du nom, la ville commence avec 1.000 habitants. A chaque tour, elle produira des ressources, de la nourriture...
@@ -27,6 +26,7 @@ Un bâtiment est créé dans une ville, à l'aide de ressources de base plus ou 
 Le calcul de base sera "total des ressources additionnée = NB de TIC", dans un premier temps.
 Chaque bâtiment construit apportera des points de "culture" (militaire, industrie, commerce), et certain auront des pré-requis de points de culture.
 La ville a un nombre de "slots" de bâtiments maximum, en fonction de ces habitants.
+Donc une ville peut à la fois tout faire, et en même temps, non, car elle ne peux pas faire n'importe quel bâtiment, cela dépend de ce qui a été fait par le passé.
 ## Production d'unités
 a ecrire
 ## Garnison
