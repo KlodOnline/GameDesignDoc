@@ -21,9 +21,8 @@ Si le terrain a un "node" spécial, il produit **en plus** de sa production norm
 ## Bâtiments
 Un bâtiment est créé dans une ville, à l'aide de ressources de base plus ou moins importante et pendant plus ou moins longtemps en fonction de ces ressources. 
 Le calcul de base sera "total des ressources additionnée = NB de TIC", dans un premier temps.
-Chaque bâtiment construit apportera des points de "culture" (militaire, industrie, commerce), et certain auront des pré-requis de points de cu
-
-Dans l'interface, les bâtiments que l'on a le droit de produire doivent apparaître
+Chaque bâtiment construit apportera des points de "culture" (militaire, industrie, commerce), et certain auront des pré-requis de points de culture.
+La ville a un nombre de "slots" de bâtiments maximum, en fonction de ces habitants.
 ## Production d'unités
 a ecrire
 ## Garnison
