@@ -14,12 +14,16 @@ Si ces deux conditions sont remplies, la ville prend 1.000 habitants. Sinon, ell
 On ne contrôle pas la population elle se reproduit d'elle même.
 ### Décroissance
 Si la ville n'a pas les stock suffisant pour nourrir tout le monde au tour courant, elle perd 100 habitants. Cela peut être déséquilibré, peut être que cela ne se testera que toutes les heures en fonction des retour joueurs.
-## Production de resources
+## Production de ressources
 En général un terrain produit entre 1 et 3 unités de ressources. 
-1 unité de nourriture nourri 1000hab. sur 1 TIC. Un stack de nourriture c'est 100 unités.
+1 unité de nourriture nourri 1000 hab. sur 1 TIC. Un stack de nourriture c'est 100 unités.
 Si le terrain a un "node" spécial, il produit **en plus** de sa production normale, la production spéciale. Ces nodes ont un stock (en général un stack, à étudier) de ressource qui s'épuise à la production. Les villes spécialisé (ou les ouvriers spécialisés) peuvent vider le stock plus vite que 1/tour.
-## Batiments
-a ecrire
+## Bâtiments
+Un bâtiment est créé dans une ville, à l'aide de ressources de base plus ou moins importante et pendant plus ou moins longtemps en fonction de ces ressources. 
+Le calcul de base sera "total des ressources additionnée = NB de TIC", dans un premier temps.
+
+
+Dans l'interface, les bâtiments que l'on a le droit de produire doivent apparaître
 ## Production d'unités
 a ecrire
 ## Garnison
