@@ -25,8 +25,9 @@ Si le terrain a un "node" spécial, il produit **en plus** de sa production norm
 Un bâtiment est créé dans une ville, à l'aide de ressources de base plus ou moins importante et pendant plus ou moins longtemps en fonction de ces ressources. 
 Le calcul de base sera "total des ressources additionnée = NB de TIC", dans un premier temps.
 Chaque bâtiment construit apportera des points de "culture" (militaire, industrie, commerce), et certain auront des pré-requis de points de culture.
-La ville a un nombre de "slots" de bâtiments maximum, en fonction de ces habitants.
+La ville a un nombre de "slots" de bâtiments maximum, en fonction de ces habitants (1 slot/1000 hab.).
 Donc une ville peut à la fois tout faire, et en même temps, non, car elle ne peux pas faire n'importe quel bâtiment, cela dépend de ce qui a été fait par le passé.
+Les batiments interdit à la construction devraient ne pas apparatre du tout
 ## Production d'unités
 a ecrire
 ## Garnison
