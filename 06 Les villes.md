@@ -4,8 +4,9 @@ ___
 ## Zone d'influence et de production
 Les villes définissent l'influence et le territoire des joueurs. Une ville commence avec un territoire d'un rayon de 1 case et peuvent croître jusqu'à un rayon de 3 (pour le moment, cette valeur pourrait évoluer en fonction des retours utilisateurs)
 Le joueur "voit" tout ce qui est dans son territoire +1 case (zone claire sur l'image)
-Lorsqu'une ville dépasse 6.000 habitant, le rayon de cette zone augmente d'une case (=2.
-Lorsqu'une ville dépasse 18.000 habitant, le rayon de cette zone augmente d'une case supplémentaire.
+Lorsqu'une ville dépasse 6.000 habitant, le rayon de cette zone augmente d'une case (=2).
+Lorsqu'une ville dépasse 18.000 habitant, le rayon de cette zone augmente d'une case supplémentaire (=3).
+
 ## Population
 ### Croissance
 A la façon de Civilization 1er du nom, la ville commence avec 1.000 habitants. A chaque tour, elle produira des ressources, de la nourriture...
@@ -14,6 +15,7 @@ Après que la ville apparaît, au bout de 12 tours :
  - Sil il y a des stock de bois **ou** de pierre suffisant (100), des logements sont naturellement construits (en consommant ces ressources)
 Si ces deux conditions sont remplies, la ville prend 1.000 habitants. Sinon, elle retentera au tour prochain directement. Dès qu'elle croît, elle décale sont prochain test de 12 tours.
 On ne contrôle pas la population elle se reproduit d'elle même.
+A voir pour permettre une croissance infinie. Techniquement, ça me fait envie, mais il faut voir ce que ça donne en jeu.
 ### Décroissance
 Si la ville n'a pas les stock suffisant pour nourrir tout le monde au tour courant, elle perd 100 habitants. Cela peut être déséquilibré, peut être que cela ne se testera que toutes les heures en fonction des retour joueurs.
 ## Production de ressources
