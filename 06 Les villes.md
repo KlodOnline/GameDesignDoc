@@ -4,9 +4,8 @@ ___
 ## Zone d'influence et de production
 Les villes définissent l'influence et le territoire des joueurs. Une ville commence avec un territoire d'un rayon de 1 case et peuvent croître jusqu'à un rayon de 3 (pour le moment, cette valeur pourrait évoluer en fonction des retours utilisateurs)
 Le joueur "voit" tout ce qui est dans son territoire +1 case (zone claire sur l'image)
-Lorsqu'une ville dépasse 6.000 habitant, le rayon de cette zone augmente d'une case .
-Lorsqu'une ville dépasse 18.000 habitant, le rayon de cette zone augmente d'une case.
-
+Lorsqu'une ville dépasse 6.000 habitant, le rayon de cette zone augmente d'une case (=2.
+Lorsqu'une ville dépasse 18.000 habitant, le rayon de cette zone augmente d'une case supplémentaire.
 ## Population
 ### Croissance
 A la façon de Civilization 1er du nom, la ville commence avec 1.000 habitants. A chaque tour, elle produira des ressources, de la nourriture...
