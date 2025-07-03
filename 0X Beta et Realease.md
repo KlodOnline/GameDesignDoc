@@ -40,4 +40,5 @@ Pour considérer la Beta comme finie, il faut les fonctionnalités suivante, san
  - Ajout de nouvelles quêtes divines
 
 ## Fonctionnalités v2.0
- - Un monde qui se voit zoom/dezoome comme Goo
+ - Un monde qui se voit zoom/dezoome comme Google Earth
+ - échelle 1:1 pour le monde; 
