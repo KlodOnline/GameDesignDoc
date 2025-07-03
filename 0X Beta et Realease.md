@@ -41,4 +41,5 @@ Pour considérer la Beta comme finie, il faut les fonctionnalités suivante, san
 
 ## Fonctionnalités v2.0
  - Un monde qui se voit zoom/dezoome comme Google Earth
- - échelle 1:1 pour le monde; 
+ - échelle 1:1 pour le monde; (~ 8000 heures pour faire le tour de l'équateur à pied.)
+ - 
