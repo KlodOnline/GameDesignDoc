@@ -9,22 +9,24 @@ Pour pouvoir commencer à accueillir des joueurs, on voudrait avoir les fonction
  - chat permettant de communiquer, et de linker des coordonnées
  - Exploration et brouillard de guerre fonctionnel
 
+## Fonctionnalités prioritaire de la v1.0
+
 ## Fonctionnalités de la v1.0 (fin de Beta)
 Pour considérer la Beta comme finie, il faut les fonctionnalités suivante, sans bug :
-### Resources
+### Ressources
  - resources qui popent sur la carte et qui sont exploitable
  - inventaire des unités et des villes
  - exploitation des ressources par des unités spécifiques dédiées ou les villes
- - Cout en resource pour les batiments, les unités, les villes
+ - Coût en ressource pour les bâtiments, les unités, les villes
  - échange de stuff entre unités et villes, amies ou non
  - système de loot en cas de mort d'une unité ou d'une ville
 ### Autres
  - Croissance des villes, territoire (frontières) des villes 
  - Création de bâtiments dans les villes, avec les limitations en fonction des bâtiments précédents
- - commerce : échange de stuff verrouillable pour scéller l'accord
+ - commerce : échange de stuff verrouillable pour sceller l'accord
  - Unité qui aménage le territoire (route, irrigation, canaux, raser une forêt....)
- - 
  - terrain qui changent avec le temps (Cf Le Monde/Vie du territoire)
+ - disparition du loot dans le temps
  - diplomatie : pacte de paix, libre circulation, échange de carte, création de "clans" (alliances large à plusieurs joueurs)
  - chat global, chat privé de clan, chat de groupe (canal personnalisé), système de log pour le chat, et traçabilité en cas de plainte IRL
  - modération, système permettant à un Modo ou un Dev de se connecter sans jouer, et accès au chat et au logs du jeu
