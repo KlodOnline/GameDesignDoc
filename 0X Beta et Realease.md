@@ -11,9 +11,13 @@ Pour pouvoir commencer à accueillir des joueurs, on voudrait avoir les fonction
 
 ## Fonctionnalités de la v1.0 (fin de Beta)
 Pour considérer la Beta comme finie, il faut les fonctionnalités suivante, sans bug :
+### Resources
  - inventaire des unités et des villes
- - Croissance des villes, exploitation des ressources par les villes, territoire (frontières) des villes
- - exploitation des ressources par des unités spécifiques dédiées
+ - exploitation des ressources par des unités spécifiques dédiées ou les villes
+ - Cout en resource pour les batiments, les unités, les villes
+ - 
+ - Croissance des villes, territoire (frontières) des villes
+ - 
  - Création des unités dans les villes, avec coût en ressources
  - Création de bâtiments dans les villes, avec les limitations en fonction des bâtiments précédents, et les coûts en ressources
  - échange de stuff entre unités et villes, amies ou non
