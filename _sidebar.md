@@ -5,3 +5,5 @@
  - [04 Les ressources](04%20Les%20ressources.md)
  - [05 Les unités](05%20Les%20unités.md)
  - [06 Les villes](06%20Les%20villes.md)
+
+ - [0X Beta et Release](0X%20Beta%20et%20Realease.md)

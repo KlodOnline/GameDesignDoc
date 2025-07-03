@@ -9,31 +9,17 @@
         "dimension": 56.91624365482234,
         "children": [
           {
-            "id": "cb88bce7113b93f6",
+            "id": "464c9073ae16a111",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03 Les tours.md",
+                "file": "02 Le Monde.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "03 Les tours"
-            }
-          },
-          {
-            "id": "e43f52d28f7d3831",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "06 Les villes.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "06 Les villes"
+              "title": "02 Le Monde"
             }
           },
           {
@@ -42,12 +28,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04 Les ressources.md",
+                "file": "0X Beta et Realease.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "04 Les ressources"
+              "title": "0X Beta et Realease"
             }
           }
         ],
@@ -249,18 +235,19 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e43f52d28f7d3831",
+  "active": "d76299dc12147093",
   "lastOpenFiles": [
-    "03 Les tours.md",
-    "04 Les ressources.md",
-    "06 Les villes.md",
-    "05 Les unités.md",
-    "01 Gameplay Général.md",
+    "0X Beta et Realease.md",
     "02 Le Monde.md",
     "README.md",
+    "04 Les ressources.md",
+    "_sidebar.md",
+    "06 Les villes.md",
+    "03 Les tours.md",
+    "05 Les unités.md",
+    "01 Gameplay Général.md",
     "media",
     "media/Ville.png",
-    "_sidebar.md",
     "index.html",
     "GDD-KlodOnline/logs/refs/remotes/origin/main",
     "GDD-KlodOnline/refs/remotes/origin/main",

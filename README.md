@@ -11,14 +11,10 @@ Ce document mixte sert à la fois de référence de conception pour le développ
  - [05 Les unités](05%20Les%20unités.md)
  - [06 Les villes](06%20Les%20villes.md)
 
+ - [0X Beta et Release](0X%20Beta%20et%20Realease.md)
+
 ____
 # Point non encore rédigés :
-
-
-### 5. Villes
-  - [[06.1 Fondation et Croissance]]
-  - [[06.2 Spécialisations Culturelles]]
-  - [[06.3 Bâtiments et Talents]]
 
 ### 7. Divinités et missions
 - [[08 Divinités et Missions]]
