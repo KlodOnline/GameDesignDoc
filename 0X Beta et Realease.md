@@ -1,5 +1,6 @@
 # Fonctionnalités
 Ce document décrit toutes les fonctionnalité souhaitées et attendues pour considérer KlodOnline terminé.
+**WORK IN PROGRESS**
 ## Fonctionnalités de la v0.1 (début de Beta)
 Pour pouvoir commencer à accueillir des joueurs, on voudrait avoir les fonctionnalités de jeu suivantes :
  - Déplacement des unités
@@ -9,7 +10,6 @@ Pour pouvoir commencer à accueillir des joueurs, on voudrait avoir les fonction
  - Exploration et brouillard de guerre fonctionnel
 
 ## Fonctionnalités de la v1.0 (fin de Beta)
-**WORK IN PROGRESS**
 Pour considérer la Beta comme finie, il faut les fonctionnalités suivante, sans bug :
  - inventaire des unités et des villes
  - Croissance des villes, exploitation des ressources par les villes, territoire (frontières) des villes
@@ -38,3 +38,6 @@ Pour considérer la Beta comme finie, il faut les fonctionnalités suivante, san
  - permettre le baby-sitting de compte
  - création de monde "flash" avec un TIC à 30 secondes au lieu de 5 minutes
  - Ajout de nouvelles quêtes divines
+
+## Fonctionnalités v2.0
+ - Un monde qui se voit zoom/dezoome comme Goo
