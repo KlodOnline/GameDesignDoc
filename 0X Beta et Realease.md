@@ -20,6 +20,7 @@ Pour considérer la Beta comme finie, il faut les fonctionnalités suivante, san
  - commerce : échange de stuff verrouillable pour scéller l'accord
  - Unité qui aménage le territoire (route, irrigation, canaux, raser une forêt....)
  - système de loot en cas de mort d'une unité ou d'une ville (avec disparition du loot dans le temps)
+ - resources qui popent sur la carte et qui sont exploitable
  - terrain qui changent avec le temps (Cf Le Monde/Vie du territoire)
  - diplomatie : pacte de paix, libre circulation, échange de carte, création de "clans" (alliances large à plusieurs joueurs)
  - chat global, chat privé de clan, chat de groupe (canal personnalisé), système de log pour le chat, et traçabilité en cas de plainte IRL
