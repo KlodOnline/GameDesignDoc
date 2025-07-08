@@ -15,7 +15,7 @@ C'est l'équivalent de la vie des unités. échelle de 0 à 100. Lorsque l'unit�
  - Dans le désert ou la banquise : -1pt/tour
  - Au combat, suivant les dommages subits
  - Si pas de nourriture sur soi : -1pt/tour mais max 50/100 (=on doit chasser, on est en disette, mais on ne meure pas)
- - Trêve nocturne en dehors de ses frontières ou des alliées : -25 points (mais max 1/100, on ne meure pas du mal du pays) 
+ - (éventuellement ?) Trêve nocturne en dehors de ses frontières ou des alliées : -25 points (mais max 1/100, on ne meure pas du mal du pays) (à voir peut être mauvaise idée)
 #### Gain
  - Moral entre 1 et 50 : 
 	 - +1pt/tour partout sauf en banquise ou désert
