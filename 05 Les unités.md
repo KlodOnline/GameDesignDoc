@@ -15,7 +15,7 @@ C'est l'équivalent de la vie des unités. échelle de 0 à 100. Lorsque l'unit�
  - Dans le désert ou la banquise : -1pt/tour
  - Au combat, suivant les dommages subits
  - Si pas de nourriture sur soi : -1pt/tour mais max 50/100 (=on doit chasser, on est en disette, mais on ne meure pas)
- - Trêve nocturne en dehors de ses frontières ou des alliées : -25 points (mais max 1/100, on ne meure pas du mal du pays)
+ - Trêve nocturne en dehors de ses frontières ou des alliées : -25 points (mais max 1/100, on ne meure pas du mal du pays) 
 #### Gain
  - Moral entre 1 et 50 : 
 	 - +1pt/tour partout sauf en banquise ou désert
@@ -24,6 +24,14 @@ C'est l'équivalent de la vie des unités. échelle de 0 à 100. Lorsque l'unit�
 		 - entre 1 et 10 unités de nourriture consommée / tour suivant le type d'unité (échelle : 1000hab=100 nourriture)
  - Première victoire du jour = +25 moral (cap 100) (à voir, si c'est facile à mettre en place ou non)
 
+## Combat
+Les principes de combat sont assez simples. Les unités ont des scores d'attaque et de défense, les terrains ont un score de combat. Le calcul devient :
+	(Score Attaque + Score terrain) - (Score Defense + Score terrain) = Resultat
+Les Attaque/Defense vont de 1 à 5, les bonus du terrain, de -1 à 2. Il peut y avoir des bonus de fortification en cas de combat depuis une ville ou un fortin (+1 à +3 max en fonction du niveau)
+Donc en théorie un Résultat peut être de -10 à +10.
+Un résultat positif signifie une attaque réussie, et le défenseur perd (Résultat)x10 moral.
+Un résultat négatif signifie une attaque échouée, et l'attaquant perd (Résultat)x10 moral.
+Le moral de base est 100. Une unité peux mourir en un combat dans les cas extrêmes.
 ## Mouvement
 Les unités peuvent être groupées en stack, pour ensuite réaliser un déplacement simultané. Sur le jeu, on autorise une stack de 3 unités maximum.
 
@@ -45,14 +53,6 @@ Les unités navales ne peuvent aller sur la terre, sauf les villes qui sont cons
 ## Inventaire
 Les unités disposent d'un inventaire avec une place exprimée en slots, et va de 0 à 6 slots.
 Lorsqu'elle meurent, elles laissent sur place un loot, qui se degrade avec le temps.
-## Combat
-Les principes de combat sont assez simples. Les unités ont des scores d'attaque et de défense, les terrains ont un score de combat. Le calcul devient :
-	(Score Attaque + Score terrain) - (Score Defense + Score terrain) = Resultat
-Les Attaque/Defense vont de 1 à 5, les bonus du terrain, de -1 à 2. Il peut y avoir des bonus de fortification en cas de combat depuis une ville ou un fortin (+1 à +3 max en fonction du niveau)
-Donc en théorie un Résultat peut être de -10 à +10.
-Un résultat positif signifie une attaque réussie, et le défenseur perd (Résultat)x10 moral.
-Un résultat négatif signifie une attaque échouée, et l'attaquant perd (Résultat)x10 moral.
-Le moral de base est 100. Une unité peux mourir en un combat dans les cas extrêmes.
 ## FOV
 Le **_FOV_** c'est le "field of view". C'est le nombre de cases (rayon) que voit une unité. Il y a un score en fonction de l'unité, puis un bonus en fonction du terrain. Valeurs classiques :
  - Unités de base : 1
