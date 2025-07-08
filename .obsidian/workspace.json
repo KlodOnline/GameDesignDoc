@@ -21,8 +21,23 @@
               "icon": "lucide-file",
               "title": "0X Beta et Realease"
             }
+          },
+          {
+            "id": "311562b7eb5042db",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "05 Les unités.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "05 Les unités"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "bd3cec6ff85b0e35",
@@ -220,16 +235,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "94bc15fa3022beab",
+  "active": "311562b7eb5042db",
   "lastOpenFiles": [
-    "0X Beta et Realease.md",
     "_sidebar.md",
+    "05 Les unités.md",
+    "0X Beta et Realease.md",
     "02 Le Monde.md",
     "README.md",
     "04 Les ressources.md",
     "06 Les villes.md",
     "03 Les tours.md",
-    "05 Les unités.md",
     "01 Gameplay Général.md",
     "media",
     "media/Ville.png",

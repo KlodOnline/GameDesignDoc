@@ -8,11 +8,21 @@ Il existe différent type d'unités. Elle sont de différentes catégories :
  - Ouvrière
  - Navale
 
-## Moral
-Le moral est la valeur de "vie" des unités. Elle peut en perdre :
- - au combat
- - lorsqu'elle est en dehors des frontières du royaume ou de ses alliés. (perte de 5 points si elle est en dehors des frontières après 22h00, à la trêve du soir)
- - Lorsqu'elle est en terrain difficile (perte de 1 points par tour sur le terrain difficile (désert/banquise).
+## Moral des unités
+C'est l'équivalent de la vie des unités. échelle de 0 à 100. Lorsque l'unité tombe à 0 elle disparait.
+### Conditions
+#### Perte
+ - Dans le désert ou la banquise : -1pt/tour
+ - Au combat, suivant les dommages subits
+ - Si pas de nourriture sur soi : -1pt/tour mais max 50/100 (=on doit chasser, on est en disette, mais on ne meure pas)
+ - Trêve nocturne en dehors de ses frontières ou des alliées : -25 points (mais max 1/100, on ne meure pas du mal du pays)
+#### Gain
+ - Moral entre 1 et 50 : 
+	 - +1pt/tour partout sauf en banquise ou désert
+ - Moral entre 50 et 100 : 
+	 - +1pt/tour si nourriture dans l'inventaire, ou dans une ville qui a de la nourriture en stock
+		 - entre 1 et 10 unités de nourriture consommée / tour suivant le type d'unité (échelle : 1000hab=100 nourriture)
+ - Première victoire du jour = +25 moral (cap 100) (à voir, si c'est facile à mettre en place ou non)
 
 ## Mouvement
 Les unités peuvent être groupées en stack, pour ensuite réaliser un déplacement simultané. Sur le jeu, on autorise une stack de 3 unités maximum.
