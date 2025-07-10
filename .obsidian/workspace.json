@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00 Roadmap.md",
+                "file": "07 Les missions.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "00 Roadmap"
+              "title": "07 Les missions"
             }
           },
           {
@@ -49,8 +49,23 @@
               "icon": "lucide-file",
               "title": "01 Gameplay Général"
             }
+          },
+          {
+            "id": "94cd8c01ed7699d4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "08 Liens.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "08 Liens"
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       },
       {
         "id": "bd3cec6ff85b0e35",
@@ -248,12 +263,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "464c9073ae16a111",
+  "active": "d76299dc12147093",
   "lastOpenFiles": [
-    "07 Les missions.md",
-    "00 Roadmap.md",
     "_sidebar.md",
     "README.md",
+    "08 Liens.md",
+    "07 Les missions.md",
+    "00 Roadmap.md",
     "05 Les unités.md",
     "06 Les villes.md",
     "02 Le Monde.md",
@@ -285,7 +301,6 @@
     "07 - Jeu par tours/07 Jeu par Tours.md",
     "06 - Villes/06.3 Bâtiments et Talents.md",
     "06 - Villes/06.2 Spécialisations Culturelles.md",
-    "06 - Villes/06.1 Fondation et Croissance.md",
-    "05 - Unités/05.3 Combat et Initiative.md"
+    "06 - Villes/06.1 Fondation et Croissance.md"
   ]
 }

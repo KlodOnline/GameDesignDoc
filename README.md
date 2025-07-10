@@ -12,18 +12,9 @@ Ce document mixte sert à la fois de référence de conception pour le développ
  - [05 Les unités](05%20Les%20unités.md)
  - [06 Les villes](06%20Les%20villes.md)
  - [07 Les missions](07%20Les%20missions.md)
-
-____
-# Point non encore rédigés :
-
-### 7. Divinités et missions
-- [[08 Divinités et Missions]]
-  - [[08.1 Système de Foi]]
-  - [[08.2 Missions Dynamiques]]
-
+ - [08 Liens](08%20Liens)
 
 ---
-
 ## Contact
 
 Pour toute contribution ou question, ça se passe sur le [Discord](https://discord.gg/UcyS3enr)!
