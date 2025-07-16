@@ -31,14 +31,10 @@
             "id": "443c3e195975e380",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "API.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "API"
+              "title": "New tab"
             }
           }
         ]
@@ -189,14 +185,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "443c3e195975e380",
+  "active": "4e4bb391040bccf8",
   "lastOpenFiles": [
+    "09 Liens.md",
+    "02 Le Monde.md",
+    "00 Roadmap.md",
     "Gameplay.md",
     "API.md",
     "04 Les ressources.md",
     "README.md",
     "_sidebar.md",
-    "00 Roadmap.md",
     "Villes.md",
     "Unités.md",
     "Tours.md",
@@ -206,13 +204,11 @@
     "Liens.md",
     "Ressources.md",
     "Monde.md",
-    "02 Le Monde.md",
     "03 Les tours.md",
     "05 Les unités.md",
     "06 Les villes.md",
     "07 Les missions.md",
     "08 Les appels API.md",
-    "09 Liens.md",
     "media",
     "media/Ville.png",
     "index.html",
