@@ -28,10 +28,12 @@ Enfin, `request_manager.php` cuisine la réponse. Il utilise pour ça tout ce qu
 ```
 Certains de ces _handlers_ sont sans doute rationnalisable ou obsolète. La réponse cuisinée retourne ensuite dans l'autre sens au GUI. Lors de la cuisine, on utilise `Board` pour manipuler les objets du jeu, mettre à jour des collection etc. De plus `Board` gère de façon assez proche la BDD via `BDDObjectManager` qui doit à terme permettre des requêtes très précise pour économiser du temps d'accès BDD.
 ### Cas d'un ordre envoyé du joueur au jeu (écriture)
+#### Côté GUI
 Bien sûr, un ordre utilise la même route qu'une requête "simple", sauf qu'il y a un peu plus de formatage en amont et de contrôle intermédiaire. Le handler utilisé par `request_manager.php`est `handleSetOrder`. Lorsque le joueur clique sur un élément de l'interface (par exemple pour recruter une unité `city-panel.js:93-111` ou pour valider un déplacement `selection.js:427-433`), l'ordre est  :
  - formaté et modélisé via `OrderFactory.createFromGUI([IDs], 'NOM', jsonData)`. On doit donc connaitre l'ID des objets concernés, l'ordre qu'on veut donner, et les data qui permettent de le réaliser.
- - envoyé au frontend PHP via `OrderAPI.sendOrder(order)
-Il suite ensuite le chemin normal, jusqu'à la `request_manager.php` (on est encore dans le front, techniquement) qui fait sa factory, mais en PHP  `OrderFactory::createOrder` (il faut donc définir l'ordre aussi dans la factory en PHP, qui elle en plus contient les résolutions par le moteur de jeu), et qui si l'ordre à un défaut quelconque ne créé rien. Puis si tout s'est bien passé, sauvegarde.
+ - envoyé au backend PHP via `OrderAPI.sendOrder(order)
+#### Côté backend
+Il suite ensuite le chemin normal, jusqu'à la `request_manager.php` qui fait sa factory, mais en PHP  `OrderFactory::createOrder` (il faut donc définir l'ordre aussi dans la factory en PHP, qui elle en plus contient les résolutions par le moteur de jeu), et qui si l'ordre à un défaut quelconque ne créé rien. Puis si tout s'est bien passé, sauvegarde.
 ### Cas de requête d'un ordre par le joueur  (lecture)
 
 
