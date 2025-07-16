@@ -9,6 +9,7 @@ L'objectif est qu'il existe dans le javascript différentes script `EXAMPLE-api.
 Ensuite, `client-io.js` formate la requête avec les paramètres `T` (type, soit _CITY_INFO_, _GET_ORDER_, etc.) et `M` (message, soit quelque chose comme _BUILD_UNIT-32,21_). La requête est envoyée en **POST** à `game_api.php` en **AJAX**. En cas de timeout, il redemande une fois après 300ms d'attente, et renvoie la réponse à qui le lui a demandé.
 #### 3. API php
 Le point d'entrée `game_api.php` va permettre de vérifier l'authentification, filtrer le POST et la gestion de la compression, etc. Il _devrait_ aussi être l'antispam, pour le moment cela est dans le script suivant `request_manager.php`, à qui il passe les requêtes pour ensuite en renvoyer la réponse à l'écran.
+L'antiSpam de `request_manager.php` rejette les requêtes trop rapides (< 50ms) avec une réponse `nope: true`.
 #### 4. Backend
 Enfin, `request_manager.php` cuisine la réponse. Il utilise pour ça tout ce que l'on trouve dans `common/` et en particulier `board.php` qui est le super objet permettant d'aller chercher ou mettre à jour les infos en BDD, et qui dispose de son propre système de cache. `request_manager.php`  a donc le droit de lire et d'écrire et doit faire attention aux accès concomitants. Il dispose de différents _handlers_, comme (16/07/2025) :
 ```php
@@ -36,32 +37,8 @@ Bien sûr, un ordre utilise la même route qu'une requête "simple", sauf qu'il 
 Il suite ensuite le chemin normal, jusqu'à la `request_manager.php` qui fait sa factory, mais en PHP  `OrderFactory::createOrder` (il faut donc définir l'ordre aussi dans la factory en PHP, qui elle en plus contient les résolutions par le moteur de jeu), et qui si l'ordre à un défaut quelconque ne créé rien. Puis si tout s'est bien passé, sauvegarde.
 ### Cas de requête d'un ordre par le joueur  (lecture)
 C'est beaucoup plus simple. Après `handleGetOrder` qui ne dit finalement que l'id de la chose dont on veut avoir les ordres (_ville_, _unité_...) et l'ordre est ainsi retrouvé par son acteur. Un acteur n'ayant qu'un ordre possible en BDD (pour les chaînage d'ordre il y aura des astuces). `handleGetOrder` renvoie ensuite un tableau `tokens` des infos de l'acteur et de son ordre, pour que le _GUI_ sache "ranger tout ça".
+Chaque élement du gui dispose de sa façon de présenter l'ordre, mais tous passent par la factory `order-factory.js` qui créé l'objet via `OrderFactory.createFromServer([IDs], orderToken)`.
 
 Il est prévu un concept d'ordre "groupés" pour plusieurs unités, mais ce n'est pas encore clairement modélisé.
-
-______________
-# génération deepwiki à relire :
-
-**2. Création de la requête (ClientIO)**  
-L'action déclenche un appel via `ClientIO.ask_data()` qui formate la requête avec les paramètres `T` (type) et `M` (message) client-io.js:32-35 . La requête est envoyée en POST vers `game_api.php` client-io.js:59-63 .
-
-**3. Traitement serveur (RequestManager)**  
-Le `RequestManager` reçoit la requête et la route vers le bon handler selon le type request_manager.php:70-82 . Il charge les données du joueur si nécessaire request_manager.php:145-157 .
-
-**4. Manipulation des données (Board)**  
-Le handler utilise l'objet `Board` pour manipuler les données de jeu. Par exemple, pour un ordre, il crée l'objet via `OrderFactory` puis l'ajoute aux collections via `updateCollection()` request_manager.php:427-445 .
-
-**5. Sauvegarde en base (BDDObjectManager)**  
-La méthode `saveBoardCollection()` du `RequestManager` déclenche la sauvegarde request_manager.php:167-175 . Le `Board` utilise `saveCollection()` pour persister les changements board.php:420-430 .
-
-**6. Exécution SQL**  
-Le `BDDObjectManager` génère et exécute les requêtes SQL d'insertion/mise à jour bdd_object_manager.php:254-264 via la couche `bdd_io` qui gère la connexion MySQL bdd_io.php:45-49 .
-
-
-### Protection anti-spam
-
-Le système inclut une protection qui rejette les requêtes trop rapides (< 50ms) avec une réponse `nope: true` request_manager.php:52-58 , déclenchant un retry automatique côté client client-io.js:72-84 .
-
-## Notes
-
-Le système utilise un pattern de collections avec cache pour optimiser les performances. Les données passent par plusieurs couches d'abstraction (Board → BDDObjectManager → bdd_io) avant d'atteindre MySQL. Le `RequestManager` agit comme contrôleur principal orchestrant ce flux.
+___________
+_Cette documentation me permet de mieux comprendre ce que j'ai fait, et cela m'a donné des idées d'optimisation et de simplification, mais le principe général devrait rester très proche_
