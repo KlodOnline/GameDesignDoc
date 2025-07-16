@@ -22,6 +22,26 @@
             }
           }
         ]
+      },
+      {
+        "id": "d634bf03f7bb3bc3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "443c3e195975e380",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "API.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "API"
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -78,8 +98,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "a3b2fed07ece7788",
@@ -170,8 +189,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5fc72636ef7e3018",
+  "active": "443c3e195975e380",
   "lastOpenFiles": [
+    "Gameplay.md",
+    "API.md",
     "04 Les ressources.md",
     "README.md",
     "_sidebar.md",
@@ -183,7 +204,6 @@
     "01 Gameplay Général.md",
     "Missions.md",
     "Liens.md",
-    "Gameplay.md",
     "Ressources.md",
     "Monde.md",
     "02 Le Monde.md",
@@ -191,7 +211,6 @@
     "05 Les unités.md",
     "06 Les villes.md",
     "07 Les missions.md",
-    "API.md",
     "08 Les appels API.md",
     "09 Liens.md",
     "media",
