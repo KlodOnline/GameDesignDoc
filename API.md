@@ -9,7 +9,8 @@ L'objectif est qu'il existe dans le javascript différentes script `EXAMPLE-api.
 Ensuite, `client-io.js` demande à `game_api.php` en AJAX ce qu'il faut, après avoir formaté sa requête (_CITY_INFO_, _GET_ORDER_, etc.). En cas de timeout, il redemande une fois après 300ms d'attente, et renvoie la réponse à qui le lui a demandé.
 #### 3. API php
 Le point d'entrée `game_api.php` va permettre de vérifier l'authentification, filtrer le POST et la gestion de la compression, etc. Il _devrait_ aussi être l'antispam, pour le moment cela est dans le script suivant `request_manager.php`, à qui il passe les requêtes pour ensuite en renvoyer la réponse à l'écran.
-
+#### 4. Backend
+Enfin, `request_manager.php` cuisine la réponse. Il utilise pour ça tout ce que l'on trouve dans `common/` et en particulier `board.php` qui est le super objet permettant d'aller chercher ou mettre à jour les infos en BDD, et qui dispose de son propre système de cache. `request_manager.php`  a donc le droit de lire et d'écrire et doit faire attention aux accès concomitants.
 
 ### Cas d'un ordre envoyé du joueur au jeu
 **1. Clic du joueur (Frontend)**  
