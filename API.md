@@ -2,7 +2,7 @@
 ## Principes
 ### Cas d'une requête simple pour obtenir une donnée
 Il n'existe pas vraiment de "requête simple" et libre permettant au joueur de demander quelque chose d'inattendu côté serveur (c'est peut être une erreur d'ailleurs...).
-Au contraire, chaque information du jeu doit être demandé à travers une requête précise qui est débord répondue avec une logique générique qui sera ensuite optimisée au maximum.
+Au contraire, chaque information du jeu doit être demandé à travers une requête précise qui devrait être optimisée au maximum.
 #### 1. Un module du GUI a besoin d'une info
 L'objectif est qu'il existe dans le javascript différentes script `EXAMPLE-api.js` qui permettent de récupérer des choses précises. (ordres, info sur une unité, une ville, etc.). Parfois il n'y en a pas, mais cela signifie qu'il faut le créer ou l'extraire du code existant. Ce script génère la requêtes proprement et fourni la réponse à qui le lui demande, en passant par `client-io.js`.
 #### 2. AJAX
@@ -10,17 +10,33 @@ Ensuite, `client-io.js` demande à `game_api.php` en AJAX ce qu'il faut, après 
 #### 3. API php
 Le point d'entrée `game_api.php` va permettre de vérifier l'authentification, filtrer le POST et la gestion de la compression, etc. Il _devrait_ aussi être l'antispam, pour le moment cela est dans le script suivant `request_manager.php`, à qui il passe les requêtes pour ensuite en renvoyer la réponse à l'écran.
 #### 4. Backend
-Enfin, `request_manager.php` cuisine la réponse. Il utilise pour ça tout ce que l'on trouve dans `common/` et en particulier `board.php` qui est le super objet permettant d'aller chercher ou mettre à jour les infos en BDD, et qui dispose de son propre système de cache. `request_manager.php`  a donc le droit de lire et d'écrire et doit faire attention aux accès concomitants.
+Enfin, `request_manager.php` cuisine la réponse. Il utilise pour ça tout ce que l'on trouve dans `common/` et en particulier `board.php` qui est le super objet permettant d'aller chercher ou mettre à jour les infos en BDD, et qui dispose de son propre système de cache. `request_manager.php`  a donc le droit de lire et d'écrire et doit faire attention aux accès concomitants. ll dispose de différents _handlers_, comme (au 16/07/2025) :
+```php
+        $handlers = [
+            'UORDERS'      => 'handleGetOrder',
+            'CSELECT'      => 'handleCitySelection',
+            'GET_ORDER'    => 'handleGetOrder',
+            'SET_ORDER'    => 'handleSetOrder',
+            'CANCEL_ORDER' => 'handleCancelOrder',
+            'NEWBIE'       => 'handleNewbie',
+            'SCOPEG'       => 'handleScopeGroundRequest',
+            'SCOPEA'       => 'handleScopeAllRequest',
+            'INIT'         => 'handleInit',
+            'CITY_INFO'    => 'handleDetails',
+            'UNIT_INFO'    => 'handleDetails',
+        ];
+```
+Certains de ces _handlers_ sont sans doute rationnalisable ou obsolète.
+La réponse cuisinée retourne ensuite dans l'autre sens au GUI. 
 
 ### Cas d'un ordre envoyé du joueur au jeu
+Bien sûr, un ordre utilise la même route qu'une requête "simple", sauf qu'il y a un peu plus de formatage et de contrôle intérmédiaire.
 **1. Clic du joueur (Frontend)**  
 Le joueur clique sur un élément de l'interface, par exemple pour recruter une unité dans une ville `city-panel.js:93-111` ou pour valider un ordre d'objet sélectionné `selection.js:427-433`.
 
 L'ordre est alors 
  - formaté et modélisé via `OrderFactory.createFromGUI([IDs], 'NOM', jsonData)`. On doit donc connaitre l'ID des objets concernés, l'ordre qu'on veut donner, et les data qui permettent de le réaliser.
  - envoyé au frontend PHP via `OrderAPI.sendOrder(order)
-
-
 
 ______________
 # génération deepwiki à relire :
