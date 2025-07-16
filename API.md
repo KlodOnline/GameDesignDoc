@@ -37,6 +37,7 @@ Il suite ensuite le chemin normal, jusqu'à la `request_manager.php` qui fait sa
 ### Cas de requête d'un ordre par le joueur  (lecture)
 C'est beaucoup plus simple. Après `handleGetOrder` qui ne dit finalement que l'id de la chose dont on veut avoir les ordres (_ville_, _unité_...) et l'ordre est ainsi retrouvé par son acteur. Un acteur n'ayant qu'un ordre possible en BDD (pour les chaînage d'ordre il y aura des astuces). `handleGetOrder` renvoie ensuite un tableau `tokens` des infos de l'acteur et de son ordre, pour que le _GUI_ sache "ranger tout ça".
 
+Il est prévu un concept d'ordre "groupés" pour plusieurs unités, mais ce n'est pas encore clairement modélisé.
 
 ______________
 # génération deepwiki à relire :
