@@ -4,8 +4,11 @@
 Il n'existe pas vraiment de "requête simple" et libre permettant au joueur de demander quelque chose d'inattendu côté serveur (c'est peut être une erreur d'ailleurs...).
 Au contraire, chaque information du jeu doit être demandé à travers une requête précise qui est débord répondue avec une logique générique qui sera ensuite optimisée au maximum.
 #### 1. Un module du GUI a besoin d'une info
-L'objectif est qu'il existe dans le javascript différentes script `EXAMPLE-api.js` qui permettent de récupérer des choses précises. (ordres, info sur une unité, une ville, etc.). Parfois il n'y en a pas, mais cela signifie qu'il faut le créer. Ce script génère la requêtes proprement et fourni la réponse à qui le lui demande, en passant par `client-io.js`.
-#### 2. 
+L'objectif est qu'il existe dans le javascript différentes script `EXAMPLE-api.js` qui permettent de récupérer des choses précises. (ordres, info sur une unité, une ville, etc.). Parfois il n'y en a pas, mais cela signifie qu'il faut le créer ou l'extraire du code existant. Ce script génère la requêtes proprement et fourni la réponse à qui le lui demande, en passant par `client-io.js`.
+#### 2. AJAX
+Ensuite, `client-io.js` demande à `game_api.php` en AJAX ce qu'il faut, après avoir formaté sa requête (_CITY_INFO_, _GET_ORDER_, etc.). En cas de timeout, il redemande une fois après 300ms d'attente, et renvoie la réponse à qui le lui a demandé.
+#### 3. API php
+Le point d'entrée `game_api.php` va permettre de vérifier l'authentification, filtrer le POST et la gestion de la compression, etc. Il _devrait_ aussi être l'antispam, pour le moment cela est dans le script suivant `request_manager.php`, à qui il passe les requêtes pour ensuite en renvoyer la réponse à l'écran.
 
 
 ### Cas d'un ordre envoyé du joueur au jeu
