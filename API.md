@@ -35,7 +35,7 @@ Bien sûr, un ordre utilise la même route qu'une requête "simple", sauf qu'il 
 #### Côté backend
 Il suite ensuite le chemin normal, jusqu'à la `request_manager.php` qui fait sa factory, mais en PHP  `OrderFactory::createOrder` (il faut donc définir l'ordre aussi dans la factory en PHP, qui elle en plus contient les résolutions par le moteur de jeu), et qui si l'ordre à un défaut quelconque ne créé rien. Puis si tout s'est bien passé, sauvegarde.
 ### Cas de requête d'un ordre par le joueur  (lecture)
-C'est beaucoup plus simple. Après `handleGetOrder`
+C'est beaucoup plus simple. Après `handleGetOrder` qui ne dit finalement que l'id de la chose dont on veut avoir les ordres (_ville_, _unité_...) et l'ordre est identifié 
 
 
 ______________
