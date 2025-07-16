@@ -7,4 +7,5 @@
  - [05 Les unités](05%20Les%20unités.md)
  - [06 Les villes](06%20Les%20villes.md)
  - [07 Les missions](07%20Les%20missions.md)
- - [08 Liens](08%20Liens)
+ - [08 Les appels API](08%20%Les%20appels%20API.md)
+ - [09 Liens](09%20Liens)
