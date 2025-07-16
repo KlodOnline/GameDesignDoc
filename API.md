@@ -5,7 +5,7 @@
 Le joueur clique sur un élément de l'interface, par exemple pour recruter une unité dans une ville `city-panel.js:93-111` ou pour valider un ordre d'objet sélectionné `selection.js:427-433`.
 
 L'ordre est alors 
- - modélisé via `OrderFactory.createFromGUI([IDs], 'NOM', {data_needed_1:data, data_needed_2:data, ...})`. On doit donc connaitre l'ID des objets concernés, l'ordre qu'on veut donner, et les data qui permettent de le réaliser.
+ - modélisé via `OrderFactory.createFromGUI([IDs], 'NOM', jsonData)`. On doit donc connaitre l'ID des objets concernés, l'ordre qu'on veut donner, et les data qui permettent de le réaliser.
  - envoyé au frontend PHP via `OrderAPI.sendOrder(order)
 
 
