@@ -1,5 +1,11 @@
 # Appels API
-## Principe depuis le GUI
+## Principes
+### Cas d'une requête simple pour obtenir une donnée
+Il n'existe pas vraiment de "requête simple" et libre permettant au joueur de demander quelque chose d'inattendu côté serveur (c'est peut être une erreur d'ailleurs...).
+Au contraire, chaque information du jeu doit être demandé à travers une requête précise qui est débord répondue avec une logique générique qui sera ensuite optimisée au maximum.
+#### 1. Le GUI réclame une info
+Il existe dans le javascript différentes script `EXAMPLE-api.js` qui permettent de récupérer des choses précises. (ordres, info sur une unité, une ville, etc.). 
+
 ### Cas d'un ordre envoyé du joueur au jeu
 **1. Clic du joueur (Frontend)**  
 Le joueur clique sur un élément de l'interface, par exemple pour recruter une unité dans une ville `city-panel.js:93-111` ou pour valider un ordre d'objet sélectionné `selection.js:427-433`.
@@ -7,6 +13,7 @@ Le joueur clique sur un élément de l'interface, par exemple pour recruter une 
 L'ordre est alors 
  - formaté et modélisé via `OrderFactory.createFromGUI([IDs], 'NOM', jsonData)`. On doit donc connaitre l'ID des objets concernés, l'ordre qu'on veut donner, et les data qui permettent de le réaliser.
  - envoyé au frontend PHP via `OrderAPI.sendOrder(order)
+
 
 
 ______________
