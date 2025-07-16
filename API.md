@@ -3,8 +3,10 @@
 ### Cas d'une requête simple pour obtenir une donnée
 Il n'existe pas vraiment de "requête simple" et libre permettant au joueur de demander quelque chose d'inattendu côté serveur (c'est peut être une erreur d'ailleurs...).
 Au contraire, chaque information du jeu doit être demandé à travers une requête précise qui est débord répondue avec une logique générique qui sera ensuite optimisée au maximum.
-#### 1. Le GUI réclame une info
-Il existe dans le javascript différentes script `EXAMPLE-api.js` qui permettent de récupérer des choses précises. (ordres, info sur une unité, une ville, etc.). 
+#### 1. Un module du GUI a besoin d'une info
+L'objectif est qu'il existe dans le javascript différentes script `EXAMPLE-api.js` qui permettent de récupérer des choses précises. (ordres, info sur une unité, une ville, etc.). Parfois il n'y en a pas, mais cela signifie qu'il faut le créer. Ce script génère la requêtes proprement et fourni la réponse à qui le lui demande, en passant par `client-io.js`.
+#### 2. 
+
 
 ### Cas d'un ordre envoyé du joueur au jeu
 **1. Clic du joueur (Frontend)**  
