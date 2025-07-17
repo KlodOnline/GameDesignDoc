@@ -33,6 +33,7 @@ Certains de ces _handlers_ sont sans doute rationnalisable ou obsolète. La rép
 Bien sûr, un ordre utilise la même route qu'une requête "simple", sauf qu'il y a un peu plus de formatage en amont et de contrôle intermédiaire. Le handler utilisé par `request_manager.php`est `handleSetOrder`. Lorsque le joueur clique sur un élément de l'interface (par exemple pour recruter une unité `city-panel.js:93-111` ou pour valider un déplacement `selection.js:427-433`), l'ordre est  :
  - formaté et modélisé via `OrderFactory.createFromGUI([IDs], 'NOM', jsonData)`. On doit donc connaitre l'ID des objets concernés, l'ordre qu'on veut donner, et les data qui permettent de le réaliser.
  - envoyé au backend PHP via `OrderAPI.sendOrder(order)
+
 #### Côté backend
 Il suite ensuite le chemin normal, jusqu'à la `request_manager.php` qui fait sa factory, mais en PHP  `OrderFactory::createOrder` (il faut donc définir l'ordre aussi dans la factory en PHP, qui elle en plus contient les résolutions par le moteur de jeu), et qui si l'ordre à un défaut quelconque ne créé rien. Puis si tout s'est bien passé, sauvegarde.
 ### Cas de requête d'un ordre par le joueur  (lecture)
