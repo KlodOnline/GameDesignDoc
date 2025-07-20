@@ -22,22 +22,6 @@
             }
           }
         ]
-      },
-      {
-        "id": "d634bf03f7bb3bc3",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "443c3e195975e380",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
-            }
-          }
-        ]
       }
     ],
     "direction": "vertical"
@@ -94,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "a3b2fed07ece7788",
@@ -185,7 +170,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "443c3e195975e380",
+  "active": "5fc72636ef7e3018",
   "lastOpenFiles": [
     "API.md",
     "09 Liens.md",
