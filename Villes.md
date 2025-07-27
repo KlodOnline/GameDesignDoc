@@ -17,6 +17,11 @@ On peut simplifier avec 0.5/1000 boosté plus ou moins selon les conditions d'es
 
 Et côté mortalité, on peut garder des valeurs similaires, c'est historiquement juste. prévoir 0.3/1000 quand la ville n'est pas en famine, et 0.7/1000 quand il n'y a plus de nourriture en stock....
 
+#### Sinon
+On a 5% de croissance par an. On a 8760 étapes dans cette croissante.
+Donc on calcul 5% de la population, et on divise par 8760 ?
+
+
 ## Production de ressources
 En général un terrain produit entre 1 et 3 unités de ressources. 
 1 unité de nourriture nourri 1000 hab. sur 1 TIC. Un stack de nourriture c'est 100 unités.
