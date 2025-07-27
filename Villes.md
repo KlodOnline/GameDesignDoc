@@ -9,6 +9,7 @@ Lorsqu'une ville dépasse 18.000 habitant, le rayon de cette zone augmente d'une
 ## Population
 ### Croissance
 A la façon de Civilization 1er du nom, la ville commence avec 100 habitants. A chaque tour, elle produira des ressources, de la nourriture...
+A chaque tour, en fonction de l'*Espoir* la ville prend entre -2 et +2 habitants. 
 
 
 

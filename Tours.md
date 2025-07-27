@@ -32,8 +32,8 @@ Les unités qui ont survécus au coût d'entretien sont ensuite traitées
  - Les loots qui traînent se dégradent (-1% du stack max) (par exemple si le bois se stack par 100, il perd 1 bois par tour (toutes les 5 minutes)
  - Les ressources qui n'ont pas de node de production sont générées aléatoirement sur la map
 
-## Echelle de temps/distance (WP)
-définir :
- - échelle de temps pour les unités
- - échelles de temps pour les villes
- - échelle de distance pour les cases
+## Echelle de temps/distance
+Après plusieurs calculs et recherches voici la base de l'échelle :
+ - 1 TIC vaut 1 heure pour le jeu. 24 TICS, une journée. Comme 1 TIC dure 5 minutes IRL, cela signifie qu'une journée IRL de 16h (pour exclure la trêve de nuit de 8h) vaut 32 jours pour le jeu.
+ - L'unité la plus rapide sur une route sur le terrain le plus rapide, progresse sur plusieurs jours en moyenne à 25km/h. Cela donne 1 case/TIC, et comme le TIC vaut une heure, cela signifie que la case fait 25km.
+ 
