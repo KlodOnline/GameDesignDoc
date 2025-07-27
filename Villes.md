@@ -9,7 +9,7 @@ Lorsqu'une ville dépasse 18.000 habitant, le rayon de cette zone augmente d'une
 ## Population
 ### Croissance
 A la façon de Civilization 1er du nom, la ville commence avec 100 habitants. A chaque tour, elle produira des ressources, de la nourriture...
-En période pré-industrielle, on avait ~5 naissances à l'année.
+En période pré-industrielle, on avait ~5% naissances à l'année.
 
 Il faut une **probabilité horaire de 0.057 %** (soit environ **1 chance sur 1 752**) pour obtenir **en moyenne 5 items par an** si un tirage est fait toutes les heures.
 
