@@ -19,7 +19,8 @@ Et côté mortalité, on peut garder des valeurs similaires, c'est historiquemen
 
 #### Sinon
 On a 5% de croissance par an. On a 8760 étapes dans cette croissante.
-Donc on calcul 5% de la population, et on divise par 8760 ?
+Donc on calcul 5% de la population, et on divise par 8760 => on obtient le nombre de naissance par heure. (~0.000570776...)
+Or on veut que parfois cela arrive, et parfois non. a un pourcentage qui donnera au total le bon nombre de naissance...
 
 
 ## Production de ressources
