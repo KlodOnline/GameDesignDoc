@@ -13,7 +13,8 @@ En période pré-industrielle, on avait ~5 naissances à l'année.
 
 Il faut une **probabilité horaire de 0.057 %** (soit environ **1 chance sur 1 752**) pour obtenir **en moyenne 5 items par an** si un tirage est fait toutes les heures.
 
-On voudra
+On peut simplifier avec 0.5/1000 boosté plus ou moins selon les conditions d'espoir dans la ville.
+
 
 
 
@@ -23,6 +24,7 @@ Après que la ville apparaît, au bout de 12 tours :
 Si ces deux conditions sont remplies, la ville prend 1.000 habitants. Sinon, elle retentera au tour prochain directement. Dès qu'elle croît, elle décale sont prochain test de 12 tours.
 On ne contrôle pas la population elle se reproduit d'elle même.
 A voir pour permettre une croissance infinie. Techniquement, ça me fait envie, mais il faut voir ce que ça donne en jeu.
+
 ### Décroissance
 Si la ville n'a pas les stock suffisant pour nourrir tout le monde au tour courant, elle perd 100 habitants. Cela peut être déséquilibré, peut être que cela ne se testera que toutes les heures en fonction des retour joueurs.
 ## Production de ressources
