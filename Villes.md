@@ -8,7 +8,9 @@ Lorsqu'une ville dépasse 6.000 habitant, le rayon de cette zone augmente d'une 
 Lorsqu'une ville dépasse 18.000 habitant, le rayon de cette zone augmente d'une case supplémentaire (=3).
 ## Population
 ### Croissance
-A la façon de Civilization 1er du nom, la ville commence avec 1.000 habitants. A chaque tour, elle produira des ressources, de la nourriture...
+A la façon de Civilization 1er du nom, la ville commence avec 100 habitants. A chaque tour, elle produira des ressources, de la nourriture...
+
+
 Après que la ville apparaît, au bout de 12 tours :
  - Si il y a des stock de nourriture ( de quoi tenir 24h, donc pop/1000x288 ) suffisant, les gens de la ville voient l'avenir radieux, et pensent à avoir des gosses
  - Sil il y a des stock de bois **ou** de pierre suffisant (100), des logements sont naturellement construits (en consommant ces ressources)
