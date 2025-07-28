@@ -8,19 +8,7 @@ Lorsqu'une ville dépasse 6.000 habitant, le rayon de cette zone augmente d'une 
 Lorsqu'une ville dépasse 18.000 habitant, le rayon de cette zone augmente d'une case supplémentaire (=3).
 ## Population
 ### Croissance
-A la façon de Civilization 1er du nom, la ville commence avec 100 habitants. A chaque tour, elle produira des ressources, de la nourriture...
-En période pré-industrielle, on avait ~5% naissances à l'année.
-
-Il faut une **probabilité horaire de 0.057 %** (soit environ **1 chance sur 1 752**) pour obtenir **en moyenne 5 items par an** si un tirage est fait toutes les heures.
-
-On peut simplifier avec 0.5/1000 boosté plus ou moins selon les conditions d'espoir dans la ville, donc entre 0.3 et 0.7 chances...
-
-Et côté mortalité, on peut garder des valeurs similaires, c'est historiquement juste. prévoir 0.3/1000 quand la ville n'est pas en famine, et 0.7/1000 quand il n'y a plus de nourriture en stock....
-
-#### Sinon
-On a 5% de croissance par an. On a 8760 étapes dans cette croissante.
-Donc on calcul 5% de la population, et on divise par 8760 => on obtient le nombre de naissance par heure. (~0.000570776...)
-Or on veut que parfois cela arrive, et parfois non. a un pourcentage qui donnera au total le bon nombre de naissance...
+--- Tout a été revu, il faut maintenant vérifier et justifier l'algo
 
 
 ## Production de ressources
