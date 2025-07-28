@@ -69,4 +69,14 @@ La plupart des unités auront un ordre "camper"/"fortifier" etc. en fonction de 
  - camp fortifié
  - ...
 
+## Look
+prévoir le tour de l'unité en fonction :
+	selectionnée ou non
+	rareté
+	statut diplomatique
+Ou alors :
+	tour unité = selection
+	Border epaisse interne = statut diplo
+	ombre du dessin = rareté
+
 
