@@ -34,6 +34,9 @@ Les unités qui ont survécus au coût d'entretien sont ensuite traitées
 
 ## Echelle de temps/distance
 Après plusieurs calculs et recherches voici la base de l'échelle :
+ - Avec **1 TIC / 5 min**, il y a **192** TICs par jours de jeu (16h, avec la trêve nocturne).
+ - Donc, une journée de jeu vaut **8 jours** dans le jeu
+
  - 1 TIC vaut 1 heure pour le jeu. 24 TICS, une journée. Comme 1 TIC dure 5 minutes IRL, cela signifie qu'une journée IRL de 16h (pour exclure la trêve de nuit de 8h) vaut 32 jours pour le jeu.
  - L'unité la plus rapide sur une route sur le terrain le plus rapide, progresse sur plusieurs jours en moyenne à 25km/h. Cela donne 1 case/TIC, et comme le TIC vaut une heure, cela signifie que la case fait 25km.
  

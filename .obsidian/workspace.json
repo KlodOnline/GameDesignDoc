@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Unités.md",
+                "file": "Villes.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Unités"
+              "title": "Villes"
             }
           }
         ]
@@ -98,7 +98,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "a3b2fed07ece7788",
@@ -189,9 +190,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8f32ea405c921beb",
+  "active": "5fc72636ef7e3018",
   "lastOpenFiles": [
     "Villes.md",
+    "Unités.md",
     "Tours.md",
     "API.md",
     "09 Liens.md",
@@ -201,7 +203,6 @@
     "04 Les ressources.md",
     "README.md",
     "_sidebar.md",
-    "Unités.md",
     "Roadmap.md",
     "01 Gameplay Général.md",
     "Missions.md",
