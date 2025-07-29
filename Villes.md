@@ -8,8 +8,9 @@ Lorsqu'une ville dépasse 6.000 habitant, le rayon de cette zone augmente d'une 
 Lorsqu'une ville dépasse 18.000 habitant, le rayon de cette zone augmente d'une case supplémentaire (=3).
 ## Population
 ### Croissance
---- Tout a été revu, il faut maintenant vérifier et justifier l'algo
-
+La population évolue en fonction de la nourriture disponible et de l’équilibre des ressources. Même si l’équilibre est nul, la population peut encore croître légèrement. En revanche, sans production alimentaire, la population diminue.
+La croissance ralentit naturellement quand la ville devient plus grande, pour refléter les limites d’espace et de ressources. Le temps nécessaire pour **doubler** la population est fixé à environ **16** heures de jeu.
+Ce calcul assure une évolution réaliste et progressive de la population selon les conditions locales, sans croissances trop rapides ou trop brutales.
 
 ### Production de ressources
 En général un terrain produit entre 1 et 3 unités de ressources d'un ou de plusieurs types. 
