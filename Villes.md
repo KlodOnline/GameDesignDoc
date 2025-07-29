@@ -12,9 +12,14 @@ Lorsqu'une ville dépasse 18.000 habitant, le rayon de cette zone augmente d'une
 
 
 ## Production de ressources
-En général un terrain produit entre 1 et 3 unités de ressources. 
+En général un terrain produit entre 1 et 3 unités de ressources d'un ou de plusieurs types. 
 1 unité de nourriture nourri 1000 hab. sur 1 TIC. Un stack de nourriture c'est 100 unités.
+
+On peut exploiter une case tout les 1000 habitants par paliers de 500. Cela signifie qu'entre 0 et 500 habitants on ne peut rien exploiter, entre 500 et 1500, on exploite 1 case, entre 1500 et 2500, 2 cases, etc.
+Cela évite et simplifie la gestion de certains effets de seuils et désynchronise le seuil de zone d'influence et d'exploitation de ressources.
+
 Si le terrain a un "node" spécial, il produit **en plus** de sa production normale, la production spéciale. Ces nodes ont un stock (en général un stack, à étudier) de ressource qui s'épuise à la production. Les villes spécialisé (ou les ouvriers spécialisés) peuvent vider le stock plus vite que 1/tour.
+
 ## Bâtiments
 Un bâtiment est créé dans une ville, à l'aide de ressources de base plus ou moins importante et pendant plus ou moins longtemps en fonction de ces ressources. 
 Le calcul de base sera "total des ressources additionnée = NB de TIC", dans un premier temps.
