@@ -48,3 +48,10 @@ Les autres bases potentielles :
 | 240 sec        | 240                      | 120                       | 15                      | 21 600             | 2,5 ans                    |
 | 300 sec        | 192                      | 96                        | 12                      | 17 280             | 2 ans                      |
 
+| Durée d’un TIC  | 5 tours | 10 tours | 20 tours | 50 tours | 100 tours |
+| --------------- | ------- | -------- | -------- | -------- | --------- |
+| 60 sec (1 min)  | 5 min   | 10 min   | 20 min   | 50 min   | 1h40      |
+| 120 sec (2 min) | 10 min  | 20 min   | 40 min   | 1h40     | 3h20      |
+| 240 sec (4 min) | 20 min  | 40 min   | 1h20     | 3h20     | 6h40      |
+| 300 sec (5 min) | 25 min  | 50 min   | 1h40     | 4h10     | 8h20      |
+
