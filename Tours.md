@@ -38,3 +38,5 @@ Après plusieurs calculs et recherches voici la base de l'échelle :
  - Bien noter que les joueurs on un empant de gameplay de plutôt **8h** = **96 TICs**
  - Donc, une journée IRL vaut **8 jours** dans le jeu (192 TICs/24)
  - **3 mois IRL** font **17.280** TICS, soit **2 ans de vie** dans le jeu.
+
+Les autres bases potentielles :
