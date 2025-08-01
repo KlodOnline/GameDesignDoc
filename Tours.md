@@ -40,3 +40,11 @@ Après plusieurs calculs et recherches voici la base de l'échelle :
  - **3 mois IRL** font **17.280** TICS, soit **2 ans de vie** dans le jeu.
 
 Les autres bases potentielles :
+
+| Durée d’un TIC | TICs / jour de jeu (16h) | Empan joueur (8h) en TICs | Jours de jeu / jour IRL | TICs en 3 mois IRL | Années en jeu (3 mois IRL) |
+| -------------- | ------------------------ | ------------------------- | ----------------------- | ------------------ | -------------------------- |
+| 60 sec         | 960                      | 480                       | 60                      | 86 400             | 10 ans                     |
+| 120 sec        | 480                      | 240                       | 30                      | 43 200             | 5 ans                      |
+| 240 sec        | 240                      | 120                       | 15                      | 21 600             | 2,5 ans                    |
+| 300 sec        | 192                      | 96                        | 12                      | 17 280             | 2 ans                      |
+
