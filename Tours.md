@@ -42,12 +42,13 @@ Après plusieurs calculs et recherches voici la base de l'échelle :
 
 Les autres bases potentielles :
 
-| Durée d’un TIC | TICs / jour de jeu (16h) | Empan joueur (8h) en TICs | Jours de jeu / jour IRL | TICs en 3 mois IRL | Années en jeu (3 mois IRL) |
-| -------------- | ------------------------ | ------------------------- | ----------------------- | ------------------ | -------------------------- |
-| 60 sec         | 960                      | 480                       | 40                      | 86 400             | 10 ans                     |
-| 120 sec        | 480                      | 240                       | 20                      | 43 200             | 5 ans                      |
-| 240 sec        | 240                      | 120                       | 10                      | 21 600             | 2,5 ans                    |
-| 300 sec        | 192                      | 96                        | 8                       | 17 280             | 2 ans                      |
+| TIC sec | TIC/Jour | 16h Jeu | Jours IG pour 1 jour IRL | TIC sur 3 mois IRL | Années IG en 3 mois | Durée IRL d'une saison IG (jours) |
+| ------- | -------- | ------- | ------------------------ | ------------------ | ------------------- | --------------------------------- |
+| 60      | 960      | 480     | 40                       | 86400              | 9,86                | 2,25                              |
+| 120     | 480      | 240     | 20                       | 43200              | 4,93                | 4,5                               |
+| 180     | 320      | 160     | 13,33                    | 28800              | 3,29                | 6,75                              |
+| 240     | 240      | 120     | 10                       | 21600              | 2,47                | 9                                 |
+| 300     | 192      | 96      | 8                        | 17280              | 1,97                | 11,25                             |
 
 | Durée d’un TIC  | 5 tours | 10 tours | 20 tours | 50 tours | 100 tours |
 | --------------- | ------- | -------- | -------- | -------- | --------- |
