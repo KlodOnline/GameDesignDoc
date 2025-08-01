@@ -36,6 +36,7 @@ Les unités qui ont survécus au coût d'entretien sont ensuite traitées
 Après plusieurs calculs et recherches voici la base de l'échelle :
  - Avec **1 TIC / 5 min**, il y a **192** TICs par jours de jeu (16h, avec la trêve nocturne).
  - Bien noter que les joueurs on un empant de gameplay de plutôt **8h** = **96 TICs**
+ - **1 TIC vaut 1 heure** pour le jeu
  - Donc, une journée IRL vaut **8 jours** dans le jeu (192 TICs/24)
  - **3 mois IRL** font **17.280** TICS, soit **2 ans de vie** dans le jeu.
 
@@ -43,10 +44,10 @@ Les autres bases potentielles :
 
 | Durée d’un TIC | TICs / jour de jeu (16h) | Empan joueur (8h) en TICs | Jours de jeu / jour IRL | TICs en 3 mois IRL | Années en jeu (3 mois IRL) |
 | -------------- | ------------------------ | ------------------------- | ----------------------- | ------------------ | -------------------------- |
-| 60 sec         | 960                      | 480                       | 60                      | 86 400             | 10 ans                     |
-| 120 sec        | 480                      | 240                       | 30                      | 43 200             | 5 ans                      |
-| 240 sec        | 240                      | 120                       | 15                      | 21 600             | 2,5 ans                    |
-| 300 sec        | 192                      | 96                        | 12                      | 17 280             | 2 ans                      |
+| 60 sec         | 960                      | 480                       | 40                      | 86 400             | 10 ans                     |
+| 120 sec        | 480                      | 240                       | 20                      | 43 200             | 5 ans                      |
+| 240 sec        | 240                      | 120                       | 10                      | 21 600             | 2,5 ans                    |
+| 300 sec        | 192                      | 96                        | 8                       | 17 280             | 2 ans                      |
 
 | Durée d’un TIC  | 5 tours | 10 tours | 20 tours | 50 tours | 100 tours |
 | --------------- | ------- | -------- | -------- | -------- | --------- |
