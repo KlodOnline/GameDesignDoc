@@ -23,16 +23,19 @@ Toutes personnes souhaitant regarder le stade de développement ou souhaitant pa
 - [ ] échange de stuff entre unités et villes, amies ou non
 - [ ] système de loot en cas de mort d'une unité ou d'une ville
 - [ ] disparition du loot dans le temps
+- [ ] Moral des unités et consommation de ressources
 
 ## Stade BETA
 ### Objectif
-Implémenter et optimiser toutes les fonctionnalités du **Gameplay étendu**. Debugger pour une version **1.0** soignée.
+Implémenter et optimiser toutes les fonctionnalités du **Gameplay étendu**. Debugger pour une version **1.0** soignée. Faire également des équilibrages de règles de jeu.
 ### Déploiement
 Un serveur **KlodWorld** nomme *DEV-Beta* qui utilise la branche **develop** et se met à jour tout les **jours à minuit**, et redémarre le monde si nécessaire.
 ### Diffusion
 Large. Il faut faire connaitre le jeu un maximum, pour permettre des tests de  charge. Récompenser les 50 premiers joueurs d'un abonnement à vie ?
 ### Fonctionnalités à implémenter durant cette phase
 - [ ] diplomatie : pacte de paix, libre circulation, échange de carte, création de "clans" (alliances large à plusieurs joueurs), messagerie
+- [ ] Combats et gestion des combats
+- [ ] Protection débutant de une semaine ou deux
 - [ ] commerce : échange de stuff verrouillable pour sceller l'accord
 - [ ] chat global, chat privé de clan, chat de groupe (canal personnalisé), système de log pour le chat, et traçabilité en cas de plainte IRL
 - [ ] modération, système permettant à un Modo ou un Dev de se connecter sans jouer, et accès au chat et au logs du jeu
