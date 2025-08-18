@@ -28,7 +28,7 @@ Toutes personnes souhaitant regarder le stade de développement ou souhaitant pa
 ### Objectif
 Implémenter et optimiser toutes les fonctionnalités du **Gameplay étendu**. Debugger pour une version **1.0** soignée.
 ### Déploiement
-Un serveur **KlodWorld** nomme *DEV-Beta* qui utilise la branche **main** et se met à jour tout les **jours à minuit**, et redémarre le monde si nécessaire.
+Un serveur **KlodWorld** nomme *DEV-Beta* qui utilise la branche **develop** et se met à jour tout les **jours à minuit**, et redémarre le monde si nécessaire.
 ### Diffusion
 Large. Il faut faire connaitre le jeu un maximum, pour permettre des tests de  charge. Récompenser les 50 premiers joueurs d'un abonnement à vie ?
 ### Fonctionnalités à implémenter durant cette phase
@@ -55,13 +55,14 @@ Grand public. Tenter d'atteindre JDG le meilleur ambassadeur de la stratégie et
 
 ## Version 1.0++
 ### Objectif
-Ajouter des nouvelles fonctionnalités utiles ou agréables.
+Ajouter des nouvelles fonctionnalités utiles ou agréables. Lorsqu'une fonctionnalité est testée validée etc. elle peux passer sur la branche **main**, ce qui met à jour les serveurs de jeu.
 ### Déploiement
-Un serveur **KlodWorld** nomme *DEV-Beta* qui utilise la branche **main** et se met à jour tout les **jours à minuit**, et redémarre le monde si nécessaire. Il ne reset pas mais n'est accessible qu'au abonnés.
+Un serveur **KlodWorld** nomme *DEV-Beta* qui utilise la branche **develop** et se met à jour tout les **jours à minuit**, et redémarre le monde si nécessaire. Il ne reset pas mais n'est accessible qu'au abonnés.
 ### Fonctionnalités à implémenter durant cette phase
  - Barre de progression des ordre en court "frise du temps"
  - permettre le changement de nom d'unités ou de ville (avec contrôle du modo)
  - permettre un look différent d'unité et de ville dans des style globalement historiques (antiquité européenne, inca, asiatique, orient, etc.)
+ - permettre la gestion des saisons (climat) d'une semaine
  - permettre un chaînage des ordres
  - permettre le baby-sitting de compte
  - création de monde "flash" avec un TIC à 30 secondes au lieu de 5 minutes
