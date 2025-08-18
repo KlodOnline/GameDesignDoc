@@ -11,23 +11,19 @@ Toutes personnes souhaitant regarder le stade de développement ou souhaitant pa
 - [x] Déplacement des unités 
 - [x] Ville qui permettent de créer des unités
 - [x] chat permettant de communiquer, et de linker des coordonnées
+- [x] Exploration et brouillard de guerre fonctionnel
+- [x] Croissance des villes, territoire (frontières) des villes 
+- [ ] Unité qui aménage le territoire (route, irrigation, canaux, raser une forêt....)
 - [ ] Ordre d'unités de "transformation" de l'unité, comme "fortification", "tour d'observation", etc. 
+- [ ] Création de bâtiments dans les villes, avec les limitations en fonction des bâtiments précédents
+- [ ] ressources qui popent sur la carte et qui sont exploitable
+- [ ] inventaire des unités et des villes
+- [ ] Coût en ressource pour les bâtiments, les unités, les villes
+- [ ] exploitation des ressources par des unités spécifiques dédiées ou les villes
+- [ ] échange de stuff entre unités et villes, amies ou non
+- [ ] système de loot en cas de mort d'une unité ou d'une ville
+- [ ] disparition du loot dans le temps
 
- - 
- - 
- - Exploration et brouillard de guerre fonctionnel
- - ressources qui popent sur la carte et qui sont exploitable
- - inventaire des unités et des villes
- - exploitation des ressources par des unités spécifiques dédiées ou les villes
- - Coût en ressource pour les bâtiments, les unités, les villes
- - échange de stuff entre unités et villes, amies ou non
- - système de loot en cas de mort d'une unité ou d'une ville
- - Croissance des villes, territoire (frontières) des villes 
- - Croissance des villes, territoire (frontières) des villes 
- - Création de bâtiments dans les villes, avec les limitations en fonction des bâtiments précédents
- - Unité qui aménage le territoire (route, irrigation, canaux, raser une forêt....)
- - terrain qui changent avec le temps (Cf Le Monde/Vie du territoire)
- - disparition du loot dans le temps
 ## Stade BETA
 ### Objectif
 Implémenter et optimiser toutes les fonctionnalités du **Gameplay étendu**. Debugger pour une version **1.0** soignée.
@@ -36,13 +32,15 @@ Un serveur **KlodWorld** nomme *DEV-Beta* qui utilise la branche **main** et se 
 ### Diffusion
 Large. Il faut faire connaitre le jeu un maximum, pour permettre des tests de  charge. Récompenser les 50 premiers joueurs d'un abonnement à vie ?
 ### Fonctionnalités à implémenter durant cette phase
- - diplomatie : pacte de paix, libre circulation, échange de carte, création de "clans" (alliances large à plusieurs joueurs), messagerie
- - commerce : échange de stuff verrouillable pour sceller l'accord
- - chat global, chat privé de clan, chat de groupe (canal personnalisé), système de log pour le chat, et traçabilité en cas de plainte IRL
- - modération, système permettant à un Modo ou un Dev de se connecter sans jouer, et accès au chat et au logs du jeu
- - vie et mort des Empire; ajouter le système permettant à l'empire de vieillir et devenir barbare en cas d'abandon de jeu du joueur
- - Missions divine et tableau d'honneur, leaderboard par joueur, par ville, par clan
- - trêve de la nuit
+- [ ] diplomatie : pacte de paix, libre circulation, échange de carte, création de "clans" (alliances large à plusieurs joueurs), messagerie
+- [ ] commerce : échange de stuff verrouillable pour sceller l'accord
+- [ ] chat global, chat privé de clan, chat de groupe (canal personnalisé), système de log pour le chat, et traçabilité en cas de plainte IRL
+- [ ] modération, système permettant à un Modo ou un Dev de se connecter sans jouer, et accès au chat et au logs du jeu
+- [ ] vie et mort des Empire; ajouter le système permettant à l'empire de vieillir et devenir barbare en cas d'abandon de jeu du joueur
+- [ ] terrain qui changent avec le temps (Cf Le Monde/Vie du territoire)
+- [ ] Missions divine et tableau d'honneur, leaderboard par joueur, par ville, par clan
+- [ ] trêve de la nuit
+
 ## Version 1.0
 ### Objectif
 Code debuggé, minifié, sécurisé, légalisé, fonctionnel.
@@ -54,6 +52,7 @@ Grand public. Tenter d'atteindre JDG le meilleur ambassadeur de la stratégie et
 ### Fonctionnalités à implémenter durant cette phase
  - Monde de Demo qui reset tout les 1er de chaque mois : automatisation du process.
  - Monde permanent 1 "Maximus"
+
 ## Version 1.0++
 ### Objectif
 Ajouter des nouvelles fonctionnalités utiles ou agréables.
@@ -67,6 +66,7 @@ Un serveur **KlodWorld** nomme *DEV-Beta* qui utilise la branche **main** et se 
  - permettre le baby-sitting de compte
  - création de monde "flash" avec un TIC à 30 secondes au lieu de 5 minutes
  - Ajout de nouvelles quêtes divines
+
 ## Version 2.0
 ### Fonctionnalités à implémenter durant cette phase
  - Un monde qui se voit zoom/dezoome comme Google Earth
