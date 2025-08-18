@@ -1,6 +1,57 @@
+# Roadmap de développement
+ALPHA → BETA → 1.0
+
+## Stade ALPHA
+
+Branche Git : develop
+
+Objectif : jeu en ligne avec PULL AUTO à chaque merge
+
+Fréquence : toutes les minutes
+
+Fonctionnalité : il faut un mécanisme pour prévenir via le chat (TCHAT) les joueurs des changements
+
+Marketing :
+
+Le site web doit pouvoir prévenir les joueurs même si les données sont de test (DEV)
+
+Tout le monde peut créer des comptes et jouer
+
+## Stade BETA
+
+Branche Git : develop
+
+Objectif : toutes les fonctionnalités de la version 1.0 sont en place
+
+Notes : version ni optimisée, ni déboguée
+
+PULL AUTO : toutes les mises à jour sont appliquées quotidiennement
+
+Marketing : commencer à large diffusion
+
+Version fixe avec toutes les fonctionnalités OR + Debug
+
+Acceptation de PULL AUTO tous les dimanches à minuit
+
+## Version 1.0
+
+Branche Git : main
+
+Version finale avec toutes les fonctionnalités
+
+Acceptation de debug encore possible
+
+PULL AUTO : mise à jour automatique tous les dimanches
+
+Code minifié et sécurisé
+
+Conforme aux besoins légaux (sécurité, loi)
+
 # Fonctionnalités
 Ce document décrit toutes les fonctionnalité souhaitées et attendues pour considérer KlodOnline terminé.
-**WORK IN PROGRESS**
+
+## Version Alpha 
+
 ## Fonctionnalités de la v0.1 (début de Beta)
 Pour pouvoir commencer à accueillir des joueurs, on voudrait avoir les fonctionnalités de jeu suivantes :
  - Déplacement des unités
