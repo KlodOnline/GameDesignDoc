@@ -6,7 +6,7 @@ Implémenter toutes les fonctionnalités du **Gameplay de base** de Klod Online,
 ### Déploiement
 Un serveur **KlodWorld** nomme *DEV-Alpha* qui utilise la branche **develop** et se met à jour toutes les **5 minutes**, et redémarre le monde si nécessaire.
 ### Diffusion
-Toutes personnes souhaitant regarder le stade de développement ou souhaitant participer au debug sont libre de s'inscrire, mais doivent être clairement averti que le jeu n'est pas jouable. Cependant on ne fait pas de pub en ligne pour le moment.
+Toutes personnes souhaitant regarder le stade de développement ou souhaitant participer au debug sont libre de s'inscrire, mais doivent être clairement averti que le jeu n'est pas jouable. On ne fait pas vraiment de pub en ligne pour le moment - ou très peu.
 ### Fonctionnalités à implémenter durant cette phase
 - [x] Déplacement des unités 
 - [x] Ville qui permettent de créer des unités

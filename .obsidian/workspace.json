@@ -40,21 +40,8 @@
               "icon": "lucide-file",
               "title": "Gameplay"
             }
-          },
-          {
-            "id": "f622aeeac10e323f",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.9.10"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.9.10"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -203,7 +190,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f622aeeac10e323f",
+  "active": "8f32ea405c921beb",
   "lastOpenFiles": [
     "Roadmap.md",
     "Ressources.md",
