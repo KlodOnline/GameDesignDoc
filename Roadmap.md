@@ -13,13 +13,13 @@ Toutes personnes souhaitant regarder le stade de développement ou souhaitant pa
 - [x] chat permettant de communiquer, et de linker des coordonnées
 - [x] Exploration et brouillard de guerre fonctionnel
 - [x] Croissance des villes, territoire (frontières) des villes 
-- [ ] Unité qui aménage le territoire (route, irrigation, canaux, raser une forêt....)
-- [ ] Ordre d'unités de "transformation" de l'unité, comme "fortification", "tour d'observation", etc. 
-- [ ] Création de bâtiments dans les villes, avec les limitations en fonction des bâtiments précédents
-- [ ] ressources qui popent sur la carte et qui sont exploitable
 - [ ] inventaire des unités et des villes
-- [ ] Coût en ressource pour les bâtiments, les unités, les villes
+- [ ] ressources qui popent sur la carte et qui sont exploitable
 - [ ] exploitation des ressources par des unités spécifiques dédiées ou les villes
+- [ ] Coût en ressource pour les bâtiments, les unités, les villes
+- [ ] Création de bâtiments dans les villes, avec les limitations en fonction des bâtiments précédents
+- [ ] Ordre d'unités de "transformation" de l'unité, comme "fortification", "tour d'observation", etc. 
+- [ ] Unité qui aménage le territoire (route, irrigation, canaux, raser une forêt....)
 - [ ] échange de stuff entre unités et villes, amies ou non
 - [ ] système de loot en cas de mort d'une unité ou d'une ville
 - [ ] disparition du loot dans le temps
