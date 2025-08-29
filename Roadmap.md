@@ -51,8 +51,10 @@ Large. Il faut faire connaitre le jeu un maximum, pour permettre des tests de  c
 ### Objectif
 Code debuggé, minifié, sécurisé, légalisé, fonctionnel.
 ### Déploiement
-Un serveur **KlodWorld** de démo nommé *Lucius* qui utilise la branche **main** et se met à jour tout les **dimanches à minuit**, et redémarre le monde si nécessaire. Il reset sa BDD tout les mois.
-Un serveur **KlodWorld** payant nommé *Maximus* qui utilise la branche **main** et se met à jour tout les **dimanches à minuit**, et redémarre le monde si nécessaire.
+Un serveur **KlodWorld** payant nommé *Maximus* qui utilise la branche **main** et se met à jour tout les **dimanches à minuit**, et redémarre le monde si nécessaire. 
+Les joueurs disposent d'**un mois gratuit** le temps de découvrir le jeu (dont 2 semaines protection débutants), puis ils doivent s'abonner pour continuer.
+Si le serveur est plein, il faudra créer d'autres serveurs **EU**.
+
 ### Diffusion
 Grand public. Tenter d'atteindre JDG le meilleur ambassadeur de la stratégie et des MMO ;-)
 ### Fonctionnalités à implémenter durant cette phase
