@@ -1,7 +1,7 @@
 ______
 # Klod Online — Game Design Document (GDD)
 
-Bienvenue dans le Game Design Document de **Klod Online**.  
+Bienvenue dans le Game Design Document de [Klod Online](https://www.klod-online.com)
 Ce document mixte sert à la fois de référence de conception pour le développement et de base future pour le wiki public à destination des joueurs.
 ## Table des matières
 1. [Roadmap](Roadmap.md)
