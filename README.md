@@ -3,6 +3,8 @@ ______
 
 Bienvenue dans le Game Design Document de [Klod Online](https://www.klod-online.com)
 Ce document mixte sert à la fois de référence de conception pour le développement et de base future pour le wiki public à destination des joueurs.
+## Contact
+Pour toute contribution ou question, ça se passe sur le [Discord](https://discord.gg/UcyS3enr)!
 ## Table des matières
 1. [Roadmap](Roadmap.md)
 2. [Gameplay](Gameplay.md)
@@ -14,8 +16,3 @@ Ce document mixte sert à la fois de référence de conception pour le développ
 8. [Missions](Missions.md)
 9. [API](API.md)
 10. [Liens](Liens.md)
-
----
-## Contact
-
-Pour toute contribution ou question, ça se passe sur le [Discord](https://discord.gg/UcyS3enr)!
