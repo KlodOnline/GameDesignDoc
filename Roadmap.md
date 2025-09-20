@@ -70,6 +70,11 @@ Grand public. Tenter d'atteindre JDG le meilleur ambassadeur de la stratégie et
 ## Version 1.0++
 ### Objectif
 Ajouter des nouvelles fonctionnalités utiles ou agréables. Lorsqu'une fonctionnalité est testée validée etc. elle peux passer sur la branche **main**, ce qui met à jour les serveurs de jeu.
+#### Objectif secondaire
+Avoir des abonnés. L'argent permettrait : 
+ - de faire de ce loisir un travail à temps plein et de nourrir la famille
+ - d'embaucher des graphistes et musiciens et de se débarrasser de l'IA
+ - d'avoir une entreprise et de lancer d'autres projets (MaenaSola, Black Sails, DragonsRun, Buhurt Beat them all, etc.)
 ### Déploiement
 Un serveur **KlodWorld** nomme *DEV-Beta* qui utilise la branche **develop** et se met à jour tout les **jours à minuit**, et redémarre le monde si nécessaire. Il ne reset pas mais n'est accessible qu'au abonnés.
 ### Fonctionnalités à implémenter durant cette phase
