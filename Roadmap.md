@@ -75,8 +75,9 @@ Avoir des abonnés. L'argent permettrait :
  - de faire de ce loisir un travail à temps plein et de nourrir la famille
  - d'embaucher des graphistes et musiciens et de se débarrasser de l'IA
  - d'avoir une entreprise et de lancer d'autres projets (MaenaSola, Black Sails, DragonsRun, Buhurt Beat them all, etc.)
+
 ### Déploiement
-Un serveur **KlodWorld** nomme *DEV-Beta* qui utilise la branche **develop** et se met à jour tout les **jours à minuit**, et redémarre le monde si nécessaire. Il ne reset pas mais n'est accessible qu'au abonnés.
+Un serveur **KlodWorld** nomme *DEV-Beta* qui utilise la branche **develop** et se met à jour tout les **jours à minuit**, et redémarre le monde si nécessaire. Il ne reset pas sauf cas particulier mais n'est accessible qu'au abonnés.
 ### Fonctionnalités à implémenter durant cette phase
  - Barre de progression des ordre en court "frise du temps"
  - permettre le changement de nom d'unités ou de ville (avec contrôle du modo)

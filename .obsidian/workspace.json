@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Roadmap.md",
+                "file": "Missions.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Roadmap"
+              "title": "Missions"
             }
           }
         ]
@@ -170,13 +170,23 @@
               "icon": "lucide-list",
               "title": "Outline of _sidebar"
             }
+          },
+          {
+            "id": "bd64eae80589ed54",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -192,9 +202,10 @@
   },
   "active": "0b77b49a729aa97c",
   "lastOpenFiles": [
+    "Missions.md",
+    "Roadmap.md",
     "_sidebar.md",
     "Gameplay.md",
-    "Roadmap.md",
     "Unités.md",
     "Villes.md",
     "Ressources.md",
@@ -206,7 +217,6 @@
     "04 Les ressources.md",
     "README.md",
     "01 Gameplay Général.md",
-    "Missions.md",
     "Liens.md",
     "Monde.md",
     "03 Les tours.md",
