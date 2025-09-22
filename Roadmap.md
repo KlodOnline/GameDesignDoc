@@ -14,7 +14,7 @@ Toutes personnes souhaitant regarder le stade de développement ou souhaitant pa
 - [x] Exploration et brouillard de guerre fonctionnel
 - [x] Croissance des villes, territoire (frontières) des villes 
 - [x] inventaire des unités et des villes
-- [ ] échange de stuff entre unités et villes, amies, 
+- [x] échange de stuff entre unités et villes, amies, 
 - [ ] système de loot en cas de mort d'une unité ou d'une ville + échange entre le loot et les unités
 - [ ] disparition du loot dans le temps
 - [ ] ressources qui popent sur la carte et qui sont exploitable
