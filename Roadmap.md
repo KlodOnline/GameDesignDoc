@@ -15,7 +15,7 @@ Toutes personnes souhaitant regarder le stade de développement ou souhaitant pa
 - [x] Croissance des villes, territoire (frontières) des villes 
 - [x] inventaire des unités et des villes
 - [x] échange de stuff entre unités et villes, amies, 
-- [ ] système de loot en cas de mort d'une unité ou d'une ville + échange entre le loot et les unités
+- [x] système de loot en cas de mort d'une unité ou d'une ville + échange entre le loot et les unités
 - [ ] disparition du loot dans le temps
 - [ ] ressources qui popent sur la carte et qui sont exploitable
 - [ ] exploitation des ressources par des unités spécifiques dédiées ou les villes
