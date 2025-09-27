@@ -16,9 +16,9 @@ Toutes personnes souhaitant regarder le stade de développement ou souhaitant pa
 - [x] inventaire des unités et des villes
 - [x] échange de stuff entre unités et villes, amies, 
 - [x] système de loot en cas de mort d'une unité ou d'une ville + échange entre le loot et les unités
-- [ ] disparition du loot dans le temps
-- [ ] ressources qui popent sur la carte et qui sont exploitable
-- [ ] exploitation des ressources par des unités spécifiques dédiées ou les villes
+- [x] disparition du loot dans le temps
+- [x] ressources qui popent sur la carte et qui sont exploitable
+- [x] exploitation des ressources par des unités spécifiques dédiées ou les villes
 - [ ] Coût en ressource pour les bâtiments, les unités, les villes
 - [ ] Création de bâtiments dans les villes, avec les limitations en fonction des bâtiments précédents
 - [ ] Ordre d'unités de "transformation" de l'unité, comme "fortification", "tour d'observation", etc. 
