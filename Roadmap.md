@@ -42,6 +42,8 @@ Implémenter et optimiser toutes les fonctionnalités du **Gameplay étendu**. D
 ### Diffusion
 Large. Il faut faire connaitre le jeu un maximum, pour permettre des tests de  charge. Récompenser les 50 premiers joueurs d'un abonnement à vie ? Autoriser les abonnements de soutiens.
 ### Fonctionnalités à implémenter durant cette phase
+- [ ] Augmentation de la durée de création des colons en fonction de la population des empires
+- [ ] vie et mort des empires, abandon des joueurs, "barbares" (IA mobs)
 - [ ] diplomatie : pacte de paix, libre circulation, échange de carte, création de "clans" (alliances large à plusieurs joueurs), messagerie
 - [ ] Combats et gestion des combats
 - [ ] échange de stuff entre unités et villes d'un autre joueur OU système de marché/vente - commerce : échange de stuff verrouillable pour sceller l'accord
