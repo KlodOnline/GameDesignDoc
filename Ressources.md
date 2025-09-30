@@ -1,16 +1,24 @@
 ____
 # Ressources
 KlodOnline est un jeu de craft et de ressources comme pas mal de MMO. La plupart des RTS proposent des ressources "magiques" qui se stockent dans le cloud et sont utilisées par les unités pour construire des batiments etc. **mais pas Klod**.
-## Resources
-### Transport
-Les unités disposent d'un inventaire, elle peuvent se déplacer et donc déplacer des ressources. Si elles meurent, elles laissent les ressources sur place qui se dégradent avec le temps. Elle peuvent échanger leurs ressource avec une unité ou une ville adjacente. Le joueur donne l'ordre "échange de biens", met ce qu'il faut échanger, et valide son envoi. On ne peut que envoyer, et pas prendre. Par contre il doit exister une interface qui montre ce qui nous est envoyé. 
-De plus, il doit exister un système de verrou pour indiquer que l'on ne pourra pas annuler l'ordre pour le bien du commerce PvP.
+## Inventaires
+### Description
+La plupart des entités du jeu dispose d'un **inventaire**: Unités, Villes, Loot, etc. Cet inventaire est fait de cellules qui sont remplissable par un type d'item sur un certain volume, dépendant de l'item. Par exemple, la nourriture se stocke sur une cellule par paquet de 3000, la pierre par paquet de 1500 etc. Les inventaires sont de tailles différentes en fonction des entités, ou d'option spécifiques. (Villes: 16 à 64, Unités: 1 à 8, Loot: 256 ...).
+### Echange
+Une unité peut échanger librement du stuff avec une autre unité ou une ville, située sur la même case qu'elle.
+### Loot
+Une unité ou une ville qui est détruite, ou une unité qui se transforme en une autre qui n'aurait pas autant de slots d'inventaire que la précédente, abandonne sur le terrain du _Loot_.
+### Commerce
+Plus tard il est à imaginer un système permettant le commerce ou l'échange de stuff avec les autres joueurs.
 ## Ressources Primaires
 Les ressources primaires sont celles extraites de l’environnement, ou obtenues à la destructions d'une ressource secondaire en ville.
+### Source
+Le jeu implémente des gisements de ressources fixes sur la carte sous forme d'entités _Source_.
+
 ### Production
 Une ville ou un camp d'ouvrier peu produire des ressources à partir de son environnement immédiat. Une ville a plus de zone de production qu'un camp d'ouvrier, mais le camp d'ouvrier est mobile. Toutes les ressources à portée peuvent être exploitée, le joueur choisis lesquelles dans les interface de récolte. Un camp d'ouvrier ne peut choisir qu'une case de récolte.
 Une ressource produite arrive dans l'inventaire du récolteur, ville ou unité.
-Enfin, certains batiments de craft des villes avancées en craft doivent pouvoir permettre de détruire une ressource secondaire pour la ramener à son état primaire, moyennant une perte de 20% des matériaux d'origine.
+Enfin, certains bâtiments de craft des villes avancées en craft doivent pouvoir permettre de détruire une ressource secondaire pour la ramener à son état primaire, moyennant une perte de 20% des matériaux d'origine.
 ### Types
 Les ressources sont de différents type : 
  - Nourriture (pour les villageois, l'entretien des unités)
