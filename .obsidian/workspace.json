@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "ddc90f746706b33f",
+        "id": "e787a200bbc617e4",
         "type": "tabs",
         "children": [
           {
-            "id": "0b77b49a729aa97c",
+            "id": "8f32ea405c921beb",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -19,6 +19,26 @@
               },
               "icon": "lucide-file",
               "title": "Roadmap"
+            }
+          }
+        ]
+      },
+      {
+        "id": "ddc90f746706b33f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0b77b49a729aa97c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "README"
             }
           }
         ]
@@ -78,8 +98,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "a3b2fed07ece7788",
@@ -153,7 +172,7 @@
             }
           },
           {
-            "id": "bd64eae80589ed54",
+            "id": "7d456cd2c437953c",
             "type": "leaf",
             "state": {
               "type": "git-view",
@@ -184,10 +203,8 @@
   },
   "active": "0b77b49a729aa97c",
   "lastOpenFiles": [
-    "Missions.md",
-    "Roadmap.md",
-    "_sidebar.md",
     "Gameplay.md",
+    "Roadmap.md",
     "Unités.md",
     "Villes.md",
     "Ressources.md",
@@ -198,7 +215,9 @@
     "00 Roadmap.md",
     "04 Les ressources.md",
     "README.md",
+    "_sidebar.md",
     "01 Gameplay Général.md",
+    "Missions.md",
     "Liens.md",
     "Monde.md",
     "03 Les tours.md",
