@@ -34,6 +34,12 @@ Toutes personnes souhaitant regarder le stade de développement ou souhaitant pa
 ## Stade BETA
 ### Objectif
 Implémenter et optimiser toutes les fonctionnalités du **Gameplay étendu**. Debugger pour une version **1.0** soignée. Faire également des équilibrages de règles de jeu.
+#### Objectif secondaire
+Avoir des abonnés. L'argent permettrait : 
+ - de faire de ce loisir un travail à temps plein et de nourrir la famille
+ - d'embaucher une équipe technique et **artistique** et de **se débarrasser de l'IA** (pour la musique, les graphismes, les traduction, etc.)
+ - d'avoir une entreprise et de lancer d'autres projets (MaenaSola, Black Sails, DragonsRun, Buhurt Beat them all, etc.)
+
 ### Déploiement
  - Un serveur **KlodWorld** nomme *DEV-Alpha* qui utilise la branche *develop* et se met à jour toutes les **5 minutes**, et redémarre le monde si nécessaire.
  - Un serveur **KlodWorld** nomme *DEV-Beta* qui utilise la branche *main* et se met à jour tout les **jours à minuit**, et redémarre le monde si nécessaire.
@@ -73,12 +79,6 @@ Grand public. Tenter d'atteindre JDG le meilleur ambassadeur de la stratégie et
 ## Version 1.0++
 ### Objectif
 Ajouter des nouvelles fonctionnalités utiles ou agréables. Lorsqu'une fonctionnalité est testée validée etc. elle peux passer sur la branche **main**, ce qui met à jour les serveurs de jeu.
-#### Objectif secondaire
-Avoir des abonnés. L'argent permettrait : 
- - de faire de ce loisir un travail à temps plein et de nourrir la famille
- - d'embaucher des graphistes et musiciens et de se débarrasser de l'IA
- - d'avoir une entreprise et de lancer d'autres projets (MaenaSola, Black Sails, DragonsRun, Buhurt Beat them all, etc.)
-
 ### Déploiement
 Un serveur **KlodWorld** nomme *DEV-Beta* qui utilise la branche **develop** et se met à jour tout les **jours à minuit**, et redémarre le monde si nécessaire. Il ne reset pas sauf cas particulier mais n'est accessible qu'au abonnés.
 ### Fonctionnalités à implémenter durant cette phase
