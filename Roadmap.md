@@ -36,9 +36,9 @@ Toutes personnes souhaitant regarder le stade de développement ou souhaitant pa
 Implémenter et optimiser toutes les fonctionnalités du **Gameplay étendu**. Debugger pour une version **1.0** soignée. Faire également des équilibrages de règles de jeu.
 #### Objectif secondaire
 Avoir des abonnés. L'argent permettrait : 
- - de faire de ce loisir un travail à temps plein et de nourrir la famille
+ - de faire de ce loisir un travail à **temps plein**
  - d'embaucher une équipe technique et **artistique** et de **se débarrasser de l'IA** (pour la musique, les graphismes, les traduction, etc.)
- - d'avoir une entreprise et de lancer d'autres projets (MaenaSola, Black Sails, DragonsRun, Buhurt Beat them all, etc.)
+ - d'avoir une entreprise et de lancer d'**autres projets** (DragonsRun, MaenaSola, BlackSails, Buhurt Beat them all, etc.)
 
 ### Déploiement
  - Un serveur **KlodWorld** nomme *DEV-Alpha* qui utilise la branche *develop* et se met à jour toutes les **5 minutes**, et redémarre le monde si nécessaire.
