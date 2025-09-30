@@ -66,7 +66,7 @@ Large. Il faut faire connaitre le jeu un maximum, pour permettre des tests de  c
 ### Objectif
 Code debuggé, minifié, sécurisé, légalisé, fonctionnel.
 #### Objectif secondaire
-Réfléchir à un moyen de jouer gratuitement contre la conso de pub pour 3€? Est ce possible ?
+Réfléchir à un moyen de jouer gratuitement contre la conso de pub pour 3€? Est ce possible? Est ce souhaitable? (pas sûr, est ce que je veux vraiment faire de la pub pour la concurrence ?!)
 ### Déploiement
 Un serveur **KlodWorld** payant nommé *Maximus* qui utilise la branche **main** et se met à jour tout les **dimanches à minuit**, et redémarre le monde si nécessaire. 
 Les joueurs disposent d'**un mois gratuit** le temps de découvrir le jeu (dont 2 semaines protection débutants), puis ils doivent s'abonner pour continuer.
