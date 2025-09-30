@@ -14,7 +14,13 @@ Plus tard il est à imaginer un système permettant le commerce ou l'échange de
 Les ressources primaires sont celles extraites de l’environnement, ou obtenues à la destructions d'une ressource secondaire en ville.
 ### Source
 Le jeu implémente des gisements de ressources fixes sur la carte sous forme d'entités _Source_.
+Le système fonctionne ainsi :
+1. **À chaque tour de jeu** : Le serveur vérifie s'il faut faire apparaître de nouvelles sources de ressources sur la carte
+2. **Apparition aléatoire** : De nouvelles mines, forêts, gisements peuvent apparaître dans des zones appropriées selon des règles de probabilité (peu commune, rare, épique, légendaire)
+3. **Usure progressive** : Quand un joueur exploite une source (via une ville ou un camp), celle-ci diminue petit à petit jusqu'à disparaître (pour éviter la rétention de ressources et forcer les joueur à être attentif à l'exploitation des ressources)
+4. **Cycle continu** : Ce processus se répète à chaque tour, maintenant un équilibre entre consommation et régénération des ressources
 
+Ce système assure que la carte ne se vide jamais complètement de ressources tout en créant une dynamique économique où les joueurs doivent constamment explorer et sécuriser de nouvelles zones d'exploitation.
 ### Production
 Une ville ou un camp d'ouvrier peu produire des ressources à partir de son environnement immédiat. Une ville a plus de zone de production qu'un camp d'ouvrier, mais le camp d'ouvrier est mobile. Toutes les ressources à portée peuvent être exploitée, le joueur choisis lesquelles dans les interface de récolte. Un camp d'ouvrier ne peut choisir qu'une case de récolte.
 Une ressource produite arrive dans l'inventaire du récolteur, ville ou unité.
