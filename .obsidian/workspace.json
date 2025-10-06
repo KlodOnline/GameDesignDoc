@@ -34,8 +34,23 @@
               "icon": "lucide-file",
               "title": "Unités"
             }
+          },
+          {
+            "id": "23dcc8f1cc8c26ba",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Villes.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Villes"
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -195,12 +210,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0b77b49a729aa97c",
+  "active": "23dcc8f1cc8c26ba",
   "lastOpenFiles": [
-    "Pasted image 20251006114845.png",
+    "Unités.md",
+    "media/Pasted image 20251006114924.png",
+    "media/Pasted image 20251006114845.png",
     "media/Pasted image 20251006114608.png",
     "media/Pasted image 20251006114503.png",
-    "Unités.md",
     "media/Pasted image 20251006114527.png",
     "Liens.md",
     "KlodWiki.md",
