@@ -27,10 +27,10 @@
             "state": {
               "type": "image",
               "state": {
-                "file": "media/unitorder.png.png"
+                "file": "media/unitorder.png"
               },
               "icon": "lucide-image",
-              "title": "unitorder.png"
+              "title": "unitorder"
             }
           },
           {
@@ -209,10 +209,10 @@
   },
   "active": "0b77b49a729aa97c",
   "lastOpenFiles": [
-    "media/unitorder.png.png",
-    "media/unittab.png.png",
-    "media/infoicone.png.png",
-    "media/move.png.png",
+    "media/unitorder.png",
+    "media/unittab.png",
+    "media/infoicone.png",
+    "media/move.png",
     "Unités.md",
     "Villes.md",
     "media/Pasted image 20251006114503.png",
