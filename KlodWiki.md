@@ -1,5 +1,6 @@
 ### ⚔️ [[Unités]]
 Description des unités, et prérequis.
+[[Unités#Types]]
 ### 🏛️ [[Villes]]
 Description des mécanismes, recrutement, bâtiments, production, inventaire…
 ### 💎[[Ressources]]

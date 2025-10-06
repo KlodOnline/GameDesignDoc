@@ -2,7 +2,11 @@ ____
 # Unités
 Les unités sont le coeur du gameplay, puis qu'elle permettent au joueur d'explorer, de construire, de récolter, de faire la guerre.
 
-## Type
+
+
+
+## Types
+
 ## Caractéristiques
 ## Mécaniques de jeu
 ## Prérequis
