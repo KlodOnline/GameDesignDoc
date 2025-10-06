@@ -13,25 +13,15 @@ Pour donner des ordres à une unité, _sélectionnez là_ puis cliquez sur l'ord
 ![unitorder.png](media/unitorder.png)
 Un panneau de confirmation s'affichera. Pour tout les ordre permettant le mouvement, cliquez sur la map directement avec votre _clic gauche_ pour ajouter une étape. Vous pouvez déplacer la map avec le _clic centre_ ou les flèches de votre clavier. Vous validez la dernière étape comme une destination en cliquant sur _OK_.
 ![move.png](media/move.png)
-
-
-
-## Types
-
-## Caractéristiques
-## Mécaniques de jeu
-## Prérequis
-## Listing
-
-
-
-
 ## Type
 Il existe différent type d'unités. Elle sont de différentes catégories :
  - Combat
  - Transport
  - Ouvrière
  - Navale
+## Caractéristiques
+
+
 
 ## Moral des unités
 C'est l'équivalent de la vie des unités. échelle de 0 à 100. Lorsque l'unité tombe à 0 elle disparait.
@@ -104,4 +94,12 @@ Ou alors :
 	Border epaisse interne = statut diplo
 	ombre du dessin = rareté
 
+
+
+
+
+
+## Mécaniques de jeu
+## Prérequis
+## Listing
 
