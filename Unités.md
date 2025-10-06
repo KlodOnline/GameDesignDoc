@@ -6,8 +6,11 @@ Pour accéder aux informations d'une unité, _sélectionnez là_ puis cliquez su
  - "**G**" (pour informations **G**énérales)
  - "**I**" (pour **I**nventaire)
  - "**P**" (pour **P**roduction)
+![[Pasted image 20251006114608.png]]
+## Donner des ordres
+Pour donner des ordres à une unié, sélection
 
-## 
+
 
 ## Types
 
