@@ -1,9 +1,13 @@
 ____
 # Unités
-Les unités sont le coeur du gameplay, puis qu'elle permettent au joueur d'explorer, de construire, de récolter, de faire la guerre.
+Les unités sont le cœur du gameplay, puis qu'elle permettent au joueur d'explorer, de construire, de récolter, de faire la guerre.
+## Informations
+Pour accéder aux informations d'une unité, _sélectionnez là_ puis cliquez sur l'icône ( i ) ou bien utilisez l'un des raccourcis claviers pour accéder directement aux onglets suivants (**si** votre unité dispose d'un tel onglet !) :
+ - "**G**" (pour informations **G**énérales)
+ - "**I**" (pour **I**nventaire)
+ - "**P**" (pour **P**roduction)
 
-
-
+## 
 
 ## Types
 
@@ -13,11 +17,6 @@ Les unités sont le coeur du gameplay, puis qu'elle permettent au joueur d'explo
 ## Listing
 
 
-
-todo:
-- **Types d'Unités** - Catalogue complet des unités
-- **Caractéristiques** - Points de vie, attaque, défense, mouvement
-- **Gestion des Unités** - Panel de gestion accessible via le menu
 
 
 ## Type

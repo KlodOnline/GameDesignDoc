@@ -1,17 +1,15 @@
-### ⚔️ [[Unités]]
+### ⚔️ [Unités](Unités.md)
 Description des unités, et prérequis.
-[[Unités#Types]]
-### 🏛️ [[Villes]]
+### 🏛️ [Villes](Villes.md)
 Description des mécanismes, recrutement, bâtiments, production, inventaire…
-### 💎[[Ressources]]
+### 💎[Ressources](Ressources.md)
 Listing des ressources et rareté
-### 🗺️ [[Monde]]
+### 🗺️ [Monde](Monde.md)
 Comment le monde est créé
-### ⏱️ [[Tours]]
+### ⏱️ [Tours](Tours.md)
 Mécaniques des tours
 
-
-TO DO :
+TO DO / TO ADD :
 ### 🎮 Interface de Jeu
 - **Menu Principal** - Les 7 boutons d'interface (Carte du monde, Gestion des unités, Gestion des villes, Diplomatie, Courrier, Options)
 - **Carte et Minimap** - Navigation sur la carte hexagonale

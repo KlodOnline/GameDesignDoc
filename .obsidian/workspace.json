@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "KlodWiki.md",
+                "file": "Unités.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "KlodWiki"
+              "title": "Unités"
             }
           },
           {
@@ -197,8 +197,10 @@
   },
   "active": "0b77b49a729aa97c",
   "lastOpenFiles": [
-    "Unités.md",
+    "Liens.md",
     "KlodWiki.md",
+    "Gameplay.md",
+    "Unités.md",
     "Tours.md",
     "Monde.md",
     "API.md",
@@ -207,14 +209,12 @@
     "README.md",
     "_sidebar.md",
     "Roadmap.md",
-    "Gameplay.md",
     "09 Liens.md",
     "02 Le Monde.md",
     "00 Roadmap.md",
     "04 Les ressources.md",
     "01 Gameplay Général.md",
     "Missions.md",
-    "Liens.md",
     "03 Les tours.md",
     "05 Les unités.md",
     "06 Les villes.md",
