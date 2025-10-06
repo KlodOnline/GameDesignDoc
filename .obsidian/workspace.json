@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Wiki mainpage.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Wiki mainpage"
+              "title": "README"
             }
           }
         ]
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 205.5
   },
   "right": {
     "id": "a3b2fed07ece7788",
@@ -183,15 +183,15 @@
   },
   "active": "0b77b49a729aa97c",
   "lastOpenFiles": [
+    "Wiki_mainpage.md",
+    "Unités.md",
     "README.md",
-    "Wiki mainpage.md",
     "_sidebar.md",
     "API.md",
     "Villes.md",
     "Roadmap.md",
     "Ressources.md",
     "Gameplay.md",
-    "Unités.md",
     "Tours.md",
     "09 Liens.md",
     "02 Le Monde.md",
