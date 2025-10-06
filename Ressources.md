@@ -1,6 +1,13 @@
 ____
 # Ressources
 KlodOnline est un jeu de craft et de ressources comme pas mal de MMO. La plupart des RTS proposent des ressources "magiques" qui se stockent dans le cloud et sont utilisées par les unités pour construire des batiments etc. **mais pas Klod**.
+
+todo:
+- **Types de Ressources** - Liste des ressources du jeu
+- **Production** - Comment obtenir les ressources
+- **Commerce** - Système d'échange
+
+
 ## Inventaires
 ### Description
 La plupart des entités du jeu dispose d'un **inventaire**: Unités, Villes, Loot, etc. Cet inventaire est fait de cellules qui sont remplissable par un type d'item sur un certain volume, dépendant de l'item. Par exemple, la nourriture se stocke sur une cellule par paquet de 3000, la pierre par paquet de 1500 etc. Les inventaires sont de tailles différentes en fonction des entités, ou d'option spécifiques. (Villes: 16 à 64, Unités: 1 à 8, Loot: 256 ...).

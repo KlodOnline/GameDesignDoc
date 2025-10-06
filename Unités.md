@@ -1,6 +1,21 @@
 ____
 # Unités
 Les unités sont le coeur du gameplay, puis qu'elle permettent au joueur d'explorer, de construire, de récolter, de faire la guerre.
+
+## Type
+## Caractéristiques
+## Mécaniques de jeu
+## Prérequis
+## Listing
+
+
+
+todo:
+- **Types d'Unités** - Catalogue complet des unités
+- **Caractéristiques** - Points de vie, attaque, défense, mouvement
+- **Gestion des Unités** - Panel de gestion accessible via le menu
+
+
 ## Type
 Il existe différent type d'unités. Elle sont de différentes catégories :
  - Combat
