@@ -8,7 +8,9 @@ Pour accéder aux informations d'une unité, _sélectionnez là_ puis cliquez su
  - "**P**" (pour **P**roduction)
 ![[Pasted image 20251006114608.png]]
 ## Donner des ordres
-Pour donner des ordres à une unité, _sélectionnez là_ puis cliquez sur l'ordre de votre choix. Un panneau de confirmation s'affichera. Pour tout les ordre permettant le mouvement, cliquez sur la map directement avec votre _clic gauche_ pour ajouter une étape. Vous pouvez déplacer la map avec le _clic centre_ ou les flêc
+Pour donner des ordres à une unité, _sélectionnez là_ puis cliquez sur l'ordre de votre choix. 
+![[Pasted image 20251006114845.png]]
+Un panneau de confirmation s'affichera. Pour tout les ordre permettant le mouvement, cliquez sur la map directement avec votre _clic gauche_ pour ajouter une étape. Vous pouvez déplacer la map avec le _clic centre_ ou les flèches de votre clavier. Vous validez l
 
 
 
