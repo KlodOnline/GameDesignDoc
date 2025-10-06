@@ -25,14 +25,12 @@
             "id": "eb04ad4980aa117b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Unités.md",
-                "mode": "source",
-                "source": false
+                "file": "media/unitorder.png.png"
               },
-              "icon": "lucide-file",
-              "title": "Unités"
+              "icon": "lucide-image",
+              "title": "unitorder.png"
             }
           },
           {
@@ -49,8 +47,7 @@
               "title": "Villes"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -210,21 +207,21 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "23dcc8f1cc8c26ba",
+  "active": "0b77b49a729aa97c",
   "lastOpenFiles": [
+    "media/unitorder.png.png",
+    "media/unittab.png.png",
+    "media/infoicone.png.png",
+    "media/move.png.png",
     "Unités.md",
-    "media/Pasted image 20251006114924.png",
-    "media/Pasted image 20251006114845.png",
-    "media/Pasted image 20251006114608.png",
+    "Villes.md",
     "media/Pasted image 20251006114503.png",
-    "media/Pasted image 20251006114527.png",
     "Liens.md",
     "KlodWiki.md",
     "Gameplay.md",
     "Tours.md",
     "Monde.md",
     "API.md",
-    "Villes.md",
     "Ressources.md",
     "README.md",
     "_sidebar.md",
