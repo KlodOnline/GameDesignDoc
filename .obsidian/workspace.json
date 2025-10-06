@@ -13,32 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Roadmap.md",
+                "file": "Wiki mainpage.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Roadmap"
-            }
-          }
-        ]
-      },
-      {
-        "id": "d3f79985d7b636b2",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "814f9d343200743b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Ressources.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Ressources"
+              "title": "Wiki mainpage"
             }
           }
         ]
@@ -172,7 +152,7 @@
             }
           },
           {
-            "id": "bd64eae80589ed54",
+            "id": "7d456cd2c437953c",
             "type": "leaf",
             "state": {
               "type": "git-view",
@@ -203,21 +183,22 @@
   },
   "active": "0b77b49a729aa97c",
   "lastOpenFiles": [
-    "Ressources.md",
-    "Roadmap.md",
-    "Missions.md",
+    "README.md",
+    "Wiki mainpage.md",
     "_sidebar.md",
+    "API.md",
+    "Villes.md",
+    "Roadmap.md",
+    "Ressources.md",
     "Gameplay.md",
     "Unités.md",
-    "Villes.md",
     "Tours.md",
-    "API.md",
     "09 Liens.md",
     "02 Le Monde.md",
     "00 Roadmap.md",
     "04 Les ressources.md",
-    "README.md",
     "01 Gameplay Général.md",
+    "Missions.md",
     "Liens.md",
     "Monde.md",
     "03 Les tours.md",
@@ -238,7 +219,6 @@
     "GDD-KlodOnline/objects/f6/70ff436eb9bf20624705015174ef58b3a7085f",
     "GDD-KlodOnline/03 - Le Monde/03.2 Génération Procédurale.md",
     "GDD-KlodOnline/03 - Le Monde/03.1 Carte Hexagonale.md",
-    "09 - Interface et ergonomie/09.2 Intégration In-Game.md",
-    "09 - Interface et ergonomie/09.1 Interface Générale.md"
+    "09 - Interface et ergonomie/09.2 Intégration In-Game.md"
   ]
 }
