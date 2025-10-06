@@ -6,13 +6,18 @@ Pour accéder aux informations d'une unité, _sélectionnez là_ puis cliquez su
  - "**G**" (pour informations **G**énérales)
  - "**I**" (pour **I**nventaire)
  - "**P**" (pour **P**roduction)
+
 ![unittab.png](media/unittab.png)
 
 ## Donner des ordres
 Pour donner des ordres à une unité, _sélectionnez là_ puis cliquez sur l'ordre de votre choix. 
+
 ![unitorder.png](media/unitorder.png)
+
 Un panneau de confirmation s'affichera. Pour tout les ordre permettant le mouvement, cliquez sur la map directement avec votre _clic gauche_ pour ajouter une étape. Vous pouvez déplacer la map avec le _clic centre_ ou les flèches de votre clavier. Vous validez la dernière étape comme une destination en cliquant sur _OK_.
+
 ![move.png](media/move.png)
+
 ## Type
 Il existe différent type d'unités. Elle sont de différentes catégories :
  - Combat
