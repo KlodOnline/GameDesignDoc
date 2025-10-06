@@ -2,7 +2,7 @@ ____
 # Unités
 Les unités sont le cœur du gameplay, puis qu'elle permettent au joueur d'explorer, de construire, de récolter, de faire la guerre.
 ## Informations
-Pour accéder aux informations d'une unité, _sélectionnez là_ puis cliquez sur l'icône ( i ) ou bien utilisez l'un des raccourcis claviers pour accéder directement aux onglets suivants (**si** votre unité dispose d'un tel onglet !) :
+Pour accéder aux informations d'une unité, _sélectionnez là_ puis cliquez sur l'icône ![[Pasted image 20251006114527.png]] ou bien utilisez l'un des raccourcis claviers pour accéder directement aux onglets suivants (**si** votre unité dispose d'un tel onglet !) :
  - "**G**" (pour informations **G**énérales)
  - "**I**" (pour **I**nventaire)
  - "**P**" (pour **P**roduction)

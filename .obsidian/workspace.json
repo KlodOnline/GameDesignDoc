@@ -195,12 +195,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0b77b49a729aa97c",
+  "active": "4e4bb391040bccf8",
   "lastOpenFiles": [
+    "media/Pasted image 20251006114503.png",
+    "Unités.md",
+    "media/Pasted image 20251006114527.png",
     "Liens.md",
     "KlodWiki.md",
     "Gameplay.md",
-    "Unités.md",
     "Tours.md",
     "Monde.md",
     "API.md",
@@ -232,7 +234,6 @@
     "GDD-KlodOnline/objects/f8/1eb235eca4e7359a4b128a2c51379d803c3b78",
     "GDD-KlodOnline/objects/f6/70ff436eb9bf20624705015174ef58b3a7085f",
     "GDD-KlodOnline/03 - Le Monde/03.2 Génération Procédurale.md",
-    "GDD-KlodOnline/03 - Le Monde/03.1 Carte Hexagonale.md",
-    "09 - Interface et ergonomie/09.2 Intégration In-Game.md"
+    "GDD-KlodOnline/03 - Le Monde/03.1 Carte Hexagonale.md"
   ]
 }
