@@ -38,7 +38,9 @@ La nuit, tout les ordres de mouvements seront figés, (de 22h00 à 7h00?), même
 Les unités terrestre ne pourront aller sur l'eau, sauf les rivières. Si une unité terrestre est sur une rivière elle ne peut que la quitter. Autrement dit elle n'ont que le droit de traverser les rivières. 
 Les unités navales ne peuvent aller sur la terre, sauf les villes qui sont considéré comme des ports dès qu'elles sont en bord d’océan ou de rivière. Ce n'est pas très précis, mais cela apportera beaucoup au gameplay.
 ### Vision
+#### Actuellement
 Couramment nommé **_FOV_** ("field of view"), c'est le nombre de cases (rayon) que voit une unité. Il y a un score d'unité, de **1 à 2**, et bonus de terrain, de **0 à 2**.
+#### Dans le futur
 
 
 
