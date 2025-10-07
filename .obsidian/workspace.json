@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "KlodWiki.md",
+                "file": "Villes.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "KlodWiki"
+              "title": "Villes"
             }
           }
         ],
@@ -199,8 +199,9 @@
   "active": "3f94280e27fb7315",
   "lastOpenFiles": [
     "Unités.md",
-    "KlodWiki.md",
+    "media/Unit.png",
     "Villes.md",
+    "KlodWiki.md",
     "Roadmap.md",
     "_sidebar.md",
     "media/unitorder.png",
