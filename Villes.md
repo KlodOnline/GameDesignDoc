@@ -41,13 +41,13 @@ En général un terrain produit entre **1 et 3** unités de ressources d'un ou d
 
 L’exploitation des cases se fait par **paliers** de **1000** habitants décalés de **500** : entre 0 et 500 habitants, aucune case n’est exploitable ; entre 500 et 1500, 1 case ; entre 1500 et 2500, 2 cases, etc.   Cette méthode simplifie la gestion des seuils et décale l’exploitation des ressources par rapport à la zone d’influence.
 
-Si le terrain a une _Souce_ spéciale, il produit **en plus** de sa production normale, la production spéciale. Ces _Sources_ ont un stock de ressource qui s'épuise à la production (Cf. [Ressources](Ressources.md)). 
+Si le terrain a une _Source_ spéciale, il produit **en plus** de sa production normale, la production spéciale. Ces _Sources_ ont un stock de ressource qui s'épuise à la production (Cf. [Ressources](Ressources.md)). 
 ## Recrutement
-a ecrire
+a écrire
 ## Bâtiments
 Un bâtiment est créé dans une ville, à l'aide de ressources de base plus ou moins importante et pendant plus ou moins longtemps en fonction de ces ressources. 
 Le calcul de base sera "total des ressources additionnée = NB de TIC", dans un premier temps.
-Chaque bâtiment construit apportera des points de "culture" (militaire, industrie, commerce), et certain auront des pré-requis de points de culture.
+Chaque bâtiment construit apportera des points de "culture" (militaire, industrie, commerce), et certain auront des prérequis de points de culture.
 La ville a un nombre de "slots" de bâtiments maximum, en fonction de ces habitants (1 slot/1000 hab.).
 Donc une ville peut à la fois tout faire, et en même temps, non, car elle ne peux pas faire n'importe quel bâtiment, cela dépend de ce qui a été fait par le passé.
 Les bâtiments interdit à la construction devraient ne pas apparaître du tout. Les "autorisés" mais quand on a pas les ressources, devraient être grisés.
