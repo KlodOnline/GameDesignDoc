@@ -40,7 +40,7 @@ Comme dans pas mal de jeu, on peut aménager le territoire pour améliorer son e
  - Les cases de plaine ou de savane en irrigation, si adjacente à une rivière ou un océan ou une irrigation
  - Ajouter une **piste** (2000 points) ou une **route** pavée (4000).
 
-Les **routes** et les **irrigations** s'usent lorsqu'elle ne sont pas utilisées (les habitant ne les entretiennent plus) à un rythme d'**1/tour**, et prennent **100** points par usage (capé suivant le type, 2000, ou 4000).
+Les **routes** et les **irrigations** s'usent lorsqu'elle ne sont pas utilisées (les habitant ne les entretiennent plus) à un rythme d'**1/tour**, et prennent **???** points par usage (capé suivant le type, 2000, ou 4000).
 
 ## Vie du territoire (WIP)
 Les calculs de zones chaude/tempérée/froide/humide devraient rester quelques part pour permettre à chaque tour ces vérification
