@@ -1,3 +1,4 @@
+# Les catégories en cours de rédaction
 ### ⚔️ [Unités](Unités.md)
 Description des unités, et prérequis.
 ### 🏛️ [Villes](Villes.md)
@@ -9,7 +10,7 @@ Comment le monde est créé
 ### ⏱️ [Tours](Tours.md)
 Mécaniques des tours
 
-TO DO / TO ADD :
+# Les catégories à rédiger
 ### 🎮 Interface de Jeu
 - **Menu Principal** - Les 7 boutons d'interface (Carte du monde, Gestion des unités, Gestion des villes, Diplomatie, Courrier, Options)
 - **Carte et Minimap** - Navigation sur la carte hexagonale

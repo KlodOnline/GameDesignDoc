@@ -20,11 +20,19 @@ Un panneau de confirmation s'affichera. Pour tout les ordre permettant le mouvem
 
 ## Type
 Il existe différent type d'unités. Elle sont de différentes catégories :
- - Combat
- - Transport
- - Ouvrière
- - Navale
+ - Combat (permettront la guerre, des forts, des tours d'observations etc.)
+ - Transport (permettront de déplacer beaucoup d'items)
+ - Ouvrière (permettront de modifier le terrain et d'exploiter des ressources)
+ - Navale (permettront de transporter des biens et des unités sur les mers, ainsi que d'y apporter la guerre)
+
 ## Caractéristiques
+Les unités ont des caractéristiques (étonnant non ?):
+ - **Force**
+ - **Défense**
+ - **Mouvement**
+ - **FOV**: "_field of view_". C'est le nombre de cases (rayon) que voit une unité. Il y a un score en fonction de l'unité, puis un bonus en fonction du terrain. 
+ - **Moral**
+ - 
 
 
 
