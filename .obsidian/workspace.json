@@ -13,20 +13,6 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Unités.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Unités"
-            }
-          },
-          {
-            "id": "3f94280e27fb7315",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
                 "file": "Villes.md",
                 "mode": "source",
                 "source": false
@@ -35,8 +21,27 @@
               "title": "Villes"
             }
           }
-        ],
-        "currentTab": 1
+        ]
+      },
+      {
+        "id": "c49a4bc3a9098506",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3f94280e27fb7315",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Unités.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Unités"
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -196,11 +201,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3f94280e27fb7315",
+  "active": "0b77b49a729aa97c",
   "lastOpenFiles": [
     "Unités.md",
-    "media/Unit.png",
     "Villes.md",
+    "media/citytab.png",
+    "media/Unit.png",
     "KlodWiki.md",
     "Roadmap.md",
     "_sidebar.md",
