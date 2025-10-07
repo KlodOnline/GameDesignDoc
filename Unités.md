@@ -20,6 +20,8 @@ Un panneau de confirmation s'affichera. Pour tout les ordre permettant le mouvem
 
 ![move.png](media/move.png)
 
+Certains ordres permettent d'**aménager le terrain** (Cf. [Monde](Monde.md))
+
 ## Type
 Il existe différent type d'unités. Elle sont de différentes catégories :
  - Combat (permettront la guerre, des forts, des tours d'observations etc.)
