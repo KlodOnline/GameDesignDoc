@@ -58,6 +58,8 @@ TORO:
 - **Effets des Bâtiments** - Bonus et capacités
 
 ## Inventaire
+Au départ, il est de **16** slots, et il est destiné à s'agrandir avec des bâtiments jusqu'à **64** slots au moins. Pour l'avenir il doit inclure un système de destruction d'items.
+
 ## Mécaniques de jeu particulières
 
 ## Garnison

@@ -1,5 +1,5 @@
-___
 # Gameplay Général
+______
 ## Pitch
 Klod Online est un **jeu de stratégie massivement multijoueur** basé sur des **tours synchronisés toutes les X minutes**.  Chaque joueur incarne un empire indépendant, qui évolue dans un monde commun persistant, généré de façon procédurale, et composé d’hexagones. Ils peuvent choisir de se faire la guerre, de coopérer, ou d'extraire des ressources plus ou moins rares.
 ## Gameplay classique ...
@@ -11,8 +11,7 @@ Comme dans beaucoup de 4X, le jeu doit proposer
  - une "IA" minimaliste permettant à des unités PNJ de zoner sur le monde
  - Une gestion des villes fine, avec ressources, croissance de la population, bâtiments
 
-### Inspirations
-Civilisation, Travian, Heroes of Might and Magic Kingdom etc.
+
 ## ...et innovations !
 Au-delà du gameplay classique des 4X on trouvera comme innovations principales :
  - Un **_MMO_** digne de ce nom, avec au moins 200 joueurs par monde de jeu
@@ -24,3 +23,6 @@ Au-delà du gameplay classique des 4X on trouvera comme innovations principales 
 
 ### Inspirations
 World of Warcraf, Risk, Mortal Online
+Civilisation, Travian, Heroes of Might and Magic Kingdom etc.
+ - [Cry Havoc](http://www.cryhavocfan.org/fr/suite/cryhavoc/chlejeu.htm)
+ - [Jeux et Strat](https://laurent36.typepad.com/blog/2007/12/les-encarts-de-jeux-et-strat%C3%A9gie-n-51-%C3%A0-60.html)

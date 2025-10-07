@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Villes.md",
+                "file": "KlodWiki.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Villes"
+              "title": "KlodWiki"
             }
           }
         ]
@@ -215,34 +215,34 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3f94280e27fb7315",
+  "active": "0b77b49a729aa97c",
   "lastOpenFiles": [
-    "Villes.md",
+    "Gameplay.md",
+    "KlodWiki.md",
+    "Missions.md",
+    "README.md",
     "Ressources.md",
-    "Resources.md",
+    "Roadmap.md",
+    "Tours.md",
     "Unités.md",
+    "Villes.md",
+    "Monde.md",
+    "Liens.md",
+    "Resources.md",
     "media/citytab.png",
     "media/Unit.png",
-    "KlodWiki.md",
-    "Roadmap.md",
     "_sidebar.md",
     "media/unitorder.png",
     "media/unittab.png",
     "media/infoicone.png",
     "media/move.png",
     "media/Pasted image 20251006114503.png",
-    "Liens.md",
-    "Gameplay.md",
-    "Tours.md",
-    "Monde.md",
     "API.md",
-    "README.md",
     "09 Liens.md",
     "02 Le Monde.md",
     "00 Roadmap.md",
     "04 Les ressources.md",
     "01 Gameplay Général.md",
-    "Missions.md",
     "03 Les tours.md",
     "05 Les unités.md",
     "06 Les villes.md",
