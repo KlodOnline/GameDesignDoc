@@ -35,6 +35,16 @@ Les villes définissent l'influence et le territoire des joueurs. Une ville comm
 Le joueur "voit" tout ce qui est dans son territoire **+1 case** (zone claire sur l'image). Elle peut également recevoir les bonus de vue de terrain (**1 à 2**).
 Lorsqu'une ville dépasse 6.000 habitant, le rayon de cette zone augmente d'une case (=2).
 Lorsqu'une ville dépasse 18.000 habitant, le rayon de cette zone augmente d'une case supplémentaire (=3).
+
+### Ohé partisans, ouvriers et paysans…
+La population représente une force de travail, par tranche de 1.000 habitants. Par défaut, ils sont affectés à l'**exploitation du terrain**. Donc "paysans". Lorsqu'on les retire de l'exploitation du terrain, ils deviennent disponible pour autre chose, soit :
+ - être **recruté** dans une unité (mais ce ne sera pas 1.000 habitants)
+ - être **affecté aux terrain**, comme par défaut
+ - être **affecté à un bâtiment d'artisanat**, pour produire des ressources secondaires
+ - être **affecté à rien du tout**, et vivre leur meilleure vie au frais de la société
+
+A l'avenir, un "_sans affectation_" pourrait aider à augmenter le niveau de joie de la population, en devenant disponible pour faire de la philosophie, de l'art, etc. Mais la mécanique n'est pas clairement définie pour le moment.
+
 ## Production
 En général un terrain produit entre **1 et 3** unités de ressources d'un ou de plusieurs types. 
 1 unité de nourriture nourri 1000 hab. sur 1 TIC.
@@ -63,7 +73,7 @@ Au départ, il est de **16** slots, et il est destiné à s'agrandir avec des b�
 ## Mécaniques de jeu particulières
 
 ## Garnison
-a ecrire
+a écrire
 
 
 
