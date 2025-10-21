@@ -24,7 +24,7 @@ Toutes personnes souhaitant regarder le stade de développement ou souhaitant pa
 - [x] exploitation des ressources par des unités spécifiques dédiées
 - [x] production, inventaire... des traits ?
 - [x] Unité qui aménage le territoire (route, irrigation, canaux, raser une forêt....)
-- [ ] Coût en ressource pour les bâtiments, les unités, les villes
+- [x] Coût en ressource pour les bâtiments, les unités, les villes
 - [ ] Création de bâtiments dans les villes, avec les limitations en fonction des bâtiments précédents
 - [ ] Moral des unités et consommation de ressources
 - [ ] Révision du CSS séparation en différents fichiers
