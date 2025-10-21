@@ -192,8 +192,8 @@
             "state": {
               "type": "git-view",
               "state": {},
-              "icon": "lucide-ghost",
-              "title": "git-view"
+              "icon": "git-pull-request",
+              "title": "Source Control"
             }
           }
         ],
@@ -201,8 +201,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -216,14 +215,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "814f9d343200743b",
+  "active": "bd64eae80589ed54",
   "lastOpenFiles": [
+    "Villes.md",
     "Roadmap.md",
     "Monde.md",
     "Missions.md",
     "Tours.md",
     "Unités.md",
-    "Villes.md",
     "Ressources.md",
     "media/unittab.png",
     "media/unitorder.png",

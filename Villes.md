@@ -10,6 +10,7 @@ Pour accéder aux informations d'une ville, _sélectionnez là_ puis cliquez sur
  - "**P**" (pour **P**roduction)
  - "**R**" (pour **R**ecrutement)
  - "**B**" (pour **B**âtiments)
+ - "**C**" (pour **C**raft)
 
 ![citytab](media/citytab.png)
 
@@ -41,6 +42,7 @@ La population représente une force de travail, par tranche de 1.000 habitants. 
  - être **recruté** dans une unité (mais ce ne sera pas 1.000 habitants)
  - être **affecté aux terrain**, comme par défaut
  - être **affecté à un bâtiment d'artisanat**, pour produire des ressources secondaires
+ - être **affecté au travaux du bâtiment**, pour créer des bâtiments
  - être **affecté à rien du tout**, et vivre leur meilleure vie au frais de la société
 
 A l'avenir, un "_sans affectation_" pourrait aider à augmenter le niveau de joie de la population, en devenant disponible pour faire de la philosophie, de l'art, etc. Mais la mécanique n'est pas clairement définie pour le moment.
