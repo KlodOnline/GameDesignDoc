@@ -25,7 +25,8 @@ Toutes personnes souhaitant regarder le stade de développement ou souhaitant pa
 - [x] production, inventaire... des traits ?
 - [x] Unité qui aménage le territoire (route, irrigation, canaux, raser une forêt....)
 - [x] Coût en ressource pour les bâtiments, les unités, les villes
-- [ ] Création de bâtiments dans les villes, avec les limitations en fonction des bâtiments précédents
+- [x] Création de bâtiments dans les villes, avec les limitations en fonction des bâtiments précédents
+- [ ] Craft
 - [ ] Moral des unités et consommation de ressources
 - [ ] Révision du CSS séparation en différents fichiers
 - [ ] Révision de tout texte affichés, séparation et isolation pour permettre la traduction dans les langues cibles
