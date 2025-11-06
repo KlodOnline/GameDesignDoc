@@ -30,7 +30,7 @@ Toutes personnes souhaitant regarder le stade de développement ou souhaitant pa
 - [x] Moral des unités et consommation de ressources
 - [ ] Révision du CSS séparation en différents fichiers
 - [ ] Révision de tout texte affichés, séparation et isolation pour permettre la traduction dans les langues cibles
-- [ ] Grosse amélioration des requête avec système centralisé pour les objets et le cache
+- [x] Grosse amélioration des requête avec système centralisé pour les objets et le cache
 - [ ] Grand Debugging : vérifier tout le code manquant et toutes les validation à l'exécution des ordres et autres modification implicites mal gérées
 
 ## Stade BETA
