@@ -2,54 +2,119 @@
 ____
 KlodOnline est un jeu de craft et de ressources comme pas mal de MMO. La plupart des RTS proposent des ressources "magiques" qui se stockent dans le cloud et sont utilisées par les unités pour construire des batiments etc. **mais pas Klod**.
 
-todo:
-- **Types de Ressources** - Liste des ressources du jeu
-- **Production** - Comment obtenir les ressources
-- **Commerce** - Système d'échange
-
-
 ## Inventaires
-### Description
-La plupart des entités du jeu dispose d'un **inventaire**: Unités, Villes, Loot, etc. Cet inventaire est fait de cellules qui sont remplissable par un type d'item sur un certain volume, dépendant de l'item. Par exemple, la nourriture se stocke sur une cellule par paquet de 3000, la pierre par paquet de 1500 etc. Les inventaires sont de tailles différentes en fonction des entités, ou d'option spécifiques. (Villes: 16 à 64, Unités: 1 à 8, Loot: 256 ...).
-### Echange
-Une unité peut échanger librement du stuff avec une autre unité ou une ville, située sur la même case qu'elle.
+La plupart des entités du jeu possèdent un inventaire (unités, villes, loot…).  
+Un inventaire est constitué de slots dans lesquels peuvent être rangés des items selon leur type et leur volume.
+
+### Capacités :
+- **Villes** : 16 slots de base, extensible à 32 / 48 / 64 via des bâtiments d’entreposage.
+- **Unités** : 1 à 8+ slots selon le type d’unité.
+- **Loot** : 255.
+
+### Échange d’objets
+Une unité peut transférer des objets avec une autre unité, une ville ou un loot présent sur la même case.  
+L'échange vérifie uniquement :
+- que la cible a de la place
+- qu’elle appartient au même joueur ou est neutre.
+
 ### Loot
-Une unité ou une ville qui est détruite, ou une unité qui se transforme en une autre qui n'aurait pas autant de slots d'inventaire que la précédente, abandonne sur le terrain du _Loot_.
-### Commerce
-Plus tard il est à imaginer un système permettant le commerce ou l'échange de stuff avec les autres joueurs.
+Lorsqu’une unité ou ville est détruite, ou lorsqu’une unité est transformée en une autre disposant d’un inventaire plus petit, le surplus devient du loot au sol.  
+Ce loot se dégrade progressivement avec le temps.
+
+---
+
 ## Ressources Primaires
-Les ressources primaires sont celles extraites de l’environnement, ou obtenues à la destructions d'une ressource secondaire en ville.
-### Source
-Le jeu implémente des gisements de ressources fixes sur la carte sous forme d'entités _Source_.
-Le système fonctionne ainsi :
-1. **À chaque tour de jeu** : Le serveur vérifie s'il faut faire apparaître de nouvelles sources de ressources sur la carte
-2. **Apparition aléatoire** : De nouvelles mines, forêts, gisements peuvent apparaître dans des zones appropriées selon des règles de probabilité (peu commune, rare, épique, légendaire)
-3. **Usure progressive** : Quand un joueur exploite une source (via une ville ou un camp), celle-ci diminue petit à petit jusqu'à disparaître (pour éviter la rétention de ressources et forcer les joueur à être attentif à l'exploitation des ressources)
-4. **Cycle continu** : Ce processus se répète à chaque tour, maintenant un équilibre entre consommation et régénération des ressources
+Ce sont les ressources extraites directement du terrain.
 
-Ce système assure que la carte ne se vide jamais complètement de ressources tout en créant une dynamique économique où les joueurs doivent constamment explorer et sécuriser de nouvelles zones d'exploitation.
-### Production
-Une ville ou un camp d'ouvrier peu produire des ressources à partir de son environnement immédiat. Une ville a plus de zone de production qu'un camp d'ouvrier, mais le camp d'ouvrier est mobile. Toutes les ressources à portée peuvent être exploitée, le joueur choisis lesquelles dans les interface de récolte. Un camp d'ouvrier ne peut choisir qu'une case de récolte.
-Une ressource produite arrive dans l'inventaire du récolteur, ville ou unité.
-Enfin, certains bâtiments de craft des villes avancées en craft doivent pouvoir permettre de détruire une ressource secondaire pour la ramener à son état primaire, moyennant une perte de 20% des matériaux d'origine.
-### Types
-Les ressources sont de différents type : 
- - Nourriture (pour les villageois, l'entretien des unités)
- - Bois pierre, matériaux de base (nécessaire à toute constructions)
- - Matériaux peu courant "vert", pour les construction un peu avancées (typiquement, bois exotiques, verroterie, ivoire, marbre etc.)
- - Matériaux rare "bleu" pour les construction importante (pierre précieuse, encens etc.)
- - matériaux épique "violet" pour les constructions incroyables (obsidienne, malachite, arbre-pierre, et autre ressource quasi mystiques)
- - matériaux légendaire "orange" pour une construction quasi unique dans l'empire (larme de déesse, etc.)
+### Sources naturelles
+Des gisements fixes existent sur la carte pour chaque ressource.
 
-Quand je dis "construction", je parle de bâtiment ou d'unités.
-Le niveau de rareté doit être surveillé simplement, par un système de nodes. 100% des cases doivent pouvoir générer les matériaux banals, 30% les matériaux "peu courants", 10% les rares, 0.5% les épiques, et 0.1% les légendaires. Ces valeurs pourraient être ajustées en fonctions des retours des joueurs.
+À chaque tour :
+- le jeu vérifie si de nouvelles sources doivent apparaître.
+- le nombre de sources dépend de la rareté :  
+  - Rareté 1 : ~180  
+  - Rareté 2 : ~60  
+  - Rareté 3 : ~20  
+  - Rareté 4 : ~7  
+  - Rareté 5 : ~2  
+
+Placement :
+- une ressource n’apparaît que sur les types de terrain compatibles.
+- plus la ressource est rare, plus l’exclusion autour d’elle est large pour éviter les clusters.
+
+Exploitation :
+- une source exploitée perd 1 point de volume par tour.
+- elle disparaît une fois arrivée à 0.
+
+> Ce système repose sur un nombre cible absolu de sources.  
+> La logique de génération devra évoluer pour un pourcentage du nombre de cases.
+
+---
+
+### Production par les villes
+Les villes peuvent récolter autour d’elles selon un rayon dépendant de leur population.  
+Les travailleurs sont assignés à des cases de ressource.
+
+### Camps de récolteurs
+Certaines unités peuvent se transformer en camp fixe pour extraire :
+- nourriture (gcamp)
+- bois (wcamp)
+- minéraux (mcamp)
+
+Ces camps ont un seul travailleur et exploitent une seule case.
+
+Filtrage :
+- chaque ressource possède un type de travailleur associé (farmer / woodcutter / miner).
+- l’exploitation n’est possible que si le type correspond.
+
+Priorité :
+1. Les sources naturelles sont exploitées en premier.
+2. Ensuite vient la production de terrain standard.
+
+La ressource produite va dans l’inventaire du récolteur (unité ou ville).
+
+### Déconstruction de ressources secondaires (prévu)
+Certains bâtiments avancés permettront de convertir une ressource secondaire en ses composants primaires, avec une perte de ~20%.
+
+---
+
+## Classification des ressources
+
+### Rareté
+- **1 – Communes** : nourriture, bois, pierre. Nécessaires à toutes les constructions.
+- **2 – Peu communes (vert)** : matériaux pour constructions avancées.
+- **3 – Rares (bleu)** : matériaux pour bâtiments d’importance.
+- **4 – Épiques (violet)** : matériaux pour constructions majeures uniques.
+- **5 – Légendaires (orange)** : ressources mythiques extrêmement rares.
+
+---
+
 ## Ressources Secondaires
-Les ressources secondaires sont celles produites à l'aides des primaires, pour ensuite être utilisées. Je n'ai pas encore le détail de ce qui sera fait, mais il me semble que les unités middle/high tiers devraient toutes nécessiter des ressources secondaires.
-### Production
-Les ressources primaires sont amenées en ville, qui, si elle dispose des bon bâtiments, pourra cafter les ressources secondaires comme un ordre de jeu classique.
-Exemple : 
- - Pierre de taille
- - ameublement
- - armement
- - engins de siège
- - ...
+Ce sont les ressources fabriquées en ville à partir des ressources primaires.
+
+### Système de craft
+- La ville possède une file d’objets à fabriquer.
+- Chaque recette définit :
+  - le coût en ressources primaires
+  - le bâtiment requis pour le craft
+- Le système vérifie la présence du bâtiment.
+- Les ressources sont consommées.
+- Le produit est ajouté à l’inventaire de la ville.
+- Plus il y a d'artisans et plus ça produit
+
+### Exemples de ressources secondaires
+- armes primitives  
+- outils primitifs  
+- engins de siège  
+- ...
+
+---
+
+## Commerce (prévu)
+Un système futur permettra l’échange de ressources entre joueurs.
+
+---
+
+## Conclusion
+KlodOnline repose sur une logique matérielle stricte :  
+pas de stockage magique, pas de ressources « virtuelles », tout prend de la place, tout s’échange physiquement, tout peut être perdu, looté ou capturé.
