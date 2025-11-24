@@ -50,8 +50,8 @@ Avoir des abonnés. L'argent permettrait :
 ### Diffusion
 Large. Il faut faire connaitre le jeu un maximum, pour permettre des tests de  charge. Récompenser les 50 premiers joueurs d'un abonnement à vie ? Autoriser les abonnements de soutiens.
 ### Fonctionnalités à implémenter durant cette phase
-- [ ] Augmentation de la durée de création des colons en fonction de la population des empires
-- [ ] Possibilité d'affecter les habitants des villes aux tâches : Production, Crafting, Bâtiments
+- [x] Augmentation de la durée de création des colons en fonction de la population des empires
+- [x] Possibilité d'affecter les habitants des villes aux tâches : Production, Crafting, Bâtiments
 - [ ] vie et mort des empires, abandon des joueurs, "barbares" (IA mobs)
 - [ ] diplomatie : pacte de paix, libre circulation, échange de carte, création de "clans" (alliances large à plusieurs joueurs), messagerie
 - [ ] Combats et gestion des combats
