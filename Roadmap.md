@@ -40,7 +40,7 @@ Implémenter et optimiser toutes les fonctionnalités du **Gameplay étendu**. D
 Avoir des abonnés. L'argent permettrait : 
  - de faire de ce loisir un travail à **temps plein**
  - d'embaucher une équipe technique et **artistique** et de **se débarrasser de l'IA** (pour la musique, les graphismes, peut être les traductions, etc.)
- - d'avoir une entreprise et de lancer d'**autres projets** (DragonsRun, Ultimate Buhurt Championship, MaenaSola, BlackSails, etc.)
+ - d'avoir une entreprise et de lancer d'**autres projets** (DragonsRun, Ultimate Buhurt Championship, MaenaSola, BlackSails, DesertCars, ArticRailroads, etc.)
 
 ### Déploiement
  - Un serveur **KlodWorld** nomme *DEV-Alpha* qui utilise la branche *develop* et se met à jour toutes les **5 minutes**, et redémarre le monde si nécessaire.
