@@ -52,7 +52,8 @@ Large. Il faut faire connaitre le jeu un maximum, pour permettre des tests de  c
 ### Fonctionnalités à implémenter durant cette phase
 - [x] Augmentation de la durée de création des colons en fonction de la population des empires
 - [x] Possibilité d'affecter les habitants des villes aux tâches : Production, Crafting, Bâtiments
-- [ ] vie et mort des empires, abandon des joueurs, "barbares" (IA mobs)
+- [x] vie et mort des empires, abandon des joueurs
+- [ ] "barbares" (IA mobs)
 - [ ] diplomatie : pacte de paix, libre circulation, échange de carte, création de "clans" (alliances large à plusieurs joueurs), messagerie
 - [ ] Combats et gestion des combats
 - [ ] échange de stuff entre unités et villes d'un autre joueur OU système de marché/vente - commerce : échange de stuff verrouillable pour sceller l'accord
@@ -60,7 +61,6 @@ Large. Il faut faire connaitre le jeu un maximum, pour permettre des tests de  c
 - [ ] chat global, chat privé de clan, chat de groupe (canal personnalisé), système de log pour le chat, et traçabilité en cas de plainte IRL
 - [ ] Marchand PNJ qui pratique des prix de voleurs, mais permettant d'introduire une monnaie et une valeur de régulation. Personne achètera moins cher que le PNJ et personne vendra plus cher que le PNJ… Donc le PNJ fixe les bornes des prix. Pour éviter l'inflation, mettre au PNJ de l'argent "cloud", afin qu'il ne créé aucune richesse intrinsèque (à étudier en détail) (ou qu'il dispose d'une somme égale à l'or existant divisé par le nombre de joueur ? il faut vraiment creuser le sujet)
 - [ ] modération, système permettant à un Modo ou un Dev de se connecter sans jouer, et accès au chat et au logs du jeu
-- [ ] vie et mort des Empire; ajouter le système permettant à l'empire de vieillir et devenir barbare en cas d'abandon de jeu du joueur
 - [ ] terrain qui changent avec le temps (Cf Le Monde/Vie du territoire)
 - [ ] Missions divine et tableau d'honneur, leaderboard par joueur, par ville, par clan
 - [ ] trêve de la nuit
