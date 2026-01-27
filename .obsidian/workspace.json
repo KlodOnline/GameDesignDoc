@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_sidebar.md",
+                "file": "Monde.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "_sidebar"
+              "title": "Monde"
             }
           }
         ],
@@ -196,8 +196,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "4e4bb391040bccf8",
+  "active": "64473629e90e0151",
   "lastOpenFiles": [
+    "_sidebar.md",
     "Ressources.md",
     "Monde.md",
     "media/G_nbakbXoAA0eRU.jpg",
@@ -208,7 +209,6 @@
     "Tours.md",
     "KlodWiki.md",
     "Gameplay.md",
-    "_sidebar.md",
     "Roadmap.md",
     "media/unittab.png",
     "media/unitorder.png",
