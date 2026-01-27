@@ -53,4 +53,8 @@ Les calculs de zones chaude/tempérée/froide/humide devraient rester quelques p
 Une fois par jour (donc tout les 288 tours)
  - une case entourée de 4 forêts ou de jungle  a une 1/6 chances de devenir elle même une forêt ou une jungle.
  - une case forêt ou jungle entourée de 4 plaines a  1/6 chances de devenir elle même une plaine
- - 
+
+## A REVOIR
+https://www.britannica.com/science/climate-meteorology/Upper-level-winds
+
+![[G_nbakbXoAA0eRU.jpg]]
