@@ -63,7 +63,7 @@ Aucune protection militaire implicite.
 Niveau maximal de coopération et seule protection structurelle.
 
 - **Guerre simultanée** :
-  Lorsque votre allié est en guerre, vous êtes notifiés et pouvez alors accepter ou refuser. En cas de refus, l'alliance tombe.
+  Lorsque votre allié passe hostile, ou en guerre, vous êtes notifiés et pouvez alors suivre ou rompre l'Alliance ! En fait tout les changement de statut d'un des Alliés notifie tout les alliés.
 - **Conflits d’alliances** :
   obligation de choisir un camp.
 - **Communication** :
