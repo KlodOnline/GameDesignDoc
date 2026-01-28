@@ -7,7 +7,8 @@
 6. [Ressources](Ressources.md)
 7. [Unités](Unités.md)
 8. [Villes](Villes.md)
-9. [Missions](Missions.md)
-10. [API](API.md)
-11. [Liens](Liens.md)
-12. *More to come ...*
+9. [Diplomatie](Diplomatie.md)
+10. [Missions](Missions.md)
+11. [API](API.md)
+12. [Liens](Liens.md)
+13. *More to come ...*

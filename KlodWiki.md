@@ -10,6 +10,8 @@ Listing des ressources et rareté
 Comment le monde est créé
 ### ⏱️ [Tours](Tours.md)
 Mécaniques des tours
+### 🏛️ [Diplomatie](Diplomatie.md)
+Guerre & Paix.
 
 # Les catégories à rédiger
 ______
@@ -20,6 +22,5 @@ ______
 - **Panneaux et Popups** - Fenêtres d'information dynamiques
 
 ### 🏛️ Gestion du Royaume
-- **Diplomatie** - Relations avec les autres joueurs
 - **Messages** - Système de courrier
 - **Options de Jeu** - Paramètres et préférences
