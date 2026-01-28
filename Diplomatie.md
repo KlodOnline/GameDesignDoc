@@ -146,11 +146,6 @@ Action unilatérale.
   ses unités sont reconduites à la frontière,
   les frontières se verrouillent.
 
-## 6. Intention de Design
-
-Ce système privilégie la **cohérence politique** à l’équité.
-- La violence non déclarée est permise.
-- L’abus n’est jamais corrigé par le moteur.
-- La désescalade est toujours négociée, jamais gratuite.
-
-Les joueurs assument.
+## 6. A prévoir :
+ - Un LOG des états diplomatique ? En fait la messagerie fera ça.
+ - Un délai pour les déclaration unilatérale ? 8h par exemple ? bof...
