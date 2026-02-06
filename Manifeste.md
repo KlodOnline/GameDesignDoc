@@ -1,19 +1,20 @@
-### Pas d'extorsion au joueur
-
+# Pas d'extorsion au joueur
+____
 Klod refuse la psychologie sociale et la manipulation appliquée au marketing et au gameplay, en particulier :
  - la frustration programmée pour amener le joueur au "pay-to-win".
  - les boutiques intégrées et les monnaies virtuelles.
 Dans Klod il n'y aura qu'un seul type de monétisation : l'abonnement. Un traitement égalitaire, que le meilleur gagne et advienne que pourra !
 
-### Postulat central — Le joueur
+# Pas d'irrespect du joueur
+____
+Klod n'est pas là pour offrir un énième divertissement creux ayant pour objectif de "vider la tête" des joueurs.
+Un Klodien est un stratège mature et responsable, capable de supporter le poids de ses échecs et de construire ses succès dans la durée.
+Ce n'est pas un "client à fidéliser". Il vient, il joue, il reste parce que cela lui plait - ou pas. 
 
-Le joueur accepté ici est un adulte. C’est un stratège responsable, capable de supporter le poids de ses échecs et la lenteur de ses succès. Nous ne cherchons pas à divertir la masse distraite, mais à offrir un terrain à ceux qui respectent la complexité. Le joueur est traité avec la dignité d'un pair, pas avec la condescendance d'un client à fidéliser. Les autres modèles de consommation existent ; ils sont simplement ignorés.
-
-### Rapport au temps
-
-Le temps long est l’unique échelle de valeur. Dans cet espace, une décision ne s’efface pas par un redémarrage. Le temps forge la réputation, la mémoire des lieux et la solidité des empires. Rien n'est immédiat, car rien de ce qui est immédiat n'a de valeur morale. La persistance n'est pas une option technique, c'est l'essence même de l'engagement : ce que vous bâtissez aujourd'hui doit pouvoir être raconté dans un an.
-
-### Zone grise et relations humaines
+# Zone grise et relations humaines
+____
+On ne se cache pas derrière une "liberté d'expression" qui n'est qu'un terrain de jeu pour les harceleurs et autres tordus. 
+Les propos des joueurs peuvent incarner un rôle, mais toute référence explicite
 
 Le cœur du jeu bat dans la zone grise. Ni paix totale, ni guerre permanente. Tout se joue dans l'interstice : la parole donnée, la posture diplomatique, la menace silencieuse. Les mécaniques ne brident pas l'ambition ; elles laissent aux joueurs la responsabilité de leurs trahisons et la gloire de leurs alliances. La tension naît de l'incertitude et du regard de l'autre. Le jeu commence là où les règles s'arrêtent.
 
