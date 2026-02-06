@@ -11,7 +11,7 @@ Klod n'est pas là pour offrir un énième divertissement creux ayant pour objec
 
 # Pas de revente du joueur
 ____
-Je ne suis pas un marchand de données. Ce qui se passe sur Klod ne concerne que vous, et moi, tant que ça reste légal. Pas de trackers publicitaires, pas de revente de profil. Mon job (ma passion), c’est de coder des jeux vidéos, pas de fliquer votre vie privée. 
+Je ne suis pas un marchand de données. Pas de trackers publicitaires, pas de revente de profil. Mon job (ma passion), c’est de coder des jeux vidéos, pas de fliquer votre vie privée. Ce qui se passe sur Klod ne concerne que vous, et moi, tant que ça reste légal. Par contre, gare à vous si cela ne l'est plus. Je n'aurais aucun remord à vous jeter en pâture aux autorité compétentes 
 
 
 
