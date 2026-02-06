@@ -3,8 +3,7 @@
 Klod refuse la psychologie sociale appliquée au marketing et au gameplay, en particulier :
  - la frustration programmée pour amener le joueur au "pay-to-win"
  - les boutiques intégrées et les "in-game money"
-Dans Klod il n'y aura qu'un seul abonnement par joueur, 
-l refuse la frustration programmée pour extraire un paiement, les boucles de récompenses conçues pour créer l'addiction, et la transformation du joueur en donnée statistique. Il refuse le « Pay-to-Win », les boutiques intégrées et le contenu verrouillé derrière des péages émotionnels. Ici, on ne fragmente pas l'expérience pour en vendre les morceaux.
+Dans Klod il n'y aura qu'un seul type de monétisation : l'abonnement. Advienne que pourra.
 
 ### Postulat central — Le joueur
 
