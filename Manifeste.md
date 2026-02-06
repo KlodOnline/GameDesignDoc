@@ -9,6 +9,7 @@ Dans Klod il n'y aura qu'un seul type de monétisation : l'abonnement. C'est un 
 ____
 Klod n'est pas là pour offrir un énième divertissement creux ayant pour objectif de "vider la tête" des joueurs. Un Klodien est un stratège mature et responsable, capable de supporter le poids de ses échecs et de construire ses succès dans la durée. Ce n'est pas un "client à fidéliser". Il vient, il joue, il reste parce que se creuser la tête lui plait. Il est auréolé de la gloire de ses victoires, il endure les conséquences de ses erreurs et de ses trahisons.
 
-
+Colin Boullard (_Tunkasina_)
+Président du Studio Flibustier
 
 
