@@ -1,9 +1,9 @@
-### Ouverture — La fracture
+### Pas d'extorsion au joueur
 
-Klod refuse la psychologie sociale appliquée au marketing et au gameplay, en particulier :
- - la frustration programmée pour amener le joueur au "pay-to-win"
- - les boutiques intégrées et les "in-game money"
-Dans Klod il n'y aura qu'un seul type de monétisation : l'abonnement. Advienne que pourra.
+Klod refuse la psychologie sociale et la manipulation appliquée au marketing et au gameplay, en particulier :
+ - la frustration programmée pour amener le joueur au "pay-to-win".
+ - les boutiques intégrées et les monnaies virtuelles.
+Dans Klod il n'y aura qu'un seul type de monétisation : l'abonnement. Un traitement égalitaire, que le meilleur gagne et advienne que pourra !
 
 ### Postulat central — Le joueur
 
