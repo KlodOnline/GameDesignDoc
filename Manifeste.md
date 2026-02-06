@@ -1,36 +1,36 @@
 ### Ouverture — La fracture
 
-Klod refuse l’immédiateté consolatrice, la progression sans risque, la victoire distribuée pour éviter la frustration. Ici, rien n’est lissé, rien n’est rattrapé, rien n’est promis.
+Klod refuse la psychologie sociale appliquée au marketing et au gameplay, en particulier :
+ - la frustration programmée pour amener le joueur au "pay-to-win"
+ - les boutiques intégrées et les "in-game money"
+Dans Klod il n'y aura qu'un seul abonnement par joueur, 
+l refuse la frustration programmée pour extraire un paiement, les boucles de récompenses conçues pour créer l'addiction, et la transformation du joueur en donnée statistique. Il refuse le « Pay-to-Win », les boutiques intégrées et le contenu verrouillé derrière des péages émotionnels. Ici, on ne fragmente pas l'expérience pour en vendre les morceaux.
 
 ### Postulat central — Le joueur
 
-Le joueur accepté est adulte. Il décide, il calcule, il porte ses actes. Il n’est ni guidé ni protégé. Ceux qui cherchent un refuge ludique ne sont pas combattus : ils n’existent pas ici.
+Le joueur accepté ici est un adulte. C’est un stratège responsable, capable de supporter le poids de ses échecs et la lenteur de ses succès. Nous ne cherchons pas à divertir la masse distraite, mais à offrir un terrain à ceux qui respectent la complexité. Le joueur est traité avec la dignité d'un pair, pas avec la condescendance d'un client à fidéliser. Les autres modèles de consommation existent ; ils sont simplement ignorés.
 
 ### Rapport au temps
 
-Le temps long est une valeur morale. Une décision engage des semaines, parfois des mois. Les conséquences persistent, la mémoire du monde s’accumule. Rien ne se reset, rien ne pardonne.
-
-### Rapport au monde
-
-Le monde prime sur la victoire. On n’y gagne pas, on y vit. On l’influence, on l’abîme parfois, on y laisse des traces visibles ou silencieuses. Le jeu est un espace politique, pas un score.
+Le temps long est l’unique échelle de valeur. Dans cet espace, une décision ne s’efface pas par un redémarrage. Le temps forge la réputation, la mémoire des lieux et la solidité des empires. Rien n'est immédiat, car rien de ce qui est immédiat n'a de valeur morale. La persistance n'est pas une option technique, c'est l'essence même de l'engagement : ce que vous bâtissez aujourd'hui doit pouvoir être raconté dans un an.
 
 ### Zone grise et relations humaines
 
-La tension est permanente. Ni guerre ouverte, ni paix stable. La parole compte autant que la force, la posture autant que l’acte. La menace est souvent implicite, et c’est là que tout se joue.
+Le cœur du jeu bat dans la zone grise. Ni paix totale, ni guerre permanente. Tout se joue dans l'interstice : la parole donnée, la posture diplomatique, la menace silencieuse. Les mécaniques ne brident pas l'ambition ; elles laissent aux joueurs la responsabilité de leurs trahisons et la gloire de leurs alliances. La tension naît de l'incertitude et du regard de l'autre. Le jeu commence là où les règles s'arrêtent.
 
 ### Économie — Le pacte
 
-L’abonnement est un acte de soutien et d’indépendance. Un choix éthique, pas une transaction. Il lie le joueur à l’existence du monde, pas à une promesse de confort.
+L’abonnement à 3€ par mois est un acte d’indépendance mutuelle. C’est le prix de la neutralité du créateur et de la liberté du joueur. Ce montant unique pour tous garantit que personne n’achète d’avantage, et que le développement ne sert qu’une seule cause : l’intégrité du monde. Ce n'est pas une transaction commerciale classique, c'est un pacte éthique pour maintenir l'espace hors de portée des logiques prédatrices.
 
 ### Position du créateur
 
-Klod est porté par un développeur solo. Non comme excuse, mais comme responsabilité. Une vision tenue, des erreurs assumées, aucune promesse creuse, aucune dilution.
+Ce projet est porté par une vision unique. Le développement solo est ici une responsabilité assumée, garantissant une cohérence que les compromis de groupe diluent souvent. Chaque erreur sera assumée, chaque direction sera tenue. Il n’y aura pas de promesses creuses pour nourrir l’attente, seulement la réalité du code et la sincérité d'une trajectoire sans artifice.
 
 ### Clôture — Serment négatif
 
-Klod ne deviendra jamais un produit de masse.  
-Klod ne rassurera pas.  
-Klod n’accélérera pas pour plaire.  
-Klod ne mentira pas sur ce qu’il est.  
-Rien de plus.
+Klod ne deviendra jamais une plateforme publicitaire.  
+Klod ne vendra jamais de bonus.  
+Klod ne simplifiera jamais ses règles pour plaire au plus grand nombre.  
+
+
 
