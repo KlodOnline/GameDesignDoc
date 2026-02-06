@@ -15,5 +15,3 @@ Je ne suis pas un marchand de données. Pas de trackers publicitaires, pas de re
 
 #### Colin Boullard (_Tunkasina_)
 ##### Capitaine du "Studio Flibustier"
-
-

@@ -9,6 +9,7 @@ Pour toute contribution ou question, ça se passe sur le [Discord](https://disco
 1. Le Manifeste, dans plusieurs langues :
 	1. [Le Manifeste (FR)](Le%20Manifeste%20(FR).md)
 	2. [The Manifesto (EN)](The%20Manifesto%20(EN).md)
+	3. [El Manifesto (ES)](El%20Manifesto%20(ES).md)
 2. [Roadmap](Roadmap.md)
 3. [Gameplay](Gameplay.md)
 4. [Monde](Monde.md)
