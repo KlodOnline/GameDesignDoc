@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Le Manifeste (EN).md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Le Manifeste (EN)"
+              "title": "README"
             }
           }
         ]
@@ -201,11 +201,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "910c15385b1b922e",
+  "active": "4e4bb391040bccf8",
   "lastOpenFiles": [
-    "Le Manifeste (EN).md",
-    "README.md",
+    "The Manifesto (EN).md",
     "Le Manifeste (FR).md",
+    "README.md",
     "Monde.md",
     "KlodWiki.md",
     "Gameplay.md",

@@ -8,7 +8,7 @@ Pour toute contribution ou question, ça se passe sur le [Discord](https://disco
 ## Table des matières
 1. Le Manifeste, dans plusieurs langues :
 	1. [Le Manifeste (FR)](Le%20Manifeste%20(FR).md)
-	2. [Le Manifeste (EN)](Le%20Manifeste%20(EN).md)
+	2. [The Manifesto (EN)](The%20Manifesto%20(EN).md)
 2. [Roadmap](Roadmap.md)
 3. [Gameplay](Gameplay.md)
 4. [Monde](Monde.md)
