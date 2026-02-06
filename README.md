@@ -6,7 +6,7 @@ Ce document mixte sert à la fois de référence de conception pour le développ
 ## Contact
 Pour toute contribution ou question, ça se passe sur le [Discord](https://discord.gg/UaQ74pgDQu)!
 ## Table des matières
-1. [Manifeste](Manifeste.md)
+1. [Le Manifeste](Le%20Manifeste.md)
 2. [Roadmap](Roadmap.md)
 3. [Gameplay](Gameplay.md)
 4. [Monde](Monde.md)
