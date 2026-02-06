@@ -11,10 +11,10 @@ Klod n'est pas là pour offrir un énième divertissement creux ayant pour objec
 Un Klodien est un stratège mature et responsable, capable de supporter le poids de ses échecs et de construire ses succès dans la durée.
 Ce n'est pas un "client à fidéliser". Il vient, il joue, il reste parce que cela lui plait - ou pas. 
 
-# Zone grise et relations humaines
+# Pas d'irrespect entre les joueurs
 ____
 On ne se cache pas derrière une "liberté d'expression" qui n'est qu'un terrain de jeu pour les harceleurs et autres tordus. 
-Les propos des joueurs peuvent incarner un rôle, mais toute référence explicite
+Les propos des joueurs peuvent incarner un rôle, si 
 
 Le cœur du jeu bat dans la zone grise. Ni paix totale, ni guerre permanente. Tout se joue dans l'interstice : la parole donnée, la posture diplomatique, la menace silencieuse. Les mécaniques ne brident pas l'ambition ; elles laissent aux joueurs la responsabilité de leurs trahisons et la gloire de leurs alliances. La tension naît de l'incertitude et du regard de l'autre. Le jeu commence là où les règles s'arrêtent.
 
