@@ -1,39 +1,12 @@
 # Roadmap de développement
 ____
 **ALPHA** → **BETA** → **1.0**
-## Stade ALPHA
-### Objectif
-Implémenter toutes les fonctionnalités du **Gameplay de base** de Klod Online, même si il y a des bugs ou des problèmes de performances.
-### Déploiement
-Un serveur **KlodWorld** nomme *DEV-Alpha* qui utilise la branche **develop** et se met à jour toutes les **5 minutes**, et redémarre le monde si nécessaire.
-### Diffusion
-Toutes personnes souhaitant regarder le stade de développement ou souhaitant participer au debug sont libre de s'inscrire, mais doivent être clairement averti que le jeu n'est pas jouable. On ne fait pas vraiment de pub en ligne pour le moment - ou très peu.
-### Fonctionnalités à implémenter durant cette phase
-- [x] Déplacement des unités 
-- [x] Ville qui permettent de créer des unités
-- [x] chat permettant de communiquer, et de linker des coordonnées
-- [x] Exploration et brouillard de guerre fonctionnel
-- [x] Croissance des villes, territoire (frontières) des villes 
-- [x] inventaire des unités et des villes
-- [x] échange de stuff entre unités et villes, amies, 
-- [x] système de loot en cas de mort d'une unité ou d'une ville + échange entre le loot et les unités
-- [x] disparition du loot dans le temps
-- [x] ressources qui popent sur la carte et qui sont exploitable
-- [x] exploitation des ressources par les villes
-- [x] Ordre d'unités de "transformation" de l'unité, comme "fortification", "tour d'observation", etc. 
-- [x] exploitation des ressources par des unités spécifiques dédiées
-- [x] production, inventaire... des traits ?
-- [x] Unité qui aménage le territoire (route, irrigation, canaux, raser une forêt....)
-- [x] Coût en ressource pour les bâtiments, les unités, les villes
-- [x] Création de bâtiments dans les villes, avec les limitations en fonction des bâtiments précédents
-- [x] Craft dans les villes
-- [x] Moral des unités et consommation de ressources
-- [x] Révision du CSS séparation en différents fichiers
-- [x] Révision de tout texte affichés, séparation et isolation pour permettre la traduction dans les langues cibles
-- [x] Grosse amélioration des requête avec système centralisé pour les objets et le cache
-- [ ] Grand Debugging : vérifier tout le code manquant et toutes les validation à l'exécution des ordres et autres modification implicites mal gérées
 
+Ne sont indiqués ici que ce qu'il reste à faire, les objectifs accomplis pouvant être trouvé dans [Roadmap_Archives](Roadmap_Archives.md).
+
+______
 ## Stade BETA
+**_(depuis Janvier 2026)_**
 ### Objectif
 Implémenter et optimiser toutes les fonctionnalités du **Gameplay étendu**. Debugger pour une version **1.0** soignée. Faire également des équilibrages de règles de jeu.
 #### Objectif secondaire
@@ -53,13 +26,17 @@ Large. Il faut faire connaitre le jeu un maximum, pour permettre des tests de  c
 - [x] Augmentation de la durée de création des colons en fonction de la population des empires
 - [x] Possibilité d'affecter les habitants des villes aux tâches : Production, Crafting, Bâtiments
 - [x] vie et mort des empires, abandon des joueurs
-- [ ] "barbares" (IA mobs)
+- [x] "barbares" (IA mobs)
 - [ ] diplomatie : pacte de paix, libre circulation, échange de carte, création de "clans" (alliances large à plusieurs joueurs), messagerie
 - [ ] Combats et gestion des combats
+- [ ] Upgrade des unités
+- [ ] Gestion des unités comme élément de la population d'une ville, possibilité de rattacher une unité à une autre ville
+- [ ] Possibilité de dissoudre une unité dans la ville
 - [ ] échange de stuff entre unités et villes d'un autre joueur OU système de marché/vente - commerce : échange de stuff verrouillable pour sceller l'accord
 - [ ] Protection débutant de 2 semaine par défaut 
 - [ ] chat global, chat privé de clan, chat de groupe (canal personnalisé), système de log pour le chat, et traçabilité en cas de plainte IRL
 - [ ] Marchand PNJ qui pratique des prix de voleurs, mais permettant d'introduire une monnaie et une valeur de régulation. Personne achètera moins cher que le PNJ et personne vendra plus cher que le PNJ… Donc le PNJ fixe les bornes des prix. Pour éviter l'inflation, mettre au PNJ de l'argent "cloud", afin qu'il ne créé aucune richesse intrinsèque (à étudier en détail) (ou qu'il dispose d'une somme égale à l'or existant divisé par le nombre de joueur ? il faut vraiment creuser le sujet)
+- [ ] Commerce entre joueurs
 - [ ] modération, système permettant à un Modo ou un Dev de se connecter sans jouer, et accès au chat et au logs du jeu
 - [ ] terrain qui changent avec le temps (Cf Le Monde/Vie du territoire)
 - [ ] Missions divine et tableau d'honneur, leaderboard par joueur, par ville, par clan
