@@ -11,5 +11,5 @@ Klod no está aquí para ofrecer otro entretenimiento vacío cuyo objetivo sea �
 No soy un comerciante de datos. Sin rastreadores publicitarios, sin reventa de perfiles. Mi trabajo (mi pasión) es programar videojuegos, no vigilar tu vida privada. Lo que ocurre en Klod solo te concierne a ti y a mí, mientras sea legal. Si deja de serlo, ten cuidado. No tendré ningún remordimiento en ponerte en manos de las autoridades competentes. Soy el protector de un juego, no de los depravados ni de los acosadores.
 
 
-#### Colin Boullard (_Tunkasina_)
+#### _Tunkasina_
 ##### Capitán de “Studio Flibustier”

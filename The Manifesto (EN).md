@@ -11,5 +11,5 @@ Klod is not here to deliver yet another hollow distraction meant to “empty pla
 I am not a data merchant. No ad trackers, no resale of profiles. My job (my passion) is to code video games, not to police your private life. What happens on Klod concerns only you and me, as long as it remains legal. Step outside that line, though, and beware. I will have no remorse handing you over to the competent authorities. I am the guardian of a game, not of deviants or harassers.
 
 
-#### Colin Boullard (_Tunkasina_)
+#### _Tunkasina_
 ##### Captain of “Studio Flibustier”

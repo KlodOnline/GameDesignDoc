@@ -8,7 +8,21 @@
         "type": "tabs",
         "children": [
           {
-            "id": "4b8475850ad04661",
+            "id": "64473629e90e0151",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "KlodWiki.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "KlodWiki"
+            }
+          },
+          {
+            "id": "a5e137f3cd4e46b4",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -20,70 +34,28 @@
               "icon": "lucide-file",
               "title": "README"
             }
-          },
+          }
+        ]
+      },
+      {
+        "id": "f82b99e03ab7ec85",
+        "type": "tabs",
+        "children": [
           {
-            "id": "1e49a4de1b8e05df",
+            "id": "4b8475850ad04661",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "El Manifesto (ES).md",
+                "file": "The Manifesto (EN).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "El Manifesto (ES)"
+              "title": "The Manifesto (EN)"
             }
           }
-        ],
-        "currentTab": 1
-      },
-      {
-        "id": "313b64ed2e855482",
-        "type": "split",
-        "children": [
-          {
-            "id": "427d66f05c1c1fc6",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "8cc52379f1cad05f",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Le Manifeste (FR).md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "Le Manifeste (FR)"
-                }
-              }
-            ]
-          },
-          {
-            "id": "096e9a8473ce614f",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "910c15385b1b922e",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "The Manifesto (EN).md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "The Manifesto (EN)"
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "horizontal"
+        ]
       }
     ],
     "direction": "vertical"
@@ -243,21 +215,21 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "1e49a4de1b8e05df",
+  "active": "4b8475850ad04661",
   "lastOpenFiles": [
-    "The Manifesto (EN).md",
-    "Le Manifeste (FR).md",
     "El Manifesto (ES).md",
-    "README.md",
-    "Monde.md",
-    "KlodWiki.md",
-    "Gameplay.md",
+    "Le Manifeste (FR).md",
     "Diplomatie.md",
+    "The Manifesto (EN).md",
+    "KlodWiki.md",
+    "README.md",
     "_sidebar.md",
     "API.md",
+    "Gameplay.md",
     "Roadmap.md",
     "Tours.md",
     "Villes.md",
+    "Monde.md",
     "Missions.md",
     "Ressources.md",
     "media/G_nbakbXoAA0eRU.jpg",
