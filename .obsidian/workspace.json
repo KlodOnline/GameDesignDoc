@@ -11,10 +11,28 @@
             "id": "dad178ce821605a8",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Unités.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Nouvel onglet"
+              "title": "Unités"
+            }
+          },
+          {
+            "id": "2682c60c9d25e1d2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Zone de Controle.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Zone de Controle"
             }
           }
         ]
@@ -162,7 +180,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -178,15 +197,17 @@
   },
   "active": "dad178ce821605a8",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
+    "Zone de Controle.md",
     "Unités.md",
+    "Monde.md",
+    "Ressources.md",
+    "README.md",
+    "conflict-files-obsidian-git.md",
     "Roadmap_Archives.md",
     "Roadmap.md",
-    "README.md",
     "El Manifesto (ES).md",
     "Le Manifeste (FR).md",
     "The Manifesto (EN).md",
-    "Monde.md",
     "KlodWiki.md",
     "Gameplay.md",
     "Diplomatie.md",
@@ -195,7 +216,6 @@
     "Tours.md",
     "Villes.md",
     "Missions.md",
-    "Ressources.md",
     "media/G_nbakbXoAA0eRU.jpg",
     "media/unittab.png",
     "media/unitorder.png",
@@ -210,7 +230,6 @@
     "01 Gameplay Général.md",
     "Liens.md",
     "03 Les tours.md",
-    "05 Les unités.md",
     "media",
     "media/Ville.png",
     "index.html",

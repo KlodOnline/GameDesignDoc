@@ -64,14 +64,25 @@ C'est l'équivalent de la vie des unités. échelle de 0 à 100. Lorsque l'unit�
 		 - entre 1 et 10 unités de nourriture consommée / tour suivant le type d'unité (échelle : 1000hab=100 nourriture) à réfléchir
  - Première victoire du jour = +25 moral (cap 100) (à voir, si c'est facile à mettre en place ou non)
 
-## Zone de contrôle
+## Zone de contrôle (ZoC)
+Cf. [Zone de contrôle](Zone%20de%20Controle.md)
 ### Principe ?
-Une zone de contrôle, c'est la **pression militaire** exercée par une **unité** militaire sur son environnement immédiat.
-On ne peut pas circuler librement dans cette zone si on est en conflit avec la nation en question.
-###
-###
+Une ZoC, c'est la **pression militaire** exercée par une **unité** militaire sur son environnement immédiat (1 case autour). On **ne peut pas** circuler librement dans cette zone si on est en conflit avec la nation de l'unité qui exerce cette pression.
+### Règles de conflit
+Sont considérée comme **en conflit** les relations **Hostiles** ou **En Guerre**
+### Règles de la ZoC vis à vis des unités
+ - On ne peut pas circuler d'une case sous ZoC à une autre
+ - Seules les unités militaires exercent une ZoC. 
+ - Une unité terrestre exerce une ZoC sur la terre, et sur les terrain mixtes (rivières, grèves)
+ - Une unité maritime exerce une ZoC sur l'eau, et sur les terrain mixtes (rivières, grèves)
 
+### Exception à la ZoC
+- Les villes ne sont pas concernées par les ZoC exercées depuis l'extérieur. Autrement dit, une unité peut entrer ou sortir d'une ville même si une autre unité ennemie est adjacente.
 
+### Conséquences de la ZoC 
+ - On ne peut pas circuler d'une case sous ZoC à une autre
+ - Les ZoC sont appliquées par hostilité et non pas pas unité. Si vous êtes sous la ZoC d'une unité (a) , d'un joueur (A) et que vous voulez aller sur une case sous la ZoC d'une unité (b) d'un joueur (B), cela est interdit.
+ 
 ## Combat
 ### Dans le futur
 Les principes de combat sont assez simples. Les unités ont des scores d'attaque et de défense, les terrains ont un score de combat. Le calcul devient :
