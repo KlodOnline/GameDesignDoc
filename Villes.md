@@ -77,6 +77,10 @@ Au départ, il est de **16** slots, et il est destiné à s'agrandir avec des b�
 ## Garnison
 a écrire
 
+## Bâtiments d'espionnage
+### Currently implemented
+- **Maison des Murmures** - Permet de recruter des espions (unité `spy`)
+
 
 
 

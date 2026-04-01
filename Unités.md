@@ -28,6 +28,7 @@ Il existe différent type d'unités. Elle sont de différentes catégories :
  - Transport (permettront de déplacer beaucoup d'items)
  - Ouvrière (permettront de modifier le terrain et d'exploiter des ressources)
  - Navale (permettront de transporter des biens et des unités sur les mers, ainsi que d'y apporter la guerre)
+ - Espionnage (permettent l'infiltration de villes ennemies pour les espionner)
 
 ## Caractéristiques
 Les unités ont des caractéristiques (étonnant non ?):
@@ -88,4 +89,33 @@ Il y aura des icones sur les unités pour repérer ce qu'elles sont en train de 
 ## Prérequis
 Certaines unités ont des bâtiments (Cf [Villes](Villes.md)) spécifique en prérequis.
 ## Listing
+
+
+## Espionnage
+Le système d'espionnage permet d'infiltrer une ville ennemie pour obtenir des informations secrètes sur celle-ci.
+
+#### Espion
+L'unité **espion** est une unité spéciale :
+
+L'espion se déplace secrètement sur la carte. Il est invisible aux autres joueurs et peut se déplacer librement dans les territoires ennemis.
+
+L'infiltration n'est possible que si l'espion est physiquement présent dans la ville ennemie.
+
+#### Contre-mesures
+Pour expulser un espion infiltré :
+- Le propriétaire de la ville ne peut pas voir l'espion infiltré directement
+- La seule façon de le déloger est de détruire l'unité infiltrée (via une attaque ou autre moyen)
+- L'espion peut se dé-infiltrer à tout moment avec l'ordre **MORPH** (retour à l'état spy)
+
+### Dans le futur
+- Système de **contre-espionnage** (bâtiments, unités spécialisée)
+- **Missions d'espionnage** (sabotage, assassinat, vol de technologies)
+- **Risques d'infiltration** (chance d'être détecté et expulsé)
+- **Réseaux d'espions** (un espion peut gérer plusieurs villes)
+- **Espionnage économique** (voir les ressources, les échanges commerciaux)
+
+
+
+
+### Dans le futur
 Lister ici les unités possible du jeu
