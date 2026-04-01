@@ -83,6 +83,10 @@ Sont considérée comme **en conflit** les relations **Hostiles** ou **En Guerre
  - On ne peut pas circuler d'une case sous ZoC à une autre
  - Les ZoC sont appliquées par hostilité et non pas pas unité. Si vous êtes sous la ZoC d'une unité (a) , d'un joueur (A) et que vous voulez aller sur une case sous la ZoC d'une unité (b) d'un joueur (B), cela est interdit.
  
+## Conquête de territoires
+Cf. [Conquête de territoires](Conquete%20de%20Territoires.md)
+
+
 ## Combat
 ### Dans le futur
 Les principes de combat sont assez simples. Les unités ont des scores d'attaque et de défense, les terrains ont un score de combat. Le calcul devient :
