@@ -12,7 +12,7 @@ Sont considérée comme **en conflit** les relations **Hostiles** ou **En Guerre
 
 **Attention**: les terrains mixtes subissent une ZoC mais il faut que l'unité qui exerce la ZoC et celle qui subit la ZoC soient du même type ! Par exemple :
  - une unité terrestre ne peux pas empêcher un navire de quitter une plage ou d'y entrer
- - 
+
 ## Exception à la ZoC
 - Les villes ne sont pas concernées par les ZoC exercées depuis l'extérieur. Autrement dit, une unité peut entrer ou sortir d'une ville même si une autre unité ennemie est adjacente.
 
