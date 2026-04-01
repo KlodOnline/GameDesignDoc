@@ -7,9 +7,10 @@ Sont considérée comme **en conflit** les relations **Hostiles** ou **En Guerre
 ## Règles de la ZoC vis à vis des unités
  - On ne peut pas circuler d'une case sous ZoC à une autre
  - Seules les unités militaires exercent une ZoC. 
- - Une unité terrestre exerce une ZoC sur la terre
- - Une unité maritime exerce une ZoC sur l'eau
- - Pour les terrains mixtes (grèves, rivières) toutes les unités peuvent 
+ - Une unité terrestre exerce une ZoC sur la terre, et sur les terrain mixtes (rivières, grèves)
+ - Une unité maritime exerce une ZoC sur l'eau, et sur les terrain mixtes (rivières, grèves)
+
+Les terrains mixtes subissent une ZoC mais il faut que l'unité qui exerce la ZoC et celle qui subit la ZoC soient du même type !
 
 ## Exception à la ZoC
 - Les villes ne sont pas concernées par les ZoC exercées depuis l'extérieur. Autrement dit, une unité peut entrer ou sortir d'une ville même si une autre unité ennemie est adjacente.
