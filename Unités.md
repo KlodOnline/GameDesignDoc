@@ -66,6 +66,8 @@ C'est l'équivalent de la vie des unités. échelle de 0 à 100. Lorsque l'unit�
 
 ## Zone de contrôle
 ### Principe ?
+Une zone de contrôle, c'est la **pression militaire** exercée par une **unité** militaire sur son environnement immédiat.
+On ne peut pas circuler librement dans cette zone si on est en conflit avec la nation en question.
 ###
 ###
 
