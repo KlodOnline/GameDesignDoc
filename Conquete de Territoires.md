@@ -10,3 +10,4 @@ Les territoires sont les terrains revendiqués par un joueur. Ils apparaissent s
 ## Conséquences des territoires
  - Toute unité étrangère est signalée lorsqu'elle circule dans le territoire
 
+## Territoires et exploitation
