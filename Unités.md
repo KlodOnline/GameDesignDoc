@@ -64,6 +64,12 @@ C'est l'équivalent de la vie des unités. échelle de 0 à 100. Lorsque l'unit�
 		 - entre 1 et 10 unités de nourriture consommée / tour suivant le type d'unité (échelle : 1000hab=100 nourriture) à réfléchir
  - Première victoire du jour = +25 moral (cap 100) (à voir, si c'est facile à mettre en place ou non)
 
+## Zone de contrôle
+### Principe ?
+###
+###
+
+
 ## Combat
 ### Dans le futur
 Les principes de combat sont assez simples. Les unités ont des scores d'attaque et de défense, les terrains ont un score de combat. Le calcul devient :
