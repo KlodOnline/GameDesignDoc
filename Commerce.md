@@ -29,7 +29,8 @@ Le PNH Marchand a "portefeuille magjque global". Il ne génère pas d'argent, il
  - La somme de travail est fixe, la valeur des monnaies est définie dans les règles du jeu
  - On peux fondre des pièces pour en refaire des lingots ! (via la fonderie adaptée) **sauf** les PP (pièce de pierre)
  - Pour commencer, le ratio : 1 PO = 10 PA = 250 PC = 5000 PP est proposé.
+	 - 1 PA = 25 PC = 500 PP
 	 - 1PC = 20 PP
 
 ## Plus tard ...
-Permettre de "battre monnaie" ? Est ce utile ou intelligent d'un point de vue du gameplay ?
+Permettre de "battre monnaie" ? Est ce utile ou intelligent d'un point de vue du gameplay ? Pour le moment c'est inutile, à voir plus tard.
