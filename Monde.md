@@ -1,11 +1,11 @@
 # Le Monde
 
 
-todo:
-- **Types de Terrains** - Océan, plaines, forêts, montagnes, déserts, toundra, etc.
-- **Système Climatique** - Zones de température et d'humidité
-- **Rivières** - Génération et impact sur le terrain
-- **Côtes et Îles** - Zones littorales
+## Types de Terrains
+- **Océan, plaines, forêts, montagnes, déserts, toundra, etc.** — Tous implémentés. Les types incluent : océan, côte, estran, rivière, plaine, forêt, montagne, marais, désert, savane, toundra, glace, et leurs variantes collines.
+- **Système Climatique** — Zones de température et d'humidité générées procéduralement.
+- **Rivières** — Générées automatiquement depuis les montagnes jusqu'à l'océan.
+- **Côtes et Îles** — Zones littorales générées avec garantie d'accès aux îles.
 
 ## Grille de référence
 Le monde se joue sur une carte **cylindrique** composée de cases **hexagonale**. Autrement dit, tout ce qui sort à gauche revient par la droite, et vice versa. Les hexagones présentent l'avantage d'équilibrer les vitesses et distances de déplacement dans toutes les directions (contrairement aux cases carrées ou les diagonales sont plus rapides que les autres déplacements).
@@ -33,17 +33,16 @@ Très simple, tirage aléatoire d'une montagne avec de la plaine adjacente, déf
  Facile, une plaine en zone chaude devient une savane. Une grande zone de savane créé un désert en son sein.
  
 ## Aménagement du territoire
-Comme dans pas mal de jeu, on peut aménager le territoire pour améliorer son environnement. Des unités "ouvrier" dédié peuvent changer :
- - Les cases de Jungle en plaine
- - Les cases de Foret en plaine
- - Les cases de marais en plaine
- - Les cases de plaine ou de savane en irrigation, si adjacente à une rivière ou un océan ou une irrigation
- - Ajouter une **piste** (2000 points) ou une **route** pavée (4000).
+Les unités peuvent modifier le territoire via des ordres dédiés :
+ - Défricher la jungle ou la forêt pour obtenir de la plaine
+ - Drainer les marais pour obtenir de la plaine
+ - Créer des **irrigations** sur les cases adjacentes à une rivière, un océan ou une irrigation existante (bonus de production alimentaire)
+ - Construire des **pistes** (2000 points) ou des **routes** pavées (4000 points) pour réduire le coût de déplacement
 
-Les **routes** et les **irrigations** s'usent lorsqu'elle ne sont pas utilisées (les habitant ne les entretiennent plus) à un rythme d'**1/tour**, et prennent **???** points par usage (capé suivant le type, 2000, ou 4000).
+Les **routes** et les **irrigations** s'usent lorsqu'elles ne sont pas entretenues à un rythme d'**1/tour**.
 
 ## Vie du territoire (WIP)
-Les calculs de zones chaude/tempérée/froide/humide devraient rester quelques part pour permettre à chaque tour ces vérification
+Les calculs de zones chaude/tempérée/froide/humide sont en place. L'évolution naturelle du terrain (forêt qui repousse, désert qui s'étend) est partiellement implémentée — la structure existe mais nécessite des ajustements.
 
 ### Partout
  - une case plaine entourée de plaine ou de savane en zone chaude devient une savane

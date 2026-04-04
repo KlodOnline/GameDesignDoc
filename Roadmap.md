@@ -28,16 +28,23 @@ Large. Il faut faire connaitre le jeu un maximum, pour permettre des tests de  c
 - [x] vie et mort des empires, abandon des joueurs
 - [x] "barbares" (IA mobs)
 - [ ] diplomatie : pacte de paix, libre circulation, échange de carte, création de "clans" (alliances large à plusieurs joueurs), messagerie
+  - _Note : Les états diplomatiques (Neutre, Hostile, Guerre, Paix, Allié) et les droits (Passage, Vision, Commerce, Amitié) sont implémentés. Manquent : la messagerie inter-joueurs, les alliances multi-joueurs (clans), et l'échange de carte._
 - [ ] Combats et gestion des combats
+  - _Note : Le système de combat est implémenté (calcul attaque/défense, retraite, rapports de combat, prise de ville). Des ajustements d'équilibrage sont attendus._
 - [ ] Upgrade des unités
 - [ ] Gestion des unités comme élément de la population d'une ville, possibilité de rattacher une unité à une autre ville
 - [ ] Possibilité de dissoudre une unité dans la ville
+  - _Note : L'ordre DISBAND existe mais ne transfère pas les ressources dans la ville._
 - [ ] échange de stuff entre unités et villes d'un autre joueur OU système de marché/vente - commerce : échange de stuff verrouillable pour sceller l'accord
-- [ ] Protection débutant de 2 semaine par défaut 
+- [ ] Protection débutant de 2 semaine par défaut
+  - _Note : Implémentée (14 jours configurables)._
 - [ ] chat global, chat privé de clan, chat de groupe (canal personnalisé), système de log pour le chat, et traçabilité en cas de plainte IRL
-- [ ] Marchand PNJ qui pratique des prix de voleurs, mais permettant d'introduire une monnaie et une valeur de régulation. Personne achètera moins cher que le PNJ et personne vendra plus cher que le PNJ… Donc le PNJ fixe les bornes des prix. Pour éviter l'inflation, mettre au PNJ de l'argent "cloud", afin qu'il ne créé aucune richesse intrinsèque (à étudier en détail) (ou qu'il dispose d'une somme égale à l'or existant divisé par le nombre de joueur ? il faut vraiment creuser le sujet)
+  - _Note : Le serveur chat Socket.io est en place. Manquent : canaux de clan, logs, traçabilité._
+- [ ] Marchand PNJ qui pratique des prix de voleurs, mais permettant d'introduire une monnaie et une valeur de régulation.
+  - _Note : Les constantes et bâtiments de marché sont définis dans la config XML. La logique de marchand PNJ n'est pas encore codée._
 - [ ] Commerce entre joueurs
 - [ ] modération, système permettant à un Modo ou un Dev de se connecter sans jouer, et accès au chat et au logs du jeu
+  - _Note : Un GM GUI existe pour l'administration._
 - [ ] terrain qui changent avec le temps (Cf Le Monde/Vie du territoire)
 - [ ] Missions divine et tableau d'honneur, leaderboard par joueur, par ville, par clan
 - [ ] trêve de la nuit

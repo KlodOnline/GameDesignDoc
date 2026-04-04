@@ -82,8 +82,8 @@ Certains bâtiments avancés permettront de convertir une ressource secondaire e
 
 ### Rareté
 - **1 – Communes** : nourriture, bois, pierre. Nécessaires à toutes les constructions.
-- **2 – Peu communes (vert)** : matériaux pour constructions avancées.
-- **3 – Rares (bleu)** : matériaux pour bâtiments d’importance.
+- **2 – Peu communes (vert)** : minerais (étain, cuivre, fer, etc.), matériaux pour constructions avancées.
+- **3 – Rares (bleu)** : minerais précieux (or, argent, etc.), matériaux pour bâtiments d'importance.
 - **4 – Épiques (violet)** : matériaux pour constructions majeures uniques.
 - **5 – Légendaires (orange)** : ressources mythiques extrêmement rares.
 

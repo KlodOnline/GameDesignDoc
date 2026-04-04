@@ -1,32 +1,33 @@
 # Game Design Document — Système de Diplomatie
 _________
-## 1. Vue d’ensemble
+## 1. Vue d'ensemble
 Le système de diplomatie régit les interactions politiques entre joueurs : déplacements des unités, contrôle territorial, accès aux ressources et coopération militaire ou économique.
 
 Le monde est **non arbitré** :
 - aucune protection automatique,
-- aucune correction d’abus,
+- aucune correction d'abus,
 - la régulation est exclusivement sociale et stratégique.
-- La **seule** protection est celle des débutant, de 15 jours à 1 mois (en définition)
+- La **seule** protection est celle des débutants, de 15 jours (configurable)
 
 La diplomatie repose sur **cinq états relationnels**, progressifs, allant de la destruction totale à la coopération maximale.
+
 ## 2. États Diplomatiques
 
 ### A. GUERRE (War)
 
-Conflit ouvert visant la destruction ou l’annexion de l’adversaire.
+Conflit ouvert visant la destruction ou l'annexion de l'adversaire.
 
 - **Combat** : attaques automatiques à vue.
 - **Conquête** : capture active des territoires.  
-  Si un joueur n’a plus d’unités ni de ville sur un territoire adjacent à l’agresseur, l’intégralité de la zone peut être conquise. (_à définir : problème des villes des forts, etc._)
+  Si un joueur n'a plus d'unités ni de ville sur un territoire adjacent à l'agresseur, l'intégralité de la zone peut être conquise.
 - **Siège & Blocage** :
   - zone de contrôle générée par chaque unité,
-  - blocage de l’exploitation des ressources ennemies,
+  - blocage de l'exploitation des ressources ennemies (via unités statiques),
   - zone physique empêchant le contournement.
 
 ### B. HOSTILE (Hostile)
 
-État de tension extrême et de guerre froide active.  Etat autorisant l’incursion sans combat ouvert, ainsi que le pillage de ressources. HOSTILE est un état de prédation assumée sans engagement total.
+État de tension extrême et de guerre froide active. État autorisant l'incursion sans combat ouvert, ainsi que le pillage de ressources. HOSTILE est un état de prédation assumée sans engagement total.
 
 - **Stand-off (face-à-face)** :  
   pas de combat automatique.  
@@ -54,22 +55,24 @@ Conflit ouvert visant la destruction ou l’annexion de l’adversaire.
 État de coopération négociée, basé sur des droits atomiques.
 
 - **Droit de passage** : traversée libre.
-- **Droit d’exploitation** : accès partagé à certaines ressources.
+- **Droit de vision** : partage de la carte.
 - **Droit commercial** : utilisation des marchés et hôtels des ventes.
+- **Droit d'amitié** : canal de communication.
 
 Aucune protection militaire implicite.
+
 ### E. ALLIÉ (Ally)
 
 Niveau maximal de coopération et seule protection structurelle.
 
 - **Guerre simultanée** :
-  Lorsque votre allié passe hostile, ou en guerre, vous êtes notifiés et pouvez alors suivre ou rompre l'Alliance ! En fait tout les changement de statut d'un des Alliés notifie tout les alliés.
-- **Conflits d’alliances** :
+  Lorsque votre allié passe hostile, ou en guerre, vous êtes notifiés et pouvez alors suivre ou rompre l'Alliance. Tous les changements de statut d'un des Alliés notifient tous les alliés.
+- **Conflits d'alliances** :
   obligation de choisir un camp.
 - **Communication** :
   canal de chat privé commun.
 - **Soutien logistique** :
-  transferts de ressources et dons d’unités.
+  transferts de ressources et dons d'unités.
 
 ## 3. Actions et Commandes Diplomatiques
 
@@ -77,10 +80,12 @@ Niveau maximal de coopération et seule protection structurelle.
 
 - Devenir HOSTILE.
 - Déclarer la GUERRE.
+- Capitulation (RENDRE) — cède tous les territoires contestés.
 - Offrir/Révoquer des droits :
   - libre passage,
-  - construction (camp, fort, tour),
-  - accès aux marchés urbains.
+  - vision (partage de carte),
+  - commerce,
+  - amitié.
 
 ### Accords Mutuels (Validation requise)
 
@@ -93,12 +98,14 @@ Niveau maximal de coopération et seule protection structurelle.
   passage de GUERRE à HOSTILE.
 - **Pacte de Paix** :
   passage direct de GUERRE à NEUTRE.
+- **Alliance** :
+  passage de NEUTRE/PAISIBLE à ALLIÉ.
 
 ## 4. Sortie de Guerre — Le Traité de Paix
 
 La guerre ne se termine jamais unilatéralement  
 (sauf destruction totale).
-### 4.1. Demande d’Armistice
+### 4.1. Demande d'Armistice
 Accord mutuel.
 - **Transition immédiate** : GUERRE → HOSTILE.
 - **Conséquence** :
@@ -127,7 +134,13 @@ Action unilatérale.
 - **Transition immédiate** : GUERRE → HOSTILE.
 - Permet la réorganisation des frontières et des forces.
 
-## 5. Scénarios de Référence
+## 5. Diplomatie PNJ
+
+Les barbares ont une diplomatie automatique :
+- **NEUTRE** avec les joueurs sous protection débutant
+- **GUERRE** avec les joueurs établis
+
+## 6. Scénarios de Référence
 
 ### Scénario : Désescalade
 
@@ -145,7 +158,3 @@ Action unilatérale.
   A accepte,
   ses unités sont reconduites à la frontière,
   les frontières se verrouillent.
-
-## 6. A prévoir :
- - Un LOG des états diplomatique ? En fait la messagerie fera ça.
- - Un délai pour les déclaration unilatérale ? 8h par exemple ? bof...

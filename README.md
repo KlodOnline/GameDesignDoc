@@ -3,8 +3,10 @@ ______
 
 Bienvenue dans le Game Design Document de [Klod Online](https://www.klod-online.com)
 Ce document mixte sert à la fois de référence de conception pour le développement et de base future pour le [wiki public](KlodWiki.md) à destination des joueurs.
+
 ## Contact
 Pour toute contribution ou question, ça se passe sur le [Discord](https://discord.gg/UaQ74pgDQu)!
+
 ## Table des matières
 1. Le Manifeste, dans plusieurs langues :
 	1. [Le Manifeste (FR)](Le%20Manifeste%20(FR).md)
@@ -18,6 +20,9 @@ Pour toute contribution ou question, ça se passe sur le [Discord](https://disco
 7. [Unités](Unités.md)
 8. [Villes](Villes.md)
 9. [Diplomatie](Diplomatie.md)
-10. [Missions](Missions.md)
-11. [API](API.md)
-12. [Liens](Liens.md)
+10. [Conquête de territoires](Conquete%20de%20Territoires.md)
+11. [Zone de contrôle](Zone%20de%20Controle.md)
+12. [Commerce](Commerce.md)
+13. [Missions](Missions.md)
+14. [API](API.md)
+15. [KlodWiki](KlodWiki.md)

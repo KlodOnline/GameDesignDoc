@@ -1,9 +1,14 @@
 # Tour de jeu
 ____
 
-todo:
-- **Cycles de Jeu** - Fonctionnement des tours
-- **Timing** - Durée et synchronisation
+## Cycles de Jeu
+Le jeu fonctionne avec un **TIC** (Tour par Intervalle Constant) de **5 minutes** (300 secondes). Chaque tour, le serveur traite l'ensemble des ordres en attente et met à jour l'état du monde.
+
+## Timing
+- **1 TIC = 5 minutes IRL = 1 heure en jeu**
+- **192 TICs par jour IRL** (avec trêve nocturne de 8h, 128 TICs de gameplay effectif)
+- **1 jour IRL = 8 jours en jeu**
+- **3 mois IRL = ~2 ans de vie en jeu**
 
 ## Principe
 Le principe des tours de jeu est un classique des anciens MMORTS web, le **_TIC_**. Tout les joueurs jouent en même temps, donnent des ordres à leur unités ou leurs villes, et à chaque **_TIC_** le serveur calcule tout ou partie de ces ordres et modifie le monde de jeu. Pendant la durée de cette **_résolution_** le monde est verrouillé et aucun ordre nouveau n'est pris en compte (même si l’interface permet d'en ajouter de nouveau pour la suite).
@@ -11,31 +16,35 @@ Le principe des tours de jeu est un classique des anciens MMORTS web, le **_TIC_
 ## Ordre d'action
 ### Tour des villes
 
-Les villes des joueurs jouent avant les villes des IA si il y en a. Les villes jouent dans cet ordre :
- - Elle produisent des ressources
- - Elle mangent des ressources (nourriture)
- - Les unités et/ou les bâtiments et/ou les aménagement du territoire etc. peuvent avoir un entretien à payer, en nourriture ou autre. Ne pas payer l'entretien dégrade ou détruit l'item concernée (à définir dans les règles) - l'entretien se fait avant la création de choses.
- - Elle avancent leur constructions (conso d'autre ressources)
- - elle croissent si il y a des ressources & nourriture dispo (pour les maisons etc) (à voir, peut être passer ce truc tout les 12 tours )
+Les villes des joueurs jouent avant les villes des IA. Les villes jouent dans cet ordre :
+ - Elles produisent des ressources (exploitation du terrain par les travailleurs)
+ - Elles fabriquent des objets (artisanat)
+ - Elles avancent leurs constructions (bâtiments en cours)
+ - Elles recrutent des unités (file de recrutement)
+ - Elles consomment de la nourriture (entretien de la population)
+ - Elles croissent si ressources et nourriture sont disponibles
+ - Elles vérifient leur niveau et étendent leur territoire
+ - Contre-espionnage : détection passive des espions infiltrés
 
 ### Tour des unités 
-Les unités qui ont survécus au coût d'entretien sont ensuite traitées
- - Les unités dans des zones difficile (désert, banquise) perdent 1 point de moral (/100)
- - les unités très loin de leur ville d'attache perdent 1 point de moral
+Les unités qui ont survécu au coût d'entretien sont ensuite traitées :
+ - Les unités dans des zones difficiles (désert, banquise) perdent 1 point de moral (/100)
+ - Les unités très loin de leur ville d'attache perdent 1 point de moral
  - 0 point de moral = destruction
- - Les unités qui doivent échanger des stock le font
- - les unités qui doivent ramasser des trucs ou en construire le font (production des camps d'ouvrier)
- - les unités qui doivent se déplacer le font. En cas de case occupée, l'ordre et repoussé en fin de pile de résolution
- - les unités qui doivent se déplacer et ont été bloquées le font de nouveau et si elle sont en présence d'un ennemi, attaquent. Si elles sont de nouveau bloquées mais n'ont pas de guerre déclarée avec l'autre unité, elle passent leur tour sans annuler leur ordre, qu'elle retenteront au prochain TIC (attention à ne pas décrémenter l'ordre
- - Les unités qui doivent attaquer attaquent, mais attention aux cas ou deux unités s'attaquent mutuellement. Dans ce cas particulier, 1 seul combat aura lieu, et l'unité ayant le score de "Moral(1à100) + 1D50" a l'initiative : cela veux dire qu'elle attaque si son score d'attaque est plus élevée que son score de défense - ou autrement dit, qu'elle choisi ce qui lui est avantageux.
+ - Les unités qui doivent échanger des stocks le font
+ - Les unités qui doivent ramasser des choses ou en construire le font (production des camps d'ouvrier)
+ - Les unités qui doivent se déplacer le font. En cas de case occupée, l'ordre est repoussé en fin de pile de résolution
+ - Les unités qui doivent se déplacer et ont été bloquées le font de nouveau et si elles sont en présence d'un ennemi, attaquent
+ - Les unités qui doivent attaquer attaquent. Si deux unités s'attaquent mutuellement, un seul combat a lieu, et l'unité ayant le score "Moral(1à100) + 1D50" a l'initiative
  - Une unité qui disparaît laisse choir son loot
 
 ### Tour de l'environnement
- - Une zone humide ou "irriguée mais sans propriétaire" peut se transformer en marais ou en forêt
- - Une route "sans propriétaire" se dégrade, un canal sans propriétaire également
- - Nuance pour les canaux : un canal "isolé" (sans voisin océan, rivière, canal) disparaît instantanément
- - Les loots qui traînent se dégradent (-1% du stack max) (par exemple si le bois se stack par 100, il perd 1 bois par tour (toutes les 5 minutes)
- - Les ressources qui n'ont pas de node de production sont générées aléatoirement sur la map
+ - Les territoires déconnectés sont abandonnés
+ - Les joueurs inactifs sont vérifiés (abandon/défaite)
+ - Les barbares jouent leur tour (déplacement, attaque, conversion)
+ - Les loots qui traînent se dégradent
+ - Les sources de ressources sont générées sur la map
+ - L'évolution du monde est calculée (terrain qui change)
 
 ## Echelle de temps/distance
 Après plusieurs calculs et recherches voici la base de l'échelle :
