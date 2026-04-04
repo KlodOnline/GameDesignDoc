@@ -28,7 +28,7 @@ Large. Il faut faire connaitre le jeu un maximum, pour permettre des tests de  c
 - [x] vie et mort des empires, abandon des joueurs
 - [x] "barbares" (IA mobs)
 - [ ] diplomatie : pacte de paix, libre circulation, échange de carte, création de "clans" (alliances large à plusieurs joueurs), messagerie
-  - _Note : Les états diplomatiques (Neutre, Hostile, Guerre, Paix, Allié) et les droits (Passage, Vision, Commerce, Amitié) sont implémentés. Manquent : la messagerie inter-joueurs, les alliances multi-joueurs (clans), et l'échange de carte._
+  - _Manquent : la messagerie inter-joueurs, les alliances multi-joueurs (clans), et l'échange de carte._
 - [ ] Combats et gestion des combats
   - _Note : Le système de combat est implémenté (calcul attaque/défense, retraite, rapports de combat, prise de ville). Des ajustements d'équilibrage sont attendus._
 - [ ] Upgrade des unités
@@ -36,8 +36,7 @@ Large. Il faut faire connaitre le jeu un maximum, pour permettre des tests de  c
 - [ ] Possibilité de dissoudre une unité dans la ville
   - _Note : L'ordre DISBAND existe mais ne transfère pas les ressources dans la ville._
 - [ ] échange de stuff entre unités et villes d'un autre joueur OU système de marché/vente - commerce : échange de stuff verrouillable pour sceller l'accord
-- [ ] Protection débutant de 2 semaine par défaut
-  - _Note : Implémentée (14 jours configurables)._
+- [x] Protection débutant de 2 semaine par défaut
 - [ ] chat global, chat privé de clan, chat de groupe (canal personnalisé), système de log pour le chat, et traçabilité en cas de plainte IRL
   - _Note : Le serveur chat Socket.io est en place. Manquent : canaux de clan, logs, traçabilité._
 - [ ] Marchand PNJ qui pratique des prix de voleurs, mais permettant d'introduire une monnaie et une valeur de régulation.

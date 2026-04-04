@@ -39,7 +39,7 @@ Les unités peuvent modifier le territoire via des ordres dédiés :
  - Créer des **irrigations** sur les cases adjacentes à une rivière, un océan ou une irrigation existante (bonus de production alimentaire)
  - Construire des **pistes** (2000 points) ou des **routes** pavées (4000 points) pour réduire le coût de déplacement
 
-Les **routes** et les **irrigations** s'usent lorsqu'elles ne sont pas entretenues à un rythme d'**1/tour**.
+Les **pistes** et les **irrigations** s'usent lorsqu'elles ne sont pas entretenues à un rythme d'**1/tour**.
 
 ## Vie du territoire (WIP)
 Les calculs de zones chaude/tempérée/froide/humide sont en place. L'évolution naturelle du terrain (forêt qui repousse, désert qui s'étend) est partiellement implémentée — la structure existe mais nécessite des ajustements.

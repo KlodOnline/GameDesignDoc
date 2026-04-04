@@ -6,7 +6,7 @@ Le jeu fonctionne avec un **TIC** (Tour par Intervalle Constant) de **5 minutes*
 
 ## Timing
 - **1 TIC = 5 minutes IRL = 1 heure en jeu**
-- **192 TICs par jour IRL** (avec trêve nocturne de 8h, 128 TICs de gameplay effectif)
+- **288 TICs par jour IRL** (avec trêve nocturne de 8h, 192 TICs de gameplay effectif)
 - **1 jour IRL = 8 jours en jeu**
 - **3 mois IRL = ~2 ans de vie en jeu**
 
@@ -53,16 +53,6 @@ Après plusieurs calculs et recherches voici la base de l'échelle :
  - **1 TIC vaut 1 heure** pour le jeu
  - Donc, une journée IRL vaut **8 jours** dans le jeu (192 TICs/24)
  - **3 mois IRL** font **17.280** TICS, soit **2 ans de vie** dans le jeu.
-
-Les autres bases potentielles :
-
-| TIC sec | TIC/Jour | 16h Jeu | Jours IG pour 1 jour IRL | TIC sur 3 mois IRL | Années IG en 3 mois | Durée IRL d'une saison IG (jours) |
-| ------- | -------- | ------- | ------------------------ | ------------------ | ------------------- | --------------------------------- |
-| 60      | 960      | 640     | 40                       | 86400              | 9,86                | 2,25                              |
-| 120     | 480      | 320     | 20                       | 43200              | 4,93                | 4,5                               |
-| 180     | 320      | 213     | 13,33                    | 28800              | 3,29                | 6,75                              |
-| 240     | 240      | 160     | 10                       | 21600              | 2,47                | 9                                 |
-| 300     | 192      | 128     | 8                        | 17280              | 1,97                | 11,25                             |
 
 | Durée d’un TIC  | 5 tours | 10 tours | 20 tours | 50 tours | 100 tours |
 | --------------- | ------- | -------- | -------- | -------- | --------- |

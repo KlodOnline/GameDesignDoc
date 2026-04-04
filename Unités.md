@@ -27,7 +27,7 @@ Certains ordres permettent d'**aménager le terrain** (Cf. [Monde](Monde.md))
 Il existe différents types d'unités, classés en catégories :
  - **Combat** : unités militaires pour la guerre, forts, tours d'observation
  - **Transport** : unités avec un grand inventaire pour déplacer des ressources
- - **Ouvrières** : fermiers, bûcherons, mineurs — modifient le terrain et exploitent des ressources
+ - **Ouvrières** : fermiers, bûcherons, mineurs: modifient le terrain et exploitent des ressources
  - **Navales** : transportent des biens et des unités sur les mers, apportent la guerre sur l'eau
  - **Espionnage** : infiltrations de villes ennemies
 
@@ -49,10 +49,9 @@ Couramment nommé **FOV** ("field of view"), c'est le nombre de cases (rayon) qu
 ### Moral
 C'est l'équivalent de la vie des unités, sur une échelle de 0 à 100. Lorsque l'unité tombe à 0, elle disparaît.
 #### Actuellement
- - Les unités consomment de la nourriture pour maintenir leur moral. Sans nourriture, le moral baisse.
- - Dans le désert ou la banquise : -1pt par tour si l'unité n'est pas en mouvement
+ - Dans le désert ou la banquise : -1pt par tour
  - 0 moral = destruction de l'unité
-#### À faire
+#### À faire ?
  - Trêve nocturne en terrain hostile : -10 points au moment de la trêve
  - Première victoire du jour = +25 moral (cap 100)
 
@@ -97,5 +96,3 @@ L'infiltration se fait via l'ordre **MORPH** lorsque l'espion est physiquement p
 
 ### À faire
  - **Missions d'espionnage** (sabotage, assassinat, vol de ressources)
- - **Réseaux d'espions** (un espion peut gérer plusieurs villes)
- - **Espionnage économique** (voir les ressources, les échanges commerciaux)
