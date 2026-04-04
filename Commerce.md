@@ -1,4 +1,4 @@
-# Commerces
+# Commerce
 _______
 ## Principe
  - Le commerce ne doit pas casser le côté **logistique** de Klod Online. Il faut transporter des ressources !

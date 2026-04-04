@@ -84,20 +84,18 @@ Niveau maximal de coopération et seule protection structurelle.
 
 ### Accords Mutuels (Validation requise)
 
-- **Déclaration de Bonne Intention** :
+- **Traité de Paix (Peace Treaty)** :
   passage de HOSTILE à NEUTRE.
-- **Règle de retrait** :
-  les unités en incursion peuvent sortir,
-  toute nouvelle entrée est interdite.
+- **Accords et Droits (Deals)** :
+  passage possible de NEUTRE à PAISIBLE si accordé (ex: libre passage, commerce, amitié).
 - **Armistice** :
   passage de GUERRE à HOSTILE.
-- **Pacte de Paix** :
-  passage direct de GUERRE à NEUTRE.
+- **Alliance** :
+  passage de PAISIBLE à ALLIÉ.
 
 ## 4. Sortie de Guerre — Le Traité de Paix
 
-La guerre ne se termine jamais unilatéralement  
-(sauf destruction totale).
+La guerre ne se termine jamais unilatéralement (sauf par reddition), elle requiert de descendre les paliers.
 ### 4.1. Demande d’Armistice
 Accord mutuel.
 - **Transition immédiate** : GUERRE → HOSTILE.
@@ -112,20 +110,17 @@ Accord mutuel.
 
 Accord mutuel.
 
-- **Transition** : GUERRE → NEUTRE.
+- **Transition** : HOSTILE → NEUTRE.
 - **Nettoyage territorial** :
-  - toutes les unités présentes en territoire adverse sont poussées vers la frontière la plus proche,
-  - ou doivent avoir été évacuées préalablement via HOSTILE + Déclaration de Bonne Intention.
+  - toutes les unités présentes en territoire adverse sont poussées vers la frontière la plus proche virtuellement par le gameplay (le moteur bloque leurs actions hostiles).
 
 Les frontières redeviennent strictement verrouillées.
 ### 4.3. Reddition (Capitulation)
 
 Action unilatérale.
 
-- Le joueur cède tous ses territoires contestés
-  (ceux sans troupes ni villes).
 - **Transition immédiate** : GUERRE → HOSTILE.
-- Permet la réorganisation des frontières et des forces.
+- **Conséquence technique** : Le joueur s'avoue vaincu. Par code, la relation repasse immédiatement sur "HOSTILE". Cela n'abandonne pas informatiquement les territoires, mais force l'arrêt des combats directs, permettant la réorganisation des frontières et des forces.
 
 ## 5. Scénarios de Référence
 
