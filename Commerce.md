@@ -4,7 +4,6 @@ _______
 L'échange de ressources entre entités sur la **même case** est implémenté (unités ↔ unités, unités ↔ villes, unités ↔ loot). Le commerce entre joueurs et le système de marché avec PNJ marchand **ne sont pas encore implémentés**.
 
 ## Échange local
-L'échange de ressources entre entités sur la **même case** est un **ordre** soumis au TIC. Il n'est pas instantané.  
 Une unité peut transférer des objets avec une autre unité, une ville ou un loot présent sur la même case.  
 L'échange vérifie uniquement :
 - que la cible a de la place
