@@ -6,31 +6,30 @@ _______
  - Les joueurs doivent être plus que **neutre** pour cela, un **accord commercial** doit être signé.
 
 ## Bâtiments
- - Etal (ou Marché) :
+ - Marché (Marketplace) :
 	 - 1 slot PNJ Magique
 	 - 2 slots PJ d'achat ou de vente
- - Grande Place du marché
-	 - 2 slot PNJ Magique
+ - Marché Moyen (Medium Market)
+	 - 2 slots PNJ Magique
 	 - 4 slots PJ d'achat ou de vente
- - Grand marché couvert
-	 - 3 slot PNJ Magique
+ - Grand Marché (Big Market)
+	 - 3 slots PNJ Magique
 	 - 8 slots PJ d'achat ou de vente
 
-Chaques slot sont paramétrables en achat ou en vente, PNJ comme PJ
-Chaque slot PJ permet de programmer des échanges contre 1 ressource en troc ou un prix en argent, paramètrable pour ce slot On peut interdire un des deux usages cependant
+Chaque slot est paramétrable en achat ou en vente, PNJ comme PJ.
+Chaque slot PJ permet de programmer des échanges contre 1 ressource en troc ou un prix en argent, paramétrable pour ce slot. On peut interdire un des deux usages cependant.
 
-Les slots "PNJ magique" ne sont connus que du joueur (et des espions) il peux acheter ou vendre n'importe quoi, mais globalement vend pour 100x sa valeur et achete pour /100 de sa valeur. (par exemple, il achète 100 éléphants pour 1PA ou vend 1500 bois pour 750 PC)
+Les slots "PNJ magique" (Marchand de la ville) ne sont connus que du joueur (et des espions). Il peut acheter ou vendre n'importe quelle ressource. Il convertit automatiquement une ressource en argent. 
+Le PNJ "magique" propose des prix voleurs : il achète pour `/10` de la valeur de base et vend pour `x10` la valeur de base. Ses échanges sont calculés automatiquement pour atteindre au moins 1 Pièce de Cuivre.
 
-## Marchand PNJ
-Un marchand PNJ "magique" qui converti automatiquement une ressource en argent, à un rythme lent et un cout de voleur (exemle : 100 bois genre une piece de cuivre par tour)
-Le PNH Marchand a "portefeuille magjque global". Il ne génère pas d'argent, il utilise se portefeuille. Il randomise sont "client".
 ## Monnaie
- - Les joueurs peuvent créer des pièces de cuivre, d'argent, ou d'or
- - La somme de travail est fixe, la valeur des monnaies est définie dans les règles du jeu
- - On peux fondre des pièces pour en refaire des lingots ! (via la fonderie adaptée) **sauf** les PP (pièce de pierre)
- - Pour commencer, le ratio : 1 PO = 10 PA = 250 PC = 5000 PP est proposé.
-	 - 1 PA = 25 PC = 500 PP
-	 - 1PC = 20 PP
+ - Les joueurs peuvent créer des pièces de cuivre (CC), d'argent (SC), ou d'or (GC) via le bâtiment Hôtel de la Monnaie (Mint).
+ - La valeur des monnaies est définie dans les règles du jeu.
+ - On peut fondre des pièces pour en refaire des lingots (via la fonderie adaptée).
+ - Le ratio implémenté est :
+	 - 1 Pièce d'Or (PO/GC) = 10 Pièces d'Argent (PA/SC) = 2500 Pièces de Cuivre (PC/CC).
+	 - 1 Pièce d'Argent (PA/SC) = 250 Pièces de Cuivre (PC/CC).
+ - *Note: Le concept de Pièce de Pierre (PP) n'est pas implémenté.*
 
 ## Plus tard ...
-Permettre de "battre monnaie" ? Est ce utile ou intelligent d'un point de vue du gameplay ? Pour le moment c'est inutile, à voir plus tard.
+Permettre de "battre monnaie" manuellement ? Est-ce utile ou intelligent d'un point de vue du gameplay ? Pour le moment c'est inutile, à voir plus tard.
