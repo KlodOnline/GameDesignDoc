@@ -78,9 +78,6 @@ Les habitants sans affectation (oisifs) génèrent des **points de culture**. To
 ## Inventaire
 Au départ, il est de **16** slots, et il est destiné à s'agrandir avec des bâtiments jusqu'à **64** slots.
 
-## File de construction (à implémenter)
-Permettre de planifier au moins une construction de plus par ville, pour anticiper les bâtiments futurs.
-
 ## Garnison
 Les unités militaires présentes dans une ville la défendent automatiquement en cas d'attaque. Les bâtiments de fortification ajoutent un bonus défensif (+1/+2/+3 selon le niveau) aux combats de défense.
 
