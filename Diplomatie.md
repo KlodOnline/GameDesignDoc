@@ -55,7 +55,6 @@ Conflit ouvert visant la destruction ou l'annexion de l'adversaire.
 État de coopération négociée, basé sur des droits atomiques.
 
 - **Droit de passage** : traversée libre.
-- **Droit de vision** : partage de la carte.
 - **Droit commercial** : utilisation des marchés et hôtels des ventes.
 - **Droit d'amitié** : canal de communication.
 

@@ -1,13 +1,13 @@
-# Commerces (Partiellement implémenté)
+# Commerce
 _______
 ## État actuel
-L'échange de ressources entre entités sur la **même case** est implémenté (unités ↔ unités, unités ↔ villes, unités ↔ loot). Le commerce à distance et le système de marché avec PNJ marchand **ne sont pas encore implémentés**.
+L'échange de ressources entre entités sur la **même case** est implémenté (unités ↔ unités, unités ↔ villes, unités ↔ loot). Le commerce entre joueurs et le système de marché avec PNJ marchand **ne sont pas encore implémentés**.
 
 ## Échange local
 Une unité peut transférer des objets avec une autre unité, une ville ou un loot présent sur la même case.  
 L'échange vérifie uniquement :
 - que la cible a de la place
-- qu'elle appartient au même joueur ou est neutre
+- qu'elle appartient au même joueur ou à aucun
 
 ## Principe (à implémenter)
  - Le commerce ne doit pas casser le côté **logistique** de Klod Online. Il faut transporter des ressources !
