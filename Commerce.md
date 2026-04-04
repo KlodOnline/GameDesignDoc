@@ -4,10 +4,13 @@ _______
 L'échange de ressources entre entités sur la **même case** est implémenté (unités ↔ unités, unités ↔ villes, unités ↔ loot). Le commerce entre joueurs et le système de marché avec PNJ marchand **ne sont pas encore implémentés**.
 
 ## Échange local
+L'échange de ressources entre entités sur la **même case** est un **ordre** soumis au TIC. Il n'est pas instantané.  
 Une unité peut transférer des objets avec une autre unité, une ville ou un loot présent sur la même case.  
 L'échange vérifie uniquement :
 - que la cible a de la place
-- qu'elle appartient au même joueur ou à aucun
+- qu'elle appartient au même joueur ou à aucun joueur (loot)
+
+**Note** : Si un échange est tenté avec un joueur non-allié/non-amical, le jeu doit afficher clairement que l'action est impossible.
 
 ## Principe (à implémenter)
  - Le commerce ne doit pas casser le côté **logistique** de Klod Online. Il faut transporter des ressources !

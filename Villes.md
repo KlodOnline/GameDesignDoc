@@ -57,6 +57,13 @@ Si le terrain a une _Source_ spéciale, il produit **en plus** de sa production 
 ## Recrutement
 Le recrutement se fait via une file d'attente. Chaque unité a un coût en ressources et en population. La ville produit les unités dans l'ordre de la file, automatiquement, tant que les ressources sont disponibles. Si les ressources manquent pour l'unité en tête de file, elle passe à la suivante et remet celle-ci en fin de file.
 
+**Règle de spawn des colons** : Le jeu ne génère un colon automatiquement que si le joueur n'a **aucune ville ET aucun colon** sur la carte.
+
+**Temps de création des colons** : La durée de fabrication d'un colon augmente avec la population totale du royaume du joueur.
+
+### Colon en ville (à implémenter)
+Permettre à un colon de s'installer dans une ville existante, ajoutant sa population à celle de la ville au lieu de fonder une nouvelle ville.
+
 ## Bâtiments
 Un bâtiment est créé dans une ville, à l'aide de ressources plus ou moins importantes et pendant plus ou moins de temps. 
 Le calcul de base est "total des ressources additionnées = NB de TIC".
@@ -65,8 +72,14 @@ La ville a un nombre de "slots" de bâtiments maximum, en fonction de ses habita
 Donc une ville peut à la fois tout faire, et en même temps non, car elle ne peut pas faire n'importe quel bâtiment — cela dépend de ce qui a été fait par le passé.
 Les arbres de bâtiments sont définissables dans les règles du jeu et peuvent donc être différents d'un serveur à l'autre.
 
+### Points de Culture (à implémenter)
+Les habitants sans affectation (oisifs) génèrent des **points de culture**. Tous les 100 points, un point de culture est gagné, permettant de débloquer des progrès avancés.
+
 ## Inventaire
 Au départ, il est de **16** slots, et il est destiné à s'agrandir avec des bâtiments jusqu'à **64** slots.
+
+## File de construction (à implémenter)
+Permettre de planifier au moins une construction de plus par ville, pour anticiper les bâtiments futurs.
 
 ## Garnison
 Les unités militaires présentes dans une ville la défendent automatiquement en cas d'attaque. Les bâtiments de fortification ajoutent un bonus défensif (+1/+2/+3 selon le niveau) aux combats de défense.

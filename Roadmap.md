@@ -50,6 +50,27 @@ Large. Il faut faire connaitre le jeu un maximum, pour permettre des tests de  c
 - [ ] Saisons !
 - [ ] révision du GUI pour un truc beau et surtout unifié / cohérent (mais là faudra du budget)
 
+#### Affinages et compléments de gameplay
+- [ ] **Espionnage avancé** : détection de l'espion en mouvement sur case adverse, limite d'un espion infiltré par ville, les espions invisibles ne comptent pas dans le "crowded", rumeurs d'intrusion améliorées (préciser civil/militaire, pas d'alerte pour alliés, pas pour unités invisibles)
+- [ ] **Ordre "greffe"** : grouper des unités qui se déplacent ensemble à la vitesse de la plus lente
+- [ ] **Distinguer ordre MOVE et ATTAQUE** : séparer clairement le déplacement de l'attaque dans l'interface
+- [ ] **Échange en tant qu'ordre** : transformer l'échange de ressources en ordre soumis au TIC (pas instantané)
+- [ ] **File de construction** : permettre de planifier au moins une construction de plus par ville
+- [ ] **Points de Culture** : les oisifs génèrent de la culture, seuils de déblocage pour progrès avancés
+- [ ] **Moral des unités en ville** : les villes remontent le moral des unités présentes, même sans nourriture, sauf en cas de famine
+- [ ] **Règle de spawn des colons** : le jeu ne génère un colon que si le joueur n'a aucune ville ET aucun colon
+- [ ] **Irrigation interdite sur les cases de ville**
+- [ ] **Unités civiles à 0 en attaque** : les civils ne peuvent pas attaquer
+- [ ] **Multi-bateau au choix** : faciliter l'embarquement quand plusieurs navires sont sur la même case (icône inventaire plein)
+- [ ] **Traité d'amitié étendu** : permet de voir toutes les relations diplomatiques de son ami
+- [ ] **Suppression multiple de mails**
+- [ ] **Classement et stats joueurs** : pouvoir cliquer sur un joueur pour voir ses statistiques (utile pour la diplomatie)
+- [ ] **Options/Divinités** : nouveau menu de sélection de divinité
+- [ ] **Génération spontanée de pistes** sur la carte
+- [ ] **Option "cabotage"** : permettre aux bateaux de longer les côtes pour éviter la haute mer
+- [ ] **Easter egg** : case spéciale avec référence à Poulpe au milieu de l'océan
+- [ ] **Événements : les Harukans** — tempêtes qui diminuent la production des villes, disbloquent les unités civiles, endommagent les bâtiments, et créent des unités militaires sauvages
+
 ## Version 1.0
 ### Objectif
 Code debuggé, minifié, sécurisé, légalisé, fonctionnel.

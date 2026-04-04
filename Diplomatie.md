@@ -54,9 +54,10 @@ Conflit ouvert visant la destruction ou l'annexion de l'adversaire.
 
 État de coopération négociée, basé sur des droits atomiques.
 
-- **Droit de passage** : traversée libre.
+- **Droit de passage** : traversée libre. Les unités civiles peuvent traverser sans conquérir de territoire, mais ne peuvent pas exploiter les ressources.
+- **Droit de vision** : partage de la carte.
 - **Droit commercial** : utilisation des marchés et hôtels des ventes.
-- **Droit d'amitié** : canal de communication.
+- **Droit d'amitié** : canal de communication. Permet également de voir toutes les relations diplomatiques de son ami.
 
 Aucune protection militaire implicite.
 
@@ -133,7 +134,10 @@ Les barbares ont une diplomatie automatique :
 - **NEUTRE** avec les joueurs sous protection débutant
 - **GUERRE** avec les joueurs établis
 
-## 6. Scénarios de Référence
+## 6. Missi Dominici (à implémenter)
+Unités diplomatiques spéciales capables d'**acheter des unités adverses contre de l'or**. Mécanisme de corruption militaire par la diplomatie plutôt que par la force.
+
+## 7. Scénarios de Référence
 
 ### Scénario : Désescalade
 

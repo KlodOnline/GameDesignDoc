@@ -23,6 +23,8 @@ Un panneau de confirmation s'affichera. Pour tous les ordres permettant le mouve
 
 Certains ordres permettent d'**aménager le terrain** (Cf. [Monde](Monde.md))
 
+**Important** : Les ordres de **déplacement** et d'**attaque** sont distincts. Un ordre de mouvement amène l'unité vers sa destination sans intention d'attaquer. Un ordre d'attaque cible explicitement une unité ou ville ennemie.
+
 ## Types d'unités
 Il existe différents types d'unités, classés en catégories :
  - **Combat** : unités militaires pour la guerre, forts, tours d'observation
@@ -38,6 +40,9 @@ Les unités ont des caractéristiques :
 Les unités ont un score de _déplacement_ de **2 à 4** (Fast=2 / Medium=3 / Slow=4).
 Les terrains ont un score de **1 à 5** (Easy=1 / Medium=2 / Medium-Hard=3 / Hard=4 / Very Hard=5).
 L'addition du score de l'unité et du score de terrain donne le **nombre de tours** nécessaire au passage à la case suivante. Les **routes** réduisent ce coût de 1. Le score final est compris entre **1 et 12** tours (soit entre 5 minutes et 1 heure avec le TIC de 5 minutes).
+
+#### Ordre "greffe" (à implémenter)
+Permet de grouper plusieurs unités pour un déplacement simultané. Le groupe se déplace à la vitesse de l'unité la plus lente. Utile pour escorter des unités civiles avec des militaires.
 #### À faire
  - La nuit, tous les ordres de mouvements seront figés (de 22h00 à 7h00?), même si le jeu fonctionne et est accessible. Cela permet d'éviter la victoire automatique des no-life.
  - Les unités navales ne peuvent aller sur la terre, sauf les villes qui sont considérées comme des ports dès qu'elles sont en bord d'océan ou de rivière.
@@ -51,7 +56,8 @@ C'est l'équivalent de la vie des unités, sur une échelle de 0 à 100. Lorsque
 #### Actuellement
  - Dans le désert ou la banquise : -1pt par tour
  - 0 moral = destruction de l'unité
-#### À faire ?
+ - Les unités dans une ville voient leur moral remonté par la présence de la ville, même sans nourriture en stock (sauf si la ville est en famine)
+#### À faire
  - Trêve nocturne en terrain hostile : -10 points au moment de la trêve
  - Première victoire du jour = +25 moral (cap 100)
 
@@ -72,8 +78,12 @@ Le combat utilise les scores d'attaque et de défense des unités, combinés aux
 
 Les combats génèrent des rapports détaillés envoyés aux deux joueurs. Les unités perdantes peuvent tenter de battre en retraite. Si une ville n'est pas défendue par d'unités militaires, elle peut être capturée directement.
 
+**Règle importante** : Les unités civiles ont un score d'attaque de **0**. Elles ne peuvent pas attaquer.
+
 ## Inventaire
 Les unités disposent d'un **inventaire** avec un nombre de slots qui va de **0 à 8+** selon le type. Lorsqu'elles meurent, elles laissent sur place un **loot** qui se dégrade avec le temps **(-1 item/tour)**.
+
+Le loot d'une unité morte contient les ressources qui ont servi à la construire, avec une part d'aléatoire.
 
 ## Campement
 La plupart des unités civiles ont un ordre de "camper"/"fortifier" qui les transforme en structures statiques : camp de fermier, camp de bûcheron, camp de mineur, fort en bois, etc.
@@ -93,6 +103,15 @@ L'infiltration se fait via l'ordre **MORPH** lorsque l'espion est physiquement p
  - Si détecté, l'espion infiltré est détruit
  - L'espion peut se dés-infiltrer à tout moment avec l'ordre **MORPH** (retour à l'état espion normal)
  - Si la ville est capturée ou détruite, l'espion infiltré redevient un espion normal
+ - **Limite** : un seul espion infiltré par ville
+ - Les espions invisibles ne comptent pas dans le calcul de "case occupée" (crowded) pour les joueurs qui ne les possèdent pas
+ - **Détection en mouvement** : un espion qui se déplace sur une case contenant des unités adverses risque d'être détecté
+ - **Rumeurs d'intrusion** : la ville notifie son propriétaire d'une suspicion d'intrusion
+   - Les alliés ne déclenchent pas de rumeurs
+   - La rumeur précise si l'intrus est militaire ou civil
+   - Les unités invisibles (espions non infiltrés) ne génèrent aucune rumeur
 
 ### À faire
  - **Missions d'espionnage** (sabotage, assassinat, vol de ressources)
+ - **Réseaux d'espions** (un espion peut gérer plusieurs villes)
+ - **Espionnage économique** (voir les ressources, les échanges commerciaux)
