@@ -41,19 +41,16 @@ Les unités peuvent modifier le territoire via des ordres dédiés :
 
 Les **pistes** et les **irrigations** s'usent lorsqu'elles ne sont pas entretenues à un rythme d'**1/tour**.
 
-### Option "cabotage" (à implémenter)
-Permet aux bateaux de longer les côtes automatiquement pour éviter la haute mer.
-
 ## Vie du territoire (WIP)
 Les calculs de zones chaude/tempérée/froide/humide sont en place. L'évolution naturelle du terrain (forêt qui repousse, désert qui s'étend) est partiellement implémentée — la structure existe mais nécessite des ajustements.
 
-### Événements : les Harukans (à implémenter)
+### Événements : Catastrophes naturelles
 Tempêtes qui frappent aléatoirement le monde. Effets sur 1 rayon autour de l'impact :
  - Diminution de la production des villes (bois/pierre/nourriture)
- - Disband des unités civiles
- - Ralentissement des unités militaires
- - Les bâtiments perdent 1-5 HP par tour (sauf Tier 0)
- - Création spontanée d'unités militaires sauvages et d'armement
+ - Disband des unités civiles ?
+ - Ralentissement des unités militaires ?
+ - Les bâtiments perdent 1-5 HP par tour (sauf Tier 0) ? 
+ - Création spontanée d'unités militaires sauvages et d'armement ?
 
 ### Génération spontanée de pistes
 Des pistes peuvent apparaître spontanément sur la carte au fil du temps.
