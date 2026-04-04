@@ -11,7 +11,7 @@ Comme dans beaucoup de 4X, le jeu propose
  - Exploration de la map par joueur
  - Brouillard de guerre en fonction du champ de vue des unités et des villes, et du terrain
  - Création d'unités, création de villes
- - Combats, alliances, commerce local (même case)
+ - Combats, alliances, commerce local
  - Une IA de barbares qui patrouille et attaque les joueurs établis
  - Une gestion des villes fine, avec ressources, croissance de la population, bâtiments, artisanat et technologie
 

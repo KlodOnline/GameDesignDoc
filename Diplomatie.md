@@ -82,7 +82,6 @@ Niveau maximal de coopération et seule protection structurelle.
 - Capitulation (RENDRE) — cède tous les territoires contestés.
 - Offrir/Révoquer des droits :
   - libre passage,
-  - vision (partage de carte),
   - commerce,
   - amitié.
 
@@ -115,26 +114,21 @@ Accord mutuel.
   ou rester en incursion pour maintenir la pression.
 
 ### 4.2. Traité de Paix Définitif
-
 Accord mutuel.
-
-- **Transition** : GUERRE → NEUTRE.
+- **Transition** : HOSTILE → NEUTRE.
 - **Nettoyage territorial** :
-  - toutes les unités présentes en territoire adverse sont poussées vers la frontière la plus proche,
-  - ou doivent avoir été évacuées préalablement via HOSTILE + Déclaration de Bonne Intention.
+  - Possible seulement si les deux joueurs n'ont plus d'unité sur le territoire de l'autre
 
 Les frontières redeviennent strictement verrouillées.
 ### 4.3. Reddition (Capitulation)
-
+**CECI N'EST PAS CLAIR ET PAS ENCORE IMPLEMENTE, A REVOIR !!**
 Action unilatérale.
-
 - Le joueur cède tous ses territoires contestés
   (ceux sans troupes ni villes).
 - **Transition immédiate** : GUERRE → HOSTILE.
 - Permet la réorganisation des frontières et des forces.
 
 ## 5. Diplomatie PNJ
-
 Les barbares ont une diplomatie automatique :
 - **NEUTRE** avec les joueurs sous protection débutant
 - **GUERRE** avec les joueurs établis
