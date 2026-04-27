@@ -13,7 +13,6 @@ C’est le pivot du jeu. Le joueur n'est plus un débutant, il attire l'attentio
 - **Le défi :** Pour prouver sa valeur, il doit ériger un bâtiment spécifique (Forge 2, Marché 2, etc.) dans la ville de son choix.
 - **Le Serment :** En terminant ce bâtiment, la ville devient son **Sanctuaire**. Il choisit alors sa divinité (Simple ou Hybride).
 - **L’impact :** Ce choix débloque son "style de jeu". Un joueur de **Toran** (Commerce) verra des quêtes d'exploration et de richesse, tandis qu'un joueur de **Kael** (Guerre) recevra des ordres de conquête.
-    
 
 ## 3. Le Régime des Quêtes Divines (Le Coeur du Jeu)
 
