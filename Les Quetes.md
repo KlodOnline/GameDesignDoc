@@ -1,6 +1,8 @@
 _____
 Voici le pitch du système de quêtes de **Klod**, structuré pour transformer un simple joueur en une légende vivante au sein d'un monde persistant. L'idée centrale, c'est **l'entonnoir** : on part d'un tutoriel classique pour finir dans une guerre de divinités où chaque joueur ne joue pas forcément au même jeu.
 
+
+
 ---
 ## 1. La Phase d'Éveil (Le Tutoriel)
 - **L'interlocuteur :** La Mascotte (un petit esprit, un vieux sage, ou un scribe).
