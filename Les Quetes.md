@@ -10,6 +10,7 @@ Voici le pitch du système de quêtes de **Klod**, structuré pour transformer u
 - **La mécanique :** C’est une ligne droite. Tout le monde fait la même chose.
 - **La fin de phase :** Elle s'arrête quand le joueur est capable de produire ses premières ressources de palier 2 (le "Bleu"). À ce stade, le joueur connaît les trois piliers : **Guerre, Artisanat, Commerce**.
 
+1 -> 2
 ## 2. La Quête du Sanctuaire (Le Grand Choix)
 C’est le pivot du jeu. Le joueur n'est plus un débutant, il attire l'attention des Dieux.
 - **Le défi :** Pour prouver sa valeur, il doit ériger un bâtiment spécifique (Forge 2, Marché 2, etc.) dans la ville de son choix.
