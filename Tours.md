@@ -14,8 +14,6 @@ Le jeu fonctionne avec un **TIC** (Tour par Intervalle Constant) de **5 minutes*
 Le principe des tours de jeu est un classique des anciens MMORTS web, le **_TIC_**. Tout les joueurs jouent en même temps, donnent des ordres à leur unités ou leurs villes, et à chaque **_TIC_** le serveur calcule tout ou partie de ces ordres et modifie le monde de jeu. Pendant la durée de cette **_résolution_** le monde est verrouillé et aucun ordre nouveau n'est pris en compte (même si l'interface permet d'en ajouter de nouveau pour la suite).
 **Pour faciliter tout le système de jeu, il faut trouver moyen de rendre toute action dans l'interface comme un "ordre" soumis au TIC.**. Même les actions "évidentes" comme renommer une ville ou décharger quelque chose de l'inventaire.
 
-### Pré-verrouillage (à implémenter)
-Un verrouillage partiel **3 secondes avant le tour** permet de figer les unités concernées et de rafraîchir le client, afin que le joueur voie clairement quels ordres seront pris en compte.
 ## Ordre d'action
 ### Tour des villes
 
@@ -29,11 +27,12 @@ Les villes des joueurs jouent avant les villes des IA. Les villes jouent dans ce
  - Elles vérifient leur niveau et étendent leur territoire
  - Contre-espionnage : détection passive des espions infiltrés
 
-### Tour des unités 
+### Tour des unités
 Les unités qui ont survécu au coût d'entretien sont ensuite traitées :
  - Les unités dans des zones difficiles (désert, banquise) perdent 1 point de moral (/100)
- - Les unités très loin de leur ville d'attache perdent 1 point de moral
  - 0 point de moral = destruction
+
+> **Note** : La pénalité pour unités loin de leur ville d'attache a été abandonnée pour le moment, mais peut revenir ultérieurement.
  - Les unités qui doivent échanger des stocks le font
  - Les unités qui doivent ramasser des choses ou en construire le font (production des camps d'ouvrier)
  - Les unités qui doivent se déplacer le font. En cas de case occupée, l'ordre est repoussé en fin de pile de résolution

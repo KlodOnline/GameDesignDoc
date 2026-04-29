@@ -33,8 +33,8 @@ Chaque slot PJ permet de programmer des échanges contre 1 ressource en troc ou 
 Les slots "PNJ magique" (Marchand de la ville) ne sont connus que du joueur (et des espions). Il peut acheter ou vendre n'importe quelle ressource. Il convertit automatiquement une ressource en argent. 
 Le PNJ "magique" propose des prix voleurs : il achète pour `/10` de la valeur de base et vend pour `x10` la valeur de base.
 
-## Monnaie (configuré mais non implémenté)
+## Monnaie
  - Les joueurs pourront créer des pièces de cuivre (CC), d'argent (SC), ou d'or (GC) via le bâtiment Hôtel de la Monnaie (Mint).
- - Le ratio prévu est :
-	 - 1 Pièce d'Or (PO/GC) = 10 Pièces d'Argent (PA/SC) = 2500 Pièces de Cuivre (PC/CC).
-	 - 1 Pièce d'Argent (PA/SC) = 250 Pièces de Cuivre (PC/CC).
+ - Le ratio est :
+ 	 - 1 Pièce d'Or (PO/GC) = 10 Pièces d'Argent (PA/SC) = 2500 Pièces de Cuivre (PC/CC).
+ 	 - 1 Pièce d'Argent (PA/SC) = 250 Pièces de Cuivre (PC/CC).

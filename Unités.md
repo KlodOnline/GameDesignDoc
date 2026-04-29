@@ -57,9 +57,7 @@ C'est l'équivalent de la vie des unités, sur une échelle de 0 à 100. Lorsque
  - Dans le désert ou la banquise : -1pt par tour
  - 0 moral = destruction de l'unité
  - Les unités dans une ville voient leur moral remonté par la présence de la ville, même sans nourriture en stock (sauf si la ville est en famine)
-#### À faire
- - Trêve nocturne en terrain hostile : -10 points au moment de la trêve
- - Première victoire du jour = +25 moral (cap 100)
+> **Note** : La trêve nocturne et le bonus de première victoire ont été abandonnés.
 
 ## Zone de contrôle (ZoC)
 Cf. [Zone de contrôle](Zone%20de%20Controle.md)
