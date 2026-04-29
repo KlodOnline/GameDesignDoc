@@ -125,7 +125,7 @@ Si la ville Sanctuaire est **capturée** ou **rasée** :
 
 ## 4. La Chaîne d'Initiation (Quêtes 1-7)
 
-Ces quêtes teachent les bases du jeu sans engagement divin. Elles sont identiques pour tous les joueurs.
+Ces quêtes apprennent les bases du jeu sans engagement divin. Elles sont identiques pour tous les joueurs.
 
 | # | ID | Objectif | Checker | Dieu | Reward rep |
 |---|-----|----------|---------|------|------------|
