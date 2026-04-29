@@ -217,6 +217,8 @@ public function designateSanctuary(City $city, array $chosenDeities): void {
 private function getAvailableDeities(City $city): array {
     $t2Buildings = $city->getBuildings()->filter(fn($b) => $b->tier === 2);
     $deities = [];
+    // NOTE: Les types de bâtiments ci-dessous sont des placeholders.
+    // TODO: Remplacer par les IDs réels des bâtiments T2 les plus coûteux/significatifs de chaque arbre.
     if ($t2Buildings->any(fn($b) => $b->type === 'guardhouse')) $deities[] = 'kael';
     if ($t2Buildings->any(fn($b) => $b->type === 'workshop')) $deities[] = 'erya';
     if ($t2Buildings->any(fn($b) => $b->type === 'market')) $deities[] = 'toran';

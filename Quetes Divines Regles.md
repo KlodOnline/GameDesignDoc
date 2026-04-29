@@ -305,11 +305,11 @@ if ($deities === ['all']) {
 ## 10. Questions Ouvertes
 
 1. **Nom du Dieu des Dieux** — Le Chroniqueur ? L'Ancien ? Klod ?
-2. **Changement de divinité** — Cooldown ? Perte de réputation ?
+2. **Changement de divinité** — Cooldown ? Perte de réputation ? (Retrait = -50% déjà défini)
 3. **Nombre de quêtes actives simultanées** — 1 seule ? 3 ? Illimité ?
 4. **Quêtes "relative" (PvP)** — Ranking temps réel ou par tour ?
 5. **Récompenses uniques** — Items spéciaux par dieu ? Titres ? Cosmetics ?
 6. **Quêtes cycliques** — daily/weekly ?
 7. **Difficulté progressive** — Scaling des récompenses ?
 8. **Impact "Dieu dominant"** — Buff global pour les fidèles du dieu en tête ?
-9. **Sanctuaire unique ou multiple** — Une seule ville peut-elle être Sanctuaire ?
+9. **Bâtiments T2 exacts** — Quels sont les bâtiments les plus coûteux/significatifs de chaque arbre ? (À déterminer dans buildings.xml)

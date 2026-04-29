@@ -38,13 +38,13 @@ Trois divinités rivalisent pour gagner la faveur du **Dieu des Dieux** :
 - **Condition:** Cette ville doit contenir au moins **1 bâtiment T2** pour être éligible
 - **Désignation:** Le joueur clique sur l'icône divine de la ville pour en faire son Sanctuaire
 - **Choix des dieux:** Après désignation, le joueur choisit **1, 2 ou 3 dieux** à protéger (selon les bâtiments T2 présents)
-- **Tableau des correspondances:**
+- **Tableau des correspondances:** (noms des bâtiments à déterminer — le T2 le plus coûteux de chaque arbre)
 
-| Bâtiment T2 présent | Dieux disponibles |
-|---------------------|-------------------|
-| Caserne | Kael |
-| Atelier | Erya |
-| Marché | Toran |
+| Bâtiment T2 | Dieux disponibles |
+|-------------|-------------------|
+| Caserne (military) | Kael |
+| Atelier (craft) | Erya |
+| Marché (trade) | Toran |
 
 ### Phase 3: Les Quêtes Divines (Cœur du jeu)
 Une fois le Sanctuaire établi, trois types d'objectifs :
