@@ -34,12 +34,13 @@ Trois divinités rivalisent pour gagner la faveur du **Dieu des Dieux** :
 - **Fin:** Le joueur a goûté aux 3 styles (Guerre, Artisanat, Économie)
 
 ### Phase 2: Le Sanctuaire (Le Grand Choix)
-- **Ce qu'est le Sanctuaire:** Une ville choisie par le joueur devient sa **Capitale Divine**
-- **Condition:** Cette ville doit contenir au moins **1 bâtiment T2**
-- **Choix:** Le joueur peut déclarer son allégeance à **1, 2 ou 3 dieux** selon les bâtiments T2 présents dans son Sanctuaire
+- **Ce qu'est le Sanctuaire:** Une ville **désignée** par le joueur devient sa **Capitale Divine** (indiquée par une icône divine à côté du nom)
+- **Condition:** Cette ville doit contenir au moins **1 bâtiment T2** pour être éligible
+- **Désignation:** Le joueur clique sur l'icône divine de la ville pour en faire son Sanctuaire
+- **Choix des dieux:** Après désignation, le joueur choisit **1, 2 ou 3 dieux** à protéger (selon les bâtiments T2 présents)
 - **Tableau des correspondances:**
 
-| Bâtiment T2 présent | Permet de vénérer |
+| Bâtiment T2 présent | Dieux disponibles |
 |---------------------|-------------------|
 | Caserne | Kael |
 | Atelier | Erya |

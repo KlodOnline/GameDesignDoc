@@ -56,23 +56,32 @@ dégradation_quotidienne = réputation_actuelle * TAUX_DEGRADATION
 
 ### Définition
 
-Le **Sanctuaire** est une ville du joueur désignée comme sa Capitale Divine. C'est le lieu sacré où le joueur ancre sa connexion avec les dieux.
+Le **Sanctuaire** est une ville du joueur **désignée** comme sa Capitale Divine. Elle porte une **icône divine** à côté de son nom sur la carte. C'est le lieu sacré où le joueur ancre sa connexion avec les dieux.
 
-### Condition pour être un Sanctuaire
+### Condition pour devenir Sanctuaire
 
-Une ville devient un Sanctuaire si elle contient **au moins 1 bâtiment T2**. Tout bâtiment T2 peut être construit — seul le premier détermine le Sanctuaire.
+Une ville peut être désignée Sanctuaire si elle contient **au moins 1 bâtiment T2**. Le joueur doit **manuellement** cliquer sur l'icône divine de la ville pour la désigner comme Sanctuaire.
+
+> **Note:** Une ville sans bâtiment T2 ne peut pas devenir Sanctuaire.
+
+### Désignation du Sanctuaire
+
+1. Le joueur construit un bâtiment T2 dans une ville
+2. Une **icône divine** apparaît à côté du nom de la ville
+3. Le joueur clique sur cette icône pour désigner la ville comme son Sanctuaire
+4. Le joueur choisit alors ses dieux protégés (1 à 3) parmi ceux disponibles
 
 ### Bâtiments T2 et Dieux
 
 | Bâtiment T2 | Dieu associé |
 |-------------|--------------|
-| Caserne T2 | **Kael** (Guerre) |
-| Atelier T2 | **Erya** (Artisanat) |
-| Marché T2 | **Toran** (Économie) |
+| Caserne | **Kael** (Guerre) |
+| Atelier | **Erya** (Artisanat) |
+| Marché | **Toran** (Économie) |
 
-### Déclaration de foi
+### Déclaration de foi (1, 2 ou 3 dieux)
 
-Le joueur peut déclarer son allégeance aux dieux en fonction des bâtiments T2 présents dans son Sanctuaire :
+Après désignation du Sanctuaire, le joueur choisit combien de dieux vénérer :
 
 | Bâtiments T2 présents | Dieux disponibles | Ratio de réputation |
 |-----------------------|-------------------|---------------------|

@@ -170,39 +170,81 @@
 
 ---
 
-## 4. Détection Automatique du Sanctuaire
+## 4. Désignation du Sanctuaire
 
-### Logique dans `board_city.php`
+### Interaction via UI
+
+1. Quand un joueur construit un **bâtiment T2** dans une ville, une **icône divine** apparaît à côté du nom de la ville
+2. Le joueur peut cliquer sur cette icône pour **désigner** cette ville comme son Sanctuaire
+3. Après désignation, une interface permet de choisir **1, 2 ou 3 dieux** à protéger (selon les bâtiments T2 présents)
+
+### Logique dans `board_city.php` et nouveau handler
 
 ```php
-// Quand un bâtiment T2 est construit
-public function onBuildingConstructed(City $city, Building $building): void {
-    if ($building->tier !== 2) return;
-
+// Quand un joueur clique sur l'icône divine pour désigner son Sanctuaire
+public function designateSanctuary(City $city, array $chosenDeities): void {
     $player = $city->getOwner();
     $reputation = $player->getReputation();
 
-    // Si le joueur n'a pas encore de Sanctuaire
-    if ($reputation->sanctuary_city_id === null) {
-        $reputation->sanctuary_city_id = $city->id;
-        $this->setSanctuaryDeities($player, $city);
-        $reputation->save();
-        notifyPlayer('__SANCTUARY_ESTABLISHED__', $player->id);
+    // Vérifier que la ville a au moins 1 T2
+    $t2Buildings = $city->getBuildings()->filter(fn($b) => $b->tier === 2);
+    if ($t2Buildings->isEmpty()) {
+        throw new Exception('__ERROR_NO_T2_BUILDING__');
     }
+
+    // Vérifier que les dieux choisis sont valides (bâtiments correspondants existent)
+    $availableDeities = $this->getAvailableDeities($city);
+    foreach ($chosenDeities as $deity) {
+        if (!in_array($deity, $availableDeities)) {
+            throw new Exception('__ERROR_INVALID_DEITY__');
+        }
+    }
+
+    // Sauvegarder
+    $reputation->sanctuary_city_id = $city->id;
+    $reputation->deity_kael = in_array('kael', $chosenDeities);
+    $reputation->deity_erya = in_array('erya', $chosenDeities);
+    $reputation->deity_toran = in_array('toran', $chosenDeities);
+    $reputation->deity_count = count($chosenDeities);
+    $reputation->save();
+
+    notifyPlayer('__SANCTUARY_DESIGNATED__', $player->id);
 }
 
-// Déterminer les dieux disponibles selon les bâtiments T2
-private function setSanctuaryDeities(Player $player, City $city): void {
+// Retourne les dieux disponibles selon les bâtiments T2 de la ville
+private function getAvailableDeities(City $city): array {
     $t2Buildings = $city->getBuildings()->filter(fn($b) => $b->tier === 2);
-    $hasCasern = $t2Buildings->any(fn($b) => $b->type === 'guardhouse');
-    $hasWorkshop = $t2Buildings->any(fn($b) => $b->type === 'workshop');
-    $hasMarket = $t2Buildings->any(fn($b) => $b->type === 'market');
+    $deities = [];
+    if ($t2Buildings->any(fn($b) => $b->type === 'guardhouse')) $deities[] = 'kael';
+    if ($t2Buildings->any(fn($b) => $b->type === 'workshop')) $deities[] = 'erya';
+    if ($t2Buildings->any(fn($b) => $b->type === 'market')) $deities[] = 'toran';
+    return $deities;
+}
+```
 
-    $reputation = $player->getReputation();
-    $reputation->deity_kael = $hasCasern;
-    $reputation->deity_erya = $hasWorkshop;
-    $reputation->deity_toran = $hasMarket;
-    $reputation->deity_count = (int)$hasCasern + (int)$hasWorkshop + (int)$hasMarket;
+### Nouveau handler `DESIGNATE_SANCTUARY`
+
+```php
+// www/includes/requests/designate_sanctuary.php
+class DesignateSanctuary extends BaseRequest {
+    public function execute(array $post_data): array {
+        $city_id = $this->request_manager->itemIdCleaner($post_data['city_id'] ?? '');
+        $deities = $post_data['deities'] ?? []; // ex: ['kael', 'erya']
+
+        if (!$city_id || empty($deities)) return [];
+        if (count($deities) > 3) return []; // Max 3 dieux
+
+        $this->request_manager->loadCurrentPlayerIfNeeded();
+        $this->board->loadCities();
+
+        $city = $this->board->getCityById($city_id);
+        if ($city === null || $city->player_id !== META_ID) return [];
+
+        $this->board->designateSanctuary($city, $deities);
+        $this->request_manager->saveBoardCollection(['City']);
+
+        return ['success' => true, 'sanctuary_city_id' => $city_id];
+    }
 }
 ```
 
