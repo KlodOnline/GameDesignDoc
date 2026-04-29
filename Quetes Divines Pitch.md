@@ -65,7 +65,9 @@ Une fois le Sanctuaire établi, trois types d'objectifs :
 
 ### Phase 4: La Phase de Légende
 - **Classement d'Honneur:** Accomplir des quêtes divines est le seul moyen de monter dans le Panthéon
-- **La Chute:** Si le Sanctuaire est capturé/rasé, le joueur perd le lien divin (malus de moral) mais peut reconstruire et potentiellement changer de dieux
+- **Modifier ses dieux:** Le joueur peut retirer un dieu de sa protection (-50% de réputation pour ce dieu) ou en ajouter un (si le bâtiment T2 correspondant existe)
+- **Abandonner le Sanctuaire:** Retirer les 3 dieux fait perdre le statut de Sanctuaire à la ville
+- **La Chute:** Si le Sanctuaire est capturé/rasé, le joueur perd le lien divin (malus de moral) et doit désigner une autre ville comme Sanctuaire
 
 ---
 

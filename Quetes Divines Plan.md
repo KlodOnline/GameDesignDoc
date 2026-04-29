@@ -47,6 +47,8 @@
 |---------|-------------|
 | `www/includes/requests/get_quests.php` | Récupère les quêtes disponibles |
 | `www/includes/requests/claim_quest.php` | Claim la récompense d'une quête |
+| `www/includes/requests/designate_sanctuary.php` | Désigne une ville comme Sanctuaire + choisit les dieux |
+| `www/includes/requests/modify_sanctuary_deities.php` | Ajoute/retire un dieu de la protection (-50% rep si retrait) |
 
 ### 1.6 JavaScript — Panels
 
@@ -387,12 +389,19 @@ Le tour d'environnement (288 TICs = 1 jour) n'existe pas encore. Il faut:
 2. Dans `turn_manager.php`, vérifier si `current_turn - last_environment_turn >= 288`
 3. Si oui, exécuter la dégradation de réputation pour tous les joueurs
 
-### 7.3 Sanctuaire et transfert de ville
+### 7.3 Modification des dieux et perte du Sanctuaire
 
-Quand une ville Sanctuaire est capturée:
-- Le nouveau propriétaire peut-il en faire son Sanctuaire ? (Oui)
-- L'ancien propriétaire perd-il immédiatement sa connexion divine ? (Oui)
-- La réputation est-elle conservée ? (Oui, elle estattachée au joueur, pas à la ville)
+**Modifier les dieux protégés (via UI):**
+- Le joueur ouvre l'interface du Sanctuaire et modifie sa sélection de dieux (1 à 3)
+- **Retirer un dieu:** Appel à `removeDeityProtection($deity)` → -50% de réputation pour ce dieu
+- **Ajouter un dieu:** Vérifier que le bâtiment T2 correspondant existe dans le Sanctuaire
+- **Retirer tous les dieux:** Appel à `clearAllDeities()` → la ville perd son statut de Sanctuaire
+
+**Perte du Sanctuaire par capture/rasement:**
+- Le propriétaire perd immédiatement sa connexion divine
+- Malus de moral appliqué
+- Le joueur doit désigner une autre ville (avec T2) comme nouveau Sanctuaire
+- La réputation est conservée (attachée au joueur, pas à la ville)
 
 ---
 

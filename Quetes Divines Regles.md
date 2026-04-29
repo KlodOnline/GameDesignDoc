@@ -93,18 +93,22 @@ Après désignation du Sanctuaire, le joueur choisit combien de dieux vénérer 
 | Atelier + Marché | Erya + Toran | 60% chacun |
 | Caserne + Atelier + Marché | Kael + Erya + Toran | 33% chacun |
 
-### Changer de dieux
+### Modifier les dieux protégés
 
-Le joueur peut modifier sa déclaration de dieux :
-- **Ajouter un dieu:** Construire le bâtiment T2 correspondant dans le Sanctuaire
-- **Retirer un dieu:** Détruire le bâtiment T2 correspondant (la réputation pour ce dieu se fige)
+Le joueur peut à tout moment modifier ses dieux protégés depuis l'interface du Sanctuaire :
+
+- **Ajouter un dieu:** Un dieu devient disponible si le bâtiment T2 correspondant est présent dans le Sanctuaire
+- **Retirer un dieu:** Le joueur retire un dieu de sa protection → **Pénalité: -50% de réputation** envers ce dieu
+- **Retirer tous les dieux:** La ville perd son statut de Sanctuaire et l'icône divine disparaît
+
+> **Note:** Il n'est pas nécessaire de détruire un bâtiment pour retirer un dieu — seul le choix dans l'interface compte.
 
 ### Perte du Sanctuaire
 
 Si la ville Sanctuaire est **capturée** ou **rasée** :
 - Le lien avec les dieux est rompu
 - Malus de moral important
-- Le joueur doit reconstruire un nouveau Sanctuaire dans une autre ville (avec bâtiment T2) pour renouer avec les dieux
+- Le joueur doit désigner une **autre ville** (avec bâtiment T2) comme nouveau Sanctuaire pour renouer avec les dieux
 
 ---
 
