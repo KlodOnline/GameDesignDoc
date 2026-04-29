@@ -73,11 +73,13 @@ Une ville peut être désignée Sanctuaire si elle contient **au moins 1 bâtime
 
 ### Bâtiments T2 et Dieux
 
-| Bâtiment T2 | Dieu associé |
-|-------------|--------------|
-| Caserne | **Kael** (Guerre) |
-| Atelier | **Erya** (Artisanat) |
-| Marché | **Toran** (Économie) |
+> **Note:** Les noms de bâtiments ci-dessous sont des placeholders. Il faudra déterminer le bâtiment T2 le plus coûteux et le plus significatif de chaque arbre.
+
+| Bâtiment T2 | Dieu associé | Critères de choix |
+|-------------|--------------|-------------------|
+| Caserne | **Kael** (Guerre) | Plus coûteux/significatif de l'arbre `military` |
+| Atelier | **Erya** (Artisanat) | Plus coûteux/significatif de l'arbre `craft` |
+| Marché | **Toran** (Économie) | Plus coûteux/significatif de l'arbre `trade` |
 
 ### Déclaration de foi (1, 2 ou 3 dieux)
 
