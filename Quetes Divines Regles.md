@@ -108,9 +108,13 @@ Le joueur peut à tout moment modifier ses dieux protégés depuis l'interface d
 ### Perte du Sanctuaire
 
 Si la ville Sanctuaire est **capturée** ou **rasée** :
-- Le lien avec les dieux est rompu
+- La ville **n'est plus** Sanctuaire (icône divine disparait)
+- Le joueur perd **75% de réputation** dans chacun des dieux du Sanctuaire
 - Malus de moral important
-- Le joueur doit désigner une **autre ville** (avec bâtiment T2) comme nouveau Sanctuaire pour renouer avec les dieux
+
+**Récupération possible :**
+- Le joueur peut recapturer la ville et la **re-désigner** comme Sanctuaire
+- Ou désigner une **autre ville** (avec bâtiment T2) comme nouveau Sanctuaire
 
 ---
 

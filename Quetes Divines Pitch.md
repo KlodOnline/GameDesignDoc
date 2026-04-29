@@ -67,7 +67,7 @@ Une fois le Sanctuaire établi, trois types d'objectifs :
 - **Classement d'Honneur:** Accomplir des quêtes divines est le seul moyen de monter dans le Panthéon
 - **Modifier ses dieux:** Le joueur peut retirer un dieu de sa protection (-50% de réputation pour ce dieu) ou en ajouter un (si le bâtiment T2 correspondant existe)
 - **Abandonner le Sanctuaire:** Retirer les 3 dieux fait perdre le statut de Sanctuaire à la ville
-- **La Chute:** Si le Sanctuaire est capturé/rasé, le joueur perd le lien divin (malus de moral) et doit désigner une autre ville comme Sanctuaire
+- **La Chute:** Si le Sanctuaire est capturé/rasé, le joueur perd **75% de réputation** dans chaque dieu du Sanctuaire. Il peut recapturer la ville et la re-désigner, ou choisir une autre ville comme nouveau Sanctuaire.
 
 ---
 

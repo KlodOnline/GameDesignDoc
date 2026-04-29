@@ -400,10 +400,17 @@ Le tour d'environnement (288 TICs = 1 jour) n'existe pas encore. Il faut:
 - **Retirer tous les dieux:** Appel à `clearAllDeities()` → la ville perd son statut de Sanctuaire
 
 **Perte du Sanctuaire par capture/rasement:**
-- Le propriétaire perd immédiatement sa connexion divine
+- Appel à `onSanctuaryLost()`:
+  - `sanctuary_city_id` → NULL
+  - `deity_kael/erya/toran` → FALSE
+  - `deity_count` → 0
+  - **Perte de 75% de réputation** dans chaque dieu précédemment protégé
 - Malus de moral appliqué
-- Le joueur doit désigner une autre ville (avec T2) comme nouveau Sanctuaire
 - La réputation est conservée (attachée au joueur, pas à la ville)
+
+**Récupération:**
+- Le joueur peut recapturer la ville et la re-désigner comme Sanctuaire
+- Ou désigner une autre ville (avec T2) comme nouveau Sanctuaire
 
 ---
 
