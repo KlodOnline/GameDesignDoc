@@ -11,6 +11,8 @@ Les Quêtes Divines transforment chaque joueur en une **légende vivante** au se
 
 Un joueur peut choisir de vénérer **1, 2 ou 3 dieux** selon son style de jeu. Plus il vénère de dieux, plus il a accès à des quêtes diverses, mais moins sa réputation se concentre par dieu.
 
+> **Note:** Le système de quêtes est totalement **indépendant** du système de tutoriel existant. Les quêtes d'initiation (1 à 7) ne font pas partie du tutorial — elles sont le début de la progression divine.
+
 ---
 
 ## 2. Le Pantheon
