@@ -217,14 +217,17 @@ Ces compteurs trackent les actions du joueur dans le temps pour les quêtes.
 ```sql
 CREATE TABLE player_reputation (
     player_id VARCHAR(36) PRIMARY KEY,
-    deity_count INT NOT NULL DEFAULT 0,  -- 1, 2 ou 3 dieux vénérés
+    deity_count INT NOT NULL DEFAULT 0,          -- 1, 2 ou 3 dieux vénérés
     rep_kael INT NOT NULL DEFAULT 0,
     rep_erya INT NOT NULL DEFAULT 0,
     rep_toran INT NOT NULL DEFAULT 0,
-    sanctuary_city_id VARCHAR(36) NULL,  -- FK vers la ville Sanctuaire
-    deity_kael BOOLEAN DEFAULT FALSE,
-    deity_erya BOOLEAN DEFAULT FALSE,
-    deity_toran BOOLEAN DEFAULT FALSE,
+    sanctuary_city_id VARCHAR(36) NULL,          -- FK vers la ville Sanctuaire
+    deity_kael BOOLEAN DEFAULT FALSE,            -- TRUE si Kael est protégé
+    deity_erya BOOLEAN DEFAULT FALSE,            -- TRUE si Erya est protégée
+    deity_toran BOOLEAN DEFAULT FALSE,           -- TRUE si Toran est protégé
+    favor_kael INT NOT NULL DEFAULT 0,           -- Faveur accumulée pour Kael
+    favor_erya INT NOT NULL DEFAULT 0,           -- Faveur accumulée pour Erya
+    favor_toran INT NOT NULL DEFAULT 0,          -- Faveur accumulée pour Toran
     FOREIGN KEY (player_id) REFERENCES players(id) ON DELETE CASCADE,
     FOREIGN KEY (sanctuary_city_id) REFERENCES cities(id) ON DELETE SET NULL
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4;
