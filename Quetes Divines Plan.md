@@ -76,12 +76,12 @@
 
 ### 2.1 PHP — Core
 
-| Fichier | Modification |
-|---------|--------------|
-| `game/turn_manager.php` | Ajouter: - Tour d'environnement (288 TICs) - Dégradation réputation quotidienne |
-| `common/includes/board/board_combat.php` | Incrémenter `player_stats.kills_total` dans `deleteUnit()` |
-| `common/includes/board/board_fov.php` | Incrémenter `player_stats.explored_total` pour chaque nouvelle case explorée |
-| `common/includes/board/board_city.php` | Ajouter `designateSanctuary()`, `modifyDeityProtection()`, `removeDeityProtection()` (avec -50% rep) |
+| Fichier                                  | Modification                                                                                         |
+| ---------------------------------------- | ---------------------------------------------------------------------------------------------------- |
+| `game/turn_manager.php`                  | Ajouter: - Tour d'environnement (288 TICs) - Dégradation réputation quotidienne                      |
+| `common/includes/board/board_combat.php` | Incrémenter `player_stats.kills_total` dans `deleteUnit()`                                           |
+| `common/includes/board/board_fov.php`    | Incrémenter `player_stats.explored_total` pour chaque nouvelle case explorée                         |
+| `common/includes/board/board_city.php`   | Ajouter `designateSanctuary()`, `modifyDeityProtection()`, `removeDeityProtection()` (avec -50% rep) |
 
 ### 2.2 PHP — Request Manager
 
