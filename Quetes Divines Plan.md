@@ -11,7 +11,7 @@
 
 | Fichier | Description |
 |---------|-------------|
-| `setup/migrations/YYYY-MM-DD_add_quest_tables.sql` | Tables `player_reputation`, `player_stats` |
+| `setup/migrations/YYYY-MM-DD_add_quest_tables.sql` | Tables `player_reputation` (inclut champs `favor_*`), `player_stats` |
 
 ### 1.2 Règles XML
 
