@@ -87,7 +87,18 @@ Une fois le Sanctuaire établi, trois types d'objectifs :
 
 ---
 
-## 5. Résumé des Récompenses par Nombre de Dieux
+## 5. Réputation et Faveur
+
+Deux métriques distinctes :
+
+- **Réputation** : Score permanent qui monte avec les quêtes et se dégrade avec le temps (0.5%/jour). Elle débloque **l'accès** à des paliers de récompenses dans la Boutique Divine.
+- **Faveur** : Monnaie temporaire gagnée via les Épreuves de Faveur (quêtes cycliques). Elle "fuit" avec le temps et sert à **acheter** des Miracles (buffs 72h) ou des Unités Légendaires dans la Boutique Divine.
+
+**La Réputation est un verrou, la Faveur est une dépense.**
+
+---
+
+## 6. Résumé des Récompenses par Nombre de Dieux
 
 | Dieux vénérés | Réputation par dieu | Accès aux quêtes | Flexibilité |
 |---------------|---------------------|------------------|-------------|
