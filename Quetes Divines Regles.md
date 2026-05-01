@@ -5,50 +5,58 @@
 
 ---
 
-## 1. Le Système de Réputation
+## 1. La Réputation
 
-### Principe: le réservoir
+### Principe
 
-La réputation est un **score numérique** qui monte et descend, comme un réservoir qui fuit :
+La réputation est un **score permanent** qui verrouille l'accès à des paliers de récompenses dans la Boutique Divine.
 
 ```
 Réputation = somme(gains_quêtes) - somme(dégradation_temps)
 ```
 
-### Scores de réputation
+### Scores
 
 Chaque joueur a **4 scores de réputation** :
 
 | Score | Description | Calcul |
 |-------|-------------|--------|
-| `rep_kael` | Réputation auprès de Kael (Guerre) | Quêtes Kael + hybrides Kael + neutres/3 |
-| `rep_erya` | Réputation auprès d'Erya (Artisanat) | Quêtes Erya + hybrides Erya + neutres/3 |
-| `rep_toran` | Réputation auprès de Toran (Économie) | Quêtes Toran + hybrides Toran + neutres/3 |
-| `rep_total` | Réputation globale (faveur divine) | `rep_kael + rep_erya + rep_toran` |
+| `rep_kael` | Kael (Guerre) | Quêtes Kael + hybrides Kael + neutres/3 |
+| `rep_erya` | Erya (Artisanat) | Quêtes Erya + hybrides Erya + neutres/3 |
+| `rep_toran` | Toran (Économie) | Quêtes Toran + hybrides Toran + neutres/3 |
+| `rep_total` | Globale | `rep_kael + rep_erya + rep_toran` |
 
-### Gain de réputation
+### Gain
 
-| Type de quête | Gain rep dieu principal | Gain rep dieu secondaire | Gain rep autres |
-|---------------|------------------------|--------------------------|-----------------|
-| Colorée (1 dieu) | +100% du reward | — | — |
-| Hybride (2 dieux) | +60% du reward | +60% du reward | — |
-| Neutre | +33% du reward | +33% du reward | +33% du reward |
+| Type | Main | Secondaire | Autres |
+|------|------|------------|--------|
+| Colorée (1 dieu) | +100% | — | — |
+| Hybride (2 dieux) | +60% | +60% | — |
+| Neutre (all) | +33% | +33% | +33% |
 
-### Dégradation dans le temps
+### Dégradation
 
-La réputation se dégrade **à chaque tour d'environnement** (1 fois par jour IRL, soit tous les 288 TICs) :
+1× par tour d'environnement (288 TICs = 1 jour IRL) :
 
 ```
-dégradation_quotidienne = réputation_actuelle * TAUX_DEGRADATION
+décroissance = réputation × 0.5%
 ```
 
-| Paramètre | Valeur |
-|-----------|--------|
-| `TAUX_DEGRADATION` | 0.5% par jour IRL (~15% par mois) |
-| `REP_PLANCHER` | 0 (minimum) |
-| `REP_PLAFOND` | 100 000 (softcap ; au-delà, dégradation accélérée) |
+- Plancher : 0
+- Plafond doux : 100 000 (au-delà, dégradation accélérée)
+- Tour d'environnement à implémenter dans `turn_manager.php`
 
-> **Tour d'environnement:** 288 TICs = 1 jour IRL. Ce tour doit être implémenté dans `turn_manager.php`.
+---
+
+## 1b. La Faveur
+
+Métrique **distincte** de la réputation. Monnaie temporaire gagnée via les Épreuves de Faveur.
+
+- **Gain** : Quêtes cycliques (Épreuves de Faveur)
+- **Perte** : Fuit avec le temps
+- **Dépense** : Boutique Divine → Miracles (buffs 72h), Unités Légendaires (Pégase, Géant)
+
+**La Réputation débloque l'accès, la Faveur paie le prix.**
 
 ---
 
