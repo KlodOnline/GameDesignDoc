@@ -36,5 +36,7 @@ Le PNJ "magique" propose des prix voleurs : il achète pour `/10` de la valeur d
 ## Monnaie
  - Les joueurs pourront créer des pièces de cuivre (CC), d'argent (SC), ou d'or (GC) via le bâtiment Hôtel de la Monnaie (Mint).
  - Le ratio est :
- 	 - 1 Pièce d'Or (PO/GC) = 10 Pièces d'Argent (PA/SC) = 2500 Pièces de Cuivre (PC/CC).
+ 	 - 1 Pièce d'Or (PO/GC) = 10 Pièces d'Argent (PA/SC) = 2 500 Pièces de Cuivre (PC/CC).
  	 - 1 Pièce d'Argent (PA/SC) = 250 Pièces de Cuivre (PC/CC).
+
+> **Test d'équilibrage** : ratio 1 GC = 2 500 CC (1 SC = 25 CC) — en test.
