@@ -56,16 +56,13 @@ Les villes peuvent récolter autour d’elles selon un rayon dépendant de leur 
 Les travailleurs sont assignés à des cases de ressource.
 
 ### Camps de récolteurs
-Certaines unités peuvent se transformer en camp fixe pour extraire :
-- nourriture (gcamp)
-- bois (wcamp)
-- minéraux (mcamp)
+L'unité universelle de récolte (**gatherer**) peut se transformer en camp fixe (**gcamp**) pour extraire en continu.
 
-Ces camps ont un seul travailleur et exploitent une seule case.
+Ce camp possède un seul travailleur et exploite une seule case de la ressource sur laquelle il est posé, quelle qu'elle soit (nourriture, bois, minerais).
 
 Filtrage :
-- chaque ressource possède un type de travailleur associé (farmer / woodcutter / miner).
-- l’exploitation n’est possible que si le type correspond.
+- Chaque ressource possède un type de travailleur associé (ex: harvester).
+- L'exploitation est gérée automatiquement par le camp universel, qui accepte tous les types de ressources primaires.
 
 Priorité :
 1. Les sources naturelles sont exploitées en premier.
