@@ -33,51 +33,52 @@ Les quêtes pour débutants suivent une chaîne linéaire appelée "initiation" 
 - Pour obtenir bois/pierre : réaffecter manuellement les workers de la ville (food → wood → stone via `assignWorkerToGround`)
 - La ville n'a aucune ressource en inventaire au démarrage (hormis food transférée du settler)
 
+TO DO :
+  Mettre un scout à cheval à la place !
+
 ### Liste des quêtes d'initiation (WIP)
 
-#### Chaîne d'initiation générale
+#### QUETES Sans PREREQUIS ?
 
-- **init_01_starting_units** : Vos unités de départ
-  - Vous commencez avec 1 settler (3000 food en inventaire) et 1 scout
-  - Objectif : Sélectionner votre settler et observer ses ordres disponibles
-  - Récompense : Aucun (état initial du jeu)
+- **init_01** : Compléter le tuto "unités"
+  - Le tuto explique comment déplacer le scout.
+  - Validation : Tuto "unité" terminé
+  - Récompense : offre un scout à cheval
 
 - **init_02_scout_surroundings** : Première exploration (! long !)
-  - Utiliser votre scout pour révéler quelques cases inconnues autour de votre position de départ
+  - Utiliser votre scout à cheval pour révéler quelques cases inconnues autour de votre position de départ
   - Le scout a fov=2, permettant de voir 2 cases de distance
-  - Récompense : 
+  - Validation : Les cases connues du joueurs passent à +6 par rapport à T
+  - Récompense : 200 primitive_weapons
 
 ##### CHAIN QUESTS : CITY BASICS
 
 - **init_03_found_city** : Fondation de la première ville
   - Déplacer votre settler vers une case appropriée et utiliser l'ordre FOUND_CITY
-  - La première ville est instantanée ; le settler est consommé et ses 3000 food passent à la ville
-  - Récompense : 
+  - Validation : Le joueur a au moins 1 villes
+  - Récompense : 200 pierres + 200 bois
 
-- **init_05_reassign_to_wood** : Réaffecter un worker au bois
-  - Placer 1 worker sur une case bois dans le rayon de la ville
-  - La production de nourriture baisse, mais vous obtenez du bois
-  - Récompense : 100 bois supplémentaires (total: 100 bois pour l'atelier)
-
-- **init_06_reassign_to_stone** : Réaffecter un worker à la pierre
-  - Placer 1 worker sur une case pierre dans le rayon de la ville
-  - Vous avez maintenant ~1 food, ~1 wood, ~1 stone par tour
-  - Récompense : 100 pierre supplémentaires (total: 200 pierre pour l'atelier)
+- **init_01** : Compléter le tuto "villes"
+  - Le tuto explique comment fonctionne le panneau des villes
+  - Validation : Tuto "villes" terminé
+  - Récompense : 1 point de progrès bonus dans la capitale
 
 - **init_07_build_workshop** : Lancer la construction du primitiveworkshop
   - Construire un primitiveworkshop (id=42) dans votre ville (coût: 100 bois, 200 pierre, 0 point requis)
-  - Récompense : Accélération du temps sur le batiment !
+  - Validation : 1 tour validé sur la construction du batiment 
+  - Récompense : Termine la construction du batiment !
 
 ##### CHAIN QUESTS : WARRIOR
 
-  - **init_11_build_guardhouse** : Construire un poste de garde
-	- Construire un guardhouse (id=5) dans votre ville (coût: 100 bois, 200 pierre, 0 point requis)
-  	- Récompense : Accès au recrutement d'unités militaires (militia, id=2)
-
 - **init_19_craft_weapons_for_militia** : Forger 500 armes pour la milice
-  - Produire 450 primitive_weapons supplémentaires dans votre atelier (vous en avez déjà 50)
-  - Coût : 450 bois, 450 pierre
-  - Récompense : 100 primitive_weapons (total cumulé : assez pour recruter militia)
+  - Produire 100 primitive_weapons supplémentaires dans votre atelier 
+  - Validation : 500 primitive_weapons existante
+  - Récompense : 
+
+- **init_11_build_guardhouse** : Construire un poste de garde
+	- Construire un guardhouse (id=5) dans votre ville (coût: 100 bois, 200 pierre, 0 point requis)
+  - Validation : Batiment "guardhouse" existant
+  - Récompense : 200 primitive_weapons
 
 - **init_21_recruit_militia** : Recruter votre première milice
   - Créer votre première unité de militia (id=2) dans votre ville
@@ -93,7 +94,7 @@ Les quêtes pour débutants suivent une chaîne linéaire appelée "initiation" 
   - Coût : 500 primitive_weapons, 4 tours, rangershall requis
   - Récompense : 1 unité de scout
 
-##### CHAIN QUESTS : GATHER 
+##### CHAIN QUESTS : GATHERERS
 
 - **init_13_build_harvesters_hut** : Construire une cabane de récolteurs
   - Construire une cabane_recolte (id=55) dans votre ville (coût: 400 bois, 200 pierre, 1 point requis)
