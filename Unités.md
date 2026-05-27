@@ -26,12 +26,48 @@ Certains ordres permettent d'**aménager le terrain** (Cf. [Monde](Monde.md))
 **Important** : Les ordres de **déplacement** et d'**attaque** sont distincts. Un ordre de mouvement amène l'unité vers sa destination sans intention d'attaquer. Un ordre d'attaque cible explicitement une unité ou ville ennemie.
 
 ## Types d'unités
-Il existe différents types d'unités, classés en catégories :
- - **Combat** : unités militaires pour la guerre, forts, tours d'observation
- - **Transport** : unités avec un grand inventaire pour déplacer des ressources
- - **Ouvrières** : fermiers, bûcherons, mineurs: modifient le terrain et exploitent des ressources
- - **Navales** : transportent des biens et des unités sur les mers, apportent la guerre sur l'eau
- - **Espionnage** : infiltrations de villes ennemies
+Il existe 4 catégories fonctionnelles d'unités, chacune avec sa propre logique de progression :
+
+### Guerrières (militaire)
+Unités de combat, défense et siège. Elles progressent via l'ordre **UPGRADE** en ville, qui les fait monter en tier d'équipement.
+
+Chaîne principale (Infanterie) :
+```
+milice ──▶ brfighter ──▶ irfighter ──▶ legion
+                                       ─ ou ─
+                                       phalanx  (choix du joueur via popup)
+```
+
+Branches latérales (progression via UPGRADE) :
+- **Archers** : archer ──▶ crossbowman
+- **Cavalerie** : brfightercavalry ──▶ irfightercavalry ──▶ heavycavalry
+
+Unités sans progression (recrutement direct) : warelephant, engins de siège (balista, catapult), espions, généraux, missidominici. Les forts sont uniquement des cibles de MORPH.
+
+### Récolteuses (économie)
+Une seule unité, le **gatherer**, récolte **toutes** les ressources disponibles sur le terrain (nourriture, bois, minerais…). Il n'y a pas de spécialisation par type de ressource.
+
+Le gatherer progresse via **UPGRADE** : à chaque tier, il peut exploiter une case de terrain supplémentaire.
+
+```
+gatherer (1 case) ──▶ skilled_gatherer (2 cases) ──▶ master_gatherer (3 cases)
+```
+
+Le gatherer peut se transformer en **camp** (ordre MORPH) pour rester sur place et extraire en continu.
+
+### Transporteuses (économie)
+Unités dédiées au transport de ressources. Progressent via **UPGRADE** : plus grosse capacité d'inventaire et meilleure vitesse.
+
+- **Terrestre** : cariole (inv:4, vit:4) ──▶ horsedrawncariole (inv:6, vit:3) ──▶ horsedrawnwagon (inv:8, vit:3)
+- **Maritime** : chaland (inv:4, vit:2) ──▶ barge (inv:8, vit:3) ──▶ cabotin (inv:12, vit:4)
+
+### Modificatrices de terrain (craft)
+Unités qui aménagent le territoire. Progressent via **UPGRADE** : chaque tier débloque de nouveaux ordres terrain (les anciens drainers sont désormais intégrés aux engineers).
+
+```
+laborer ──▶ masons ──▶ engineers
+(pistes)   (+routes)  (+irrigation, +ponts, +assécher marais)
+```
 
 ## Caractéristiques
 Les unités ont des caractéristiques :
@@ -83,9 +119,16 @@ Les unités disposent d'un **inventaire** avec un nombre de slots qui va de **0 
 
 Le loot d'une unité morte contient les ressources qui ont servi à la construire, avec une part d'aléatoire.
 
+## MORPH vs UPGRADE
+Deux ordres permettent de transformer une unité — ils sont distincts et ne se substituent pas :
+
+- **MORPH** : transformation *bidirectionnelle* (A ↔ B), gratuite et rapide. Exemple : gatherer ↔ camp, milice ↔ fort en bois. Peut se faire n'importe où sur le terrain. L'ID de l'unité est conservé.
+- **UPGRADE** : progression *one-way* (A → B, sans retour) vers une unité plus puissante. Se fait **en ville uniquement**, coûte des ressources et du temps, requiert les bâtiments appropriés (ex: `farmershouse` pour upgrade un gatherer). L'ID de l'unité est conservé.
+
 ## Campement
-La plupart des unités civiles ont un ordre de "camper"/"fortifier" qui les transforme en structures statiques : camp de fermier, camp de bûcheron, camp de mineur, fort en bois, etc.
-Ce faisant (sauf pour les tours d'observation) l'unité **conquiert le territoire** immédiatement adjacent. 
+Les unités récolteuses et militaires peuvent se transformer en **structures statiques** via l'ordre **MORPH** : le gatherer devient un camp de récolte, la milice devient un fort en bois, etc.
+
+Ce faisant (sauf pour les tours d'observation), l'unité **conquiert le territoire** immédiatement adjacent.
 
 ## Espionnage
 Le système d'espionnage permet d'infiltrer une ville ennemie pour obtenir des informations secrètes sur celle-ci.
