@@ -105,10 +105,8 @@ Certains objectifs doivent être suivis de manière cumulative.
 | `resources_traded` | Quêtes économiques |
 | `territory_max` | Quêtes de domination territoriale |
 
-## Questions ouvertes
+## Questions ouvertes ou réponses
 
-1. Est-ce que la réputation décroît vraiment avec le temps, ou seulement la faveur ?
-2. Le choix de divinité de fin d'initiation est-il définitif, semi-définitif, ou modifiable ?
-3. Les sanctuaires restent-ils un système de milieu de partie, séparé du premier choix divin ?
-4. Combien de quêtes divines peuvent être actives simultanément ?
-5. Les récompenses spéciales doivent-elles être des bonus temporaires, des titres, des unités, ou des cosmétiques ?
+1. Seule la faveur décroît avec le temps.
+2. Le choix de divinité de fin d'initiation est modifiable, mais à grand prix.
+3. Les sanctuaires sont le lieu de communication avec les dieux. Quand le joueur a accumulé une certaine réputation, les dieux lui demandent de figurer dans sa ville sanctuaire, ou de faire construire un autel à leur gloire. Cela active ensuite la voix des dieux via les prêtres.
