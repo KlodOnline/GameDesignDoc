@@ -1,109 +1,65 @@
-# Quêtes Divines — Pitch
+# Quêtes Divines - Pitch
 
 > Vision et intention de gameplay
-> Dernière mise à jour: 2026-04-29
+> Dernière mise à jour: 2026-05-29
 
----
+## Concept
 
-## 1. Le Concept
+Les quêtes doivent accompagner le joueur depuis ses premières actions jusqu'à son rôle dans les rivalités divines du monde persistant.
 
-Les Quêtes Divines transforment chaque joueur en une **légende vivante** au sein d'un monde persistant. L'idée centrale est **l'entonnoir** : on part d'un tutoriel classique pour finir dans une guerre de divinités où chaque joueur ne joue pas forcément au même jeu.
+L'idée centrale est une progression longue et assumée: le joueur commence avec des objectifs courts et concrets, puis apprend progressivement à composer avec les temps d'attente de Klod Online. L'initiation n'est donc pas un simple tutoriel rapide. C'est le début réel de la partie.
 
-Un joueur peut choisir de vénérer **1, 2 ou 3 dieux** selon son style de jeu. Plus il vénère de dieux, plus il a accès à des quêtes diverses, mais moins sa réputation se concentre par dieu.
+Les détails de la chaîne débutant sont dans [Quêtes Initiation](Quetes%20Initiation.md).
 
-> **Note:** Le système de quêtes est totalement **indépendant** du système de tutoriel existant. Les quêtes d'initiation (1 à 7) ne font pas partie du tutorial — elles sont le début de la progression divine.
+## Rôle des dieux
 
----
+Les dieux servent à spécialiser les styles de jeu, donner une direction aux objectifs de long terme, et créer de la compétition entre joueurs.
 
-## 2. Le Pantheon
+| Dieu | Domaine | Style de jeu |
+|------|---------|--------------|
+| **Kael** | Guerre | Combattre, conquérir, défendre |
+| **Erya** | Artisanat | Construire, produire, transformer |
+| **Toran** | Exploration / économie | Explorer, exploiter, échanger |
 
-Trois divinités rivalisent pour gagner la faveur du **Dieu des Dieux** :
+## Progression
 
-| Dieu      | Domaine   | Couleur | Arbre de bâtiments | Style de jeu                  |
-| --------- | --------- | ------- | ------------------ | ----------------------------- |
-| **Kael**  | Guerre    | Rouge   | `military`         | Conquérir, combattre, dominer |
-| **Erya**  | Artisanat | Bleu    | `craft`            | Construire, produire, crafter |
-| **Toran** | Économie  | Or      | `trade`            | Échanger, explorer, commercer |
+### 1. Initiation
 
----
+L'initiation est obligatoire et commune à tous les joueurs. Elle enseigne les mécaniques de base dans un ordre progressif: unités de départ, exploration, ville, workers, bâtiments, craft, recrutement, récolte, combat, puis premier choix divin.
 
-## 3. Les Phases de Jeu
+Elle est volontairement plus longue qu'un tutoriel classique, car elle doit habituer le joueur au rythme du jeu et aux délais croissants.
 
-### Phase 1: L'Éveil (Tutoriel)
-- **Durée:** Quêtes 1 à 7
-- **But:** Apprendre les bases (fonder, construire, explorer)
-- **Caractère:** Ligne droite — tout le monde fait la même chose
-- **Fin:** Le joueur a goûté aux 3 styles (Guerre, Artisanat, Économie)
+Voir [Quêtes Initiation](Quetes%20Initiation.md).
 
-### Phase 2: Le Sanctuaire (Le Grand Choix)
-- **Ce qu'est le Sanctuaire:** Une ville **désignée** par le joueur devient sa **Capitale Divine** (indiquée par une icône divine à côté du nom)
-- **Condition:** Cette ville doit contenir au moins **1 bâtiment T2** pour être éligible
-- **Désignation:** Le joueur clique sur l'icône divine de la ville pour en faire son Sanctuaire
-- **Choix des dieux:** Après désignation, le joueur choisit **1, 2 ou 3 dieux** à protéger (selon les bâtiments T2 présents)
-- **Tableau des correspondances:** (noms des bâtiments à déterminer — le T2 le plus coûteux de chaque arbre)
+### 2. Engagement divin
 
-| Bâtiment T2 | Dieux disponibles |
-|-------------|-------------------|
-| Caserne (military) | Kael |
-| Atelier (craft) | Erya |
-| Marché (trade) | Toran |
+À la fin de l'initiation, le joueur choisit une première orientation divine. Ce choix ouvre les premières missions liées aux dieux, sans forcément verrouiller toute la progression future.
 
-### Phase 3: Les Quêtes Divines (Cœur du jeu)
-Une fois le Sanctuaire établi, trois types d'objectifs :
+Les règles exactes de réputation, faveur, choix et changement de dieu sont dans [Quêtes Divines Règles](Quetes%20Divines%20Regles.md).
 
-**A. Les Missions Sacrées (Secrètes)**
-- Le Dieu donne une mission que les autres ne voient pas
-- _Exemple:_ "Contrôle toutes les sources de Fer dans un rayon de 20 cases"
-- _Le sel:_ Tes voisins te voient t'étendre, mais ignorent que c'est pour satisfaire ton Dieu
+### 3. Quêtes divines
 
-**B. Les Épreuves de Faveur (Cycliques)**
-- Quêtes régulières pour gagner de la **Faveur** (qui fuit avec le temps)
-- La Faveur sert à acheter des **Miracles** (Buffs 72h) ou invoquer des **Unités Légendaires** (Pégase, Géant)
+Les quêtes divines donnent des objectifs de moyen et long terme. Elles peuvent être personnelles, liées à un dieu, ou liées à plusieurs dieux.
 
-**C. Les Fléaux (World Events)**
-- Les Dieux s'adressent à tous les joueurs
-- _Exemple:_ La Peste ou les Sauterelles
-- Résolution collaborative ou compétitive selon les styles
+Elles doivent rester branchées sur les systèmes existants du jeu: production, inventaires, exploration, combat, territoires, commerce, diplomatie.
 
-### Phase 4: La Phase de Légende
-- **Classement d'Honneur:** Accomplir des quêtes divines est le seul moyen de monter dans le Panthéon
-- **Modifier ses dieux:** Le joueur peut retirer un dieu de sa protection (-50% de réputation pour ce dieu) ou en ajouter un (si le bâtiment T2 correspondant existe)
-- **Abandonner le Sanctuaire:** Retirer les 3 dieux fait perdre le statut de Sanctuaire à la ville
-- **La Chute:** Si le Sanctuaire est capturé/rasé, le joueur perd **75% de réputation** dans chaque dieu du Sanctuaire. Il peut recapturer la ville et la re-désigner, ou choisir une autre ville comme nouveau Sanctuaire.
+### 4. Quêtes cycliques
 
----
+Les quêtes cycliques donnent des objectifs récurrents à l'échelle du monde: mensuels, trimestriels, compétitifs ou événementiels.
 
-## 4. Ce qui rend ce système unique
+Voir [Quêtes Cycliques](Quetes%20Cycliques.md).
 
-1. **Adaptabilité** — Tu joues à Civilization (Artisanat), ton voisin à Total War (Guerre), et vous interagissez via le même moteur.
+## Intention de design
 
-2. **Secret** — Le moteur génère de l'intrigue politique grâce aux missions cachées.
+- Les quêtes ne remplacent pas le sandbox: elles donnent une direction.
+- L'initiation doit apprendre à attendre intelligemment, pas supprimer l'attente.
+- Les récompenses doivent aider à progresser sans court-circuiter les mécaniques.
+- Les objectifs doivent pousser le joueur à utiliser le vrai moteur du jeu.
+- Les dieux doivent différencier les styles sans enfermer trop tôt le joueur.
 
-3. **Dynamisme** — Le monde n'est pas figé ; les Fléaux obligent les empires à sortir de leur routine.
+## Documents liés
 
-4. **Équilibre** — Pas de bonus permanents abusifs. Les Dieux donnent des "coups de pouce" éphémères qui demandent un effort constant.
-
-5. **Flexibilité** — Le joueur choisit combien de dieux vénérer (1, 2 ou 3) selon ses ambitions et son style.
-
----
-
-## 5. Réputation et Faveur
-
-Deux métriques distinctes :
-
-- **Réputation** : Score permanent qui monte avec les quêtes et se dégrade avec le temps (0.5%/jour). Elle débloque **l'accès** à des paliers de récompenses dans la Boutique Divine.
-- **Faveur** : Monnaie temporaire gagnée via les Épreuves de Faveur (quêtes cycliques). Elle "fuit" avec le temps et sert à **acheter** des Miracles (buffs 72h) ou des Unités Légendaires dans la Boutique Divine.
-
-**La Réputation est un verrou, la Faveur est une dépense.**
-
----
-
-## 6. Résumé des Récompenses par Nombre de Dieux
-
-| Dieux vénérés | Réputation par dieu | Accès aux quêtes | Flexibilité |
-|---------------|---------------------|------------------|-------------|
-| 1 seul | 100% | Quêtes de 1 dieu | Spécialisation max |
-| 2 | 60% chacun | Quêtes de 2 dieux | Bon équilibre |
-| 3 | 33% chacun | Quêtes de tous | Polyvalence, moins de concentration |
-
-Le joueur peut changer le nombre de dieux vénérés en reconstruisant les bâtiments T2 appropriés dans son Sanctuaire.
+- [Quêtes Initiation](Quetes%20Initiation.md): chaîne complète de début de partie.
+- [Quêtes Cycliques](Quetes%20Cycliques.md): quêtes récurrentes et événements longs.
+- [Quêtes Divines Règles](Quetes%20Divines%20Regles.md): règles communes du système divin.
+- [Missions Divines](../Missions.md): ancien cadrage des missions, à fusionner ou archiver plus tard.
