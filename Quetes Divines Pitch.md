@@ -19,11 +19,11 @@ Un joueur peut choisir de vénérer **1, 2 ou 3 dieux** selon son style de jeu. 
 
 Trois divinités rivalisent pour gagner la faveur du **Dieu des Dieux** :
 
-| Dieu | Domaine | Couleur | Arbre de bâtiments | Style de jeu |
-|------|---------|---------|-------------------|--------------|
-| **Kael** | Guerre | Rouge | `military` | Conquérir, combattre, dominer |
-| **Erya** | Artisanat | Bleu | `craft` | Construire, produire, crafter |
-| **Toran** | Économie | Or | `trade` | Échanger, explorer, commercer |
+| Dieu      | Domaine   | Couleur | Arbre de bâtiments | Style de jeu                  |
+| --------- | --------- | ------- | ------------------ | ----------------------------- |
+| **Kael**  | Guerre    | Rouge   | `military`         | Conquérir, combattre, dominer |
+| **Erya**  | Artisanat | Bleu    | `craft`            | Construire, produire, crafter |
+| **Toran** | Économie  | Or      | `trade`            | Échanger, explorer, commercer |
 
 ---
 
