@@ -45,14 +45,19 @@ Les quêtes pour débutants suivent une chaîne linéaire appelée "initiation" 
 - **init_02_scout_surroundings** : Première exploration (! long !)
   - Utiliser votre scout pour révéler quelques cases inconnues autour de votre position de départ
   - Le scout a fov=2, permettant de voir 2 cases de distance
-  - Récompense : 
+  - Objectif : Faire x2 a la zone révélée (19 -> 38)
+  - Récompense : +1 unité éclaireur ?
+  	(permettre aux colon de s'additionner à la ville pour booster la croissance)
+  - Timing : ~1 H
 
 ##### CHAIN QUESTS : CITY BASICS
 
 - **init_03_found_city** : Fondation de la première ville
   - Déplacer votre settler vers une case appropriée et utiliser l'ordre FOUND_CITY
   - La première ville est instantanée ; le settler est consommé et ses 3000 food passent à la ville
-  - Récompense : 
+  - Récompense : 100 pierres et 100 bois
+  ==> ATTENTION LA COLLINE DOIT PAS ETRE COLL2ES A LA VILLE !!! A revoir !!!!m
+
 
 - **init_05_reassign_to_wood** : Réaffecter un worker au bois
   - Placer 1 worker sur une case bois dans le rayon de la ville
@@ -66,7 +71,7 @@ Les quêtes pour débutants suivent une chaîne linéaire appelée "initiation" 
 
 - **init_07_build_workshop** : Lancer la construction du primitiveworkshop
   - Construire un primitiveworkshop (id=42) dans votre ville (coût: 100 bois, 200 pierre, 0 point requis)
-  - Récompense : Accélération du temps sur le batiment !
+  - Récompense : Faveur divine : "accélérateur de construction"
 
 ##### CHAIN QUESTS : WARRIOR
 
