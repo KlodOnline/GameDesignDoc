@@ -24,5 +24,4 @@ Pour toute contribution ou question, ça se passe sur le [Discord](https://disco
 11. [Zone de contrôle](Zone%20de%20Controle.md)
 12. [Commerce](Commerce.md)
 13. [Missions](Missions.md)
-14. [API](API.md)
-15. [KlodWiki](KlodWiki.md)
+14. [KlodWiki](KlodWiki.md)
