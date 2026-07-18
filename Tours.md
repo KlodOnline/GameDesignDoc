@@ -4,9 +4,11 @@ ____
 ## Cycles de Jeu
 Le jeu fonctionne avec un **TIC** (Tour par Intervalle Constant) de **5 minutes** (300 secondes). Chaque tour, le serveur traite l'ensemble des ordres en attente et met à jour l'état du monde.
 
+**Le concept de trêve nocturne n'est pas (encore) implémentée car les joueurs viennent "de trop de fuseaux horaires* ATM*
+
 ## Timing
 - **1 TIC = 5 minutes IRL = 1 heure en jeu**
-- **288 TICs par jour IRL** (avec trêve nocturne de 8h, 192 TICs de gameplay effectif)
+- **288 TICs par jour IRL**
 - **1 jour IRL = 8 jours en jeu**
 - **3 mois IRL = ~2 ans de vie en jeu**
 
@@ -50,11 +52,11 @@ Les unités qui ont survécu au coût d'entretien sont ensuite traitées :
 
 ## Echelle de temps/distance
 Après plusieurs calculs et recherches voici la base de l'échelle :
- - Avec **1 TIC / 5 min**, il y a **192** TICs par jours de jeu (16h, avec la trêve nocturne).
+ - Avec **1 TIC / 5 min**, il y a **288** TICs par jour.
  - Bien noter que les joueurs on un empant de gameplay de plutôt **8h** = **96 TICs**
  - **1 TIC vaut 1 heure** pour le jeu
  - Donc, une journée IRL vaut **8 jours** dans le jeu (192 TICs/24)
- - **3 mois IRL** font **17.280** TICS, soit **2 ans de vie** dans le jeu.
+ - **3 mois IRL** font **25.920** TICS, soit **2 ans de vie** dans le jeu.
 
 | Durée d’un TIC  | 5 tours | 10 tours | 20 tours | 50 tours | 100 tours |
 | --------------- | ------- | -------- | -------- | -------- | --------- |
