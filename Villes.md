@@ -21,11 +21,25 @@ Le plus important pour une ville est sa **population**. Elle croît, décroît, 
 #### Actuellement
 La population évolue en fonction de la **nourriture disponible** et de l'**équilibre des ressources**. 
 
-La croissance ralentit naturellement quand la ville devient plus grande, via une fonction tangente hyperbolique qui réduit progressivement le facteur de croissance à mesure que la population approche 15 000 habitants. Le temps nécessaire pour **doubler** la population est fixé à **16 heures** de jeu (192 tours de 5 minutes).
+La croissance est calculée chaque TIC selon un modèle à deux régimes (croissance/décroissance) basé sur une **limite dynamique** déterminée par la production alimentaire et les stocks.
 
-La formule complète de croissance est :
+Le calcul :
+1. `CONFORT = production_alimentaire × PEOPLE_UNIT`
+2. `CONSOMMATION = max(1, population / PEOPLE_UNIT)`
+3. `STOCK_TURS = stock_alimentaire / CONSOMMATION`
+4. `CONFIANCE = clamp(STOCK_TURS / 288, 0, 2)`
+5. `LIMITE_DYNAMIQUE = max(1000, CONFORT) × CONFIANCE`
 
-`taux = (équilibre_effectif / production) × (1 / 192) × facteur_population`.
+**Décroissance** (si pop > limite) : `réduction = (pop - limite) × 0.01` (min -1)
+
+**Croissance** (si pop ≤ limite) :
+```
+ratio_remplissage = pop / limite
+frein             = sqrt(1 - ratio_remplissage)
+potentiel         = floor(stock_alimentaire × 0.01 × frein)
+plafond           = ceil(pop × 0.05)    // max biologique
+croissance_finale = min(potentiel, plafond)
+```
 
 En cas de famine (manque de nourriture en stock), la ville perd **250** habitants par unité de nourriture manquante. Si la population tombe à 499 habitants ou moins, la ville est **abandonnée** et se transforme en unité de **colons**.
 
@@ -35,8 +49,12 @@ En cas de famine (manque de nourriture en stock), la ville perd **250** habitant
 ### Zone d'influence et de production
 Les villes définissent l'influence et le territoire des joueurs. Une ville commence avec un territoire d'un rayon de **1** case et peut croître jusqu'à un rayon de **3**.
 Le joueur "voit" tout ce qui est dans son territoire **+1 case** (zone claire sur l'image). Elle peut également recevoir les bonus de vue de terrain (**1 à 2**).
-Lorsqu'une ville dépasse 6.000 habitants, le rayon de cette zone augmente d'une case (=2).
-Lorsqu'une ville dépasse 18.000 habitants, le rayon de cette zone augmente d'une case supplémentaire (=3).
+Le rayon augmente par paliers de population, chaque palier valant `PEOPLE_UNIT × N` habitants. Les seuils sont définis par une progression quadratique : `PEOPLE_UNIT × n × (n+1)`.
+- Rayon 1 : jusqu'à 3 000 hab. `(500 × 6)`
+- Rayon 2 : jusqu'à 9 000 hab. `(500 × 18)`
+- Rayon 3 : jusqu'à 18 000 hab. `(500 × 36)`
+
+Le rayon est capé par `CITY_MAX_RADIUS` (valeur par défaut : 3).
 
 ### Ohé partisans, ouvriers et paysans…
 La population représente une force de travail, par tranche de 500 habitants (`PEOPLE_UNIT`). Par défaut, ils sont affectés à l'**exploitation du terrain**. Lorsqu'on les retire de l'exploitation du terrain, ils deviennent disponibles pour autre chose, soit :
@@ -50,7 +68,7 @@ La population représente une force de travail, par tranche de 500 habitants (`P
 En général un terrain produit entre **1 et 3** unités de ressources d'un ou de plusieurs types. 
 1 unité de nourriture nourrit 1000 hab. sur 1 TIC.
 
-L'exploitation des cases se fait par **paliers** de **1000** habitants décalés de **500** : entre 0 et 500 habitants, aucune case n'est exploitable ; entre 500 et 1500, 1 case ; entre 1500 et 2500, 2 cases, etc.
+L'exploitation des cases se fait par **tranches** de `PEOPLE_UNIT` (500 habitants) : 1 travailleur par tranche de 500 habitants (`floor(pop / PEOPLE_UNIT)`).
 
 Si le terrain a une _Source_ spéciale, il produit **en plus** de sa production normale, la production spéciale. Ces _Sources_ ont un stock de ressource qui s'épuise à la production (Cf. [Ressources](Ressources.md)).
 

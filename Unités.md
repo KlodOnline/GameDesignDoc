@@ -31,29 +31,28 @@ Il existe 4 catégories fonctionnelles d'unités, chacune avec sa propre logique
 ### Guerrières (militaire)
 Unités de combat, défense et siège. Elles progressent via l'ordre **UPGRADE** en ville, qui les fait monter en tier d'équipement.
 
-Chaîne principale (Infanterie) :
+ Chaîne principale (Infanterie) :
 ```
 milice ──▶ brfighter ──▶ irfighter ──▶ legion
-                                       ─ ou ─
-                                       phalanx  (choix du joueur via popup)
 ```
 
 Branches latérales (progression via UPGRADE) :
 - **Archers** : archer ──▶ crossbowman
 - **Cavalerie** : brfightercavalry ──▶ irfightercavalry ──▶ heavycavalry
+- **Navale** : coastguard ──▶ mediumgalley ──▶ quadrireme
 
-Unités sans progression (recrutement direct) : warelephant, engins de siège (balista, catapult), espions, généraux, missidominici. Les forts sont uniquement des cibles de MORPH.
+Unités sans progression (recrutement direct) : phalanx, warelephant, engins de siège (balista, catapult), espions, généraux, missidominici. Les forts sont uniquement des cibles de MORPH.
 
 ### Récolteuses (économie)
-Une seule unité, le **gatherer**, récolte **toutes** les ressources disponibles sur le terrain (nourriture, bois, minerais…). Il n'y a pas de spécialisation par type de ressource.
+Les unités **reaper** récoltent **toutes** les ressources disponibles sur le terrain (nourriture, bois, minerais…). Il n'y a pas de spécialisation par type de ressource.
 
-Le gatherer progresse via **UPGRADE** : à chaque tier, il peut exploiter une case de terrain supplémentaire.
+Le reaper progresse via **UPGRADE** en 4 paliers, chaque palier ajoutant des travailleurs au camp.
 
 ```
-gatherer (1 case) ──▶ skilled_gatherer (2 cases) ──▶ master_gatherer (3 cases)
+reaper1 (1 worker) ──▶ reaper2 (2 workers) ──▶ reaper3 (2 workers) ──▶ reaper4 (3 workers)
 ```
 
-Le gatherer peut se transformer en **camp** (ordre MORPH) pour rester sur place et extraire en continu.
+Le reaper peut se transformer en **camp** fixe via l'ordre **MORPH** (ex: `camp_reaper1`), ce qui conquiert le territoire adjacent.
 
 ### Transporteuses (économie)
 Unités dédiées au transport de ressources. Progressent via **UPGRADE** : plus grosse capacité d'inventaire et meilleure vitesse.
@@ -62,11 +61,12 @@ Unités dédiées au transport de ressources. Progressent via **UPGRADE** : plus
 - **Maritime** : chaland (inv:4, vit:2) ──▶ barge (inv:8, vit:3) ──▶ cabotin (inv:12, vit:4)
 
 ### Modificatrices de terrain (craft)
-Unités qui aménagent le territoire. Progressent via **UPGRADE** : chaque tier débloque de nouveaux ordres terrain (les anciens drainers sont désormais intégrés aux engineers).
+Unités qui aménagent le territoire. Progressent via **UPGRADE** : chaque tier débloque de nouveaux ordres terrain.
 
 ```
-laborer ──▶ masons ──▶ engineers
-(pistes)   (+routes)  (+irrigation, +ponts, +assécher marais)
+laborer ──▶ drainer ──▶ masons ──▶ engineers
+(pistes)   (+irriguer,   (+routes)  (+ponts)
+            +assécher)
 ```
 
 ## Caractéristiques
@@ -80,7 +80,6 @@ L'addition du score de l'unité et du score de terrain donne le **nombre de tour
 #### Ordre "greffe" (à implémenter)
 Permet de grouper plusieurs unités pour un déplacement simultané. Le groupe se déplace à la vitesse de l'unité la plus lente. Utile pour escorter des unités civiles avec des militaires.
 #### À faire
- - La nuit, tous les ordres de mouvements seront figés (de 22h00 à 7h00?), même si le jeu fonctionne et est accessible. Cela permet d'éviter la victoire automatique des no-life.
  - Les unités navales ne peuvent aller sur la terre, sauf les villes qui sont considérées comme des ports dès qu'elles sont en bord d'océan ou de rivière.
 
 ### Vision
@@ -122,11 +121,11 @@ Le loot d'une unité morte contient les ressources qui ont servi à la construir
 ## MORPH vs UPGRADE
 Deux ordres permettent de transformer une unité — ils sont distincts et ne se substituent pas :
 
-- **MORPH** : transformation *bidirectionnelle* (A ↔ B), gratuite et rapide. Exemple : gatherer ↔ camp, milice ↔ fort en bois. Peut se faire n'importe où sur le terrain. L'ID de l'unité est conservé.
+- **MORPH** : transformation *bidirectionnelle* (A ↔ B), gratuite et rapide. Exemple : reaper ↔ camp_reaper, milice ↔ fort en bois. Peut se faire n'importe où sur le terrain. L'ID de l'unité est conservé.
 - **UPGRADE** : progression *one-way* (A → B, sans retour) vers une unité plus puissante. Se fait **en ville uniquement**, coûte des ressources et du temps, requiert les bâtiments appropriés (ex: `farmershouse` pour upgrade un gatherer). L'ID de l'unité est conservé.
 
 ## Campement
-Les unités récolteuses et militaires peuvent se transformer en **structures statiques** via l'ordre **MORPH** : le gatherer devient un camp de récolte, la milice devient un fort en bois, etc.
+Les unités récolteuses et militaires peuvent se transformer en **structures statiques** via l'ordre **MORPH** : le reaper devient un camp de récolte, la milice devient un fort en bois, etc.
 
 Ce faisant (sauf pour les tours d'observation), l'unité **conquiert le territoire** immédiatement adjacent.
 
