@@ -1,24 +1,31 @@
-# Missions Divines (Non implémenté)
+# Système de Quêtes
 ______
 ## État actuel
-Ce système **n'est pas encore implémenté**. Il est prévu pour la phase BETA.
+Le Système est implémenté, avec panneau de suivi, popup de narration, et éditeur GM.
+Quelques quêtes sont en place (17).
 
-## Concept
-Les joueurs auront le choix entre plusieurs divinités. Chacune de ces divinités donnera des missions aléatoires aux joueurs, dans un type de gameplay particulier (Guerre, exploration, craft, diplomatie, etc.).
-Chaque fois que le joueur réussira une mission, il gagnera des points d'honneur, et grimpera potentiellement dans le scoreboard.
-Ensuite, soit :
- - Le fait de ne pas faire de missions diminue l'honneur avec le temps et fait baisser dans le scoreboard.
- - Le Scoreboard reset tous les 3 mois
+## Architecture
 
-De plus, les missions pourraient donner accès à des récompenses uniques.
+### Chaînes disponibles
+- **welcome** (tutoriel) : 11 quêtes qui guident le nouveau joueur
+- **fallen_angel** (JcE) : 5 quêtes narrative
 
-### Idées de missions (WIP)
- - À définir
+### Cycle de vie
+Chaque quête traverse les états automatiquement :
+- **locked** → **available** : conditions de déverrouillage remplies
+- **available** → **active** : acceptation automatique (pas d'action joueur)
+- **active** → **completed** : objectifs remplis (vérifié chaque TIC)
+- **completed** → **claimed** : joueur clique sur le bouton Réclamer
 
-### Ce qu'il faudra implémenter
- - Système de divinités au choix du joueur
- - Génération de missions aléatoires par type de gameplay
- - Suivi de progression des missions
- - Points d'honneur et scoreboard (par joueur, par ville, par clan)
- - Récompenses uniques
- - Dégradation de l'honneur avec le temps sans activité 
+### Vérifications (17 checkers)
+Chaque quête peut utiliser un vérificateur existant ou sinon on peut en coder un nouveau
+
+### Récompenses
+- Ressources (bois, pierre, etc.)
+- Unités spéciales
+- Déverrouillage de quêtes suivantes
+
+## À faire (évolutions futures)
+- Système de divinités au choix du joueur
+- Points d'honneur et scoreboard
+- Dégradation de l'honneur avec le temps 
