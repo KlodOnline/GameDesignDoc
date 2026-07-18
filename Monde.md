@@ -12,7 +12,7 @@ Le monde se joue sur une carte **cylindrique** composée de cases **hexagonale**
 ## Dimensions
 Techniquement, une ville devrait pouvoir avoir une zone d'influence de **_3_** ou **_4_** cases de rayons, et chaque joueur devrait piloter **_1_** à **_5_** villes.
 Donc on peut compter 61 cases d'aire pour une ville, **_305_** pour un joueur. On voudrait au moins 200 **_joueurs_** par monde, donc un **_minimum_** de **_61.000_** cases. Il faudrait compter également les zones inexploitables, etc. 
-C'est pourquoi j'ai choisi comme valeur par défaut un monde de **_320x200_**. Je pense qu'il pourrait passer à 450x300 si les joueurs sont trop à l'étroit, et en fonction des retour, si 200 joueurs est suffisant ou non, si 5 villes à jouer c'est trop peu ou non ...
+C'est pourquoi j'ai choisi comme valeur par défaut un monde de **_320x250_**. Je pense qu'il pourrait passer à 450x300 si les joueurs sont trop à l'étroit, et en fonction des retour, si 200 joueurs est suffisant ou non, si 5 villes à jouer c'est trop peu ou non ...
 ## Génération procédurale
 Je n'y peux rien, j'aime ça. De plus l'exploration me fait toujours plaisir. Donc la carte doit être générée de façon procédurale avec une cohérence réaliste. Voici comment cela devrait être fait :
 ### Températures
