@@ -78,11 +78,11 @@ Certains bâtiments avancés permettront de convertir une ressource secondaire e
 ## Classification des ressources
 
 ### Rareté
-- **1 – Communes** : nourriture, bois, pierre. Nécessaires à toutes les constructions.
-- **2 – Peu communes (vert)** : minerais (étain, cuivre, fer, etc.), matériaux pour constructions avancées.
-- **3 – Rares (bleu)** : minerais précieux (or, argent, etc.), matériaux pour bâtiments d'importance.
-- **4 – Épiques (violet)** : matériaux pour constructions majeures uniques.
-- **5 – Légendaires (orange)** : ressources mythiques extrêmement rares.
+- **0 – Communes** : nourriture, bois, pierre. Nécessaires à toutes les constructions.
+- **1 – Peu communes (vert)** : minerais (étain, cuivre, fer, etc.), matériaux pour constructions avancées.
+- **2 – Rares (bleu)** : minerais précieux (or, argent, etc.), matériaux pour bâtiments d'importance.
+- **3 – Très rares (violet)** : matériaux pour constructions majeures uniques.
+- **4 – Légendaires (orange)** : `time_catalyst`, ressource mythique extrêmement rare.
 
 ---
 
@@ -107,8 +107,8 @@ Ce sont les ressources fabriquées en ville à partir des ressources primaires.
 
 ---
 
-## Commerce (prévu)
-Un système futur permettra l’échange de ressources entre joueurs.
+## Commerce
+Le commerce local est implémenté via le système de Marché (NPC MagicTrader + slots joueurs) et le système de bourse (Purse). Voir [Commerce](Commerce.md).
 
 ---
 
