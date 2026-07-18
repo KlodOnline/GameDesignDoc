@@ -1,7 +1,7 @@
 # Commerce
 _______
 ## État actuel
-L'échange de ressources entre entités sur la **même case** est implémenté (unités ↔ unités, unités ↔ villes, unités ↔ loot). Le commerce entre joueurs et le système de marché avec PNJ marchand **ne sont pas encore implémentés**.
+L'échange de ressources entre entités sur la **même case** est implémenté (unités ↔ unités, unités ↔ villes, unités ↔ loot). Le système de marché avec PNJ marchand (MagicTrader) est **implémenté** (achat à `/10`, vente à `x10`). Le commerce entre joueurs via les marchés **est partiellement implémenté** via les slots PJ des bâtiments de marché.
 
 ## Échange local
 Une unité peut transférer des objets avec une autre unité, une ville ou un loot présent sur la même case.  
@@ -16,7 +16,7 @@ L'échange vérifie uniquement :
  - La monnaie doit être très utile au commerce et devenir un outil de référence sans être excessivement rigide.
  - Les joueurs doivent être plus que **neutres** pour cela, un **accord commercial** doit être signé.
 
-## Bâtiments (prévu)
+## Bâtiments
  - Marché (Marketplace) :
 	 - 1 slot PNJ Magique
 	 - 2 slots PJ d'achat ou de vente
@@ -34,9 +34,9 @@ Les slots "PNJ magique" (Marchand de la ville) ne sont connus que du joueur (et 
 Le PNJ "magique" propose des prix voleurs : il achète pour `/10` de la valeur de base et vend pour `x10` la valeur de base.
 
 ## Monnaie
- - Les joueurs pourront créer des pièces de cuivre (CC), d'argent (SC), ou d'or (GC) via le bâtiment Hôtel de la Monnaie (Mint).
+ - Les joueurs peuvent créer des pièces de cuivre (CC), d'argent (SC), ou d'or (GC) via le bâtiment Hôtel de la Monnaie (Mint). Les coffres (purse) sont stockés directement dans les données JSON des entités (`purse_cc`).
  - Le ratio est :
  	 - 1 Pièce d'Or (PO/GC) = 10 Pièces d'Argent (PA/SC) = 2 500 Pièces de Cuivre (PC/CC).
  	 - 1 Pièce d'Argent (PA/SC) = 250 Pièces de Cuivre (PC/CC).
 
-> **Test d'équilibrage** : ratio 1 GC = 2 500 CC (1 SC = 25 CC) — en test.
+> **Confirmé** : ratio 1 GC = 2 500 CC, 1 SC = 250 CC.
