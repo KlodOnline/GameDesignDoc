@@ -37,6 +37,14 @@ Large. Il faut faire connaitre le jeu un maximum, pour permettre des tests de  c
 
 ### Prioritaire
 
+#### Missions
+- [ ] Ajouter le choix de la divinité
+- [ ] Générer des missions divines aléatoires par type de gameplay
+- [ ] Suivre la progression des missions divines
+- [ ] Ajouter les récompenses uniques des missions divines
+
+### A Faire
+
 #### Diplomatie
 - [ ] Implémenter les alliances multi-joueurs (clans)
 - [ ] Implémenter l'échange de carte entre joueurs
@@ -64,7 +72,13 @@ Large. Il faut faire connaitre le jeu un maximum, pour permettre des tests de  c
 - [ ] Donner accès au chat depuis l'interface de modération
 - [ ] Donner accès aux logs du jeu depuis l'interface de modération
 
-### A Faire
+#### Classement
+- [ ] Ajouter les points d'honneur
+- [ ] Ajouter la dégradation de l'honneur avec le temps
+- [ ] Ajouter le classement des joueurs
+- [ ] Ajouter le classement des villes
+- [ ] Ajouter le classement des clans
+- [ ] Afficher les statistiques d'un joueur depuis son profil
 
 #### Monde vivant
 - [ ] Ajuster la repousse naturelle des forêts et jungles
@@ -72,18 +86,6 @@ Large. Il faut faire connaitre le jeu un maximum, pour permettre des tests de  c
 - [ ] Ajuster l'évolution naturelle de la savane vers le désert
 - [ ] Ajouter les catastrophes naturelles
 - [ ] Ajouter la génération spontanée de pistes
-
-#### Missions et classement
-- [ ] Ajouter le choix de la divinité
-- [ ] Générer des missions divines aléatoires par type de gameplay
-- [ ] Suivre la progression des missions divines
-- [ ] Ajouter les récompenses uniques des missions divines
-- [ ] Ajouter les points d'honneur
-- [ ] Ajouter la dégradation de l'honneur avec le temps
-- [ ] Ajouter le classement des joueurs
-- [ ] Ajouter le classement des villes
-- [ ] Ajouter le classement des clans
-- [ ] Afficher les statistiques d'un joueur depuis son profil
 
 #### Règles et interface
 - [ ] Implémenter le cycle des saisons
