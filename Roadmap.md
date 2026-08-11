@@ -27,46 +27,76 @@ Large. Il faut faire connaitre le jeu un maximum, pour permettre des tests de  c
 - [x] Possibilité d'affecter les habitants des villes aux tâches : Production, Crafting, Bâtiments
 - [x] vie et mort des empires, abandon des joueurs
 - [x] "barbares" (IA mobs)
-- [ ] diplomatie : pacte de paix, libre circulation, échange de carte, création de "clans" (alliances large à plusieurs joueurs), messagerie
-  - _Manquent : la messagerie inter-joueurs, les alliances multi-joueurs (clans), et l'échange de carte._
-- [ ] Combats et gestion des combats
-  - _Note : Le système de combat est implémenté (calcul attaque/défense, retraite, rapports de combat, prise de ville). Des ajustements d'équilibrage sont attendus._
-- [ ] Upgrade des unités
-- [ ] Gestion des unités comme élément de la population d'une ville, possibilité de rattacher une unité à une autre ville
-- [ ] Possibilité de dissoudre une unité dans la ville
-  - _Note : L'ordre DISBAND existe mais ne transfère pas les ressources dans la ville._
-- [ ] échange de stuff entre unités et villes d'un autre joueur OU système de marché/vente - commerce : échange de stuff verrouillable pour sceller l'accord
 - [x] Protection débutant de 2 semaine par défaut
-- [ ] chat global, chat privé de clan, chat de groupe (canal personnalisé), système de log pour le chat, et traçabilité en cas de plainte IRL
-  - _Note : Le serveur chat Socket.io est en place. Manquent : canaux de clan, logs, traçabilité._
-- [ ] Marchand PNJ qui pratique des prix de voleurs, mais permettant d'introduire une monnaie et une valeur de régulation.
-  - _Note : Les constantes et bâtiments de marché sont définis dans la config XML. La logique de marchand PNJ n'est pas encore codée._
-- [ ] Commerce entre joueurs
-- [ ] modération, système permettant à un Modo ou un Dev de se connecter sans jouer, et accès au chat et au logs du jeu
-  - _Note : Un GM GUI existe pour l'administration._
-- [ ] terrain qui changent avec le temps (Cf Le Monde/Vie du territoire)
-- [ ] Missions divine et tableau d'honneur, leaderboard par joueur, par ville, par clan
-- [ ] trêve de la nuit
-- [ ] Saisons !
-- [ ] révision du GUI pour un truc beau et surtout unifié / cohérent (mais là faudra du budget)
 
 #### Affinages et compléments de gameplay
-- [ ] **Espionnage avancé** : détection de l'espion en mouvement sur case adverse, limite d'un espion infiltré par ville, les espions invisibles ne comptent pas dans le "crowded", rumeurs d'intrusion améliorées (préciser civil/militaire, pas d'alerte pour alliés, pas pour unités invisibles)
-- [ ] **Ordre "greffe"** : grouper des unités qui se déplacent ensemble à la vitesse de la plus lente
-- [ ] **Distinguer ordre MOVE et ATTAQUE** : séparer clairement le déplacement de l'attaque dans l'interface
-- [ ] **Points de Culture** : les oisifs génèrent de la culture, seuils de déblocage pour progrès avancés ?
-- [ ] **Moral des unités en ville** : les villes remontent le moral des unités présentes, même sans nourriture, sauf en cas de famine
-- [ ] **Règle de spawn des colons** : en cas de mort d'une ville le jeu ne génère un colon que si le joueur n'a aucune ville ET aucun colon
-- [ ] **Irrigation interdite sur les cases de ville**
 - [x] **Unités civiles à 0 en attaque** : les civils ne peuvent pas attaquer
 - [x] **Multi-bateau au choix** : faciliter l'embarquement quand plusieurs navires sont sur la même case (icône inventaire plein)
-- [ ] **Traité d'amitié étendu** : permet de voir toutes les relations diplomatiques de son ami
 - [x] **Suppression multiple de mails**
-- [ ] **Classement et stats joueurs** : pouvoir cliquer sur un joueur pour voir ses statistiques (utile pour la diplomatie)
-- [ ] **Options/Divinités** : nouveau menu de sélection de divinité
-- [ ] **Génération spontanée de pistes** sur la carte
 - [x] **Option "cabotage"** : permettre aux bateaux de longer les côtes pour éviter la haute mer
-- [ ] **Easter egg** : case spéciale avec référence à Poulpe au milieu de l'océan
+
+### Prioritaire
+
+#### Diplomatie
+- [ ] Implémenter les alliances multi-joueurs (clans)
+- [ ] Implémenter l'échange de carte entre joueurs
+
+#### Progression et gestion des unités
+- [ ] Ajouter les unités à la population d'une ville
+- [ ] Rattacher une unité à une autre ville
+- [ ] Dissoudre une unité dans sa ville
+- [ ] Transférer les ressources d'une unité dissoute vers sa ville
+
+#### Commerce
+- [ ] Autoriser les échanges d'objets avec les unités d'un autre joueur selon les relations diplomatiques
+- [ ] Autoriser les échanges d'objets avec les villes d'un autre joueur selon les relations diplomatiques
+- [ ] Permettre de verrouiller un échange pour sceller l'accord
+
+#### Communication
+- [ ] Ajouter le chat privé de clan
+- [ ] Ajouter le chat de groupe avec canal personnalisé
+- [ ] Enregistrer les logs du chat
+- [ ] Assurer la traçabilité des messages en cas de plainte
+
+#### Modération
+- [ ] Permettre à un modérateur de se connecter sans jouer
+- [ ] Permettre à un développeur de se connecter sans jouer
+- [ ] Donner accès au chat depuis l'interface de modération
+- [ ] Donner accès aux logs du jeu depuis l'interface de modération
+
+### A Faire
+
+#### Monde vivant
+- [ ] Ajuster la repousse naturelle des forêts et jungles
+- [ ] Ajuster l'évolution naturelle des plaines vers la savane
+- [ ] Ajuster l'évolution naturelle de la savane vers le désert
+- [ ] Ajouter les catastrophes naturelles
+- [ ] Ajouter la génération spontanée de pistes
+
+#### Missions et classement
+- [ ] Ajouter le choix de la divinité
+- [ ] Générer des missions divines aléatoires par type de gameplay
+- [ ] Suivre la progression des missions divines
+- [ ] Ajouter les récompenses uniques des missions divines
+- [ ] Ajouter les points d'honneur
+- [ ] Ajouter la dégradation de l'honneur avec le temps
+- [ ] Ajouter le classement des joueurs
+- [ ] Ajouter le classement des villes
+- [ ] Ajouter le classement des clans
+- [ ] Afficher les statistiques d'un joueur depuis son profil
+
+#### Règles et interface
+- [ ] Implémenter le cycle des saisons
+- [ ] Appliquer les effets climatiques des saisons
+- [ ] Unifier la cohérence visuelle du GUI
+- [ ] Améliorer l'aspect visuel du GUI
+
+#### Affinages et compléments de gameplay
+- [ ] Implémenter l'ordre "greffe"
+- [ ] Faire générer des points de culture par les oisifs
+- [ ] Ajouter les seuils de déblocage liés aux points de culture
+- [ ] Générer un colon uniquement si le joueur n'a aucune ville ni colon
+- [ ] Ajouter un easter egg au milieu de l'océan
 
 ## Version 1.0
 ### Objectif
