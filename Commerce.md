@@ -40,3 +40,13 @@ Le PNJ "magique" propose des prix voleurs : il achète pour `/10` de la valeur d
  	 - 1 Pièce d'Argent (PA/SC) = 250 Pièces de Cuivre (PC/CC).
 
 > **Confirmé** : ratio 1 GC = 2 500 CC, 1 SC = 250 CC.
+
+## Valeur d'une ressource par rareté
+La valeur de base d'une unité de ressource est ancrée sur la monnaie, selon sa rareté (`MagicTrader::rarityValue`) :
+- Rareté 0 – communes : 0,1 CC (nourriture, bois, pierre)
+- Rareté 1 – vert (peu communes) : 1 CC
+- Rareté 2 – bleu (rares) : 1 SC = 250 CC
+- Rareté 3 – violet (très rares) : 1 GC = 2 500 CC
+- Rareté 4 – orange (légendaires) : 10 GC = 25 000 CC
+
+Le PNJ magique applique sa marge sur cette valeur de base : il achète pour `/10` et vend pour `x10`.

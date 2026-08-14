@@ -32,11 +32,11 @@ Des gisements fixes existent sur la carte pour chaque ressource.
 À chaque tour :
 - le jeu vérifie si de nouvelles sources doivent apparaître.
 - le nombre de sources dépend de la rareté :  
-  - Rareté 1 : ~180  
-  - Rareté 2 : ~60  
-  - Rareté 3 : ~20  
-  - Rareté 4 : ~7  
-  - Rareté 5 : ~2  
+  - Rareté 1 : ~270  
+  - Rareté 2 : ~90  
+  - Rareté 3 : ~30  
+  - Rareté 4 : ~10  
+  - Rareté 5 : ~3  
 
 Placement :
 - une ressource n’apparaît que sur les types de terrain compatibles.
