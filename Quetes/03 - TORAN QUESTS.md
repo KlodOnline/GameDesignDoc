@@ -28,13 +28,14 @@ ____
  -  **Le pacte de l'obole** : « Aerin vous invite à consolider vos alliances par le profit mutuel. Réalisez des échanges d'envergure avec une faction alliée. » _(offirir 5000 d'or de valeur de stuff )
 
 ### Quêtes Difficile
+ - Developpez une ville à 100% arbre 2 "commerce"
  - **L'ancre du pionnier** : « Aerin vous demande de prouver que votre peuple sait marcher au-delà de sa zone de confort. Installez une cité dans une région inexplorée. » _(Fonder une ville dans un territoire demoralisant et entouré de terre seche)_
  - **Le grenier du monde** : « Aerin vous rappelle que Toran exige que la nourriture ne manque jamais. Accumulez un stock massif de provisions dans tout vos entrepôts. »
  - "Aerin vous explique que pour briller auprès de Toran, vous devriez sonder le sol à la recherche de cette veine minérale ancienne dont les anciens murmuraient les légendes." _Découvrir une Source Porphyre inexploitée_
  - Idem bois _Découvrir une Source Rosewood inexploitée_
  - **Le pacte des frontières** : « Aerin vous souffle qu'un bon voisin est un voisin avec qui l'on commerce. Échangez des ressources exotics avec un territoire lointain. » _(Effectuer un échange longue distance)_
  - **Le coffre-fort des dieux** : « Aerin vous exhorte à thésauriser pour attirer la grâce de Toran. Atteignez un seuil de richesse inouï dans vos caisses. »
- - Developpez une ville à 100% arbre 2 "commerce"
+
  - **Aux confins** : Atteignez un point situé à plus de 150 cases de votre territoire.
  -  **L'art de la plus-value** : « Aerin vous explique que chaque ressource doit trouver sa place là où elle a le plus de prix. Transportez des biens spécialisés vers une ville en demande. » _(necessite de trouver un joueur qui a une demande particulièr et de la lui fournir)
  - **Le négociateur** : Obtenez auprès de 10% des joueurs un accord commercial
