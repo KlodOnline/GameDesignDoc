@@ -15,11 +15,11 @@ Les détails de la chaîne débutant sont dans [Quêtes Initiation](Quetes%20Ini
 
 Les dieux servent à spécialiser les styles de jeu, donner une direction aux objectifs de long terme, et créer de la compétition entre joueurs.
 
-| Dieu | Domaine | Style de jeu |
-|------|---------|--------------|
-| **Kael** | Guerre | Combattre, conquérir, défendre |
-| **Erya** | Artisanat | Construire, produire, transformer |
-| **Toran** | Exploration / économie | Explorer, exploiter, échanger |
+| Dieu      | Domaine                | Style de jeu                      |
+| --------- | ---------------------- | --------------------------------- |
+| **Kael**  | Guerre                 | Combattre, conquérir, défendre    |
+| **Erya**  | Artisanat              | Construire, produire, transformer |
+| **Toran** | Exploration / économie | Explorer, exploiter, échanger     |
 
 ## Progression
 
