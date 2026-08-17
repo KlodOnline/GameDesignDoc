@@ -52,6 +52,7 @@ _Ces quêtes donnent un titre temporaire_
  - Le plus d'accord commerciaux !
  - Le plus d'Or !
  - Le plus d'unité marchandes !
+ - 
 
 ## A étudier :
 
@@ -90,13 +91,6 @@ _Ces quêtes donnent un titre temporaire_
 8. **L'explorateur fou** : Découvrez une zone représentant une part importante de la carte encore inconnue de votre empire.
 9. **Le grand détour** : Faites parvenir une ressource d'un bout à l'autre de votre empire par transport physique.
 10. **Toran veut voir le monde** : À la fin du cycle, possédez une présence économique dans au moins 4 régions éloignées.
-### 🧭 Toran : cycles d'exploration/commerce
-
-- **Le monde ouvert** : Découvrez X nouvelles cases pendant le cycle.
-- **Les routes du monde** : Effectuez X transports dépassant une certaine distance.
-- **Le grand marché** : Échangez avec X joueurs différents.
-- **Fortune lointaine** : Faites réaliser un bénéfice à une exploitation éloignée.
-- **Le tour du monde** : Faites parvenir des marchandises à plusieurs régions éloignées.
 
 ### Legendaire (Cycliques)
 
