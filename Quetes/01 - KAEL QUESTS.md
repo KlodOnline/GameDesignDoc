@@ -58,6 +58,38 @@ _____
 - **L'appel aux armes** — Maintenez une armée de X unités pendant tout le cycle.
 - **Le territoire disputé** — Contrôlez à la fin du cycle une région où vous étiez minoritaire au départ.
 - **La revanche** — Reprenez au moins un territoire perdu pendant le cycle.
+
+
+Les cycles pourraient avoir une **identité temporaire**.
+
+Par exemple :
+
+> **Cycle de Kael — « La frontière brûle »**  
+> Pendant 7 jours, Kael demande aux joueurs de prouver leur valeur au combat.
+
+Puis plusieurs objectifs apparaissent, avec différents niveaux :
+
+**Épreuve → Défi → Volonté de Kael**
+
+Et surtout, **tout le monde n'est pas obligé de faire la même chose**.
+
+
+
+Ça peut créer une sorte de mini-compétition PvP parallèle au jeu principal, sans ajouter de PNJ ni d'événements complexes.
+### ⚔️ Kael — 10 quêtes cycliques
+
+1. **Le territoire ennemi** — À la fin du cycle, contrôlez au moins 100 cases qui appartenaient à un autre empire.
+2. **La guerre sans fin** — Remportez au moins 5 batailles contre 3 joueurs différents.
+3. **L'invasion** — Possédez une armée à plus de 100 cases de votre territoire principal pendant 24h.
+4. **Le briseur d'empires** — Réduisez de 20 % le territoire d'un adversaire pendant le cycle.
+5. **La revanche** — Reprenez au moins 50 cases perdues face à un autre joueur.
+6. **Le front** — Maintenez une frontière avec un autre empire pendant toute la durée du cycle.
+7. **La conquête impossible** — Conquérez un territoire dont la surface initiale est supérieure à la vôtre.
+8. **Le prédateur** — Attaquez trois joueurs différents sans perdre votre propre capitale.
+9. **La grande marche** — Faites parcourir à vos forces une distance cumulée de 1 000 cases.
+10. **Kael réclame un rival** — Affrontez le joueur possédant le plus grand territoire et survivez au cycle.
+
+
 ### Legendaire (Cycliques)
 
  - Contrôler 1 - 5 monolithes

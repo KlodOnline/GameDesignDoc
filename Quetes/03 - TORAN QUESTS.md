@@ -51,7 +51,18 @@ Sans gaspillage — Transformez une quantité donnée de ressources sans en ache
 18. **Le pont maritime** — Utilisez un bateau pour établir une liaison commerciale ou logistique entre deux zones.
 19. **Cartographier avant d'agir** — Explorez une zone entière avant d'y envoyer des ressources ou des unités.
 20. **Le pari lointain** — Investissez des ressources dans une exploitation éloignée et faites-la devenir rentable.
+### 🧭 Toran — 10 quêtes cycliques
 
+1. **Le bout du monde** — Atteignez une zone située à plus de 200 cases de votre empire.
+2. **Les routes de Toran** — Faites parcourir à vos convois une distance cumulée de 2 000 cases.
+3. **Le grand marché** — Réalisez des échanges avec au moins 5 joueurs différents.
+4. **Fortune sans frontières** — Générez une quantité déterminée de valeur commerciale sans produire vous-même les marchandises.
+5. **La ressource interdite** — Exploitez pendant le cycle une ressource située hors de votre territoire.
+6. **Le réseau** — Faites transiter des ressources par au moins 5 de vos villes.
+7. **Le commerce à risque** — Faites parvenir une cargaison précieuse dans une zone contrôlée par un autre joueur.
+8. **L'explorateur fou** — Découvrez une zone représentant une part importante de la carte encore inconnue de votre empire.
+9. **Le grand détour** — Faites parvenir une ressource d'un bout à l'autre de votre empire par transport physique.
+10. **Toran veut voir le monde** — À la fin du cycle, possédez une présence économique dans au moins 4 régions éloignées.
 ### 🧭 Toran — cycles d'exploration/commerce
 
 - **Le monde ouvert** — Découvrez X nouvelles cases pendant le cycle.

@@ -50,7 +50,18 @@ _____
 19. **La chaîne parfaite** — Faites traverser plusieurs étapes de transformation à une même ressource avant son utilisation finale.
 20. **Construire pour conquérir** — Développez une infrastructure destinée à soutenir directement une future expansion militaire.
 
+### 🔨 Erya — 10 quêtes cycliques
 
+1. **La grande forge** — Produisez une quantité exceptionnelle d'un même objet pendant le cycle.
+2. **L'empire autonome** — Ne dépendez d'aucun échange extérieur pour alimenter une chaîne de production complète.
+3. **Le chef-d'œuvre** — Réalisez une chaîne de transformation impliquant au moins 4 ressources différentes.
+4. **La cité industrielle** — Faites d'une seule ville votre principale source de production pendant le cycle.
+5. **Bâtir sans relâche** — Construisez dans au moins 5 villes différentes.
+6. **Le grand chantier** — Augmentez simultanément plusieurs infrastructures de votre empire.
+7. **L'artisan contre la guerre** — Maintenez votre production malgré une guerre active.
+8. **Le gaspillage interdit** — Transformez une quantité donnée de ressources sans qu'aucune ne soit importée.
+9. **La spécialisation parfaite** — Faites atteindre à une ville un niveau de production supérieur à toutes vos autres villes.
+10. **Erya veut laisser une trace** — Construisez suffisamment pour que votre empire augmente sa valeur industrielle de façon spectaculaire pendant le cycle.
 ### 🔨 Erya — cycles de production
 
 - **La grande œuvre** — Produisez X objets avancés pendant le cycle.
