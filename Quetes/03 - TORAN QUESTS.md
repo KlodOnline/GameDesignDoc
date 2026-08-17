@@ -52,7 +52,11 @@ _Ces quêtes donnent un titre temporaire_
  - Le plus d'accord commerciaux !
  - Le plus d'Or !
  - Le plus d'unité marchandes !
- - 
+
+### Quête Cyclique
+**Les Gemmes** : Une gemme par semaine tombe sur le monde. C'est un loot un peu spécial, il a un look de cratère. Il faut le looter pour récupérer la Gemme. Le ramener à sa ville "religieuse" booste les faveur et la réputation
+
+
 
 ## A étudier :
 
