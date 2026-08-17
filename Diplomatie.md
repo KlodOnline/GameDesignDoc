@@ -1,4 +1,4 @@
-# Game Design Document — Système de Diplomatie
+# Game Design Document : Système de Diplomatie
 _________
 ## 1. Vue d'ensemble
 Le système de diplomatie régit les interactions politiques entre joueurs : déplacements des unités, contrôle territorial, accès aux ressources et coopération militaire ou économique.
@@ -40,7 +40,7 @@ Conflit ouvert visant la destruction ou l'annexion de l'adversaire.
 - **Limitation** :
   aucune capture de territoire possible.
 
-### C. NEUTRE (Neutral) — État par défaut
+### C. NEUTRE (Neutral) : État par défaut
 
 - **Frontières verrouillées** : mur invisible, arrêt automatique des unités.
 - **Interactivité moteur** :
@@ -80,7 +80,7 @@ Niveau maximal de coopération et seule protection structurelle.
 
 - Devenir HOSTILE.
 - Déclarer la GUERRE.
-- Capitulation (RENDRE) — cède tous les territoires contestés.
+- Capitulation (RENDRE) : cède tous les territoires contestés.
 - Offrir/Révoquer des droits :
   - libre passage,
   - commerce,
@@ -100,7 +100,7 @@ Niveau maximal de coopération et seule protection structurelle.
 - **Alliance** :
   passage de NEUTRE/PAISIBLE à ALLIÉ.
 
-## 4. Sortie de Guerre — Le Traité de Paix
+## 4. Sortie de Guerre : Le Traité de Paix
 
 La guerre ne se termine jamais unilatéralement  
 (sauf destruction totale).

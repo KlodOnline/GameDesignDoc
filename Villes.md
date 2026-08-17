@@ -87,7 +87,7 @@ Un bâtiment est créé dans une ville, à l'aide de ressources plus ou moins im
 Le calcul de base est "total des ressources additionnées = NB de TIC".
 Chaque bâtiment construit apporte des points de "progression" qui débloquent des bâtiments plus avancés.
 La ville a un nombre de "slots" de bâtiments maximum, en fonction de ses habitants (1 slot/1000 hab.).
-Donc une ville peut à la fois tout faire, et en même temps non, car elle ne peut pas faire n'importe quel bâtiment — cela dépend de ce qui a été fait par le passé.
+Donc une ville peut à la fois tout faire, et en même temps non, car elle ne peut pas faire n'importe quel bâtiment : cela dépend de ce qui a été fait par le passé.
 Les arbres de bâtiments sont définissables dans les règles du jeu et peuvent donc être différents d'un serveur à l'autre.
 
 ### Points de Culture (à implémenter)
@@ -100,7 +100,7 @@ Au départ, il est de **16** slots, et il est destiné à s'agrandir avec des b�
 Les unités militaires présentes dans une ville la défendent automatiquement en cas d'attaque. Les bâtiments de fortification ajoutent un bonus défensif (+1/+2/+3 selon le niveau) aux combats de défense.
 
 ## Bâtiments d'espionnage
-- **Maison des Murmures** — Permet de recruter des espions (unité `spy`)
+- **Maison des Murmures** : Permet de recruter des espions (unité `spy`)
 
 ## Mécaniques particulières
 - Une ville placée sur un terrain aquatique meurt

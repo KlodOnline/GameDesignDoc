@@ -2,10 +2,10 @@
 
 
 ## Types de Terrains
-- **Océan, plaines, forêts, montagnes, déserts, toundra, etc.** — Tous implémentés. Les types incluent : océan, côte, estran, rivière, plaine, forêt, montagne, marais, désert, savane, toundra, glace, et leurs variantes collines.
-- **Système Climatique** — Zones de température et d'humidité générées procéduralement.
-- **Rivières** — Générées automatiquement depuis les montagnes jusqu'à l'océan.
-- **Côtes et Îles** — Zones littorales générées avec garantie d'accès aux îles.
+- **Océan, plaines, forêts, montagnes, déserts, toundra, etc.** : Tous implémentés. Les types incluent : océan, côte, estran, rivière, plaine, forêt, montagne, marais, désert, savane, toundra, glace, et leurs variantes collines.
+- **Système Climatique** : Zones de température et d'humidité générées procéduralement.
+- **Rivières** : Générées automatiquement depuis les montagnes jusqu'à l'océan.
+- **Côtes et Îles** : Zones littorales générées avec garantie d'accès aux îles.
 
 ## Grille de référence
 Le monde se joue sur une carte **cylindrique** composée de cases **hexagonale**. Autrement dit, tout ce qui sort à gauche revient par la droite, et vice versa. Les hexagones présentent l'avantage d'équilibrer les vitesses et distances de déplacement dans toutes les directions (contrairement aux cases carrées ou les diagonales sont plus rapides que les autres déplacements).
@@ -42,7 +42,7 @@ Les unités peuvent modifier le territoire via des ordres dédiés :
 Les **pistes** et les **irrigations** s'usent lorsqu'elles ne sont pas entretenues à un rythme d'**1/tour**.
 
 ## Vie du territoire (WIP)
-Les calculs de zones chaude/tempérée/froide/humide sont en place. L'évolution naturelle du terrain (forêt qui repousse, désert qui s'étend) est partiellement implémentée — la structure existe mais nécessite des ajustements.
+Les calculs de zones chaude/tempérée/froide/humide sont en place. L'évolution naturelle du terrain (forêt qui repousse, désert qui s'étend) est partiellement implémentée : la structure existe mais nécessite des ajustements.
 
 ### Événements : Catastrophes naturelles
 Tempêtes qui frappent aléatoirement le monde. Effets sur 1 rayon autour de l'impact :

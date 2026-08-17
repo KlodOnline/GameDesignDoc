@@ -1,4 +1,4 @@
-# Klod Online — Game Design Document (GDD)
+# Klod Online : Game Design Document (GDD)
 ______
 
 Bienvenue dans le Game Design Document de [Klod Online](https://www.klod-online.com)

@@ -23,10 +23,10 @@ Les quêtes pour débutants suivent une chaîne linéaire appelée "initiation" 
 
 ### Mécaniques de départ (vérifiées via le code)
 - Le joueur commence avec **1 settler (id=0, 3000 food en inventaire)** + **1 scout (id=3)**
-- Ordres settler : MOVE, EXCHANGE, FOUND_CITY, EMBARK, DISBAND — **ne peut PAS collecter de ressources**
-- Ordres scout : MOVE, EXCHANGE, MOVE_MORPH, EMBARK, DISBAND — **ne peut PAS collecter de ressources**
+- Ordres settler : MOVE, EXCHANGE, FOUND_CITY, EMBARK, DISBAND : **ne peut PAS collecter de ressources**
+- Ordres scout : MOVE, EXCHANGE, MOVE_MORPH, EMBARK, DISBAND : **ne peut PAS collecter de ressources**
 - Le scout a fov=2 et peut MOVE_MORPH en tower (fov=3, def=1, statique)
-- Aucune ville au démarrage — le settler doit utiliser FOUND_CITY
+- Aucune ville au démarrage : le settler doit utiliser FOUND_CITY
 - FOUND_CITY instantané pour la première ville : consomme le settler, transfère son inventaire (3000 food) à la ville
 - Après FOUND_CITY : ville pop=1000, 2 workers auto-affectés à la nourriture via `cityGetJoblessToWork($city, 2)`
 - Garantie terrain : ≥3 cases food≥2, ≥1 case bois>0, ≥1 case pierre>0

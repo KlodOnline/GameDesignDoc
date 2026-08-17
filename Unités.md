@@ -119,7 +119,7 @@ Les unités disposent d'un **inventaire** avec un nombre de slots qui va de **0 
 Le loot d'une unité morte contient les ressources qui ont servi à la construire, avec une part d'aléatoire.
 
 ## MORPH vs UPGRADE
-Deux ordres permettent de transformer une unité — ils sont distincts et ne se substituent pas :
+Deux ordres permettent de transformer une unité : ils sont distincts et ne se substituent pas :
 
 - **MORPH** : transformation *bidirectionnelle* (A ↔ B), gratuite et rapide. Exemple : reaper ↔ camp_reaper, milice ↔ fort en bois. Peut se faire n'importe où sur le terrain. L'ID de l'unité est conservé.
 - **UPGRADE** : progression *one-way* (A → B, sans retour) vers une unité plus puissante. Se fait **en ville uniquement**, coûte des ressources et du temps, requiert les bâtiments appropriés (ex: `farmershouse` pour upgrade un gatherer). L'ID de l'unité est conservé.
