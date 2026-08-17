@@ -5,11 +5,11 @@ _____
 ## Validées :
 ### Quêtes Faciles (ne donne que de la réputation)
 
-
 ### Quêtes Intermédiaires
 
-
 ### Quêtes Difficile
+
+### Quêtes HardCore
 
 ### Quêtes "Permanentes"
 _Ces quêtes donnent un titre temporaire_
