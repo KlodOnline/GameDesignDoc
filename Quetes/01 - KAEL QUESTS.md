@@ -14,9 +14,9 @@ _____
 ### Quêtes "Permanentes"
 _Ces quêtes donnent un titre temporaire_
  - Le plus d'unité de combat !
- - Le plus de forts !
- - 
- - 
+ - Le territoire le plus étendu !
+ - Le plus de Guerre en simultané !
+ -  Le plus d'unité de combat ayant besoin d'arme en Acier !
 ### Quête Cyclique
 **Les Monolithes** : posséder le plus de monolithe sur son territoire. Il apparaissent, au rythme de 1 par semaine. à la fin, il sont tous enlevés par Kael.
 
