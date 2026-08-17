@@ -2,14 +2,13 @@
 ____
 Il veut **voir le monde, découvrir, commercer, prendre des risques**.
 ____
-
 ## Validées :
 ### Quêtes Faciles (ne donne que de la réputation)
- - "Aerin vous explique que pour briller auprès de Toran, vous devriez sonder le sol à la recherche de cette veine minérale ancienne dont les anciens murmuraient les légendes." _Découvrir une Source Marbre Bleue inexploitée_
- - Idem bois _Découvrir une d'ébène Bleue inexploitée_
- - **L'artère vitale** : « Aerin vous indique que Toran chérit la structure et la circulation. Tracez une route logistique ininterrompue reliant deux de vos cités. » _(Relier deux villes par une piste)
- - **L'emprise de l'airain** : « Aerin observe l'horizon et murmure que le territoire n'appartient qu'à ceux qui le marquent. Étendez votre zone de contrôle sur un nouveau gisement. » _(Capturer un territoire avec 5 source n'importe lequelles via votre Zone de Contrôle)_
- - **Le réveil du géant** : « Aerin remarque que votre première ville ronronne un peu trop. Il est temps de stimuler sa croissance en lui assurant un flux constant de denrées rares. » _(booster la ville jusqu'a obtenir un +100 en croissance)_
+ - (**chaine**) "Aerin vous explique que pour briller auprès de Toran, vous devriez sonder le sol à la recherche de cette veine minérale ancienne dont les anciens murmuraient les légendes." _Découvrir une Source Marbre Bleue inexploitée_  
+ - (**chaine**) Idem bois _Découvrir une d'ébène Bleue inexploitée_
+ - (**chaine**) **L'artère vitale** : « Aerin vous indique que Toran chérit la structure et la circulation. Tracez une route logistique ininterrompue reliant deux de vos cités. » _(Relier deux villes par une piste)
+ - (**chaine**) **L'emprise de l'airain** : « Aerin observe l'horizon et murmure que le territoire n'appartient qu'à ceux qui le marquent. Étendez votre zone de contrôle sur un nouveau gisement. » _(Capturer un territoire avec 5 source n'importe lequelles via votre Zone de Contrôle)_
+ - (**chaine**) **Le réveil du géant** : « Aerin remarque que votre première ville ronronne un peu trop. Il est temps de stimuler sa croissance en lui assurant un flux constant de denrées rares. » _(booster la ville jusqu'a obtenir un +70 en croissance)_
  - **L'alliance des chemins** : « Aerin estime que nos routes doivent croiser celles d'autres peuples pour devenir éternelles. Multipliez les transactions avec un même partenaire. » _(reliez par une route une de vos ville avec celle d'un autre joueur)_
  - **Le tribut des marchands** : « Aerin vous rappelle que le commerce appelle le commerce. Multipliez les transactions marchandes avec le PNJ marchand ?
  - **À travers les brumes** : « Aerin vous sourit : les terres d'en face cachent des secrets que les faibles ignorent. Envoyez des éclaireurs sonder l'inconnu par-delà la colline. » _(Explorer des cases d'un nouveau biome qui nexiste pas sur votre territoire courant !)_
@@ -26,6 +25,7 @@ ____
  - **Le cœur battant** : « Aerin remarque que votre cité s'endort. Dynamisez sa croissance démographique en y injectant un flux constant de denrées. » (_obtenir +80 de croissance par tour ?)
  - **Le ballet des chariots** : « Aerin contemple vos routes encombrées de vie : maintenez un trafic de marchandises continu entre trois de vos cités. » _avoir 5 carrioles attelées en mouvement sur la carte _ =>  **La griffe et le soc** : « Aerin sourit en voyant vos chariots se croiser : la logistique est la véritable épée de Toran. Faites transiter trois types de ressources différentes dans la même journée. » _(Transporter des ressources diversifiées)_ ?
  - **Le négociateur** : Obtenez auprès de 5 joueurs un accord commercial
+ -  **Le pacte de l'obole** : « Aerin vous invite à consolider vos alliances par le profit mutuel. Réalisez des échanges d'envergure avec une faction alliée. » _(offirir 5000 d'or de valeur de stuff )
 
 ### Quêtes Difficile
  - **L'ancre du pionnier** : « Aerin vous demande de prouver que votre peuple sait marcher au-delà de sa zone de confort. Installez une cité dans une région inexplorée. » _(Fonder une ville dans un territoire demoralisant et entouré de terre seche)_
@@ -55,34 +55,27 @@ _Ces quêtes donnent un titre temporaire_
 
 ## A étudier :
 
-1. **L'odyssée du convoi** : « Aerin vous confie une mission d'endurance : faire voyager des marchandises d'un bout à l'autre de vos possessions sans encombre. » _(Transporter des ressources sur une longue distance logistique)_
-2. 
-3. **L'épreuve des maîtres** : « Aerin conclut : pour mériter le regard bienveillant de Toran, prouvez que votre réseau d'échanges et de routes fait pâlir tous vos rivaux. » _(Atteindre un volume élevé d'échanges et de logistique validé par vos routes)_
-4. **La sueur du transport** : « Aerin observe vos chariots : Toran bénit le mouvement des biens. Faites acheminer des ressources d'un point à un autre pour nourrir l'activité de l'empire. »
-5. **La grande foire** : « Aerin vous indique que Toran mesure la grandeur d'un chef à la diversité de ses marchés. Échangez plusieurs types de ressources différentes. »
-6. **La route des épices et des métaux** : « Aerin vous confie la tâche d'acheminer des ressources rares d'une province lointaine jusqu'au cœur de votre capitale. »
-7. **Le monopole de l'échange** : « Aerin sourit : Toran aime les monopoles bien menés. Devenez le carrefour incontournable des échanges sur la carte. »
-8. 
-9.  **Le pacte de l'obole** : « Aerin vous invite à consolider vos alliances par le profit mutuel. Réalisez des échanges d'envergure avec une faction alliée. »
+1. **L'odyssée du convoi** : « Aerin vous confie une mission d'endurance : faire voyager des marchandises d'un bout à l'autre de vos possessions sans encombre. » _(Transporter des ressources sur une longue distance logistique)_ 
+2. **La sueur du transport** : « Aerin observe vos chariots : Toran bénit le mouvement des biens. Faites acheminer des ressources d'un point à un autre pour nourrir l'activité de l'empire. »
+3. **La grande foire** : « Aerin vous indique que Toran mesure la grandeur d'un chef à la diversité de ses marchés. Échangez plusieurs types de ressources différentes. »
+4. **La route des épices et des métaux** : « Aerin vous confie la tâche d'acheminer des ressources rares d'une province lointaine jusqu'au cœur de votre capitale. »
+5. **Le monopole de l'échange** : « Aerin sourit : Toran aime les monopoles bien menés. Devenez le carrefour incontournable des échanges sur la carte. »
+6. 
+7. 
 - **La source de prospérité** : « Aerin pointe un gisement lointain : exploitez une ressource excentrée et trouvez le moyen de rapatrier sa production chez vous. »
 - **L'apogée du marchand** : « Aerin s'incline : pour briller au sommet aux yeux de Toran, votre empire doit devenir le centre névralgique de toute l'économie du monde. »
 
-### Intermédiaire
-1. 
+1. **Réseau commercial** : Réalisez des échanges avec plusieurs joueurs différents.
 2. 
-3. **Réseau commercial** : Réalisez des échanges avec plusieurs joueurs différents.
-4. 
-5. **Négoce** : Réalisez un bénéfice en achetant puis revendant une ressource.
-6. **Ressource lointaine** : Exploitez une ressource située à plus de 100 cases de votre empire.
-7. **Carrefour** : Faites transiter des ressources par plusieurs de vos villes.
-8. **Marchand itinérant** : Effectuez plusieurs échanges avec des joueurs situés dans différentes régions.
-9. **Empire connecté** : Reliez logistiquement plusieurs villes éloignées de votre territoire.
-10. **Cartographe** : Explorez une zone représentant une part significative de la carte encore inconnue de vous.
-11. **Le grand détour** : Atteignez une ressource éloignée en choisissant vous-même un itinéraire sûr.
-12. **Terre inconnue** : Établissez une présence dans une zone où vous n'aviez encore aucune visibilité.
-13. 
-14. 
-15. **Deux marchés** : Achetez une ressource à un joueur et revendez-la à un autre.
+3. **Négoce** : Réalisez un bénéfice en achetant puis revendant une ressource.
+4. **Ressource lointaine** : Exploitez une ressource située à plus de 100 cases de votre empire.
+5. **Carrefour** : Faites transiter des ressources par plusieurs de vos villes.
+6. **Marchand itinérant** : Effectuez plusieurs échanges avec des joueurs situés dans différentes régions.
+7. **Empire connecté** : Reliez logistiquement plusieurs villes éloignées de votre territoire.
+
+
+8. 
+9. **Deux marchés** : Achetez une ressource à un joueur et revendez-la à un autre.
 
 
 ### 🧭 Toran : 10 quêtes cycliques
