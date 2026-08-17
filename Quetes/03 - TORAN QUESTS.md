@@ -48,10 +48,10 @@ _Ces quêtes donnent un titre définitif_
 
 ### Quêtes "Permanentes"
 _Ces quêtes donnent un titre temporaire_
+ - Le plus d'unité marchandes !
  - Route la plus longue !
  - Le plus d'accord commerciaux !
  - Le plus d'Or !
- - Le plus d'unité marchandes !
 
 ### Quête Cyclique
 **Les Larmes** : Une gemme par semaine tombe sur le monde. C'est un loot un peu spécial, il a un look de cratère. Il faut le looter pour récupérer la Gemme. Le ramener à sa ville "religieuse"

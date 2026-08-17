@@ -5,11 +5,18 @@ _____
 ## Validées :
 ### Quêtes Faciles (ne donne que de la réputation)
 
-### Quêtes Intérmediaires
+
+### Quêtes Intermédiaires
+
 
 ### Quêtes Difficile
 
-
+### Quêtes "Permanentes"
+_Ces quêtes donnent un titre temporaire_
+ - Le plus d'unité de combat !
+ - 
+ - 
+ - 
 ### Quête Cyclique
 **Les Monolithes** : posséder le plus de monolithe sur son territoire. Il apparaissent, au rythme de 1 par semaine. à la fin, il sont tous enlevés par Kael.
 

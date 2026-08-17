@@ -9,11 +9,18 @@ _____
 ## Validées :
 ### Quêtes Faciles (ne donne que de la réputation)
 
+
 ### Quêtes Intérmediaires
+
 
 ### Quêtes Difficile
 
-
+### Quêtes "Permanentes"
+_Ces quêtes donnent un titre temporaire_
+ - Le plus d'unité de récolte et d'ouvrier !
+ - Peuple le plus artisan !
+ - 
+ - 
 ### Quête Cyclique
 **Les Artefacts** : posséder le plus d'artefact. Ils se craftent mais coutent très cher.
 
