@@ -2,30 +2,28 @@
 ____
 Il veut **voir le monde, découvrir, commercer, prendre des risques**.
 ____
+### **Les Quêtes de Toran (proposées par Aerin)**
 
-### Facile
-1. **Au-delà de l'horizon** : Explorez 400 cases
-2. **Premier voyage** : Faites parcourir une certaine distance à une seule unité, avec un point de départ et un point d'arrivée séparée de X cases . (300 cases)
-3. 
-4. **Trouver une richesse** : Découvrez votre première ressource BLEUE exploitable.
-5. **Exploiter** : Exploitez une ressource BLEUE présente sur la carte.
-6. **Ramener au village** : Transportez une ressource depuis la carte jusqu'à une ville.
-7. **Première cargaison** : Transportez plusieurs ressources avec une unité.
-8. **La route est ouverte** : Reliez deux points de votre empire par vos déplacements/axes logistiques
-9. **Marchand** : Effectuez votre premier échange avec un autre joueur.
-10. **Voir plus loin** : Explorez une zone située à une distance importante de votre ville.
-11. **Petit empire commercial** : Échangez plusieurs ressources différentes avec d'autres joueurs.
-12. **Au-delà de l'horizon** : Explorez vos 20 premières cases inconnues.
-13. **Première découverte** : Découvrez une nouvelle ressource sur la carte.
-14. **Trouver sa place** : Établissez une ville dans une zone encore inexplorée.
-15. **Prospecteur** : Exploitez une ressource située hors de votre territoire initial.
-16. **La route** : Transportez des ressources d'une ville à une autre.
-17. **Premier échange** : Échangez des ressources avec un autre joueur.
-18. **Long courrier** : Transportez des ressources sur une distance de 20 cases.
-19. **Ouvrir une route commerciale** : Effectuez plusieurs échanges avec un même joueur.
-20. **Explorer pour exploiter** : Découvrez puis exploitez une ressource éloignée de votre territoire.
-21. **Le monde est vaste** : Découvrez une zone située à plus de 50 cases de votre territoire.
-
+1. **L'écho des profondeurs** : « Aerin vous explique que pour briller auprès de Toran, vous devriez sonder le sol à la recherche de cette veine minérale ancienne dont les anciens murmuraient les légendes. » _(Découvrir une ressource cachée)_
+2. **Le premier jalon** : « Aerin vous fait remarquer qu'un empire sans ancrage n'est que vent. Plantez le premier pieu de votre future hégémonie en fondant un avant-poste lointain. » _(Établir une ville loin de la capitale)_
+3. **L'artère vitale** : « Aerin vous indique que Toran chérit la structure et la circulation. Tracez une route logistique ininterrompue reliant deux de vos cités. » _(Relier deux villes par des convois réguliers)_
+4. **Le poids de la sueur** : « Aerin vous rappelle que la vraie richesse s'arrache à la terre par l'effort. Vos hommes doivent acheminer une cargaison lourde jusqu'aux portes de la ville. » _(Transporter des ressources sur plus de 15 cases)_
+5. **À travers les brumes** : « Aerin vous sourit : les terres d'en face cachent des secrets que les faibles ignorent. Envoyez des éclaireurs sonder l'inconnu par-delà la colline. » _(Explorer des cases d'un nouveau biome)_
+6. **L'épreuve du roc** : « Aerin vous met au défi : Toran n'aime pas l'oisiveté des pierres brutes. Extrayez ce minerai rebelle pour le transformer dans vos forges. » _(Extraire et exploiter une ressource secondaire)_
+7. **La caravane perdue** : « Aerin craint que nos réserves ne s'essoufflent. Amenez des vivres et des matériaux au campement avancé avant que le moral ne sombre. » _(Ravitailler une unité ou un campement lointain)_
+8. **Le murmure des marchands** : « Aerin vous pousse à nouer des liens avec vos voisins. Un empire replié sur lui-même est un empire mort-né ; allez commercer avec un autre souverain. » _(Réaliser un premier échange inter-joueur)_
+9. **L'emprise de l'airain** : « Aerin observe l'horizon et murmure que le territoire n'appartient qu'à ceux qui le marquent. Étendez votre zone de contrôle sur un nouveau gisement. » _(Capturer un territoire riche via votre Zone de Contrôle)_
+10. **L'odyssée du convoi** : « Aerin vous confie une mission d'endurance : faire voyager des marchandises d'un bout à l'autre de vos possessions sans encombre. » _(Transporter des ressources sur une longue distance logistique)_
+11. **Le réveil du géant** : « Aerin remarque que votre première ville ronronne un peu trop. Il est temps de stimuler sa croissance en lui assurant un flux constant de denrées rares. » _(Alimenter une ville pour déclencher un palier de croissance)_
+12. **La cicatrice de la terre** : « Aerin vous montre du doigt cette vallée escarpée : Toran y cache ses plus beaux métaux. Envoyez vos prospecteurs y planter leurs pioches. » _(Exploiter une ressource rare en terrain difficile)_
+13. **L'alliance des chemins** : « Aerin estime que nos routes doivent croiser celles d'autres peuples pour devenir éternelles. Multipliez les transactions avec un même partenaire. » _(Ouvrir et maintenir une route commerciale active)_
+14. **Le grand défrichage** : « Aerin vous met en garde contre les zones aveugles de notre empire. Cartographiez cette vaste étendue sauvage pour y chasser les ombres. » _(Explorer une grande zone sans interruption)_
+15. **La griffe et le soc** : « Aerin sourit en voyant vos chariots se croiser : la logistique est la véritable épée de Toran. Faites transiter trois types de ressources différentes dans la même journée. » _(Transporter des ressources diversifiées)_
+16. **Le pacte des frontières** : « Aerin vous souffle qu'un bon voisin est un voisin avec qui l'on commerce. Échangez des ressources exotics avec un territoire lointain. » _(Effectuer un échange longue distance)_
+17. **L'ancre du pionnier** : « Aerin vous demande de prouver que votre peuple sait marcher au-delà de sa zone de confort. Installez une cité dans une région inexplorée. » _(Fonder une ville dans un territoire découvert récemment)_
+18. **Le temple du labeur** : « Aerin observe vos ouvriers et estime qu'il est temps de systématiser l'exploitation. Automatisez l'acheminement de ressources depuis un site éloigné. » _(Mettre en place une ligne d'approvisionnement continue)_
+19. **L'horizon conquis** : « Aerin lève les yeux vers les lointaines montagnes : Toran veut savoir jusqu'où portent vos pas. Envoyez une unité marquer les confins du monde connu. » _(Explorer une zone située très loin de la capitale)_
+20. **L'épreuve des maîtres** : « Aerin conclut : pour mériter le regard bienveillant de Toran, prouvez que votre réseau d'échanges et de routes fait pâlir tous vos rivaux. » _(Atteindre un volume élevé d'échanges et de logistique validé par vos routes)_
 ### Intermédiaire
 1. **Grand explorateur** : Découvrez 500 cases de la carte.
 2. **Aux confins** : Atteignez un point situé à plus de 150 cases de votre territoire.
