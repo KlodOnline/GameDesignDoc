@@ -2,13 +2,22 @@
 _____
 Le dieu veut **la guerre, le courage, la domination, la résistance**.
 _____
-
-#### Cyclique
-#### One-Shot
-
+## Validées :
+### Quêtes Faciles (ne donne que de la réputation)
 
 
-### Facile
+
+### Quête Cyclique
+**Les Monolithes** : posséder le plus de monolithe sur son territoire. Il apparaissent, au rythme de 1 par semaine. à la fin, il sont tous enlevés par Kael.
+
+
+## A étudier :
+
+
+
+
+
+
 1. **Premier sang** : Remportez votre première bataille.
 2. **Prendre position** : Contrôlez votre premier territoire.
 3. **En avant !** : Déplacez une unité militaire sur un territoire adjacent.

@@ -6,6 +6,17 @@ _____
 Elle veut **la maîtrise, la création, la spécialisation, la perfection**.
 _____
 
+## Validées :
+### Quêtes Faciles (ne donne que de la réputation)
+
+
+
+### Quête Cyclique
+**Les Artefacts** : posséder le plus d'artefact. Ils se craftent mais coutent très cher.
+
+
+## A étudier :
+
 ### Facile
 1. **Bâtisseur** : Construisez votre premier bâtiment.
 2. **Première production** : Produisez votre première ressource dans une ville.
