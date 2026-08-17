@@ -18,8 +18,8 @@ _____
 ### Quêtes "Permanentes"
 _Ces quêtes donnent un titre temporaire_
  - Le plus d'unité de récolte et d'ouvrier !
- - Peuple le plus artisan !
- - 
+ - Peuple le plus artisan ! (en ville)
+ - Le plus d'artisans 
  -  Le plus d'unité civile ayant besoin d'outils en Acier !
 ### Quête Cyclique
 **Les Artefacts** : posséder le plus d'artefact. Ils se craftent mais coutent très cher (mais avec des ressources clasiques)
