@@ -14,7 +14,7 @@ _____
 ### Quêtes "Permanentes"
 _Ces quêtes donnent un titre temporaire_
  - Le plus d'unité de combat !
- - 
+ - Le plus de forts !
  - 
  - 
 ### Quête Cyclique
