@@ -9,6 +9,9 @@ _____
 ## Validées :
 ### Quêtes Faciles (ne donne que de la réputation)
 
+### Quêtes Intérmediaires
+
+### Quêtes Difficile
 
 
 ### Quête Cyclique
