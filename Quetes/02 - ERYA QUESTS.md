@@ -50,6 +50,14 @@ _____
 19. **La chaîne parfaite** — Faites traverser plusieurs étapes de transformation à une même ressource avant son utilisation finale.
 20. **Construire pour conquérir** — Développez une infrastructure destinée à soutenir directement une future expansion militaire.
 
+
+### 🔨 Erya — cycles de production
+
+- **La grande œuvre** — Produisez X objets avancés pendant le cycle.
+- **L'abondance** — Maintenez une production positive de plusieurs ressources pendant toute la période.
+- **La spécialisation** — Faites d'une ville votre principal producteur d'une ressource.
+- **Le chantier** — Construisez X bâtiments avant la fin du cycle.
+- **Sans gaspillage** — Transformez une quantité donnée de ressources sans en acheter.
 ### Legendaire (Cycliques)
  - Ramasser des perles d'Erya (legendaire) / crafter les colliers Divins
 

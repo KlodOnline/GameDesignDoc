@@ -10,7 +10,12 @@ ____
 4. **Exploiter** — Exploitez une ressource présente sur la carte.
 5. **Ramener au village** — Transportez une ressource depuis la carte jusqu'à une ville.
 6. **Première cargaison** — Transportez plusieurs ressources avec une unité.
-7. **La route est ouverte** — Reliez deux points de votre empire par vos déplacements/axes logistiques.
+7. **La route est ouverte** — Reliez deux points de votre empire par vos déplacements/axes logistiques.🔨 Erya — cycles de production
+La grande œuvre — Produisez X objets avancés pendant le cycle.
+L'abondance — Maintenez une production positive de plusieurs ressources pendant toute la période.
+La spécialisation — Faites d'une ville votre principal producteur d'une ressource.
+Le chantier — Construisez X bâtiments avant la fin du cycle.
+Sans gaspillage — Transformez une quantité donnée de ressources sans en acheter.
 8. **Marchand** — Effectuez votre premier échange avec un autre joueur.
 9. **Voir plus loin** — Explorez une zone située à une distance importante de votre ville.
 10. **Petit empire commercial** — Échangez plusieurs ressources différentes avec d'autres joueurs.
@@ -46,6 +51,14 @@ ____
 18. **Le pont maritime** — Utilisez un bateau pour établir une liaison commerciale ou logistique entre deux zones.
 19. **Cartographier avant d'agir** — Explorez une zone entière avant d'y envoyer des ressources ou des unités.
 20. **Le pari lointain** — Investissez des ressources dans une exploitation éloignée et faites-la devenir rentable.
+
+### 🧭 Toran — cycles d'exploration/commerce
+
+- **Le monde ouvert** — Découvrez X nouvelles cases pendant le cycle.
+- **Les routes du monde** — Effectuez X transports dépassant une certaine distance.
+- **Le grand marché** — Échangez avec X joueurs différents.
+- **Fortune lointaine** — Faites réaliser un bénéfice à une exploitation éloignée.
+- **Le tour du monde** — Faites parvenir des marchandises à plusieurs régions éloignées.
 
 ### Legendaire (Cycliques)
 

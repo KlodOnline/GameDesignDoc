@@ -3,6 +3,11 @@ _____
 Le dieu veut **la guerre, le courage, la domination, la résistance**.
 _____
 
+#### Cyclique
+#### One-Shot
+
+
+
 ### Facile
 1. **Premier sang** — Remportez votre première bataille.
 2. **Prendre position** — Contrôlez votre premier territoire.
@@ -46,7 +51,13 @@ _____
 18. **Guerre de mouvement** — Remportez plusieurs batailles avec la même armée sans la ramener en ville.
 19. **Grande offensive** — Conquérez 100 cases au cours d'une même campagne.
 20. **Rival** — Prenez le contrôle d'un territoire appartenant à un joueur mieux classé que vous.
+### ⚔️ Kael — cycles de guerre
 
+- **La saison des conquêtes** — Conquérez X territoires pendant la durée du cycle.
+- **Le défi du sang** — Remportez X batailles, mais chaque victoire doit être contre un adversaire différent.
+- **L'appel aux armes** — Maintenez une armée de X unités pendant tout le cycle.
+- **Le territoire disputé** — Contrôlez à la fin du cycle une région où vous étiez minoritaire au départ.
+- **La revanche** — Reprenez au moins un territoire perdu pendant le cycle.
 ### Legendaire (Cycliques)
 
  - Contrôler 1 - 5 monolithes
