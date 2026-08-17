@@ -2,9 +2,16 @@
 ____
 Il veut **voir le monde, découvrir, commercer, prendre des risques**.
 ____
+
+### Quêtes Faciles
+ - "Aerin vous explique que pour briller auprès de Toran, vous devriez sonder le sol à la recherche de cette veine minérale ancienne dont les anciens murmuraient les légendes." _Découvrir une Source Marbre Bleue inexploitée_
+
+### Quêtes Difficile
+ - "Aerin vous explique que pour briller auprès de Toran, vous devriez sonder le sol à la recherche de cette veine minérale ancienne dont les anciens murmuraient les légendes." _Découvrir une Source Porphyre inexploitée_
+
 ### **Les Quêtes de Toran (proposées par Aerin)**
 
-1. **L'écho des profondeurs** : « Aerin vous explique que pour briller auprès de Toran, vous devriez sonder le sol à la recherche de cette veine minérale ancienne dont les anciens murmuraient les légendes. » _(Découvrir une ressource cachée)_
+1. 
 2. **Le premier jalon** : « Aerin vous fait remarquer qu'un empire sans ancrage n'est que vent. Plantez le premier pieu de votre future hégémonie en fondant un avant-poste lointain. » _(Établir une ville loin de la capitale)_
 3. **L'artère vitale** : « Aerin vous indique que Toran chérit la structure et la circulation. Tracez une route logistique ininterrompue reliant deux de vos cités. » _(Relier deux villes par des convois réguliers)_
 4. **Le poids de la sueur** : « Aerin vous rappelle que la vraie richesse s'arrache à la terre par l'effort. Vos hommes doivent acheminer une cargaison lourde jusqu'aux portes de la ville. » _(Transporter des ressources sur plus de 15 cases)_
@@ -24,6 +31,29 @@ ____
 18. **Le temple du labeur** : « Aerin observe vos ouvriers et estime qu'il est temps de systématiser l'exploitation. Automatisez l'acheminement de ressources depuis un site éloigné. » _(Mettre en place une ligne d'approvisionnement continue)_
 19. **L'horizon conquis** : « Aerin lève les yeux vers les lointaines montagnes : Toran veut savoir jusqu'où portent vos pas. Envoyez une unité marquer les confins du monde connu. » _(Explorer une zone située très loin de la capitale)_
 20. **L'épreuve des maîtres** : « Aerin conclut : pour mériter le regard bienveillant de Toran, prouvez que votre réseau d'échanges et de routes fait pâlir tous vos rivaux. » _(Atteindre un volume élevé d'échanges et de logistique validé par vos routes)_
+
+- **  
+    Les coffres de la ville** : « Aerin vous explique que pour briller auprès de Toran, vous devriez bâtir de quoi stocker l'abondance. Construisez votre premier entrepôt pour sécuriser vos réserves. »
+- **Le grenier du monde** : « Aerin vous rappelle que Toran exige que la nourriture ne manque jamais. Accumulez un stock massif de provisions dans vos entrepôts. »
+- **La sueur du transport** : « Aerin observe vos chariots : Toran bénit le mouvement des biens. Faites acheminer des ressources d'un point à un autre pour nourrir l'activité de l'empire. »
+- **Le premier comptoir** : « Aerin vous pousse à ouvrir vos frontières aux autres souverains. Effectuez votre tout premier échange commercial avec un joueur voisin. »
+- **L'artère d'argent** : « Aerin sourit en voyant vos chariots rouler : tissez une route commerciale régulière et durable avec un partenaire de confiance. »
+- **La grande foire** : « Aerin vous indique que Toran mesure la grandeur d'un chef à la diversité de ses marchés. Échangez plusieurs types de ressources différentes. »
+- **L'or bleu de la terre** : « Aerin pointe du doigt les gisements précieux : découvrez et commencez à exploiter votre première grande ressource de valeur. »
+- **Le convoi des cimes** : « Aerin vous met au défi de l'endurance logistique : transportez des marchandises sur une très longue distance à travers vos routes. »
+- **Le cœur battant** : « Aerin remarque que votre cité s'endort. Dynamisez sa croissance démographique en y injectant un flux constant de denrées. »
+- **Le réseau invisible** : « Aerin admire les cartes des axes marchands : reliez vos villes et vos avant-postes par un réseau de routes sans rupture. »
+- **Le tribut des marchands** : « Aerin vous rappelle que le commerce appelle le commerce. Multipliez les transactions marchandes avec un même voisin pour sceller une entente. »
+- **Les réserves inépuisables** : « Aerin observe vos greniers pleins à craquer : prouvez à Toran que votre empire ne connaîtra jamais la disette. »
+- **La route des épices et des métaux** : « Aerin vous confie la tâche d'acheminer des ressources rares d'une province lointaine jusqu'au cœur de votre capitale. »
+- **Le monopole de l'échange** : « Aerin sourit : Toran aime les monopoles bien menés. Devenez le carrefour incontournable des échanges sur la carte. »
+- **L'art de la plus-value** : « Aerin vous explique que chaque ressource doit trouver sa place là où elle a le plus de prix. Transportez des biens spécialisés vers une ville en demande. »
+- **Le coffre-fort des dieux** : « Aerin vous exhorte à thésauriser pour attirer la grâce de Toran. Atteignez un seuil de richesse inouï dans vos caisses. »
+- **Le ballet des chariots** : « Aerin contemple vos routes encombrées de vie : maintenez un trafic de marchandises continu entre trois de vos cités. »
+- **Le pacte de l'obole** : « Aerin vous invite à consolider vos alliances par le profit mutuel. Réalisez des échanges d'envergure avec une faction alliée. »
+- **La source de prospérité** : « Aerin pointe un gisement lointain : exploitez une ressource excentrée et trouvez le moyen de rapatrier sa production chez vous. »
+- **L'apogée du marchand** : « Aerin s'incline : pour briller au sommet aux yeux de Toran, votre empire doit devenir le centre névralgique de toute l'économie du monde. »
+
 ### Intermédiaire
 1. **Grand explorateur** : Découvrez 500 cases de la carte.
 2. **Aux confins** : Atteignez un point situé à plus de 150 cases de votre territoire.
