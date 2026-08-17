@@ -22,7 +22,7 @@ _Ces quêtes donnent un titre temporaire_
  - 
  -  Le plus d'unité civile ayant besoin d'outils en Acier !
 ### Quête Cyclique
-**Les Artefacts** : posséder le plus d'artefact. Ils se craftent mais coutent très cher.
+**Les Artefacts** : posséder le plus d'artefact. Ils se craftent mais coutent très cher (mais avec des ressources clasiques)
 
 
 ## A étudier :
