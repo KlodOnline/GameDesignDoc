@@ -45,7 +45,7 @@ _____
  - 
 
 ### Quêtes "Permanentes"
-_Ces quêtes donnent un titre temporaire_
+_Ces quêtes donnent un titre temporaire (1 semaine ?)_
  - Le plus d'unité de récolte et d'ouvrier !
  - Peuple le plus artisan ! (en ville)
  - Le plus d'artisans actifs au monde ! (avec des ressources en stock donc)

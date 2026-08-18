@@ -50,7 +50,7 @@ _Ces quêtes donnent un titre définitif_
  - **Le négociateur** : Obtenez auprès de 50% des joueurs un accord commercial
 
 ### Quêtes "Permanentes"
-_Ces quêtes donnent un titre temporaire_
+_Ces quêtes donnent un titre temporaire (1 semaine ?)_
  - Le plus d'unité marchandes !
  - Route la plus longue !
  - Le plus d'accord commerciaux !

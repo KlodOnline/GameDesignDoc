@@ -14,7 +14,7 @@ _____
 
 
 ### Quêtes "Permanentes"
-_Ces quêtes donnent un titre temporaire_
+_Ces quêtes donnent un titre temporaire à un moment particulier (1 semaine ?)_
  - Le plus d'unité de combat !
  - Le territoire le plus étendu !
  - Le plus de Guerre en simultané !
