@@ -1,5 +1,20 @@
 (a mettre dans les listes de quetes des différents dieux une fois parfaitemetn définis)
 
+
+Quêtes "negatives" ?
+action qui baisse la réputation aupres d'un Dieu 
+ - trahir un allié (Kael deteste)
+ - 
+
+
+
+
+
+
+
+
+
+
 #### Facile
  - 
 

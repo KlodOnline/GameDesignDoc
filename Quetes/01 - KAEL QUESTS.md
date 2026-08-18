@@ -1,6 +1,6 @@
 
 _____
-Le dieu veut **la guerre, le courage, la domination, la résistance**.
+Le dieu veut **la guerre, le courage, la domination, la résistance loyauté**.
 _____
 ## Validées :
 ### Quêtes Faciles (ne donne que de la réputation)
