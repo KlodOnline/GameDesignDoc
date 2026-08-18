@@ -7,11 +7,38 @@ Elle veut **la maîtrise, la création, la spécialisation, la perfection**.
 _____
 ## Validées :
 ### Quêtes Faciles (ne donne que de la réputation)
-
+ - (_chaine_) **Sans importation I** : Produisez 1 stack d'Etain et 1 stack de Minerai de Cuivre
+ - (_chaine_) **Sans importation II** : Produisez 1 stack de Bronze
+ - (_chaine_) **Sans importation III** : Produisez 1 stack d'Outils de Bronze
+ -  (_chaine_) **Industrie I** : Avoir 15 artisans dans 3 productions différentes
+ - (_chaîne_) **Prevoyant I** Avoir un stock de 3 stack de lingots de Bronze
+ - **Chaine de production**  Produire dans la même ville le cuivre, l'étain, le bronze, et les outils, 
+ - (_chaine_) **Amoureux de la nature I** Avoir 5 stack de chevaux dans son empire
+ - (_chaine_) **Grand chantier I** : Avoir 5 batiments de rang 1
+ - (_chaine_) **La bonne place I** : Fabriquer un camp de recolteur qui exploite 2 ressource en simultané
+ - **Économie de guerre I** : Produisez 2 stacks d'armement de BRONZE 
 ### Quêtes Intérmediaires
+ - (_chaine_) **Autonomie I** : Produisez 1 stack de Minerai de Fer
+ - (_chaine_) **Autonomie II** : Produisez 1 stack de Lingot de Fer
+ - (_chaine_) **Autonomie III** : Produisez 1 stack d'Outils de Fer
+ -  (_chaine_) **Industrie II** : Avoir 25 artisans dans 5 productions différentes
+ - (_chaîne_) **Prevoyant II** Avoir un stock de 3 stack de lingots de Fer et le 6 de charbon
+ - (_chaine_) **Amoureux de la nature II** Avoir 3 stack delephants dans son empire
+ - **Grand chantier II** : Avoir 3 batiments de rang 2
+ - (_chaine_) **La bonne place II** : Fabriquer un camp de recolteur qui exploite 3 ressource en simultané
+ - **Réparer plutôt que remplacer** : Récupérez des ressources servant à la construction d'autres depuis du loot pour la production
+ - **Production délocalisée** : Avoir une ville qui fond les lingots et une autre qui crafte les outils ? (bof)
+ - **Économie de guerre II** : Produisez 3 stacks d'armement de FER
 
 ### Quêtes Difficile
+ - (_chaine_) **Seul au monde I** : Produisez 1 stack de Lingot d'Acier
+ - (_chaine_) **Saule au monde  II** : Produisez 1 stack d'Outils  d'Acier
+ - **Atelier mobile** : Produisez une arme de fer dans une ville éloignée de votre capitale
+ - (_chaine_) **La bonne place III** : Fabriquer un camp de recolteur qui exploite 4 ressource en simultané
+ - **Production sous pression** : Maintenez une production élevée pendant que votre empire est engagé dans une guerre.
  - Developpez une ville à 100% arbre 3 "artisanat"
+ - **Économie de guerre III** : Produisez 5 stacks d'armement d'Acier
+
 ### Quêtes HardCore
 
 
@@ -25,52 +52,6 @@ _Ces quêtes donnent un titre temporaire_
 ### Quête Cyclique
 **Les Artefacts** : posséder le plus d'artefact. Ils se craftent mais coutent très cher (mais avec des ressources clasiques)
 
-
-## A étudier :
-
-### Facile
-1. **Bâtisseur** : Construisez votre premier bâtiment.
-2. **Première production** : Produisez votre première ressource dans une ville.
-3. **Développer** : Faites progresser votre première ville.
-4. **Spécialisation** : Développez une ville dans une spécialisation.
-5. **Transformer** : Transformez une ressource en produit fabriqué.
-6. **Réserves** : Accumulez une quantité définie d'une ressource.
-7. **Productivité** : Atteignez un certain niveau de production dans une ville.
-8. **Maîtriser son territoire** : Construisez sur plusieurs hexagones autour d'une ville.
-9. **Optimiser** : Améliorez un bâtiment déjà construit.
-10. **Atelier prospère** : Produisez plusieurs types de ressources ou produits dans une même ville.
-11. **Les premières pierres** : Construisez votre premier bâtiment.
-12. **Atelier** : Produisez votre premier objet.
-13. **Spécialisation** : Développez une ville autour d'une ressource ou production.
-14. **Production locale** : Produisez une ressource directement dans l'une de vos villes.
-15. **Transformer pour gagner** : Transformez une ressource en une ressource ou un objet de valeur supérieure.
-16. **Bâtisseur** : Construisez 5 bâtiments dans votre empire.
-17. **Exploiter le terrain** : Exploitez votre premier gisement de ressources.
-18. **Chaîne de production** : Produisez un objet nécessitant plusieurs ressources.
-19. **Infrastructure** : Développez suffisamment une ville pour atteindre un nouveau palier de production.
-20. **Le savoir-faire** : Fabriquez votre premier objet avancé.
-
-### Intermédiaire
-1. **Industrialisation** : Atteignez un niveau de production important dans une même ville.
-2. **Spécialiste** : Produisez régulièrement une ressource avancée pendant plusieurs jours.
-3. **Maître artisan** : Fabriquez un objet nécessitant plusieurs étapes de transformation.
-4. **Autonomie** : Produisez vous-même toutes les ressources nécessaires à une chaîne de production.
-5. **Grand chantier** : Construisez plusieurs bâtiments avancés dans une même ville.
-6. **Optimisation** : Atteignez un objectif de production tout en maintenant une production positive sur plusieurs ressources.
-7. **Infrastructure impériale** : Développez plusieurs villes spécialisées dans des productions différentes.
-8. **Production délocalisée** : Produisez une ressource dans une ville et utilisez-la dans une autre.
-9. **Économie de guerre** : Maintenez la production nécessaire pour soutenir une armée importante.
-10. **Complexe industriel** : Faites fonctionner une chaîne complète de production impliquant plusieurs villes.
-11. **Ville-usine** : Faites d'une ville votre principale source d'une ressource précise.
-12. **Sans importation** : Fabriquez un objet avancé uniquement avec des ressources produites par votre empire.
-13. **La bonne place** : Construisez une infrastructure en exploitant au maximum les ressources de son environnement.
-14. **Réparer plutôt que remplacer** : Récupérez des ressources depuis une situation de perte ou de destruction et réutilisez-les.
-15. **Atelier mobile** : Produisez un objet loin de votre ville principale.
-16. **Le maillon faible** : Identifiez une ressource limitant votre production et éliminez cette contrainte.
-17. **Spécialisation extrême** : Faites d'une ville une spécialiste d'une branche de production au détriment des autres.
-18. **Production sous pression** : Maintenez une production élevée pendant que votre empire est engagé dans une guerre.
-19. **La chaîne parfaite** : Faites traverser plusieurs étapes de transformation à une même ressource avant son utilisation finale.
-20. **Construire pour conquérir** : Développez une infrastructure destinée à soutenir directement une future expansion militaire.
 
 ### 🔨 Erya : 10 quêtes cycliques
 
