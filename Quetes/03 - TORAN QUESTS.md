@@ -16,6 +16,7 @@ ____
  - **Le négociateur** : Obtenez auprès d'un autre joueur un accord commercial
 ### Quêtes Intérmediaires
  - Connaitre TOUT les biomes
+ - Champion de la croissance : avoir une ville de <1500 habitants avec +100 de croissance
  - **Le murmure des marchands** : « Aerin vous pousse à nouer des liens avec vos voisins. Un empire replié sur lui-même est un empire mort-né ; allez commercer avec un autre souverain. » _(Réaliser un premier échange inter-joueur)_
  - **Le premier jalon** : « Aerin vous fait remarquer qu'un empire sans ancrage n'est que vent. Plantez le premier pieu de votre future hégémonie en fondant un avant-poste lointain. » _(Établir une ville loin de la capitale)_
  -  - **L'artère vitale** : « Aerin vous indique que Toran chérit la structure et la circulation. Tracez une route logistique ininterrompue reliant deux de vos cités. » _(Relier deux villes par une route pavée)_
