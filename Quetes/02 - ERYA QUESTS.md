@@ -40,7 +40,9 @@ _____
  - **Économie de guerre III** : Produisez 5 stacks d'armement d'Acier
 
 ### Quêtes HardCore
-
+ - Avoir la totalité des ressources primaire en stock à hauteur de 4 stack dans l'empire
+ - Fournir 5 stack d'arme en acier à un joueur autre
+ - 
 
 ### Quêtes "Permanentes"
 _Ces quêtes donnent un titre temporaire_
