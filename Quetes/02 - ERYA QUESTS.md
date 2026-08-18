@@ -3,7 +3,7 @@
 ---
 
 _____
-Elle veut **la maîtrise, la création, la spécialisation, la perfection**.
+Elle veut **la maîtrise, la création, la spécialisation, la perfection, "INTJ"**.
 _____
 ## Validées :
 ### Quêtes Faciles (ne donne que de la réputation)

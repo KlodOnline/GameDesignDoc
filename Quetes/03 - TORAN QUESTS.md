@@ -1,6 +1,6 @@
 
 ____
-Il veut **voir le monde, découvrir, commercer, prendre des risques**.
+Il veut **voir le monde, découvrir, commercer, prendre des risques, malin**.
 ____
 ## Validées :
 ### Quêtes Faciles (ne donne que de la réputation)
