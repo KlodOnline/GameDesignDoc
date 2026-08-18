@@ -24,6 +24,10 @@ _Ces quêtes donnent un titre temporaire_
 **Les Monolithes** : posséder le plus de monolithe sur son territoire. Il apparaissent, au rythme de 1 par semaine. à la fin, il sont tous enlevés par Kael.
 
 
+
+
+
+
 ## A étudier :
 
 

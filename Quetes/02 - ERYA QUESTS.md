@@ -55,6 +55,10 @@ _Ces quêtes donnent un titre temporaire_
 **Les Artefacts** : posséder le plus d'artefact. Ils se craftent mais coutent très cher (mais avec des ressources clasiques)
 
 
+
+## A étudier :
+
+
 ### 🔨 Erya : 10 quêtes cycliques
 
 1. **La grande forge** : Produisez une quantité exceptionnelle d'un même objet pendant le cycle.
