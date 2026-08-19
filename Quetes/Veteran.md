@@ -19,7 +19,21 @@ Permet :
  - Les rend plus forts sur certains terrains
  - Les rends plus rapide à monter/demonter une installation
 
-Chaque unité est d'un "'type" qui permet son VETERAN d
+Chaque unité est d'un "'type" qui permet un deblocage de truc de veteran en fonction de ce qu'il a fait.
+Dasn l'idéal il faudrait 3 à 5 bonus potentiels :
+
+"Spécialité" :
+ - attaque "depuis un type de terrain"
+ - defense "sur un type de terrain"
+ - récolte "une ressource spécifique"
+
+
+
+ - déplacement "sur un type de terrain"
+
+2 pour la spécialité
+1 pour le mouvement
+
 
 
 
