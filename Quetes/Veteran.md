@@ -20,22 +20,30 @@ Permet :
  - Les rends plus rapide à monter/demonter une installation
 
 Chaque unité est d'un "'type" qui permet un deblocage de truc de veteran en fonction de ce qu'il a fait.
-Dasn l'idéal il faudrait 3 à 5 bonus potentiels :
+
+3 Bonus potentiels, parmis les suivants :
 
 "Spécialité" :
  - attaque "depuis un type de terrain"
  - defense "sur un type de terrain"
  - récolte "une ressource spécifique"
-
-
-
+ - Acceleration du MORPH
  - déplacement "sur un type de terrain"
+ - acceleraiton de son travail (manoeuvres)
+ - Pour les navire marchand "embarquer/debarquer" acceleré (-25% de délai)
 
-2 pour la spécialité
-1 pour le mouvement
+Le principe est super simple : à chaque fois qu'on fait une action, on rempli une barre d'XP "invisible" de l'action. Quand elle arrive au bout, on débloque le bonus
+
+Le nom du bonus est "dynamique" exemple :
+"Expert de la Défense en Océan" (+1)
+"Expert de la Fortification"
+
+
+
 
 
 
 
 Autre idées 
+Non des ARTEFACT ou des bonus spéciaux !!!
  - "acharnement" > non, reservé à des untiés spéciales
