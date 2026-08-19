@@ -2,7 +2,11 @@
 ____
 Il veut **voir le monde, découvrir, commercer, prendre des risques, malin**.
 ____
-## Validées :
+# Validées :
+
+## Quêtes d'allégeance 
+Ce sont les quêtes à réaliser pour accéder aux quête de champions  (Permanentes et Cycliques)
+
 ### Quêtes Faciles (ne donne que de la réputation)
  - (**chaine**) "Aerin vous explique que pour briller auprès de Toran, vous devriez sonder le sol à la recherche de cette veine minérale ancienne dont les anciens murmuraient les légendes." _Découvrir une Source Marbre Bleue inexploitée_  
  - (**chaine**) Idem bois _Découvrir une d'ébène Bleue inexploitée_
@@ -47,6 +51,8 @@ ____
  - **Le négociateur** : Obtenez auprès de 10% des joueurs un accord commercial
  - (_chaine_) **Bien informé III** : installer un espion dans les capitales d'un joueur du top 10 mondial (mais différent)
 
+## Quêtes de champions
+
 ### Quêtes HardCore
 _Ces quêtes donnent un titre définitif_
  - **Le grand défrichage** : découvrez la totalité du monde connu
@@ -69,7 +75,7 @@ _Ces quêtes donnent un titre temporaire (1 semaine ?)_
 
 
 
-## A étudier :
+# A étudier :
 
 1. **L'odyssée du convoi** : « Aerin vous confie une mission d'endurance : faire voyager des marchandises d'un bout à l'autre de vos possessions sans encombre. » _(Transporter des ressources sur une longue distance logistique)_ 
 2. **La sueur du transport** : « Aerin observe vos chariots : Toran bénit le mouvement des biens. Faites acheminer des ressources d'un point à un autre pour nourrir l'activité de l'empire. »

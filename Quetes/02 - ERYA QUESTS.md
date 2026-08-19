@@ -5,7 +5,11 @@
 _____
 Elle veut **la maîtrise, la création, la spécialisation, la perfection, "INTJ"**.
 _____
-## Validées :
+# Validées :
+
+## Quêtes d'allégeance 
+Ce sont les quêtes à réaliser pour accéder aux quête de champions  (Permanentes et Cycliques)
+
 ### Quêtes Faciles (ne donne que de la réputation)
  - (_chaine_) **Sans importation I** : Produisez 1 stack d'Etain et 1 stack de Minerai de Cuivre
  - (_chaine_) **Sans importation II** : Produisez 1 stack de Bronze
@@ -41,6 +45,8 @@ _____
  - Developpez une ville à 100% arbre 3 "artisanat"
  - **Économie de guerre III** : Produisez 5 stacks d'armement d'Acier
 
+## Quêtes de champions
+
 ### Quêtes HardCore
  - Avoir la totalité des ressources primaire en stock à hauteur de 4 stack dans l'empire
  - Fournir 5 stack d'arme en acier à un joueur autre
@@ -49,7 +55,7 @@ _____
 ### Quêtes "Permanentes"
 _Ces quêtes donnent un titre temporaire (1 semaine ?)_
  - Le plus d'unité de récolte et d'ouvrier !
- - Peuple le plus artisan ! (en ville)
+ - Le peuple le plus prestigieux ! (en total)
  - Le plus d'artisans actifs au monde ! (avec des ressources en stock donc)
  -  Le plus d'unité civile ayant besoin d'outils en Acier !
 
@@ -60,7 +66,7 @@ _Ces quêtes donnent un titre temporaire (1 semaine ?)_
 
 
 
-## A étudier :
+# A étudier :
 
 
 ### 🔨 Erya : 10 quêtes cycliques

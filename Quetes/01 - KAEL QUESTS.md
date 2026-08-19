@@ -2,7 +2,11 @@
 _____
 Le dieu veut **la guerre, le courage, la domination, la résistance loyauté**.
 _____
-## Validées :
+# Validées :
+
+## Quêtes d'allégeance 
+Ce sont les quêtes à réaliser pour accéder aux quête de champions  (Permanentes et Cycliques)
+
 ### Quêtes Faciles (ne donne que de la réputation)
 
 ### Quêtes Intermédiaires
@@ -10,9 +14,13 @@ _____
 ### Quêtes Difficile
  - Developpez une ville à 100% arbre 1 "guerre"
 
+
+
+
+## Quêtes de champions
+
+
 ### Quêtes HardCore
-
-
 ### Quêtes "Permanentes"
 _Ces quêtes donnent un titre temporaire à un moment particulier (1 semaine ?)_
  - Le plus d'unité de combat !
@@ -30,7 +38,7 @@ _Ces quêtes donnent un titre temporaire à un moment particulier (1 semaine ?)_
 
 
 
-## A étudier :
+# A étudier :
 
 
 
