@@ -17,6 +17,8 @@ _____
  - (_chaine_) **Grand chantier I** : Avoir 5 batiments de rang 1
  - (_chaine_) **La bonne place I** : Fabriquer un camp de recolteur qui exploite 2 ressource en simultané
  - **Économie de guerre I** : Produisez 2 stacks d'armement de BRONZE 
+ - Assechez des maraicages
+
 ### Quêtes Intérmediaires
  - (_chaine_) **Autonomie I** : Produisez 1 stack de Minerai de Fer
  - (_chaine_) **Autonomie II** : Produisez 1 stack de Lingot de Fer
