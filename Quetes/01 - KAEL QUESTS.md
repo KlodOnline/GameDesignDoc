@@ -19,7 +19,6 @@ Ce sont les quêtes à réaliser pour accéder aux quête de champions  (Permane
 
 ## Quêtes de champions
 
-
 ### Quêtes HardCore
 ### Quêtes "Permanentes"
 _Ces quêtes donnent un titre temporaire à un moment particulier (1 semaine ?)_
