@@ -18,7 +18,8 @@ Permet :
  - Les rend plus efficace en fonction d'une catégrie de ressource (mineral / bois / animal)
  - Les rend plus forts sur certains terrains
  - Les rends plus rapide à monter/demonter une installation
- - 
+
+Chaque unité est d'un "'type" qui permet son VETERAN d
 
 
 
