@@ -1,6 +1,6 @@
 
 _____
-Le dieu veut **la guerre, le courage, la domination, la résistance loyauté**.
+Le dieu veut **la guerre, le courage, la domination, la résistance, loyauté**.
 _____
 # Validées :
 
@@ -8,8 +8,9 @@ _____
 Ce sont les quêtes à réaliser pour accéder aux quête de champions  (Permanentes et Cycliques)
 
 ### Quêtes Faciles (ne donne que de la réputation)
-détruire et looter... unité nulle puis meilleure etc etc
-capturer une vile de prestige XXX
+ - **charognard** : récupérer un loot
+ - (_chaine_) **Petite victoire** : avoir une victoire quelconque 
+ - (_chaine_)**a vaincre sans péril...** : tuer une unité plus forte au court d'un combat
 
 
 
@@ -24,6 +25,7 @@ capturer une vile de prestige XXX
 ## Quêtes de champions
 
 ### Quêtes HardCore
+  - **Comme les troyens** : capturer la capitale d'un empire au dessus de soi militairement, et la raser - ou si en tête, juste en dessous.
 ### Quêtes "Permanentes"
 _Ces quêtes donnent un titre temporaire à un moment particulier (1 semaine ?)_
  - Le plus d'unité de combat !
