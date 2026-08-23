@@ -8,6 +8,10 @@ _____
 Ce sont les quêtes à réaliser pour accéder aux quête de champions  (Permanentes et Cycliques)
 
 ### Quêtes Faciles (ne donne que de la réputation)
+détruire et looter... unité nulle puis meilleure etc etc
+capturer une vile de prestige XXX
+
+
 
 ### Quêtes Intermédiaires
 
