@@ -10,8 +10,8 @@ Ce sont les quêtes à réaliser pour accéder aux quête de champions  (Permane
 ### Quêtes Faciles (ne donne que de la réputation)
  - **charognard** : récupérer un loot
  - (_chaine_) **Petite victoire** : avoir une victoire quelconque 
- - (_chaine_)**a vaincre sans péril...** : tuer une unité plus forte au court d'un combat
-
+ - (_chaine_) **a vaincre sans péril...** : tuer une unité plus forte au court d'un combat
+ - (_chaine_) **en tout temps et en tout lieu** : faire un combat avec une unité sur un maraicage
 
 
 ### Quêtes Intermédiaires
