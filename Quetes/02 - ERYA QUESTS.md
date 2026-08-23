@@ -35,6 +35,7 @@ Ce sont les quêtes à réaliser pour accéder aux quête de champions  (Permane
  - **Réparer plutôt que remplacer** : Récupérez des ressources servant à la construction d'autres depuis du loot pour la production
  - **Production délocalisée** : Avoir une ville qui fond les lingots et une autre qui crafte les outils ? (bof)
  - **Économie de guerre II** : Produisez 3 stacks d'armement de FER
+ - (_chaine_) **en terrain difficile** : récolter une ressource avec un campement posé sur un terrain difficile
 
 ### Quêtes Difficile
  - (_chaine_) **Seul au monde I** : Produisez 1 stack de Lingot d'Acier
