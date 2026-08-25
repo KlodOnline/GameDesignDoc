@@ -28,7 +28,7 @@ Chaque unité est d'un "'type" qui permet un deblocage de truc de veteran en fon
  - defense "sur un type de terrain"
  - récolte "une ressource spécifique"
  - Acceleration du MORPH
- - déplacement "sur un type de terrain"
+ - déplacement "sur un type de terrain" (riviere pour bateau ?)
  - acceleraiton de son travail (manoeuvres)
  - Pour les navire marchand "embarquer/debarquer" acceleré (-25% de délai)
  - CLIMAT : spécialise des climat froids, chaud, tempéré
