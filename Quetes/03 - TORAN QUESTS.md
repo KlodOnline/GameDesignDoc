@@ -55,10 +55,10 @@ Ce sont les quêtes à réaliser pour accéder aux quête de champions  (Permane
 
 ### Quêtes HardCore
 _Ces quêtes donnent un titre définitif_
- - **Le grand défrichage** : découvrez la totalité du monde connu
- - **Le réseau invisible** : Aerin admire les cartes des axes marchands : reliez vos villes et vos avant-postes par un réseau de routes pavées sans rupture. » (ocean et cote compte pour des routes)
+ - **Tour du monde** : découvrez la totalité du monde connu
+ - **Le grand réseau** : Aerin admire les cartes des axes marchands : reliez vos villes et vos avant-postes par un réseau de routes pavées sans rupture. » (ocean et cote compte pour des routes)
  - **Les réserves inépuisables** : « Aerin observe vos greniers pleins à craquer : prouvez à Toran que votre empire ne connaîtra jamais la disette. (avoir 16 stacks nourriture dans TOUTES les villes de son empire)
- - **Le négociateur** : Obtenez auprès de 50% des joueurs un accord commercial
+ - **Le négociateur** : Obtenez auprès de 50% des joueurs du monde un accord commercial
 
 
 ### Quêtes "Permanentes"

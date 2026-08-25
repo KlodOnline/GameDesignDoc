@@ -49,8 +49,8 @@ Ce sont les quêtes à réaliser pour accéder aux quête de champions  (Permane
 ## Quêtes de champions
 
 ### Quêtes HardCore
- - Avoir la totalité des ressources primaire en stock à hauteur de 4 stack dans l'empire
- - Fournir 5 stack d'arme en acier à un joueur autre
+ - **Collectionneur** Avoir la totalité des ressources primaire en stock à hauteur de 4 stack dans l'empire
+ - **** Fournir 5 stack d'arme en acier à un joueur autre
  - 
 
 ### Quêtes "Permanentes"
