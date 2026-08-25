@@ -3,6 +3,40 @@
 > Vision et intention de gameplay
 > Dernière mise à jour: 2026-05-29
 
+
+
+
+"Bon, ben nous y voilà. On est rentré. Je ne vois pas trop finalement en quoi ça m'avance...."
+"Ce qu'il faudrait, ce serait que l'on se fasse remarquer des Dieux... mais en bien cette fois !"
+"Et ainsi vous pourrez briller auprès de l'un d'entre eux, et intércéder en ma faveur ?"
+"J'imagine qu'il faut que je vous dise, dans mon états, seules 3 personnes peuvent désormais m'aider."
+"Kael, Toran, ou Erya. Mais avant de préter allégeance à l'un d'eux, vous devez déjà au moins vous faire remarquer"
+
+Objectif : aller dans le panneau divinité et choisir de débloquer les quete d'une ou plusieus divinités.
+
+Divinité                                                                       Activer
+Kael                                                                     
+[__________________________________] (neutre)          [  ]
+
+(puis bouton enregistrer)
+
+"D'accord, vous avez choisi de tenter de plaire à Kael. Ce n'est pas évident .... blablabl premiere quete."
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ## Concept
 
 Les quêtes doivent accompagner le joueur depuis ses premières actions jusqu'à son rôle dans les rivalités divines du monde persistant.
