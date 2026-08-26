@@ -10,18 +10,18 @@ Ce sont les quêtes à réaliser pour accéder aux quête de champions  (Permane
 ### Quêtes Faciles (ne donne que de la réputation)
  - **charognard** : récupérer un loot
  - (_chaine_) **Petite victoire** : avoir une victoire quelconque 
- - (_chaine_) **a vaincre sans péril...** : tuer une unité plus forte au cours d'un combat
  - (_chaine_) **en tout temps et en tout lieu** : faire un combat avec une unité sur un marécage
- - (_chaine_) **Spécialiste de...** (mettre un terrain ?)
- - (_chaine_) **Espace vital** posséder 400 cases de territoire
+ - (_chaine_) **Espace vital** posséder 200 cases de territoire
 
 
 ### Quêtes Intermédiaires
-
-
-
+ - Voler du territoire à un autre joueur
+ - **a vaincre sans péril...** : tuer une unité plus forte au cours d'un combat
+ - (_chaine_) **Espace vital II** posséder 600 cases de territoire 
 ### Quêtes Difficile
  - Gagner un combat avec l'aide d'un **Général**
+ - (_chaine_) **Espace vital III** posséder 1800 cases de territoire
+
 
 _____
 **A ce stade** : L'allégeance est consommée et on accède aux quêtes de **Champions**
