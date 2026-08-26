@@ -39,7 +39,9 @@ Ce sont les quêtes à réaliser pour accéder aux quête de champions  (Permane
 ### Quêtes Difficile
  - Retourner une unité avec l'aide d'un **Missi Dominici**
 
+____
 **A ce stade** : L'allégeance est consommée et on accède aux quêtes de **Champions**
+____
 
  - Developpez une ville à 100% arbre 2 "commerce"
  - **L'ancre du pionnier** : « Aerin vous demande de prouver que votre peuple sait marcher au-delà de sa zone de confort. Installez une cité dans une région inexplorée. » _(Fonder une ville dans un territoire demoralisant et entouré de terre seche)_

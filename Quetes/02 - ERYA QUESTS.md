@@ -40,7 +40,9 @@ Ce sont les quêtes à réaliser pour accéder aux quête de champions  (Permane
 ### Quêtes Difficile
  - Produire des **Armes en Acier**
 
+____
 **A ce stade** : L'allégeance est consommée et on accède aux quêtes de **Champions**
+____
 
  - (_chaine_) **Seul au monde I** : Produisez 1 stack de Lingot d'Acier
  - (_chaine_) **Saule au monde  II** : Produisez 1 stack d'Outils  d'Acier

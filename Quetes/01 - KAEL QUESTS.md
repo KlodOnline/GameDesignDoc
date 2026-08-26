@@ -23,8 +23,9 @@ Ce sont les quêtes à réaliser pour accéder aux quête de champions  (Permane
 ### Quêtes Difficile
  - Gagner un combat avec l'aide d'un **Général**
 
+_____
 **A ce stade** : L'allégeance est consommée et on accède aux quêtes de **Champions**
-
+____
 
 ## Quêtes de champions
 
