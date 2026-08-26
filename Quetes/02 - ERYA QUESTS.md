@@ -38,6 +38,10 @@ Ce sont les quêtes à réaliser pour accéder aux quête de champions  (Permane
  - (_chaine_) **en terrain difficile** : récolter une ressource avec un campement posé sur un terrain difficile
 
 ### Quêtes Difficile
+ - Produire des **Armes en Acier**
+
+**A ce stade** : L'allégeance est consommée et on accède aux quêtes de **Champions**
+
  - (_chaine_) **Seul au monde I** : Produisez 1 stack de Lingot d'Acier
  - (_chaine_) **Saule au monde  II** : Produisez 1 stack d'Outils  d'Acier
  - **Atelier mobile** : Produisez une arme de fer dans une ville éloignée de votre capitale

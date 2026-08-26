@@ -18,10 +18,12 @@ Ce sont les quêtes à réaliser pour accéder aux quête de champions  (Permane
 
 ### Quêtes Intermédiaires
 
+
+
 ### Quêtes Difficile
- - Developpez une ville à 100% arbre 1 "guerre"
+ - Gagner un combat avec l'aide d'un **Général**
 
-
+**A ce stade** : L'allégeance est consommée et on accède aux quêtes de **Champions**
 
 
 ## Quêtes de champions

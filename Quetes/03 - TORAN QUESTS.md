@@ -37,6 +37,10 @@ Ce sont les quêtes à réaliser pour accéder aux quête de champions  (Permane
  - (_chaine_) **Bien informé II** : installer un espion dans 1 capitales d'un joueur du top 10 mondial
 
 ### Quêtes Difficile
+ - Retourner une unité avec l'aide d'un **Missi Dominici**
+
+**A ce stade** : L'allégeance est consommée et on accède aux quêtes de **Champions**
+
  - Developpez une ville à 100% arbre 2 "commerce"
  - **L'ancre du pionnier** : « Aerin vous demande de prouver que votre peuple sait marcher au-delà de sa zone de confort. Installez une cité dans une région inexplorée. » _(Fonder une ville dans un territoire demoralisant et entouré de terre seche)_
  - **Le grenier du monde** : « Aerin vous rappelle que Toran exige que la nourriture ne manque jamais. Accumulez un stock massif de provisions dans tout vos entrepôts. »
