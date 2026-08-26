@@ -6,13 +6,13 @@
 
 
 
-"Bon, ben nous y voilà. On est rentré. Je ne vois pas trop finalement en quoi ça m'avance...."
+"Bon, ben nous y voilà. On est rentré. Je ne vois pas trop finalement en quoi ça m'avance…"
 "Ce qu'il faudrait, ce serait que l'on se fasse remarquer des Dieux... mais en bien cette fois !"
-"Et ainsi vous pourrez briller auprès de l'un d'entre eux, et intércéder en ma faveur ?"
+"Et ainsi vous pourrez briller auprès de l'un d'entre eux, et intercéder en ma faveur ?"
 "J'imagine qu'il faut que je vous dise, dans mon états, seules 3 personnes peuvent désormais m'aider."
-"Kael, Toran, ou Erya. Mais avant de préter allégeance à l'un d'eux, vous devez déjà au moins vous faire remarquer"
+"Kael, Toran, ou Erya. Mais avant de prêter allégeance à l'un d'eux, vous devez déjà au moins vous faire remarquer"
 
-Objectif : aller dans le panneau divinité et choisir de débloquer les quete d'une ou plusieus divinités.
+Objectif : aller dans le panneau divinité et choisir de débloquer les quête d'une ou plusieurs divinités.
 
 Divinité                                                                       Activer
 Kael                                                                     
