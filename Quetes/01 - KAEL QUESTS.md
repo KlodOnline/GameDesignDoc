@@ -8,20 +8,23 @@ _____
 Ce sont les quêtes à réaliser pour accéder aux quête de champions  (Permanentes et Cycliques)
 
 ### Quêtes Faciles (ne donne que de la réputation)
- - **charognard** : récupérer un loot
  - (_chaine_) **Petite victoire** : avoir une victoire quelconque 
- - (_chaine_) **en tout temps et en tout lieu** : faire un combat avec une unité sur un marécage
  - (_chaine_) **Espace vital** posséder 200 cases de territoire
-
-
+ - (_chaine_) **Rusticité I** : Combattre depuis une montagne
+ - (_chaine_) **Rusticité II** : Combattre depuis un marécage
+ - (_chaine_) **Surveillance** : Avoir un garde côte
+ - **Frontière gardée** : Avoir un fort dont la ZoC touche le territoire d'un autre joueur
 ### Quêtes Intermédiaires
- - Voler du territoire à un autre joueur
+ - (_chaine_) **Rusticité III** : Combattre sur un désert
+ - (_chaine_) **Rusticité IV** : Combattre sur une banquise
+ - **Grande muraille** : Avoir 5 forts dont la ZoC touche le territoire d'un autre joueur
+ - **Agressivité** voler du territoire à un autre joueur
  - **a vaincre sans péril...** : tuer une unité plus forte au cours d'un combat
  - (_chaine_) **Espace vital II** posséder 600 cases de territoire 
+ -  **charognard** : récupérer un loot sur un territoire hostile / guerre
 ### Quêtes Difficile
  - Gagner un combat avec l'aide d'un **Général**
  - (_chaine_) **Espace vital III** posséder 1800 cases de territoire
-
 
 _____
 **A ce stade** : L'allégeance est consommée et on accède aux quêtes de **Champions**
