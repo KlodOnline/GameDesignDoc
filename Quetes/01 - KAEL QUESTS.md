@@ -23,9 +23,11 @@ Ce sont les quêtes à réaliser pour accéder aux quête de champions  (Permane
  - (_chaine_) **Espace vital II** posséder 600 cases de territoire 
  -  **charognard** : récupérer un loot sur un territoire hostile / guerre
 ### Quêtes Difficile
- - Gagner un combat avec l'aide d'un **Général**
  - (_chaine_) **Espace vital III** posséder 1800 cases de territoire
 
+
+----
+ - Gagner un combat avec l'aide d'un **Général**
 _____
 **A ce stade** : L'allégeance est consommée et on accède aux quêtes de **Champions**
 ____

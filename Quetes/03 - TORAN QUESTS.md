@@ -52,10 +52,9 @@ Ce sont les quêtes à réaliser pour accéder aux quête de champions  (Permane
  - **Le négociateur** : Obtenez auprès de 10% des joueurs un accord commercial
  - (_chaine_) **Bien informé III** : installer un espion dans les capitales d'un joueur du top 10 mondial (mais différent)
 
+
 ---------
-
  - Retourner une unité avec l'aide d'un **Missi Dominici**
-
 ____
 **A ce stade** : L'allégeance est consommée et on accède aux quêtes de **Champions**
 ____

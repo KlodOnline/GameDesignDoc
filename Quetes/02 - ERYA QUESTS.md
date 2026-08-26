@@ -47,14 +47,12 @@ Ce sont les quêtes à réaliser pour accéder aux quête de champions  (Permane
  - Developpez une ville à 100% arbre 3 "artisanat"
  - **Économie de guerre III** : Produisez 5 stacks d'armement d'Acier
 
+
 -----
-
  - Produire des **Armes en Acier**
-
 ____
 **A ce stade** : L'allégeance est consommée et on accède aux quêtes de **Champions**
 ____
-
 
 ## Quêtes de champions
 
