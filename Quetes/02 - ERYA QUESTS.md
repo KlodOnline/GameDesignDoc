@@ -38,11 +38,6 @@ Ce sont les quêtes à réaliser pour accéder aux quête de champions  (Permane
  - (_chaine_) **en terrain difficile** : récolter une ressource avec un campement posé sur un terrain difficile
 
 ### Quêtes Difficile
- - Produire des **Armes en Acier**
-
-____
-**A ce stade** : L'allégeance est consommée et on accède aux quêtes de **Champions**
-____
 
  - (_chaine_) **Seul au monde I** : Produisez 1 stack de Lingot d'Acier
  - (_chaine_) **Saule au monde  II** : Produisez 1 stack d'Outils  d'Acier
@@ -52,14 +47,26 @@ ____
  - Developpez une ville à 100% arbre 3 "artisanat"
  - **Économie de guerre III** : Produisez 5 stacks d'armement d'Acier
 
+-----
+
+ - Produire des **Armes en Acier**
+
+____
+**A ce stade** : L'allégeance est consommée et on accède aux quêtes de **Champions**
+____
+
+
 ## Quêtes de champions
 
 ### Quêtes HardCore
  - **Collectionneur** Avoir la totalité des ressources primaire en stock à hauteur de 4 stack dans l'empire
- - **** Fournir 5 stack d'arme en acier à un joueur autre
- - 
 
 ### Quêtes "Permanentes"
+_Ces quêtes permettent d'entretenir ses Faveurs_
+ - Récolter une ressource (_f(rareté)_)
+ - Produit une ressource  (_f(rareté)_)
+ - Créer un bâtiment
+
 _Ces quêtes donnent un titre temporaire (1 semaine ?)_
  - Le plus d'unité de récolte et d'ouvrier !
  - Le peuple le plus prestigieux ! (en total)

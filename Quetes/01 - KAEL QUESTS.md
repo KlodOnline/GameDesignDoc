@@ -34,7 +34,13 @@ ____
 
 ### Quêtes HardCore
   - **Comme les troyens** : capturer la capitale d'un empire au dessus de soi militairement, et la raser - ou si en tête, juste en dessous.
+
 ### Quêtes "Permanentes"
+_Ces quêtes permettent d'entretenir ses Faveurs_
+ - Gagner un Combat (_f(écart attaque/défense)_)
+ - Capturer une ville
+ - Capturer du territoire à un autre joueur
+
 _Ces quêtes donnent un titre temporaire à un moment particulier (1 semaine ?)_
  - Le plus d'unité de combat !
  - Le territoire le plus étendu !

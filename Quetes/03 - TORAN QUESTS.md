@@ -1,6 +1,6 @@
 
 ____
-Il veut **voir le monde, découvrir, commercer, prendre des risques, malin**.
+Il veut **voir le monde, découvrir, commercer, prendre des risques, malin** + **population bien nourrie/gérée**.
 ____
 # Validées :
 
@@ -37,11 +37,6 @@ Ce sont les quêtes à réaliser pour accéder aux quête de champions  (Permane
  - (_chaine_) **Bien informé II** : installer un espion dans 1 capitales d'un joueur du top 10 mondial
 
 ### Quêtes Difficile
- - Retourner une unité avec l'aide d'un **Missi Dominici**
-
-____
-**A ce stade** : L'allégeance est consommée et on accède aux quêtes de **Champions**
-____
 
  - Developpez une ville à 100% arbre 2 "commerce"
  - **L'ancre du pionnier** : « Aerin vous demande de prouver que votre peuple sait marcher au-delà de sa zone de confort. Installez une cité dans une région inexplorée. » _(Fonder une ville dans un territoire demoralisant et entouré de terre seche)_
@@ -57,6 +52,14 @@ ____
  - **Le négociateur** : Obtenez auprès de 10% des joueurs un accord commercial
  - (_chaine_) **Bien informé III** : installer un espion dans les capitales d'un joueur du top 10 mondial (mais différent)
 
+---------
+
+ - Retourner une unité avec l'aide d'un **Missi Dominici**
+
+____
+**A ce stade** : L'allégeance est consommée et on accède aux quêtes de **Champions**
+____
+
 ## Quêtes de champions
 
 ### Quêtes HardCore
@@ -66,8 +69,12 @@ _Ces quêtes donnent un titre définitif_
  - **Les réserves inépuisables** : « Aerin observe vos greniers pleins à craquer : prouvez à Toran que votre empire ne connaîtra jamais la disette. (avoir 16 stacks nourriture dans TOUTES les villes de son empire)
  - **Le négociateur** : Obtenez auprès de 50% des joueurs du monde un accord commercial
 
-
 ### Quêtes "Permanentes"
+_Ces quêtes permettent d'entretenir ses Faveurs_
+- Installer un espion dans une ville jamais espionnée
+- Faire un échange commercial (_f(rareté)_)
+- Gagner un niveau de ville
+
 _Ces quêtes donnent un titre temporaire (1 semaine ?)_
  - Le plus d'unité marchandes !
  - Route la plus longue !
