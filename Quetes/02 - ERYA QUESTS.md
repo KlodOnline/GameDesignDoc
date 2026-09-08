@@ -49,7 +49,7 @@ Ce sont les quêtes à réaliser pour accéder aux quête de champions  (Permane
 
 
 -----
- - Produire des **Armes en Acier**
+ - Produire des **Outils en Acier**
 ____
 **A ce stade** : L'allégeance est consommée et on accède aux quêtes de **Champions**
 ____
