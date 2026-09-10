@@ -11,38 +11,22 @@ Ce sont les quêtes à réaliser pour accéder aux quête de champions  (Permane
  - (_chaine_) **Qui veut la paix...** : Recruter 10 milices
  - (_chaine_) **Espace Vital** : Avoir un territoire de _400_ cases
  - (_chaine_) **Possessivité I** : Avec une unité de combat capturer un territoire qui ne nous appartient pas avec une ressource _verte_
- - **Bouge de là** : Capturer un territoire qui ne nous appartient pas, avec une unité d'un autre joueur dessus !
- - **Reconnaissance** : Avoir le visuel sur une unité d'un autre joueur, sans que cette unité puisse voir notre unité
- - **Racket** : tuer et looter une unité barbare ou d'un autre joueur
-
-
-
-
-
-
-
- - **Attaque éclair** : Capturer une ville avec un éclaireur à cheval sans combattre 
-
-
-
-  - **Aguerrissement** : Maintenir une unité en déplacement dans un désert sans perte de moral et y bâtir un fort
   - **Colosse de bois** : Conserver un fort en montagne pendant 3 jours
-  - **Ravitaillement** : Transférer à une unité au moral entamé de la nourriture depuis une unité alliée
-  - **Provocation** : Contruire 5 forts à la frontière d'un voisin, puis le passer en "_hostile_"
-  - **Patrouille aux frontières** : Disposer 3 unités en bordure de la zone de vue de la capitale
-
   - **Maintenir la liaison** : Disposez trois tours éclaireur sur un terrain de type colline, avec les champs de visions adjacents
-  - **Blocage passif** : avec du territoire, isolez une unité d'un autre joueur
-  - 
- 
- 
- 
+ - **Reconnaissance** : Avoir le visuel sur une unité d'un autre joueur, sans que cette unité puisse voir notre unité
+ - (_chaine_) **Surveillance Marine** : Avoir le visuel sur une unité d'un autre joueur, sans que cette unité puisse voir notre unité, depuis la mer
+  - **Patrouille aux frontières** : Disposer 3 forts en bordure de la zone de vue de votre capitale
+  - **Provocation** : Construire 5 forts à la frontière d'un voisin, puis le passer en "_hostile_"
+ - **Bouge de là** : Capturer un territoire qui ne nous appartient pas, avec une unité d'un autre joueur dessus ! 
+ - **Racket** : tuer et looter une unité barbare ou d'un autre joueur
+ - **Grignotage** : Annexer une partie du territoire d'un autre joueur
+ - **Attaque éclair** : Capturer une ville avec un éclaireur à cheval sans combattre 
+  - **Ravitaillement** : Transférer à une unité au moral entamé de la nourriture depuis une unité alliée
  - (_chaine_) **Petite victoire** : avoir une victoire quelconque 
- - (_chaine_) **Espace vital** posséder 200 cases de territoire
  - (_chaine_) **Rusticité I** : Combattre depuis une montagne
- - (_chaine_) **Rusticité II** : Combattre depuis un marécage
- - (_chaine_) **Surveillance** : Avoir un garde côte
- - **Frontière gardée** : Avoir un fort dont la ZoC touche le territoire d'un autre joueur
+ - (_chaine_) **Rusticité II** : Combattre depuis un terrain difficile
+
+
 ### Quêtes Intermédiaires
  - (_chaine_) **Rusticité III** : Combattre sur un désert
  - (_chaine_) **Rusticité IV** : Combattre sur une banquise
