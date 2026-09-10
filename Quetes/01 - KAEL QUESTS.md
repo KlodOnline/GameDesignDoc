@@ -8,13 +8,16 @@ _____
 Ce sont les quêtes à réaliser pour accéder aux quête de champions  (Permanentes et Cycliques)
 
 ### Quêtes Faciles (ne donne que de la réputation)
+ - (_chaine_) **Qui veut la paix...** : Recruter 10 milices
+ - (_chaine_) **Espace Vital** : Avoir un territoire de _400_ cases
+ - (_chaine_) **Possessivité I** : Avec une unité de combat capturer un territoire qui ne nous appartient pas avec une ressource _verte_
 
   - **Aguerrissement** : Maintenir une unité en déplacement dans un désert sans perte de moral et y bâtir un fort
   - **Colosse de bois** : Conserver un fort en montagne pendant 3 jours
   - **Ravitaillement** : Transférer à une unité au moral entamé de la nourriture depuis une unité alliée
   - **Provocation** : Contruire 5 forts à la frontière d'un voisin, puis le passer en "_hostile_"
   - **Patrouille aux frontières** : Disposer 3 unités en bordure de la zone de vue de la capitale
-  - (_chaine_) **Possessivité I** : Avec une unité de combat capturer un territoire neutre avec une ressource verte
+
   - **Maintenir la liaison** : Disposez trois tours éclaireur sur un terrain de type colline, avec les champs de visions adjacents
   - **Blocage passif** : avec du territoire, isolez une unité d'un autre joueur
   - 

@@ -1,7 +1,7 @@
 
 ### Principes
  - **Aerin** doit proposer des quetes deverrouillées mais random dans la divinité de tutelle
- - 
+ - si la quete est échouées elle est remise au deck, sinon elle est validée
 
 
 
