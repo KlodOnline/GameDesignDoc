@@ -14,7 +14,14 @@ Ce sont les quêtes à réaliser pour accéder aux quête de champions  (Permane
  - **Bouge de là** : Capturer un territoire qui ne nous appartient pas, avec une unité d'un autre joueur dessus !
  - **Reconnaissance** : Avoir le visuel sur une unité d'un autre joueur, sans que cette unité puisse voir notre unité
  - **Racket** : tuer et looter une unité barbare ou d'un autre joueur
- - Attaquer 
+
+
+
+
+
+
+
+ - **Attaque éclair** : Capturer une ville avec un éclaireur à cheval sans combattre 
 
 
 
