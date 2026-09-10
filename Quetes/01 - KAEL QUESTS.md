@@ -11,6 +11,11 @@ Ce sont les quêtes à réaliser pour accéder aux quête de champions  (Permane
  - (_chaine_) **Qui veut la paix...** : Recruter 10 milices
  - (_chaine_) **Espace Vital** : Avoir un territoire de _400_ cases
  - (_chaine_) **Possessivité I** : Avec une unité de combat capturer un territoire qui ne nous appartient pas avec une ressource _verte_
+ - **Bouge de là** : Capturer un territoire qui ne nous appartient pas, avec une unité d'un autre joueur dessus !
+ - **Reconnaissance** : Avoir le visuel sur une unité d'un autre joueur, sans que cette unité puisse voir notre unité
+
+
+
 
   - **Aguerrissement** : Maintenir une unité en déplacement dans un désert sans perte de moral et y bâtir un fort
   - **Colosse de bois** : Conserver un fort en montagne pendant 3 jours
