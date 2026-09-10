@@ -1,4 +1,9 @@
 
+### Principes
+ - **Aerin** doit proposer des quetes deverrouillées mais random dans la divinité de tutelle
+ - 
+
+
 
 
 
