@@ -13,7 +13,8 @@ Ce sont les quêtes à réaliser pour accéder aux quête de champions  (Permane
  - (_chaine_) **Possessivité I** : Avec une unité de combat capturer un territoire qui ne nous appartient pas avec une ressource _verte_
  - **Bouge de là** : Capturer un territoire qui ne nous appartient pas, avec une unité d'un autre joueur dessus !
  - **Reconnaissance** : Avoir le visuel sur une unité d'un autre joueur, sans que cette unité puisse voir notre unité
-
+ - **Racket** : tuer et looter une unité barbare ou d'un autre joueur
+ - Attaquer 
 
 
 
