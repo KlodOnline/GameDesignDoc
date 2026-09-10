@@ -8,6 +8,17 @@ _____
 Ce sont les quêtes à réaliser pour accéder aux quête de champions  (Permanentes et Cycliques)
 
 ### Quêtes Faciles (ne donne que de la réputation)
+
+  - **Aguerrissement** : Maintenir une unité en déplacement dans un désert sans perte de moral
+  - **Colosse de bois** : Conserver un fort en montagne pendant 3 jours
+  - **Ravitaillement** : Transférer à une unité au moral entamé de la nourriture depuis une unité alliée
+  - **Provocation** : Contruire 5 forts à la frontière d'un voisin, puis le passer en "_hostile_"
+  - **Patrouille aux frontières** : Disposer 3 unités en bordure de la zone de vue de la capitale
+  - (_chaine_) **Possessivité I** : Avec une unité de combat capturer un territoire neutre avec une ressource verte
+  - **Maintenir la liaison** : Disposez trois tours éclaireur sur un terrain de type colline, avec les champs de visions adjacents
+ 
+ 
+ 
  - (_chaine_) **Petite victoire** : avoir une victoire quelconque 
  - (_chaine_) **Espace vital** posséder 200 cases de territoire
  - (_chaine_) **Rusticité I** : Combattre depuis une montagne
@@ -52,7 +63,6 @@ _Ces quêtes donnent un titre temporaire à un moment particulier (1 semaine ?)_
 
 ### Quête Cyclique
 **Les Monolithes** : posséder le plus de monolithe sur son territoire. Il apparaissent, au rythme de 1 par semaine. à la fin, il sont tous enlevés par Kael.
-
 
 
 # A étudier :
