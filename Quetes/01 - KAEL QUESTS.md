@@ -16,6 +16,7 @@ Ce sont les quêtes à réaliser pour accéder aux quête de champions  (Permane
  - **Reconnaissance** : Avoir le visuel sur une unité d'un autre joueur, sans que cette unité puisse voir notre unité
  - (_chaine_) **Surveillance Marine** : Avoir le visuel sur une unité d'un autre joueur, sans que cette unité puisse voir notre unité, depuis la mer
   - **Patrouille aux frontières** : Disposer 3 forts en bordure de la zone de vue de votre capitale
+### Quêtes Intermédiaires
   - **Provocation** : Construire 5 forts à la frontière d'un voisin, puis le passer en "_hostile_"
  - **Bouge de là** : Capturer un territoire qui ne nous appartient pas, avec une unité d'un autre joueur dessus ! 
  - **Racket** : tuer et looter une unité barbare ou d'un autre joueur
@@ -25,9 +26,6 @@ Ce sont les quêtes à réaliser pour accéder aux quête de champions  (Permane
  - (_chaine_) **Petite victoire** : avoir une victoire quelconque 
  - (_chaine_) **Rusticité I** : Combattre depuis une montagne
  - (_chaine_) **Rusticité II** : Combattre depuis un terrain difficile
-
-
-### Quêtes Intermédiaires
  - (_chaine_) **Rusticité III** : Combattre sur un désert
  - (_chaine_) **Rusticité IV** : Combattre sur une banquise
  - **Grande muraille** : Avoir 5 forts dont la ZoC touche le territoire d'un autre joueur
