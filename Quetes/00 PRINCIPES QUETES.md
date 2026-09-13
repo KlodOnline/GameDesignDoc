@@ -4,6 +4,11 @@
  - si la quete est échouées elle est remise au deck, sinon elle est validée
 
 
+_Peut être mettre des actions permanentes qui font grimper la réputation ?_
+
+
+
+
 
 
 
