@@ -23,7 +23,7 @@ Ce sont les quêtes à réaliser pour accéder aux quête de champions  (Permane
 (_chaine_) **Paysages montagnards** : avoir sur le territoire de vos villes les territoires collines, montagnes
 (_chaine_) **Paysages chauds** : avoir sur le territoire de vos villes les territoires savane, déserts
 (_chaine_) **Paysages froids** : avoir sur le territoire de vos villes les territoires toundra, banquise
-(_chaine_) **Paysages variés** : avoir sur le territoire de vos villes toutes les type de territoires différents
+(_chaine_) **Paysages variés** : avoir sur le territoire de vos villes toutes les type de territoires différents, collines comprises
 
 - **Déplacement rapide I** : Définir un trajet de X cases, en moins de N tours (N calculé pour un chemin 100% forêt ?)
 - **Déplacement rapide II** : Définir un trajet de X cases, en moins de N tours (N calculé pour un chemin 50% - 50% plaines ?)
