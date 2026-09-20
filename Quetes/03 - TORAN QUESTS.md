@@ -13,6 +13,9 @@ Ce sont les quêtes à réaliser pour accéder aux quête de champions  (Permane
  - **Nord/Sud** : Connaitre du terrain découvert du nord au sud
  - (**chaine**) "Aerin vous explique que pour briller auprès de Toran, vous devriez sonder le sol à la recherche de cette veine minérale ancienne dont les anciens murmuraient les légendes." _Découvrir une Source Marbre Bleue inexploitée_  
 
+**L'expédition** : Transportez une ressource depuis sa zone d'exploitation jusqu'à une ville à plus de X cases.
+
+
 - **Déplacement rapide I** : Définir un trajet de X cases, en moins de N tours (N calculé pour un chemin 100% forêt ?)
 - **Déplacement rapide II** : Définir un trajet de X cases, en moins de N tours (N calculé pour un chemin 50% - 50% plaines ?)
 
