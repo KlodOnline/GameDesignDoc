@@ -15,6 +15,8 @@ Ce sont les quêtes à réaliser pour accéder aux quête de champions  (Permane
 
 **L'expédition** : Transportez une ressource depuis sa zone d'exploitation jusqu'à une ville à plus de X cases.
 
+**La Grande Route I** : Reliez deux villes par une piste de X cases
+**La Grande Route II** : Reliez deux villes par une route  de X cases
 
 - **Déplacement rapide I** : Définir un trajet de X cases, en moins de N tours (N calculé pour un chemin 100% forêt ?)
 - **Déplacement rapide II** : Définir un trajet de X cases, en moins de N tours (N calculé pour un chemin 50% - 50% plaines ?)
