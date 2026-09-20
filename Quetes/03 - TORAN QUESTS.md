@@ -19,7 +19,7 @@ Ce sont les quêtes à réaliser pour accéder aux quête de champions  (Permane
 (_chaine_) **La Grande Route II** : Reliez deux villes par une route pavée de X cases
 (_chaine_) **La Grande Route III** : Reliez deux villes par une route pavée avec des ponts de X cases
 
-**Dans chaque port** : Avoir d
+**Dans chaque port** : Une ville dans un biome plaine, savane, toundra
 
 - **Déplacement rapide I** : Définir un trajet de X cases, en moins de N tours (N calculé pour un chemin 100% forêt ?)
 - **Déplacement rapide II** : Définir un trajet de X cases, en moins de N tours (N calculé pour un chemin 50% - 50% plaines ?)
