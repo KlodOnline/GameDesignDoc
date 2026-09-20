@@ -12,7 +12,14 @@ Ce sont les quêtes à réaliser pour accéder aux quête de champions  (Permane
  - **Tour du monde** : Connaitre du terrain découvert sur le tour du monde
  - **Nord/Sud** : Connaitre du terrain découvert du nord au sud
  - (**chaine**) "Aerin vous explique que pour briller auprès de Toran, vous devriez sonder le sol à la recherche de cette veine minérale ancienne dont les anciens murmuraient les légendes." _Découvrir une Source Marbre Bleue inexploitée_  
- - 
+
+- **Déplacement rapide I** : Définir un trajet de X cases, en moins de N tours (N calculé pour un chemin 100% forêt ?)
+- **Déplacement rapide II** : Définir un trajet de X cases, en moins de N tours (N calculé pour un chemin 50% - 50% plaines ?)
+
+Faites le tour d'un continent ?
+Placer un fort sur une ile qui en controle la seule greve ?
+
+
  - (**chaine**) Idem bois _Découvrir une d'ébène Bleue inexploitée_
  - (**chaine**) **L'artère vitale** : « Aerin vous indique que Toran chérit la structure et la circulation. Tracez une route logistique ininterrompue reliant deux de vos cités. » _(Relier deux villes par une piste)
  - (**chaine**) **L'emprise de l'airain** : « Aerin observe l'horizon et murmure que le territoire n'appartient qu'à ceux qui le marquent. Étendez votre zone de contrôle sur un nouveau gisement. » _(Capturer un territoire avec 5 source n'importe lequelles via votre Zone de Contrôle)_
