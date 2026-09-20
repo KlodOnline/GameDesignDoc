@@ -8,7 +8,11 @@ ____
 Ce sont les quêtes à réaliser pour accéder aux quête de champions  (Permanentes et Cycliques)
 
 ### Quêtes Faciles (ne donne que de la réputation)
+
+ - **Tour du monde** : Connaitre du terrain découvert sur le tour du monde
+ - **Nord/Sud** : Connaitre du terrain découvert du nord au sud
  - (**chaine**) "Aerin vous explique que pour briller auprès de Toran, vous devriez sonder le sol à la recherche de cette veine minérale ancienne dont les anciens murmuraient les légendes." _Découvrir une Source Marbre Bleue inexploitée_  
+ - 
  - (**chaine**) Idem bois _Découvrir une d'ébène Bleue inexploitée_
  - (**chaine**) **L'artère vitale** : « Aerin vous indique que Toran chérit la structure et la circulation. Tracez une route logistique ininterrompue reliant deux de vos cités. » _(Relier deux villes par une piste)
  - (**chaine**) **L'emprise de l'airain** : « Aerin observe l'horizon et murmure que le territoire n'appartient qu'à ceux qui le marquent. Étendez votre zone de contrôle sur un nouveau gisement. » _(Capturer un territoire avec 5 source n'importe lequelles via votre Zone de Contrôle)_
@@ -19,6 +23,56 @@ Ce sont les quêtes à réaliser pour accéder aux quête de champions  (Permane
  - **Le pont maritime** : Utilisez un bateau pour établir une liaison commerciale ou logistique entre deux zones.
  - **Le négociateur** : Obtenez auprès d'un autre joueur un accord commercial
  - (_chaine_) **Bien informé I** : installer un espion dans une capitale tierce avec laquelle vous êtes Neutres, Hostile, ou En Guerre
+
+🧭 Le relais — Faites transporter une même cargaison d'un bateau vers un chariot pour arriver dans une ville qui n'a pas acces à la mer
+🧭 Le commerce triangulaire — Obtenez une ressource auprès d'un joueur, échangez-la avec un autre et utilisez le résultat pour votre objectif.
+
+
+
+🧭 Toran
+Le grand détour — Transportez une cargaison entre deux de vos villes en empruntant un trajet d'au moins X cases.
+Au-delà de l'horizon — Faites parvenir une unité à X cases de la ville la plus éloignée de votre empire.
+Le triangle commercial — Faites circuler des ressources entre trois de vos villes, aucune n'étant directement reliée aux deux autres.
+L'expédition — Faites simultanément explorer trois zones différentes de la carte avec trois unités.
+Le pont — Reliez deux parties de votre territoire par une chaîne continue de territoires contrôlés.
+Le comptoir lointain — Faites parvenir une quantité donnée de ressources dans une ville située à X cases de votre capitale.
+
+La route impossible — Transportez une cargaison entre deux points en passant par au moins trois types de terrain différents.
+Le réseau — Ayez simultanément des ressources stockées dans X villes différentes.
+Toran ouvre les frontières — Contrôlez des territoires dans X zones suffisamment éloignées les unes des autres.
+
+Le chemin le plus long — Faites parcourir à une cargaison une distance supérieure à la distance directe entre son origine et sa destination.
+Le triangle commercial — Faites circuler des marchandises entre trois villes appartenant à trois joueurs différents.
+Le pont — Reliez deux parties de votre empire par une chaîne continue de transport.
+L'expédition — Envoyez une unité spécialisée exploiter une ressource puis ramenez sa cargaison dans votre empire.
+Le marché parallèle — Obtenez une ressource par échange alors qu'une source exploitable de cette même ressource existe dans votre territoire.
+La route improbable — Faites traverser à une cargaison au moins trois types de terrain différents.
+Le comptoir — Faites parvenir des ressources dans une ville qui n'est pas directement reliée à votre territoire principal.
+Le grand circuit — Faites voyager une cargaison entre trois de vos villes avant son utilisation finale.
+L'expédition lointaine — Exploitez une ressource située à plus de 100 cases de votre ville la plus proche.
+Le réseau — Faites transiter simultanément des ressources par plusieurs villes de votre empire.
+
+Là, on est beaucoup plus proche du casse-tête Klod : la quête pose une configuration à atteindre,
+🧭 Toran — Exploration / économie
+La route impossible — Faites parvenir une cargaison à destination en trouvant un itinéraire plus efficace que le trajet direct.
+Le raccourci — Exploitez le terrain pour réduire le temps de transport d'une cargaison.
+L'expédition — Envoyez une unité explorer une zone inconnue et faites-la revenir avec quelque chose d'utile.
+Le grand détour — Faites parvenir une cargaison à destination en utilisant un itinéraire nettement plus long que la distance directe.
+L'expédition commerciale — Faites parvenir des marchandises dans une ville éloignée de votre territoire principal.
+Le triangle commercial — Faites circuler des marchandises entre trois de vos villes.
+Deux horizons — Faites parvenir des ressources dans deux zones très éloignées l'une de l'autre.
+L'exploration rentable — Découvrez une zone inconnue puis exploitez une ressource qui s'y trouve.
+La route impossible — Reliez logistiquement deux villes séparées par un terrain difficile.
+Le réseau — Faites transiter des marchandises par plusieurs villes avant leur destination finale.
+Le grand transport — Faites parcourir à une cargaison une distance cumulée supérieure à une valeur donnée.
+L'ouverture — Découvrez une zone éloignée, puis établissez-y une activité économique.
+Le marchand voyageur — Faites parvenir successivement des marchandises dans plusieurs régions éloignées de votre empire.
+La ressource lointaine — Identifiez une ressource éloignée et construisez toute la logistique nécessaire pour l'exploiter.
+Le convoi — Faites parvenir une cargaison à travers une zone dangereuse sans perdre l'unité qui la transporte.
+Le timing parfait — Faites arriver une ressource dans une ville exactement avant la résolution d'une production.
+L'économie du détour — Comparez plusieurs itinéraires et trouvez celui qui minimise le nombre de tours nécessaires.
+Le bout du réseau — Reliez logistiquement deux villes très éloignées en utilisant vos unités et vos ressources disponibles.
+
 
 ### Quêtes Intérmediaires
  - Connaitre TOUT les biomes

@@ -27,7 +27,7 @@ Ce sont les quêtes à réaliser pour accéder aux quête de champions  (Permane
 
  - **Tout le monde au travail** : dans une ville qui a débloquée tout l'artisanat possible, avoir 1 artisan qui produit 1 ressource dans TOUTES les ressource possible de la ville, de façon active ! (avec du stock donc)
 
-### Quêtes Intérmediaires
+
  - (_chaine_) **Autonomie I** : Produisez 1 stack de Minerai de Fer
  - (_chaine_) **Autonomie II** : Produisez 1 stack de Lingot de Fer
  - (_chaine_) **Autonomie III** : Produisez 1 stack d'Outils de Fer
@@ -41,16 +41,28 @@ Ce sont les quêtes à réaliser pour accéder aux quête de champions  (Permane
  - **Économie de guerre II** : Produisez 3 stacks d'armement de FER
  - (_chaine_) **en terrain difficile** : récolter une ressource avec un campement posé sur un terrain difficile
 
-### Quêtes Difficile
+🔨 L'empire manufacturier — Faites fonctionner simultanément plusieurs chaînes de production différentes.
+
+🔨 Usinage — produire 3 type de lingots différents dans uen ville en même temps.
+🔨 La Chaine I — Faites fonctionner simultanément tout les elements d'une chaine de production d'arme en bronze
+🔨 L'empire manufacturier — Faites produire simultanément X types de ressources différentes dans votre empire.
+🔨 Le stockage stratégique — Constituez simultanément dans plusieurs villes des stocks dépassant un seuil défini.
+🔨 L'œuvre d'Erya — Produisez simultanément X catégories de produits artisanaux différentes dans votre empire.
+🔨 Le casse-tête des stocks — stocker dans la même ville 1 stack de chaque minerais du jeu
+
+
+
+
 
  - (_chaine_) **Seul au monde I** : Produisez 1 stack de Lingot d'Acier
  - (_chaine_) **Seul au monde  II** : Produisez 1 stack d'Outils  d'Acier
- - **Atelier mobile** : Produisez une arme de fer dans une ville éloignée de votre capitale
- - (_chaine_) **La bonne place III** : Fabriquer un camp de recolteur qui exploite 4 ressource en simultané
+ - **Atelier de secours** : Produisez une arme de fer dans une ville éloignée de votre capitale
+ - (_chaine_) **La bonne place III** : Fabriquer un camp de recolteur qui couvre 4 ressource en simultané
  - **Production sous pression** : Maintenez une production élevée pendant que votre empire est engagé dans une guerre.
  - Developpez une ville à 100% arbre 3 "artisanat"
  - **Économie de guerre III** : Produisez 5 stacks d'armement d'Acier
 
+🔨 Le casse-tête des stocks — stocker dans la même ville 1 stack de chaque minerais du jeu
 
 -----
  - Produire des **Outils en Acier**
