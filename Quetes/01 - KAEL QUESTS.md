@@ -8,6 +8,9 @@ _____
 Ce sont les quêtes à réaliser pour accéder aux quête de champions  (Permanentes et Cycliques)
 
 ### Quêtes Faciles (ne donne que de la réputation)
+
+3 villes fortifiées niveau 1
+
  - (_chaine_) **Qui veut la paix...** : Recruter 10 milices
  - (_chaine_) **Espace Vital** : Avoir un territoire de _400_ cases
  - (_chaine_) **Possessivité I** : Avec une unité de combat capturer un territoire qui ne nous appartient pas avec une ressource _verte_
