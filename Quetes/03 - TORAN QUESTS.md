@@ -27,7 +27,7 @@ Ce sont les quêtes à réaliser pour accéder aux quête de champions  (Permane
 🧭 Le relais — Faites transporter une même cargaison d'un bateau vers un chariot pour arriver dans une ville qui n'a pas acces à la mer
 🧭 Le commerce triangulaire — Obtenez une ressource auprès d'un joueur, échangez-la avec un autre et utilisez le résultat pour votre objectif.
 
-
+**Le convoi impossible** — Faites parvenir une cargaison à une ville située à plus de XXX cases, avec une unité dont la capacité est insuffisante pour transporter toute la cargaison en un seul voyage.
 
 🧭 Toran
 Le grand détour — Transportez une cargaison entre deux de vos villes en empruntant un trajet d'au moins X cases.
