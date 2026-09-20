@@ -19,12 +19,13 @@ Ce sont les quêtes à réaliser pour accéder aux quête de champions  (Permane
 
  -  (_chaine_) **Industrie I** : Avoir 15 artisans dans 3 productions différentes
  - (_chaîne_) **Prevoyant I** Avoir un stock de 3 stack de lingots de Bronze
- - **Chaine de production**  Produire dans la même ville le cuivre, l'étain, le bronze, et les outils, 
  - (_chaine_) **Amoureux de la nature I** Avoir 5 stack de chevaux dans son empire
  - (_chaine_) **Grand chantier I** : Avoir 5 batiments de rang 1
  - (_chaine_) **La bonne place I** : Fabriquer un camp de recolteur qui exploite 2 ressource en simultané
  - **Économie de guerre I** : Produisez 2 stacks d'armement de BRONZE 
  - Assechez des maraicages
+
+ - **Tout le monde au travail** : dans une ville qui a débloquée tout l'artisanat possible, avoir 1 artisan qui produit 1 ressource dans TOUTES les ressource possible de la ville, de façon active ! (avec du stock donc)
 
 ### Quêtes Intérmediaires
  - (_chaine_) **Autonomie I** : Produisez 1 stack de Minerai de Fer
@@ -34,7 +35,7 @@ Ce sont les quêtes à réaliser pour accéder aux quête de champions  (Permane
  - (_chaîne_) **Prevoyant II** Avoir un stock de 3 stack de lingots de Fer et le 6 de charbon
  - (_chaine_) **Amoureux de la nature II** Avoir 3 stack delephants dans son empire
  - **Grand chantier II** : Avoir 3 batiments de rang 2
- - (_chaine_) **La bonne place II** : Fabriquer un camp de recolteur qui exploite 3 ressource en simultané
+ - (_chaine_) **La bonne place II** : Fabriquer un camp de récolteur qui exploite 3 ressource en simultané
  - **Réparer plutôt que remplacer** : Récupérez des ressources servant à la construction d'autres depuis du loot pour la production
  - **Production délocalisée** : Avoir une ville qui fond les lingots et une autre qui crafte les outils ? (bof)
  - **Économie de guerre II** : Produisez 3 stacks d'armement de FER
@@ -43,7 +44,7 @@ Ce sont les quêtes à réaliser pour accéder aux quête de champions  (Permane
 ### Quêtes Difficile
 
  - (_chaine_) **Seul au monde I** : Produisez 1 stack de Lingot d'Acier
- - (_chaine_) **Saule au monde  II** : Produisez 1 stack d'Outils  d'Acier
+ - (_chaine_) **Seul au monde  II** : Produisez 1 stack d'Outils  d'Acier
  - **Atelier mobile** : Produisez une arme de fer dans une ville éloignée de votre capitale
  - (_chaine_) **La bonne place III** : Fabriquer un camp de recolteur qui exploite 4 ressource en simultané
  - **Production sous pression** : Maintenez une production élevée pendant que votre empire est engagé dans une guerre.
