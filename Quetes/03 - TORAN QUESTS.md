@@ -19,8 +19,10 @@ Ce sont les quêtes à réaliser pour accéder aux quête de champions  (Permane
 (_chaine_) **La Grande Route II** : Reliez deux villes par une route pavée de X cases
 (_chaine_) **La Grande Route III** : Reliez deux villes par une route pavée avec des ponts de X cases
 
-**Paysages variés I** : avoir sur le territoire de vos villes toutes les type de territoires différents
-**Paysages variés I** : avoir sur le territoire de vos villes toutes les type de territoires différents
+(_chaine_) **Paysages marins I** : avoir sur le territoire de vos villes les territoires côté, océans, grêves
+(_chaine_) **Paysages montagnards I** : avoir sur le territoire de vos villes les territoires collines, montagnes
+
+(_chaine_) **Paysages variés II** : avoir sur le territoire de vos villes toutes les type de territoires différents
 
 - **Déplacement rapide I** : Définir un trajet de X cases, en moins de N tours (N calculé pour un chemin 100% forêt ?)
 - **Déplacement rapide II** : Définir un trajet de X cases, en moins de N tours (N calculé pour un chemin 50% - 50% plaines ?)
