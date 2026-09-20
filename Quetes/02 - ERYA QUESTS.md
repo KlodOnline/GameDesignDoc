@@ -11,9 +11,12 @@ _____
 Ce sont les quêtes à réaliser pour accéder aux quête de champions  (Permanentes et Cycliques)
 
 ### Quêtes Faciles (ne donne que de la réputation)
- - (_chaine_) **Sans importation I** : Produisez 1 stack d'Etain et 1 stack de Minerai de Cuivre
- - (_chaine_) **Sans importation II** : Produisez 1 stack de Bronze
- - (_chaine_) **Sans importation III** : Produisez 1 stack d'Outils de Bronze
+ - (_chaine_) **Sans importation I** : Produisez tout les éléments de la chaîne de production des outils Primitifs dans une ville en simultané, obtenez 1 stack d'arme et d'outils. (_Produire du bois, de la pierre et les outils primitifs et les armes primitives_)
+ - (_chaine_) **Sans importation II** : Produisez tout les éléments de la chaîne de production du Bronze dans une ville en simultané, obtenez 1 stack d'arme et d'outils. (_faire des lingots de bronze & des armes & des outils_)
+ - (_chaine_) **Sans importation III** : Produisez tout les éléments de la chaîne de production du Fer dans une ville en simultané, obtenez 1 stack d'arme et d'outils. (_faire des lingots de Fer & des armes & des outils_)
+ - (_chaine_) **Sans importation IV** : Produisez tout les éléments de la chaîne de production de l'acier dans une ville en simultané, obtenez 1 stack d'arme et d'outils. (_faire du bois, du charbon, des lingots de fer, des lingots d'acier & des armes & des outils_)
+ - **Transport** : Apporter 1 stack de minerai dans une ville qui peu la transformer
+
  -  (_chaine_) **Industrie I** : Avoir 15 artisans dans 3 productions différentes
  - (_chaîne_) **Prevoyant I** Avoir un stock de 3 stack de lingots de Bronze
  - **Chaine de production**  Produire dans la même ville le cuivre, l'étain, le bronze, et les outils, 
