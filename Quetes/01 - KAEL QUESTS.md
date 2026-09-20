@@ -16,6 +16,26 @@ Ce sont les quêtes à réaliser pour accéder aux quête de champions  (Permane
  - **Reconnaissance** : Avoir le visuel sur une unité d'un autre joueur, sans que cette unité puisse voir notre unité
  - (_chaine_) **Surveillance Marine** : Avoir le visuel sur une unité d'un autre joueur, sans que cette unité puisse voir notre unité, depuis la mer
   - **Patrouille aux frontières** : Disposer 3 forts en bordure de la zone de vue de votre capitale
+
+⚔️ L'embuscade — Une unité ennemie "plus faible" termine son tour dans votre ZoC avec une unité "plus forte".
+⚔️ Le piège — Gagnez une bataille contre un ennemi en terrain difficile (sans être vous même en terrain difficile)
+⚔️ La manoeuvre — Triangulez une unité ennemie, entourez la de ZoC pour l'immobiliser ou la forcer à attaquer
+⚔️ Le Siege - Affamez une ville d'un autre joueur (positionnez 3 forts au moins dans sa zone de production
+⚔️ Repousser — Faites reculer une unité ennemie dans un combat
+⚔️ Le renfort à temps — Faites arriver une unité avec moral >50 sur une unité avec moral <=10 qui as un ordre d'attaque vers elle
+⚔️ La bataille impossible — Gagnez un affrontement contre une unité qui a plus de défense que votre attaque, en utilisant le terrain pour avoir autant
+⚔️ L'embuscade — Une unité ennemie "plus faible" termine son tour dans votre ZoC avec une unité "plus forte".
+⚔️ Le piège — Gagnez une bataille contre un ennemi en terrain difficile (sans être vous même en terrain difficile)
+⚔️ La manoeuvre — Triangulez une unité ennemie, entourez la de ZoC pour l'immobiliser ou la forcer à attaquer
+⚔️ Le Siege - Affamez une ville d'un autre joueur (positionnez 3 forts au moins dans sa zone de production
+⚔️ Repousser — Faites reculer une unité ennemie dans un combat
+⚔️ Le renfort à temps — Faites arriver une unité avec moral >50 sur une unité avec moral <=10 qui as un ordre d'attaque vers elle
+⚔️ La bataille impossible — Gagnez un affrontement contre une unité qui a plus de défense que votre attaque, en utilisant le terrain pour avoir autant
+⚔️ Le marteau et l'enclume — Contrôlez deux territoires séparés par un territoire ennemi.
+⚔️ La pointe — Capturer un territoire a plus de 400 cases de votre capitale, et qui n'est pas relié à votre teritoire existant
+⚔️ Le front étiré — Maintenez une frontière de 30 cases avec un autre empire. Collée.
+⚔️ Le fer de lance — Faites pénétrer une armée au-delà de 20 cases à l'intérieur du territoire adverse.
+
 ### Quêtes Intermédiaires
   - **Provocation** : Construire 5 forts à la frontière d'un voisin, puis le passer en "_hostile_"
  - **Bouge de là** : Capturer un territoire qui ne nous appartient pas, avec une unité d'un autre joueur dessus ! 
