@@ -2,6 +2,21 @@
 ____
 Il veut **voir le monde, découvrir, commercer, prendre des risques, malin** + **population bien nourrie/gérée**.
 ____
+# À implémenter :
+
+## 10 Quêtes les plus faciles (Faciles)
+
+- **Tour du monde** - Connaitre du terrain découvert sur le tour du monde
+- **Nord/Sud** - Connaitre du terrain découvert du nord au sud
+- **Faites le tour d'un continent ?**
+- **Placer un fort sur une ile qui en controle la seule greve ?**
+- **Faire un échange commercial** - _f(rareté)_
+- **Le premier comptoir** - « Aerin vous pousse à ouvrir vos frontières aux autres souverains. Effectuez votre tout premier échange commercial avec un joueur voisin. »
+- **Les coffres de la ville** - « Aerin vous explique que pour briller auprès de Toran, vous devriez bâtir de quoi stocker l'abondance. Construisez votre premier entrepôt pour sécuriser vos réserves. »
+- **L'expédition** - Transportez une ressource depuis sa zone d'exploitation jusqu'à une ville à plus de X cases.
+- **Le pont maritime** - Utilisez un bateau pour établir une liaison commerciale ou logistique entre deux zones.
+- **Le négociateur** - Obtenez auprès d'un autre joueur un accord commercial
+
 # Validées :
 
 ## Quêtes d'allégeance
@@ -9,10 +24,7 @@ Ce sont les quêtes à réaliser pour accéder aux quête de champions  (Permane
 
 ### Quêtes Faciles (ne donne que de la réputation)
 
-- **Tour du monde** - Connaitre du terrain découvert sur le tour du monde
-- **Nord/Sud** - Connaitre du terrain découvert du nord au sud
 - (_chaine_) **Source Marbre Bleue** - "Aerin vous explique que pour briller auprès de Toran, vous devriez sonder le sol à la recherche de cette veine minérale ancienne dont les anciens murmuraient les légendes." _Découvrir une Source Marbre Bleue inexploitée_
-- **L'expédition** - Transportez une ressource depuis sa zone d'exploitation jusqu'à une ville à plus de X cases.
 - (_chaine_) **La Grande Route I** - Reliez deux villes par une piste de X cases
 - (_chaine_) **La Grande Route II** - Reliez deux villes par une route pavée de X cases
 - (_chaine_) **La Grande Route III** - Reliez deux villes par une route pavée avec des ponts de X cases
@@ -23,8 +35,6 @@ Ce sont les quêtes à réaliser pour accéder aux quête de champions  (Permane
 - (_chaine_) **Paysages variés** - avoir sur le territoire de vos villes toutes les type de territoires différents, collines comprises
 - **Déplacement rapide I** - Définir un trajet de X cases, en moins de N tours (N calculé pour un chemin 100% forêt ?)
 - **Déplacement rapide II** - Définir un trajet de X cases, en moins de N tours (N calculé pour un chemin 50% - 50% plaines ?)
-- **Faites le tour d'un continent ?**
-- **Placer un fort sur une ile qui en controle la seule greve ?**
 - (_chaine_) **Ebène bleue** - Idem bois _Découvrir une d'ébène Bleue inexploitée_
 - (_chaine_) **L'artère vitale** - « Aerin vous indique que Toran chérit la structure et la circulation. Tracez une route logistique ininterrompue reliant deux de vos cités. » _(Relier deux villes par une piste)_
 - (_chaine_) **L'emprise de l'airain** - « Aerin observe l'horizon et murmure que le territoire n'appartient qu'à ceux qui le marquent. Étendez votre zone de contrôle sur un nouveau gisement. » _(Capturer un territoire avec 5 source n'importe lequelles via votre Zone de Contrôle)_
@@ -32,8 +42,6 @@ Ce sont les quêtes à réaliser pour accéder aux quête de champions  (Permane
 - **L'alliance des chemins** - « Aerin estime que nos routes doivent croiser celles d'autres peuples pour devenir éternelles. Multipliez les transactions avec un même partenaire. » _(reliez par une route une de vos ville avec celle d'un autre joueur)_
 - **Le tribut des marchands** - « Aerin vous rappelle que le commerce appelle le commerce. Multipliez les transactions marchandes avec le PNJ marchand ?
 - **À travers les brumes** - « Aerin vous sourit : les terres d'en face cachent des secrets que les faibles ignorent. Envoyez des éclaireurs sonder l'inconnu par-delà la colline. » _(Explorer des cases d'un nouveau biome qui nexiste pas sur votre territoire courant !)_
-- **Le pont maritime** - Utilisez un bateau pour établir une liaison commerciale ou logistique entre deux zones.
-- **Le négociateur** - Obtenez auprès d'un autre joueur un accord commercial
 - (_chaine_) **Bien informé I** - installer un espion dans une capitale tierce avec laquelle vous êtes Neutres, Hostile, ou En Guerre
 - **Le relais** - Faites transporter une même cargaison d'un bateau vers un chariot pour arriver dans une ville qui n'a pas acces à la mer
 - **Le commerce triangulaire** - Obtenez une ressource auprès d'un joueur, échangez-la avec un autre et utilisez le résultat pour votre objectif.
@@ -90,8 +98,6 @@ Là, on est beaucoup plus proche du casse-tête Klod : la quête pose une config
 - **L'artère vitale** - « Aerin vous indique que Toran chérit la structure et la circulation. Tracez une route logistique ininterrompue reliant deux de vos cités. » _(Relier deux de vos villes par une route pavée)_
 - **L'emprise de l'airain bis** - « Aerin observe l'horizon et murmure que le territoire n'appartient qu'à ceux qui le marquent. Étendez votre zone de contrôle sur un nouveau gisement. » _(Capturer un territoire avec 10 source n'importe lequelles via votre Zone de Contrôle)_
 - **L'horizon conquis** - « Aerin lève les yeux vers les lointaines montagnes : Toran veut savoir jusqu'où portent vos pas. Envoyez une unité marquer les confins du monde connu. » _(Explorer une zone située très loin de la capitale)_
-- **Les coffres de la ville** - « Aerin vous explique que pour briller auprès de Toran, vous devriez bâtir de quoi stocker l'abondance. Construisez votre premier entrepôt pour sécuriser vos réserves. »
-- **Le premier comptoir** - « Aerin vous pousse à ouvrir vos frontières aux autres souverains. Effectuez votre tout premier échange commercial avec un joueur voisin. »
 - **Le cœur battant** - « Aerin remarque que votre cité s'endort. Dynamisez sa croissance démographique en y injectant un flux constant de denrées. » (_obtenir +80 de croissance par tour ?)
 - **Le ballet des chariots** - « Aerin contemple vos routes encombrées de vie : maintenez un trafic de marchandises continu entre trois de vos cités. » _avoir 5 carrioles attelées en mouvement sur la carte_
 - **La griffe et le soc** - « Aerin sourit en voyant vos chariots se croiser : la logistique est la véritable épée de Toran. Faites transiter trois types de ressources différentes dans la même journée. » _(Transporter des ressources diversifiées)_ ?
@@ -133,7 +139,6 @@ _Ces quêtes donnent un titre définitif_
 ### Quêtes "Permanentes"
 _Ces quêtes permettent d'entretenir ses Faveurs_
 - **Installer un espion dans une ville jamais espionnée**
-- **Faire un échange commercial** - _f(rareté)_
 - **Gagner un niveau de ville**
 
 _Ces quêtes donnent un titre temporaire (1 semaine ?)_
