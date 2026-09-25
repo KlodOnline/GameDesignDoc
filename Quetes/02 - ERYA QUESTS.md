@@ -5,26 +5,36 @@
 _____
 Elle veut **la maîtrise, la création, la spécialisation, la perfection, "INTJ"**.
 _____
+# À implémenter :
+
+## 10 Quêtes les plus faciles (Faciles)
+
+- **Transport** - Apporter 1 stack de minerai dans une ville qui peu la transformer
+- **Créer un bâtiment** - Poser ou ériger une structure initiale
+- **Récolter une ressource** - Récolter une première ressource de base
+- **Produit une ressource** - Produire une première ressource basique
+- (_chaine_) **Sans importation I** - Produisez tout les éléments de la chaîne de production des outils Primitifs dans une ville en simultané, obtenez 1 stack d'arme et d'outils. (_Produire du bois, de la pierre et les outils primitifs et les armes primitives_)
+- (_chaine_) **Autonomie I** - Produisez 1 stack de Minerai de Fer
+- (_chaine_) **Grand chantier I** - Avoir 5 batiments de rang 1
+- **Assechez des maraicages** - Assecher un marais pour gagner du terrain utile
+- **Le chantier** - Construisez X bâtiments avant la fin du cycle
+- **Réparer plutôt que remplacer** - Récupérez des ressources servant à la construction d'autres depuis du loot pour la production
+
 # Validées :
 
 ## Quêtes d'allégeance
 Ce sont les quêtes à réaliser pour accéder aux quête de champions  (Permanentes et Cycliques)
 
 ### Quêtes Faciles (ne donne que de la réputation)
-- (_chaine_) **Sans importation I** - Produisez tout les éléments de la chaîne de production des outils Primitifs dans une ville en simultané, obtenez 1 stack d'arme et d'outils. (_Produire du bois, de la pierre et les outils primitifs et les armes primitives_)
 - (_chaine_) **Sans importation II** - Produisez tout les éléments de la chaîne de production du Bronze dans une ville en simultané, obtenez 1 stack d'arme et d'outils. (_faire des lingots de bronze & des armes & des outils_)
 - (_chaine_) **Sans importation III** - Produisez tout les éléments de la chaîne de production du Fer dans une ville en simultané, obtenez 1 stack d'arme et d'outils. (_faire des lingots de Fer & des armes & des outils_)
 - (_chaine_) **Sans importation IV** - Produisez tout les éléments de la chaîne de production de l'acier dans une ville en simultané, obtenez 1 stack d'arme et d'outils. (_faire du bois, du charbon, des lingots de fer, des lingots d'acier & des armes & des outils_)
-- **Transport** - Apporter 1 stack de minerai dans une ville qui peu la transformer
 - (_chaine_) **Industrie I** - Avoir 15 artisans dans 3 productions différentes
 - (_chaine_) **Prevoyant I** - Avoir un stock de 3 stack de lingots de Bronze
 - (_chaine_) **Amoureux de la nature I** - Avoir 5 stack de chevaux dans son empire
-- (_chaine_) **Grand chantier I** - Avoir 5 batiments de rang 1
 - (_chaine_) **La bonne place I** - Fabriquer un camp de recolteur qui exploite 2 ressource en simultané
 - **Économie de guerre I** - Produisez 2 stacks d'armement de BRONZE
-- **Assechez des maraicages**
 - **Tout le monde au travail** - dans une ville qui a débloquée tout l'artisanat possible, avoir 1 artisan qui produit 1 ressource dans TOUTES les ressource possible de la ville, de façon active ! (avec du stock donc)
-- (_chaine_) **Autonomie I** - Produisez 1 stack de Minerai de Fer
 - (_chaine_) **Autonomie II** - Produisez 1 stack de Lingot de Fer
 - (_chaine_) **Autonomie III** - Produisez 1 stack d'Outils de Fer
 - (_chaine_) **Industrie II** - Avoir 25 artisans dans 5 productions différentes
@@ -32,7 +42,6 @@ Ce sont les quêtes à réaliser pour accéder aux quête de champions  (Permane
 - (_chaine_) **Amoureux de la nature II** - Avoir 3 stack delephants dans son empire
 - **Grand chantier II** - Avoir 3 batiments de rang 2
 - (_chaine_) **La bonne place II** - Fabriquer un camp de récolteur qui exploite 3 ressource en simultané
-- **Réparer plutôt que remplacer** - Récupérez des ressources servant à la construction d'autres depuis du loot pour la production
 - **Production délocalisée** - Avoir une ville qui fond les lingots et une autre qui crafte les outils ? (bof)
 - **Économie de guerre II** - Produisez 3 stacks d'armement de FER
 - (_chaine_) **En terrain difficile** - récolter une ressource avec un campement posé sur un terrain difficile
@@ -66,7 +75,6 @@ ____
 _Ces quêtes permettent d'entretenir ses Faveurs_
 - **Récolter une ressource** - _f(rareté)_
 - **Produit une ressource** - _f(rareté)_
-- **Créer un bâtiment**
 
 _Ces quêtes donnent un titre temporaire (1 semaine ?)_
 - **Le plus d'unité de récolte et d'ouvrier !**
@@ -101,7 +109,6 @@ _Ces quêtes donnent un titre temporaire (1 semaine ?)_
 - **La grande œuvre** - Produisez X objets avancés pendant le cycle.
 - **L'abondance** - Maintenez une production positive de plusieurs ressources pendant toute la période.
 - **La spécialisation** - Faites d'une ville votre principal producteur d'une ressource.
-- **Le chantier** - Construisez X bâtiments avant la fin du cycle.
 - **Sans gaspillage** - Transformez une quantité donnée de ressources sans en acheter.
 
 ### Legendaire (Cycliques)
