@@ -10,14 +10,12 @@ _____
 ## 10 Quêtes les plus faciles (Faciles)
 
 - **Transport** - Apporter 1 stack de minerai dans une ville qui peu la transformer
-- **Créer un bâtiment** - Poser ou ériger une structure initiale
 - **Récolter une ressource** - Récolter une première ressource de base
 - **Produit une ressource** - Produire une première ressource basique
 - (_chaine_) **Sans importation I** - Produisez tout les éléments de la chaîne de production des outils Primitifs dans une ville en simultané, obtenez 1 stack d'arme et d'outils. (_Produire du bois, de la pierre et les outils primitifs et les armes primitives_)
 - (_chaine_) **Autonomie I** - Produisez 1 stack de Minerai de Fer
 - (_chaine_) **Grand chantier I** - Avoir 5 batiments de rang 1
 - **Assechez des maraicages** - Assecher un marais pour gagner du terrain utile
-- **Le chantier** - Construisez X bâtiments avant la fin du cycle
 - **Réparer plutôt que remplacer** - Récupérez des ressources servant à la construction d'autres depuis du loot pour la production
 
 # Validées :

@@ -6,16 +6,13 @@ _____
 
 ## 10 Quêtes les plus faciles (Faciles)
 
-- (_chaine_) **Petite victoire** - Avoir une victoire quelconque
-- **Premier sang** - Remportez votre première bataille
+- (_chaine_) **Premier Sang** - Avoir une victoire quelconque = Remportez votre première bataille
 - **Prendre position** - Contrôlez votre premier territoire
 - **En avant !** - Déplacez une unité militaire sur un territoire adjacent
-- **Préparer la guerre** - Produisez votre première unité militaire
 - **Tenir la ligne** - Fortifiez une position
 - **La conquête commence** - Étendez votre territoire à 3 hexagones
 - (_chaine_) **Qui veut la paix...** - Recruter 10 milices
-- **Force armée** - Possédez 10 unités militaires
-- **Aux armes** - Recrutez vos premières unités militaires
+
 
 # Validées :
 
