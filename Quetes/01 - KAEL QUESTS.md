@@ -26,7 +26,6 @@ Ce sont les quêtes à réaliser pour accéder aux quête de champions  (Permane
 
 3 villes fortifiées niveau 1
 
-- (_chaine_) **Qui veut la paix...** - Recruter 10 milices
 - (_chaine_) **Espace Vital** - Avoir un territoire de _400_ cases
 - (_chaine_) **Possessivité I** - Avec une unité de combat capturer un territoire qui ne nous appartient pas avec une ressource _verte_
 - **Colosse de bois** - Conserver un fort en montagne pendant 3 jours
@@ -53,7 +52,6 @@ Ce sont les quêtes à réaliser pour accéder aux quête de champions  (Permane
 - **Grignotage** - Annexer une partie du territoire d'un autre joueur
 - **Attaque éclair** - Capturer une ville avec un éclaireur à cheval sans combattre
 - **Ravitaillement** - Transférer à une unité au moral entamé de la nourriture depuis une unité alliée
-- (_chaine_) **Petite victoire** - avoir une victoire quelconque
 - (_chaine_) **Rusticité I** - Combattre depuis une montagne
 - (_chaine_) **Rusticité II** - Combattre depuis un terrain difficile
 - (_chaine_) **Rusticité III** - Combattre sur un désert
@@ -101,18 +99,9 @@ _Ces quêtes donnent un titre temporaire à un moment particulier (1 semaine ?)_
 TUER UN MINOTAURE ?
 
 
-- **Premier sang** - Remportez votre première bataille.
-- **Prendre position** - Contrôlez votre premier territoire.
-- **En avant !** - Déplacez une unité militaire sur un territoire adjacent.
-- **Préparer la guerre** - Produisez votre première unité militaire.
-- **Tenir la ligne** - Fortifiez une position.
-- **La conquête commence** - Étendez votre territoire à 3 hexagones.
-- **Force armée** - Possédez 10 unités militaires.
 - **Premier raid** - Attaquez un territoire contrôlé par un autre joueur.
 - **Ne jamais reculer** - Défendez avec succès un de vos territoires.
 - **Aux armes !** - Atteignez votre première capacité militaire maximale.
-- **Premier sang** - Remportez votre première bataille.
-- **Aux armes** - Recrutez vos premières unités militaires.
 - **Prendre position** - Contrôlez 10 cases supplémentaires.
 - **La frontière** - Étendez votre territoire jusqu'à une case adjacente à celui d'un autre joueur.
 - **En marche** - Déplacez une armée sur une distance de 20 cases.
