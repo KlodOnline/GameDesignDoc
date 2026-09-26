@@ -17,7 +17,7 @@ _____
 
 ### A relire :
 
-## 10 Quêtes suivantes (Faciles)
+## 10 Quêtes suivantes (Intermédiaires)
 
 - **Tenir le terrain** - Fortifiez une position contrôlée par votre empire
 - **Le vainqueur prend tout** - Trouvez et Ramassez du loot sur le territoire d'un autre joueur (!!! implique une traçabilité du loot pour éviter que le joueur ne ramasse son propre loot)

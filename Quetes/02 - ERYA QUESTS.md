@@ -8,28 +8,31 @@ _____
 ## 10 Quêtes les plus faciles (Faciles)
 #### Validées ! A implémenter en jeu.
  - **Production Rustique** - Produire 3x Outils + 3x Armes : A remplacer par : (_chaine_) **Sans importation I** - Produisez tout les éléments de la chaîne de production des outils Primitifs dans une ville en simultané, obtenez 1 stack d'arme et d'outils. (_Produire du bois, de la pierre et les outils primitifs et les armes primitives_)
+ - (_chaine_) **Sans importation II** - Produisez tout les éléments de la chaîne de production du Bronze dans une ville en simultané, obtenez 1 stack d'arme et d'outils. (_faire des lingots de bronze & des armes & des outils_)
  - (_chaine_) **Grand chantier I** - Avoir 5 batiments de rang 1 différents dans une ou plusieurs villes.
 - **Assechez des marecages** - Assecher un marais pour gagner du terrain utile
-
+- (_chaine_) **Industrie I** - Avoir 15 artisans dans 3 productions différentes
+- (_chaine_) **Industrie II** - Avoir 25 artisans dans 5 productions différentes
+- (_chaine_) **La bonne place I** - Fabriquer un camp de recolteur qui exploite 2 ressource vertes ou mieux en simultané
 ### A relire :
-- **Produit une ressource** - Produire une première ressource basique
-- **Livraison** - Apporter 1 stack de minerai dans une ville qui peu la transformer
-- (_chaine_) **Autonomie I** - Produisez 1 stack de Minerai de Fer
 - **Réparer plutôt que remplacer** - Récupérez des ressources servant à la construction d'autres depuis du loot pour la production
 
+## 10 Quêtes suivantes (Intermédiaires)
+
+- (_chaine_) **Sans importation III** - Produisez tout les éléments de la chaîne de production du Fer dans une ville en simultané, obtenez 1 stack d'arme et d'outils. (_faire des lingots de Fer & des armes & des outils_)
+- (_chaine_) **Sans importation IV** - Produisez tout les éléments de la chaîne de production de l'acier dans une ville en simultané, obtenez 1 stack d'arme et d'outils. (_faire du bois, du charbon, des lingots de fer, des lingots d'acier & des armes & des outils_)
 # Validées :
 
 ## Quêtes d'allégeance
 Ce sont les quêtes à réaliser pour accéder aux quête de champions  (Permanentes et Cycliques)
 
 ### Quêtes Faciles (ne donne que de la réputation)
-- (_chaine_) **Sans importation II** - Produisez tout les éléments de la chaîne de production du Bronze dans une ville en simultané, obtenez 1 stack d'arme et d'outils. (_faire des lingots de bronze & des armes & des outils_)
-- (_chaine_) **Sans importation III** - Produisez tout les éléments de la chaîne de production du Fer dans une ville en simultané, obtenez 1 stack d'arme et d'outils. (_faire des lingots de Fer & des armes & des outils_)
-- (_chaine_) **Sans importation IV** - Produisez tout les éléments de la chaîne de production de l'acier dans une ville en simultané, obtenez 1 stack d'arme et d'outils. (_faire du bois, du charbon, des lingots de fer, des lingots d'acier & des armes & des outils_)
-- (_chaine_) **Industrie I** - Avoir 15 artisans dans 3 productions différentes
+
+(_chaine_) **Autonomie I** - Produisez 1 stack de Minerai de Fer
+
 - (_chaine_) **Prevoyant I** - Avoir un stock de 3 stack de lingots de Bronze
 - (_chaine_) **Amoureux de la nature I** - Avoir 5 stack de chevaux dans son empire
-- (_chaine_) **La bonne place I** - Fabriquer un camp de recolteur qui exploite 2 ressource en simultané
+
 - **Économie de guerre I** - Produisez 2 stacks d'armement de BRONZE
 - **Tout le monde au travail** - dans une ville qui a débloquée tout l'artisanat possible, avoir 1 artisan qui produit 1 ressource dans TOUTES les ressource possible de la ville, de façon active ! (avec du stock donc)
 - (_chaine_) **Autonomie II** - Produisez 1 stack de Lingot de Fer
