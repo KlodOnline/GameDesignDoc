@@ -6,16 +6,22 @@ _____
 
 ## 10 Quêtes les plus faciles (Faciles)
 
+- (_chaine_) **Qui veut la paix...** - Recruter 10 milices
 - (_chaine_) **Premier sang** - Remportez votre première bataille
-- **Prendre position** - Contrôlez votre premier territoire
+- (_chaine_) **Espace Vital** - Avoir un territoire de _400_ cases
+
+
+- (_chaine_) **Possessivité I** - Avec une unité de combat capturer un territoire qui ne nous appartient pas avec une ressource _verte_
+
+
+
 - **En avant !** - Déplacez une unité militaire sur un territoire adjacent
 - **Tenir la ligne** - Fortifiez une position
-- **La conquête commence** - Étendez votre territoire à 3 hexagones
-- (_chaine_) **Qui veut la paix...** - Recruter 10 milices
-- **Aux armes** - Recrutez vos premières unités militaires
 - **Reconnaissance** - Explorez une zone encore inconnue avant d'y envoyer vos troupes
-- **Butin de guerre** - Récupérez des ressources à la suite d'un combat
+
 - **Tenir le terrain** - Fortifiez une position contrôlée par votre empire
+
+- **Butin de guerre** - Trouvez et Ramassez du loot (!!! implique une traçabilité du loot pour éviter que le joueur ne ramasse son propre loot)
 
 # Validées :
 
@@ -26,8 +32,8 @@ Ce sont les quêtes à réaliser pour accéder aux quête de champions  (Permane
 
 3 villes fortifiées niveau 1
 
-- (_chaine_) **Espace Vital** - Avoir un territoire de _400_ cases
-- (_chaine_) **Possessivité I** - Avec une unité de combat capturer un territoire qui ne nous appartient pas avec une ressource _verte_
+
+
 - **Colosse de bois** - Conserver un fort en montagne pendant 3 jours
 - **Maintenir la liaison** - Disposez trois tours éclaireur sur un terrain de type colline, avec les champs de visions adjacents
 - **Reconnaissance** - Avoir le visuel sur une unité d'un autre joueur, sans que cette unité puisse voir notre unité
