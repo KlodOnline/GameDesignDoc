@@ -11,10 +11,11 @@ _____
 - (_chaine_) **Espace Vital** - Avoir un territoire de _400_ cases
 - **En avant !** - Déplacez une unité militaire sur le territoire d'un joueur qui vous est hostile ou en guerre (barbare compris)
 - (_chaine_) **Possessivité I** - Avec une unité de combat capturer un territoire qui ne nous appartient pas avec une ressource _verte_
- - (_chaine_) **Ouvrage militaire** - Fortification niveau I dans toutes les villes de Rang 1 ou plus
+- (_chaine_) **Ouvrage militaire** - Fortification niveau I dans toutes les villes de Rang 1 ou plus
+- **Reconnaissance** - Placez une tour de reconnaissance de façon à ce qu'elle découvre des zones appartenant à un autre joueur qui vous était inconnue jusqu'alors
 
 
-- **Reconnaissance** - Explorez une zone encore inconnue avant d'y envoyer vos troupes
+
 - **Tenir le terrain** - Fortifiez une position contrôlée par votre empire
 - **Butin de guerre** - Trouvez et Ramassez du loot (!!! implique une traçabilité du loot pour éviter que le joueur ne ramasse son propre loot)
 
@@ -24,10 +25,6 @@ _____
 Ce sont les quêtes à réaliser pour accéder aux quête de champions  (Permanentes et Cycliques)
 
 ### Quêtes Faciles (ne donne que de la réputation)
-
-3 villes fortifiées niveau 1
-
-
 
 - **Colosse de bois** - Conserver un fort en montagne pendant 3 jours
 - **Maintenir la liaison** - Disposez trois tours éclaireur sur un terrain de type colline, avec les champs de visions adjacents
