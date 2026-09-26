@@ -6,13 +6,16 @@ _____
 
 ## 10 Quêtes les plus faciles (Faciles)
 
-- (_chaine_) **Premier Sang** - Avoir une victoire quelconque = Remportez votre première bataille
+- (_chaine_) **Premier sang** - Remportez votre première bataille
 - **Prendre position** - Contrôlez votre premier territoire
 - **En avant !** - Déplacez une unité militaire sur un territoire adjacent
 - **Tenir la ligne** - Fortifiez une position
 - **La conquête commence** - Étendez votre territoire à 3 hexagones
 - (_chaine_) **Qui veut la paix...** - Recruter 10 milices
-
+- **Aux armes** - Recrutez vos premières unités militaires
+- **Reconnaissance** - Explorez une zone encore inconnue avant d'y envoyer vos troupes
+- **Butin de guerre** - Récupérez des ressources à la suite d'un combat
+- **Tenir le terrain** - Fortifiez une position contrôlée par votre empire
 
 # Validées :
 
@@ -80,7 +83,7 @@ _Ces quêtes permettent d'entretenir ses Faveurs_
 - **Capturer une ville**
 - **Capturer du territoire à un autre joueur**
 
-_Ces quêtes donnent un titre temporaire à un moment particulier (1 semaine ?)_
+_Ces quêtes donnent un titre temporaire (1 semaine ?)_
 - **Le plus d'unité de combat !**
 - **Le territoire le plus étendu !**
 - **Le plus de Guerre en simultané !**
@@ -102,11 +105,7 @@ TUER UN MINOTAURE ?
 - **Prendre position** - Contrôlez 10 cases supplémentaires.
 - **La frontière** - Étendez votre territoire jusqu'à une case adjacente à celui d'un autre joueur.
 - **En marche** - Déplacez une armée sur une distance de 20 cases.
-- **Tenir le terrain** - Fortifiez une position contrôlée par votre empire.
 - **Premier siège** - Attaquez une ville appartenant à un autre joueur.
-- **Butin de guerre** - Récupérez des ressources à la suite d'un combat.
-- **Reconnaissance** - Explorez une zone encore inconnue avant d'y envoyer vos troupes.
-- **Un empire se défend** - Défendez avec succès l'un de vos territoires attaqués.
 
 ### Intermédiaire
 - **Derrière les lignes** - Faites parvenir une armée dans une zone inaccessible directement depuis votre territoire.
