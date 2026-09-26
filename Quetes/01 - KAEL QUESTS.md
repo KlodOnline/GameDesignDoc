@@ -2,10 +2,8 @@
 _____
 Le dieu veut **la guerre, le courage, la domination, la résistance, loyauté**.
 _____
-# À implémenter :
-
 ## 10 Quêtes les plus faciles (Faciles)
-
+#### Validées ! A implémenter en jeu.
 - (_chaine_) **Qui veut la paix... I** - Recruter 10 milices
 - (_chaine_) **Qui veut la paix... II** - Recruter 5 Guerriers
 - **Premier sang** - Remportez votre première bataille
@@ -16,6 +14,8 @@ _____
 - (_chaine_) **Possessivité I** - Avec une unité de combat capturer un territoire qui ne nous appartient pas avec une ressource _verte_
 - (_chaine_) **Ouvrage militaire** - Fortification niveau I dans toutes les villes de Rang 1 ou plus
 - **Poste d'Observation** - Placez une tour de reconnaissance de façon à ce qu'elle découvre des zones appartenant à un autre joueur qui vous était inconnue jusqu'alors
+
+### A relire :
 
 ## 10 Quêtes suivantes (Faciles)
 

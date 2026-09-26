@@ -2,8 +2,6 @@
 ____
 Il veut **voir le monde, découvrir, commercer, prendre des risques, malin** + **population bien nourrie/gérée**.
 ____
-# À implémenter :
-
 ## 10 Quêtes les plus faciles (Faciles)
 
 - **Tour du monde** - Connaitre du terrain découvert sur le tour du monde
