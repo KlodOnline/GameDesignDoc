@@ -20,7 +20,7 @@ _____
 ## 10 Quêtes suivantes (Faciles)
 
 - **Tenir le terrain** - Fortifiez une position contrôlée par votre empire
-- **Butin de guerre** - Trouvez et Ramassez du loot (!!! implique une traçabilité du loot pour éviter que le joueur ne ramasse son propre loot)
+- **Le vainqueur prend tout** - Trouvez et Ramassez du loot sur le territoire d'un autre joueur (!!! implique une traçabilité du loot pour éviter que le joueur ne ramasse son propre loot)
 
 - (_chaine_) **Espace Vital III** - Avoir un territoire de _1200_ cases
 - (_chaine_) **Qui veut la paix... III** - Recruter 5 Soldats
