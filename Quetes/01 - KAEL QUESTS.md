@@ -12,7 +12,7 @@ _____
 - **En avant !** - Déplacez une unité militaire sur le territoire d'un joueur qui vous est hostile ou en guerre (barbare compris)
 - (_chaine_) **Possessivité I** - Avec une unité de combat capturer un territoire qui ne nous appartient pas avec une ressource _verte_
 - (_chaine_) **Ouvrage militaire** - Fortification niveau I dans toutes les villes de Rang 1 ou plus
-- **Reconnaissance** - Placez une tour de reconnaissance de façon à ce qu'elle découvre des zones appartenant à un autre joueur qui vous était inconnue jusqu'alors
+- **Poste d'Observation** - Placez une tour de reconnaissance de façon à ce qu'elle découvre des zones appartenant à un autre joueur qui vous était inconnue jusqu'alors
 
 
 
