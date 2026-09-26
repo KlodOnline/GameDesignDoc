@@ -9,18 +9,13 @@ _____
 - (_chaine_) **Qui veut la paix...** - Recruter 10 milices
 - (_chaine_) **Premier sang** - Remportez votre première bataille
 - (_chaine_) **Espace Vital** - Avoir un territoire de _400_ cases
-
-
+- **En avant !** - Déplacez une unité militaire sur le territoire d'un joueur qui vous est hostile ou en guerre (barbare compris)
 - (_chaine_) **Possessivité I** - Avec une unité de combat capturer un territoire qui ne nous appartient pas avec une ressource _verte_
+ - (_chaine_) **Ouvrage militaire** - Fortification niveau I dans toutes les villes de Rang 1 ou plus
 
 
-
-- **En avant !** - Déplacez une unité militaire sur un territoire adjacent
-- **Tenir la ligne** - Fortifiez une position
 - **Reconnaissance** - Explorez une zone encore inconnue avant d'y envoyer vos troupes
-
 - **Tenir le terrain** - Fortifiez une position contrôlée par votre empire
-
 - **Butin de guerre** - Trouvez et Ramassez du loot (!!! implique une traçabilité du loot pour éviter que le joueur ne ramasse son propre loot)
 
 # Validées :
