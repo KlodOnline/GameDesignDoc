@@ -6,8 +6,9 @@ _____
 
 ## 10 Quêtes les plus faciles (Faciles)
 
-- (_chaine_) **Qui veut la paix...** - Recruter 10 milices
-- (_chaine_) **Premier sang** - Remportez votre première bataille
+- (_chaine_) **Qui veut la paix... I** - Recruter 10 milices
+- (_chaine_) **Qui veut la paix... II** - Recruter 5 Guerriers
+- **Premier sang** - Remportez votre première bataille
 - (_chaine_) **Espace Vital** - Avoir un territoire de _400_ cases
 - **En avant !** - Déplacez une unité militaire sur le territoire d'un joueur qui vous est hostile ou en guerre (barbare compris)
 - (_chaine_) **Possessivité I** - Avec une unité de combat capturer un territoire qui ne nous appartient pas avec une ressource _verte_
@@ -15,9 +16,14 @@ _____
 - **Poste d'Observation** - Placez une tour de reconnaissance de façon à ce qu'elle découvre des zones appartenant à un autre joueur qui vous était inconnue jusqu'alors
 
 
+- 
 
 - **Tenir le terrain** - Fortifiez une position contrôlée par votre empire
 - **Butin de guerre** - Trouvez et Ramassez du loot (!!! implique une traçabilité du loot pour éviter que le joueur ne ramasse son propre loot)
+
+- (_chaine_) **Du joli** - Remportez votre première bataille 
+- (_chaine_) **Qui veut la paix... III** - Recruter 5 Soldats
+- (_chaine_) **Qui veut la paix... IV** - Recruter 5 Légionnaires
 
 # Validées :
 
