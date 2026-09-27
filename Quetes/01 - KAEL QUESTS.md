@@ -4,16 +4,20 @@ Le dieu veut **la guerre, le courage, la domination, la résistance, loyauté**.
 _____
 ## 10 Quêtes les plus faciles (Faciles)
 #### Validées ! A implémenter en jeu.
+##### Pack 1
 - (_chaine_) **Qui veut la paix... I** - Recruter 10 milices
-- (_chaine_) **Qui veut la paix... II** - Recruter 5 Guerriers
+- (_chaine_) **Possessivité I** - Avec une unité de combat capturer un territoire qui ne nous appartient pas avec une ressource _verte_
+- **Poste d'Observation** - Placez une tour de reconnaissance de façon à ce qu'elle découvre des zones appartenant à un autre joueur qui vous était inconnue jusqu'alors
 - **Premier sang** - Remportez votre première bataille
-- (_chaine_) **Du joli** - Remportez votre première "Victoire importante"
 - (_chaine_) **Espace Vital I** - Avoir un territoire de _300_ cases
+
+##### Pack 2
+- (_chaine_) **Qui veut la paix... II** - Recruter 5 Guerriers
 - (_chaine_) **Espace Vital II** - Avoir un territoire de _600_ cases
 - **En avant !** - Déplacez une unité militaire sur le territoire d'un joueur qui vous est hostile ou en guerre (barbare compris)
-- (_chaine_) **Possessivité I** - Avec une unité de combat capturer un territoire qui ne nous appartient pas avec une ressource _verte_
+- (_chaine_) **Du joli** - Remportez votre première "Victoire importante"
 - (_chaine_) **Ouvrage militaire** - Fortification niveau I dans toutes les villes de Rang 1 ou plus
-- **Poste d'Observation** - Placez une tour de reconnaissance de façon à ce qu'elle découvre des zones appartenant à un autre joueur qui vous était inconnue jusqu'alors
+
 
 ### A relire :
 
