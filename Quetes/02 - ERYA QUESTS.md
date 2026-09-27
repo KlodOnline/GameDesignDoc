@@ -10,9 +10,9 @@ _____
 ##### ✅ Pack 1
  - **Production Rustique** - Produire 3x Outils + 3x Armes : A remplacer par : (_chaine_) **Sans importation I** - Produisez tout les éléments de la chaîne de production des outils Primitifs dans une ville en simultané, obtenez 3 stacks d'arme et d'outils. (_Produire du bois, de la pierre et les outils primitifs et les armes primitives_)
  - (_chaine_) **Grand chantier I** - Avoir 10 batiments de rang 0 différents dans une ou plusieurs villes.
- - **Assechez des marecages** - Assécher un marais pour gagner du terrain utile
  - (_chaine_) **Industrie I** - Avoir 15 artisans dans 3 productions différentes
  - (_chaine_) **La bonne place I** - Fabriquer un camp de recolteur qui exploite 2 ressource vertes ou mieux en simultané
+ - **Travailleur, Travailleuses** - Recruter 3 récolteurs et 1 manoeuvre
 
 ##### Pack 2
  - (_chaine_) **Sans importation II** - Produisez tout les éléments de la chaîne de production du Bronze dans une ville en simultané, obtenez 1 stack d'arme et d'outils. (_faire des lingots de bronze & des armes & des outils_)
@@ -21,6 +21,7 @@ _____
  - (_chaine_) **La bonne place II** - Fabriquer un camp de recolteur qui couvre 3 ressource vertes ou mieux en simultané
 ### A relire :
 - **Réparer plutôt que remplacer** - Récupérez des ressources servant à la construction d'autres depuis du loot pour la production
+- **Assechez des marecages** - Assécher un marais pour gagner du terrain utile
 
 ## 10 Quêtes suivantes (Intermédiaires)
 
