@@ -15,8 +15,8 @@ _____
  - (_chaine_) **La bonne place I** - Fabriquer un camp de recolteur qui exploite 2 ressource vertes ou mieux en simultané
 
 ##### Pack 2
- - [ ] (_chaine_) **Sans importation II** - Produisez tout les éléments de la chaîne de production du Bronze dans une ville en simultané, obtenez 1 stack d'arme et d'outils. (_faire des lingots de bronze & des armes & des outils_)
- - [ ] (_chaine_) **Industrie II** - Avoir 25 artisans dans 5 productions différentes
+ - (_chaine_) **Sans importation II** - Produisez tout les éléments de la chaîne de production du Bronze dans une ville en simultané, obtenez 1 stack d'arme et d'outils. (_faire des lingots de bronze & des armes & des outils_)
+ - (_chaine_) **Industrie II** - Avoir 25 artisans dans 5 productions différentes
 
 
 ### A relire :
