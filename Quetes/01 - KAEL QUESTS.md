@@ -6,7 +6,7 @@ _____
 #### Validées ! A implémenter en jeu.
 ##### Pack 1 - ✅
  - (_chaine_) **Qui veut la paix... I** - Recruter 10 milices
- - (_chaine_) **Possessivité I** - Avec une unité de combat capturer un territoire qui ne nous appartient pas avec une ressource _verte_
+ - (_chaine_) **Possessivité I** - Avoir sur son territoire toutes les ressources vertes
  - **Poste d'Observation** - Placez une tour de reconnaissance de façon à ce qu'elle découvre des zones appartenant à un autre joueur qui vous était inconnue jusqu'alors
  - **Premier sang** - Remportez votre première bataille
 - (_chaine_) **Espace Vital I** - Avoir un territoire de _300_ cases
