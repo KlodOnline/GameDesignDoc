@@ -33,37 +33,47 @@ Ce sont les quêtes à réaliser pour accéder aux quête de champions  (Permane
 
 ### Quêtes Faciles (ne donne que de la réputation)
 
-(_chaine_) **Autonomie I** - Produisez 1 stack de Minerai de Fer
-
-- (_chaine_) **Prevoyant I** - Avoir un stock de 3 stack de lingots de Bronze
-- (_chaine_) **Amoureux de la nature I** - Avoir 5 stack de chevaux dans son empire
-
-- **Économie de guerre I** - Produisez 2 stacks d'armement de BRONZE
-- **Tout le monde au travail** - dans une ville qui a débloquée tout l'artisanat possible, avoir 1 artisan qui produit 1 ressource dans TOUTES les ressource possible de la ville, de façon active ! (avec du stock donc)
+#### Groupe 1 — Chaînes de production
+- (_chaine_) **Autonomie I** - Produisez 1 stack de Minerai de Fer
 - (_chaine_) **Autonomie II** - Produisez 1 stack de Lingot de Fer
 - (_chaine_) **Autonomie III** - Produisez 1 stack d'Outils de Fer
-- (_chaine_) **Industrie II** - Avoir 25 artisans dans 5 productions différentes
-- (_chaine_) **Prevoyant II** - Avoir un stock de 3 stack de lingots de Fer et le 6 de charbon
-- (_chaine_) **Amoureux de la nature II** - Avoir 3 stack delephants dans son empire
-- **Grand chantier II** - Avoir 3 batiments de rang 2
-- (_chaine_) **La bonne place II** - Fabriquer un camp de récolteur qui exploite 3 ressource en simultané
-- **Production délocalisée** - Avoir une ville qui fond les lingots et une autre qui crafte les outils ? (bof)
-- **Économie de guerre II** - Produisez 3 stacks d'armement de FER
-- (_chaine_) **En terrain difficile** - récolter une ressource avec un campement posé sur un terrain difficile
-- **L'empire manufacturier** - Faites fonctionner simultanément plusieurs chaînes de production différentes.
-- **Usinage** - produire 3 type de lingots différents dans uen ville en même temps.
-- **La Chaine I** - Faites fonctionner simultanément tout les elements d'une chaine de production d'arme en bronze
-- **L'empire manufacturier** - Faites produire simultanément X types de ressources différentes dans votre empire.
-- **Le stockage stratégique** - Constituez simultanément dans plusieurs villes des stocks dépassant un seuil défini.
-- **L'œuvre d'Erya** - Produisez simultanément X catégories de produits artisanaux différentes dans votre empire.
-- **Le casse-tête des stocks** - stocker dans la même ville 1 stack de chaque minerais du jeu
 - (_chaine_) **Seul au monde I** - Produisez 1 stack de Lingot d'Acier
 - (_chaine_) **Seul au monde II** - Produisez 1 stack d'Outils d'Acier
-- **Atelier de secours** - Produisez une arme de fer dans une ville éloignée de votre capitale
-- (_chaine_) **La bonne place III** - Fabriquer un camp de recolteur qui couvre 4 ressource en simultané
-- **Production sous pression** - Maintenez une production élevée pendant que votre empire est engagé dans une guerre.
+- **La Chaine I** - Faites fonctionner simultanément tout les elements d'une chaine de production d'arme en bronze
+
+#### Groupe 2 — Stocks & Prévoyance
+- (_chaine_) **Prevoyant I** - Avoir un stock de 3 stack de lingots de Bronze
+- (_chaine_) **Prevoyant II** - Avoir un stock de 3 stack de lingots de Fer et le 6 de charbon
+- **Le stockage stratégique** - Constituez simultanément dans plusieurs villes des stocks dépassant un seuil défini.
+- **Le casse-tête des stocks** - stocker dans la même ville 1 stack de chaque minerais du jeu
+
+#### Groupe 3 — Artisans & Industrie
+- (_chaine_) **Industrie II** - Avoir 25 artisans dans 5 productions différentes
+- **Tout le monde au travail** - dans une ville qui a débloquée tout l'artisanat possible, avoir 1 artisan qui produit 1 ressource dans TOUTES les ressource possible de la ville, de façon active ! (avec du stock donc)
+- **L'empire manufacturier** - Faites fonctionner simultanément plusieurs chaînes de production différentes.
+- **L'œuvre d'Erya** - Produisez simultanément X catégories de produits artisanaux différentes dans votre empire.
 - **Developpez une ville à 100% arbre 3 "artisanat"**
+
+#### Groupe 4 — Bâtiment
+- **Grand chantier II** - Avoir 3 batiments de rang 2
+
+#### Groupe 5 — Récolte
+- (_chaine_) **La bonne place II** - Fabriquer un camp de récolteur qui exploite 3 ressource en simultané
+- (_chaine_) **La bonne place III** - Fabriquer un camp de recolteur qui couvre 4 ressource en simultané
+- (_chaine_) **En terrain difficile** - récolter une ressource avec un campement posé sur un terrain difficile
+- (_chaine_) **Amoureux de la nature I** - Avoir 5 stack de chevaux dans son empire
+- (_chaine_) **Amoureux de la nature II** - Avoir 3 stack delephants dans son empire
+
+#### Groupe 6 — Économie de guerre
+- **Économie de guerre I** - Produisez 2 stacks d'armement de BRONZE
+- **Économie de guerre II** - Produisez 3 stacks d'armement de FER
 - **Économie de guerre III** - Produisez 5 stacks d'armement d'Acier
+- **Production sous pression** - Maintenez une production élevée pendant que votre empire est engagé dans une guerre.
+- **Atelier de secours** - Produisez une arme de fer dans une ville éloignée de votre capitale
+
+#### Groupe 7 — Divers
+- **Production délocalisée** - Avoir une ville qui fond les lingots et une autre qui crafte les outils ? (bof)
+- **Usinage** - produire 3 type de lingots différents dans une ville en même temps.
 
 -----
 - **Produire des Outils en Acier**
