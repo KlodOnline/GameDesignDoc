@@ -12,7 +12,7 @@ _____
  - (_chaine_) **Grand chantier I** - Avoir 10 batiments de rang 0 différents dans une ou plusieurs villes.
  - (_chaine_) **Industrie I** - Avoir 15 artisans dans 3 productions différentes
  - (_chaine_) **La bonne place I** - Fabriquer un camp de recolteur qui exploite 2 ressource vertes ou mieux en simultané
- - **Travailleur, Travailleuses** - Recruter 3 récolteurs et 1 manoeuvre
+ - (_chaine_) **Travailleur, Travailleuses I** - Recruter 3 récolteurs et 1 manoeuvre
 
 ##### Pack 2
  - (_chaine_) **Sans importation II** - Produisez tout les éléments de la chaîne de production du Bronze dans une ville en simultané, obtenez 1 stack d'arme et d'outils. (_faire des lingots de bronze & des armes & des outils_)
