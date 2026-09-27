@@ -6,12 +6,12 @@ ____
 ##### Pack 1
 - **Le négociateur** - Obtenez auprès d'un autre joueur un accord commercial
 - (_chaine_) **La Grande Route I** - Disposez d'un réseau routier de 50 cases
- - (_chaine_) **Explorateur I** - découvrir 600 cases de terrain
+ - (_chaine_) **Explorateur I** - découvrir 800 cases de terrain
 - (_chaine_) **Source Vertes** - connaitre sur la carte du monde au moins une source de TOUTES les ressources vertes primaire du jeu
 ##### Pack 2
  - (_chaine_) **Explorateur II** - découvrir 1200 cases de terrain
 - (_chaine_ ) **Les coffres de la ville** - Entrepot "1" dans toutes les villes de rang 1 ou plus.
-
+ - **Carrefour commercial** - avoir une route sur votre territoire qui touche une route sur un territoire d'un autre joueur
 
 
 
