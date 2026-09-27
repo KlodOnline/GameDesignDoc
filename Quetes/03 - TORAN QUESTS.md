@@ -3,27 +3,33 @@ ____
 Il veut **voir le monde, découvrir, commercer, prendre des risques, malin** + **population bien nourrie/gérée**.
 ____
 ## 10 Quêtes les plus faciles (Faciles)
+##### Pack 1
+- **Le négociateur** - Obtenez auprès d'un autre joueur un accord commercial
+- (_chaine_) **La Grande Route I** - Disposez d'un réseau routier de 50 cases
+ - (_chaine_) **Explorateur I** - découvrir 600 cases de terrain
+- (_chaine_) **Source Vertes** - connaitre sur la carte du monde au moins une source de TOUTES les ressources vertes primaire du jeu
+##### Pack 2
+ - (_chaine_) **Explorateur II** - découvrir 1200 cases de terrain
+- (_chaine_ ) **Les coffres de la ville** - Entrepot "1" dans toutes les villes de rang 1 ou plus.
 
+
+
+
+- **L'expédition** - Transportez une ressource depuis sa zone d'exploitation jusqu'à une ville à plus de X cases.
 - **Tour du monde** - Connaitre du terrain découvert sur le tour du monde
 - **Nord/Sud** - Connaitre du terrain découvert du nord au sud
 - **Faites le tour d'un continent ?**
-- **Placer un fort sur une ile qui en controle la seule greve ?**
-- **Faire un échange commercial** - _f(rareté)_
-- **Le premier comptoir** - « Aerin vous pousse à ouvrir vos frontières aux autres souverains. Effectuez votre tout premier échange commercial avec un joueur voisin. »
-- **Les coffres de la ville** - « Aerin vous explique que pour briller auprès de Toran, vous devriez bâtir de quoi stocker l'abondance. Construisez votre premier entrepôt pour sécuriser vos réserves. »
-- **L'expédition** - Transportez une ressource depuis sa zone d'exploitation jusqu'à une ville à plus de X cases.
-- **Le pont maritime** - Utilisez un bateau pour établir une liaison commerciale ou logistique entre deux zones.
-- **Le négociateur** - Obtenez auprès d'un autre joueur un accord commercial
-
+- **Le pont maritime** - Utilisez un bateau originaire d'une ville pour décharger des items une liaison commerciale ou logistique entre deux ville
 # Validées :
 
 ## Quêtes d'allégeance
 Ce sont les quêtes à réaliser pour accéder aux quête de champions  (Permanentes et Cycliques)
 
 ### Quêtes Faciles (ne donne que de la réputation)
+- **Faire un échange commercial** - _f(rareté)_
+- **Le premier comptoir** - « Aerin vous pousse à ouvrir vos frontières aux autres souverains. Effectuez votre tout premier échange commercial avec un joueur voisin. »
 
-- (_chaine_) **Source Marbre Bleue** - "Aerin vous explique que pour briller auprès de Toran, vous devriez sonder le sol à la recherche de cette veine minérale ancienne dont les anciens murmuraient les légendes." _Découvrir une Source Marbre Bleue inexploitée_
-- (_chaine_) **La Grande Route I** - Reliez deux villes par une piste de X cases
+
 - (_chaine_) **La Grande Route II** - Reliez deux villes par une route pavée de X cases
 - (_chaine_) **La Grande Route III** - Reliez deux villes par une route pavée avec des ponts de X cases
 - (_chaine_) **Paysages marins** - avoir sur le territoire de vos villes les territoires côté, océans, grêves
