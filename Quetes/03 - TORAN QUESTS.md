@@ -8,6 +8,7 @@ ____
 - (_chaine_) **La Grande Route I** - Disposez d'un réseau routier de 50 cases
  - (_chaine_) **Explorateur I** - découvrir 800 cases de terrain
 - (_chaine_) **Source Vertes** - connaitre sur la carte du monde au moins une source de TOUTES les ressources vertes primaire du jeu
+- **Nouvel espoir** - réussir à avoir une ville avec +150 de croissance de population
 ##### Pack 2
  - (_chaine_) **Explorateur II** - découvrir 1200 cases de terrain
 - (_chaine_ ) **Les coffres de la ville** - Entrepot "1" dans toutes les villes de rang 1 ou plus.
