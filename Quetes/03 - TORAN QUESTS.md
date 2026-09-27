@@ -3,6 +3,8 @@ ____
 Il veut **voir le monde, découvrir, commercer, prendre des risques, malin** + **population bien nourrie/gérée**.
 ____
 ## 10 Quêtes les plus faciles (Faciles)
+
+#### Validées ! A implémenter en jeu.
 ##### Pack 1
 - **Le négociateur** - Obtenez auprès d'un autre joueur un accord commercial
 - (_chaine_) **La Grande Route I** - Disposez d'un réseau routier de 50 cases
