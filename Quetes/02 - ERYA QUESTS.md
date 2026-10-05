@@ -28,6 +28,8 @@ _____
  - (**chaine**)**Technicien supérieur** - Récolteur et modder Bleu
  - (**chaine**)**Université Technologique** - Récolteur et modder Violet
  - **Prevoyant II** - Avoir un stock de lingots d'acier de 3 stacks
+ - **Vie impossible** - Avoir une ville dans un lieu particulierment hostile, qui arrive à survire. (désert ?)  **« Erya vous ordonne de bâtir là où personne ne bâtirait. »** Développez une ville dans une région particulièrement difficile.
+
 
 ##### Permanentes
 Elles donnes de la réput' et/ou des faveurs mais il existe une version négatives
@@ -36,6 +38,7 @@ Elles donnes de la réput' et/ou des faveurs mais il existe une version négativ
  - Produire un Objet final Bleu : +1
  - Produire un Objet final Violet : +5
  - Produire un bâtiment Rang 1 => +1 / Rang 2 => +2 / Rang 3 => +4
+ - 
 
 ____
 **A 3000 reput' ** : L'allégeance est consommée et on accède aux quêtes de **Champions**
@@ -49,43 +52,7 @@ _Ces quêtes donnent un titre temporaire (1 semaine ?)_
 - **Le plus d'unité civile ayant besoin d'outils en Acier !** (+1 faveur / tour)
 
 ### Quête Cyclique
-- **Les Artefacts** - posséder le plus d'artefact. Ils se craftent mais coutent très cher (mais avec des ressources clasiques)
-
-
-
-
-# A étudier :
-
-
-### 🔨 Erya : 10 quêtes cycliques
-
-- **La grande forge** - Produisez une quantité exceptionnelle d'un même objet pendant le cycle.
-- **L'empire autonome** - Ne dépendez d'aucun échange extérieur pour alimenter une chaîne de production complète.
-- **Le chef-d'œuvre** - Réalisez une chaîne de transformation impliquant au moins 4 ressources différentes.
-- **La cité industrielle** - Faites d'une seule ville votre principale source de production pendant le cycle.
-- **Bâtir sans relâche** - Construisez dans au moins 5 villes différentes.
-- **Le grand chantier** - Augmentez simultanément plusieurs infrastructures de votre empire.
-- **L'artisan contre la guerre** - Maintenez votre production malgré une guerre active.
-- **Le gaspillage interdit** - Transformez une quantité donnée de ressources sans qu'aucune ne soit importée.
-- **La spécialisation parfaite** - Faites atteindre à une ville un niveau de production supérieur à toutes vos autres villes.
-- **Erya veut laisser une trace** - Construisez suffisamment pour que votre empire augmente sa valeur industrielle de façon spectaculaire pendant le cycle.
-
-### 🔨 Erya : cycles de production
-
-- **La grande œuvre** - Produisez X objets avancés pendant le cycle.
-- **L'abondance** - Maintenez une production positive de plusieurs ressources pendant toute la période.
-- **La spécialisation** - Faites d'une ville votre principal producteur d'une ressource.
-- **Sans gaspillage** - Transformez une quantité donnée de ressources sans en acheter.
-
+- **Les Artefacts** - posséder le plus d'artefact. Ils se craftent mais coutent très cher (mais avec des ressources clasiques) Il faut donc les créer les stocker et éventuellement les protéger. Par contre, on ne peux pas les voler ?
 ### Legendaire (Cycliques)
 - **Ramasser des perles d'Erya (legendaire) / crafter les colliers Divins**
 
-
-> **« Erya exige que rien ne soit gaspillé. »**
-> Produisez un objet avancé sans acheter aucune de ses ressources.
-
-> **« Erya veut voir naître une cité entièrement dédiée à l'artisanat. »**
-> Atteignez un niveau exceptionnel de production dans une seule ville.
-
-> **« Erya vous ordonne de bâtir là où personne ne bâtirait. »**
-> Développez une ville dans une région particulièrement difficile.
