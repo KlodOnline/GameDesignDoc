@@ -25,7 +25,10 @@ _____
 - **Tout le monde au travail** - dans une ville qui a débloquée tout l'artisanat possible, avoir 1 artisan qui produit 1 ressource dans TOUTES les ressource possible de la ville, de façon active ! (avec du stock donc)
  - **Atelier de secours** - Disposez de deux villes avec Fonderie 3
 
-
+## Quêtes de champions
+### Permanentes
+Elles donnes de la réput' et/ou des faveurs mais il existe une version négatives
+ - 
 
 -----
 - **Produire des Outils en Acier**
