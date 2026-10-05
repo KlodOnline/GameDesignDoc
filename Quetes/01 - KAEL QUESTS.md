@@ -18,6 +18,9 @@ _____
  - (_chaine_) **Du joli** - Remportez votre première "Victoire importante"
  - (_chaine_) **Ouvrage militaire** - Fortification niveau I dans toutes les villes de Rang 1 ou plus
 
+
+
+
 ### A relire :
 
 ## 10 Quêtes suivantes (Intermédiaires)
