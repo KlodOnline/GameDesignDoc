@@ -35,7 +35,7 @@ Elles donnes de la réput' et/ou des faveurs mais il existe une version négativ
  - Récolter du violet : +5
  - Produire un Objet final Bleu : +1
  - Produire un Objet final Violet : +5
-
+ - Produire un bâtiment Rang 1 => +1 / Rang 2 => +2 / Rang 3 => +4
 
 
 ## Quêtes de champions
