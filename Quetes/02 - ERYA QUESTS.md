@@ -28,7 +28,11 @@ _____
 ## Quêtes de champions
 ### Permanentes
 Elles donnes de la réput' et/ou des faveurs mais il existe une version négatives
- - 
+ - Récolter du bleu : +1
+ - Récolter du violet : +5
+ - Produire un Objet final Bleu : +1
+ - Produire un Objet final Violet : +5
+
 
 -----
 - **Produire des Outils en Acier**
@@ -42,9 +46,6 @@ ____
 - **Collectionneur** - Avoir la totalité des ressources primaire en stock à hauteur de 4 stack dans l'empire
 
 ### Quêtes "Permanentes"
-_Ces quêtes permettent d'entretenir ses Faveurs_
-- **Récolter une ressource** - _f(rareté)_
-- **Produit une ressource** - _f(rareté)_
 
 _Ces quêtes donnent un titre temporaire (1 semaine ?)_
 - **Le plus d'unité de récolte et d'ouvrier !**
