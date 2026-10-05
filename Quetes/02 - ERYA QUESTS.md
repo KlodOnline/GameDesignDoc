@@ -27,8 +27,9 @@ _____
  - **Atelier de secours** - Disposez de deux villes avec Fonderie 3
  - (**chaine**)**Technicien supérieur** - Récolteur et modder Bleu
  - (**chaine**)**Université Technologique** - Récolteur et modder Violet
+ - **Prevoyant II** - Avoir un stock de lingots d'acier de 3 stacks
 
-### Permanentes
+##### Permanentes
 Elles donnes de la réput' et/ou des faveurs mais il existe une version négatives
  - Récolter du bleu : +1
  - Récolter du violet : +5
