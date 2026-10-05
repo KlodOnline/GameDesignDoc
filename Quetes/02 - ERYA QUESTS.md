@@ -43,10 +43,10 @@ ____
 
 ## Quêtes de champions
 _Ces quêtes donnent un titre temporaire (1 semaine ?)_
-- **Le plus d'unité de récolte et d'ouvrier !**
-- **Le peuple le plus prestigieux ! (en total)**
-- **Le plus d'artisans actifs au monde ! (avec des ressources en stock donc)**
-- **Le plus d'unité civile ayant besoin d'outils en Acier !**
+- **Le plus d'unité de récolte et d'ouvrier !** (+1 faveur / tour)
+- **Le peuple le plus prestigieux ! (en total)** (+1 faveur / tour) 
+- **Le plus d'artisans actifs au monde ! (avec des ressources en stock donc)** (+1 faveur / tour)
+- **Le plus d'unité civile ayant besoin d'outils en Acier !** (+1 faveur / tour)
 
 ### Quête Cyclique
 - **Les Artefacts** - posséder le plus d'artefact. Ils se craftent mais coutent très cher (mais avec des ressources clasiques)
