@@ -37,22 +37,11 @@ Elles donnes de la réput' et/ou des faveurs mais il existe une version négativ
  - Produire un Objet final Violet : +5
  - Produire un bâtiment Rang 1 => +1 / Rang 2 => +2 / Rang 3 => +4
 
-
-## Quêtes de champions
-
------
-- **Produire des Outils en Acier**
 ____
-**A ce stade** : L'allégeance est consommée et on accède aux quêtes de **Champions**
+**A 3000 reput' ** : L'allégeance est consommée et on accède aux quêtes de **Champions**
 ____
 
 ## Quêtes de champions
-
-### Quêtes HardCore
-- **Collectionneur** - Avoir la totalité des ressources primaire en stock à hauteur de 4 stack dans l'empire
-
-### Quêtes "Permanentes"
-
 _Ces quêtes donnent un titre temporaire (1 semaine ?)_
 - **Le plus d'unité de récolte et d'ouvrier !**
 - **Le peuple le plus prestigieux ! (en total)**
