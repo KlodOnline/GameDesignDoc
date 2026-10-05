@@ -23,7 +23,7 @@ _____
 
 ##### Pack 3
 - **Tout le monde au travail** - dans une ville qui a débloquée tout l'artisanat possible, avoir 1 artisan qui produit 1 ressource dans TOUTES les ressource possible de la ville, de façon active ! (avec du stock donc)
-
+ - **Atelier de secours** - Disposez de deux villes avec Fonderie 3
 ### A relire :
 - **Réparer plutôt que remplacer** - Récupérez des ressources servant à la construction d'autres depuis du loot pour la production
 - **Assechez des marecages** - Assécher un marais pour gagner du terrain utile
