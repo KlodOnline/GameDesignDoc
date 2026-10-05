@@ -18,8 +18,9 @@ _____
  - (_chaine_) **Sans importation II** - Produisez tout les éléments de la chaîne de production du Bronze dans une ville en simultané, obtenez 1 stack d'arme et d'outils. (_faire des lingots de bronze & des armes & des outils_)
  - (_chaine_) **Industrie II** - Avoir 25 artisans dans 5 productions différentes
  - (_chaine_) **Grand chantier II** - Avoir 5 batiments de rang 1 différents dans une ou plusieurs villes.
- - (_chaine_) **La bonne place II** - Fabriquer un camp de recolteur qui couvre 3 ressource vertes ou mieux en simultané
- - **Irrigation profonde** - Irriguer des terres qui ne sont pas immédiatement adjacente à une rivière ou une mer.
+ - (_chaine_) **La bonne place II** - Fabriquer un camp de recolteur qui exploite 3 ressource vertes ou mieux en simultané
+ - **Prevoyant** - Avoir un stock de 3 stack de lingots de Fer et le 6 de charbon
+
 ### A relire :
 - **Réparer plutôt que remplacer** - Récupérez des ressources servant à la construction d'autres depuis du loot pour la production
 - **Assechez des marecages** - Assécher un marais pour gagner du terrain utile
@@ -45,7 +46,7 @@ Ce sont les quêtes à réaliser pour accéder aux quête de champions  (Permane
 
 #### Groupe 2 — Stocks & Prévoyance
 - (_chaine_) **Prevoyant I** - Avoir un stock de 3 stack de lingots de Bronze
-- (_chaine_) **Prevoyant II** - Avoir un stock de 3 stack de lingots de Fer et le 6 de charbon
+
 - **Le stockage stratégique** - Constituez simultanément dans plusieurs villes des stocks dépassant un seuil défini.
 - **Le casse-tête des stocks** - stocker dans la même ville 1 stack de chaque minerais du jeu
 
