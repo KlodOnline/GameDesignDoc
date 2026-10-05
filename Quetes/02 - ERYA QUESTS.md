@@ -20,15 +20,14 @@ _____
  - (_chaine_) **Grand chantier II** - Avoir 5 batiments de rang 1 différents dans une ou plusieurs villes.
  - (_chaine_) **La bonne place II** - Fabriquer un camp de recolteur qui exploite 3 ressource vertes ou mieux en simultané
  - **Prevoyant** - Avoir un stock de 3 stack de lingots de Fer et le 6 de charbon
- - **Formation professionnelle** - récolteur et modder vert
+ - (**chaine**)**Formation professionnelle** - récolteur et modder vert
 
 ##### Pack 3
 - **Tout le monde au travail** - dans une ville qui a débloquée tout l'artisanat possible, avoir 1 artisan qui produit 1 ressource dans TOUTES les ressource possible de la ville, de façon active ! (avec du stock donc)
  - **Atelier de secours** - Disposez de deux villes avec Fonderie 3
- - **Technicien supérieur** - Récolteur et modder Bleu
- - **Université Technologique** - Récolteur et modder Bleu
+ - (**chaine**)**Technicien supérieur** - Récolteur et modder Bleu
+ - (**chaine**)**Université Technologique** - Récolteur et modder Violet
 
-## Quêtes de champions
 ### Permanentes
 Elles donnes de la réput' et/ou des faveurs mais il existe une version négatives
  - Récolter du bleu : +1
@@ -36,6 +35,9 @@ Elles donnes de la réput' et/ou des faveurs mais il existe une version négativ
  - Produire un Objet final Bleu : +1
  - Produire un Objet final Violet : +5
 
+
+
+## Quêtes de champions
 
 -----
 - **Produire des Outils en Acier**
