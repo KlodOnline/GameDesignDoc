@@ -32,13 +32,17 @@ _____
 
 
 ##### Permanentes
-Elles donnes de la réput' et/ou des faveurs mais il existe une version négatives
+Il devrait toujours exister des quêtes 1:1 entre les positives et négatives. Les score s'entendent toujours en +/-X / tour.
+###### Quêtes positives
  - Récolter du bleu : +1
  - Récolter du violet : +5
  - Produire un Objet final Bleu : +1
  - Produire un Objet final Violet : +5
  - Produire un bâtiment Rang 1 => +1 / Rang 2 => +2 / Rang 3 => +4
- - 
+###### Quêtes négatives
+ - Prestige moyen trop bas : avoir une ville avec un écart à la moyenne de 50% ou plus : -1
+ - Prestige moyen trop bas : avoir une ville avec un écart à la moyenne de 100% ou plus : -5 
+ - Défaut d'entretien : avoir sur son territoire des routes sous les 50% d'entretien : -1
 
 ____
 **A 3000 reput' ** : L'allégeance est consommée et on accède aux quêtes de **Champions**
