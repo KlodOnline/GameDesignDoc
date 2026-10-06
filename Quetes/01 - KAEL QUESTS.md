@@ -18,6 +18,38 @@ _____
  - (_chaine_) **Du joli** - Remportez votre première "Victoire importante"
  - (_chaine_) **Ouvrage militaire** - Fortification niveau I dans toutes les villes de Rang 1 ou plus
 
+##### Pack 3
+ - 
+ - 
+ - 
+ - 
+ - 
+##### Permanentes
+Il devrait toujours exister des quêtes 1:1 entre les positives et négatives. Les score s'entendent toujours en +/-X / tour.
+###### Quêtes positives
+ - gagner une bataille contre unité militaire : +1
+ - gagner une bataille contre unité militaire avec "honneur" : +X f(honneur) (unité  joueur moins forte que untié en face)
+###### Quêtes négatives
+ - perdre une bataille -1
+ - perdre une bataille avec deshonneur -X
+ - attaquer un civil : -1
+
+____
+**A 3000 reput'** : L'allégeance est consommée et on accède aux quêtes de **Champions**
+____
+
+## Quêtes de champions
+_Ces quêtes donnent un titre tant qu'ils sont remplis, vérifiés toutes les 24h_
+Chaque titre donne +1 Faveur par tour !
+- **Le plus d'unité de combat !**
+- **Le territoire le plus étendu !**
+- **Le plus de Guerre en simultané !**
+- **Le plus d'unité de combat ayant besoin d'arme en Acier !**
+
+### Quête Cyclique Bimensuelle
+- **Les Monolithes** - posséder le plus de monolithe sur son territoire. Il apparaissent, au rythme de 1 par semaine. à la fin, il sont tous enlevés par Kael.
+
+
 
 
 
@@ -94,15 +126,6 @@ _Ces quêtes permettent d'entretenir ses Faveurs_
 - **Capturer une ville**
 - **Capturer du territoire à un autre joueur**
 
-_Ces quêtes donnent un titre temporaire (1 semaine ?)_
-- **Le plus d'unité de combat !**
-- **Le territoire le plus étendu !**
-- **Le plus de Guerre en simultané !**
-- **Le plus d'unité de combat ayant besoin d'arme en Acier !**
-
-
-### Quête Cyclique
-- **Les Monolithes** - posséder le plus de monolithe sur son territoire. Il apparaissent, au rythme de 1 par semaine. à la fin, il sont tous enlevés par Kael.
 
 
 # A étudier :

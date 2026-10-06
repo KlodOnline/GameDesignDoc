@@ -45,15 +45,16 @@ Il devrait toujours exister des quêtes 1:1 entre les positives et négatives. L
  - Fainéantise : avoir des inactifs : +1 / inactif
 
 ____
-**A 3000 reput' ** : L'allégeance est consommée et on accède aux quêtes de **Champions**
+**A 3000 reput'** : L'allégeance est consommée et on accède aux quêtes de **Champions**
 ____
 
 ## Quêtes de champions
 _Ces quêtes donnent un titre tant qu'ils sont remplis, vérifiés toutes les 24h_
-- **Une armée de travailleurs** Le plus d'unité de récolte et d'ouvrier ! (+1 faveur / tour)
-- **Le peuple le plus prestigieux ! (en total)** (+1 faveur / tour) 
-- **Le plus d'artisans actifs au monde ! (avec des ressources en stock donc)** (+1 faveur / tour)
-- **Le plus d'unité civile ayant besoin d'outils en Acier !** (+1 faveur / tour)
+Chaque titre donne +1 Faveur par tour !
+- **Une armée de travailleurs** Le plus d'unité de récolte et d'ouvrier !
+- **Le peuple le plus prestigieux ! (en total)** 
+- **Le plus d'artisans actifs au monde ! (avec des ressources en stock donc)**
+- **Le plus d'unité civile ayant besoin d'outils en Acier !**
 
 ### Quête Cyclique Bimensuelle
 - **Les Artefacts** - posséder le plus d'artefact. Ils se craftent mais coutent très cher (mais avec des ressources clasiques) Il faut donc les créer les stocker et éventuellement les protéger. Par contre, on ne peux pas les voler ?

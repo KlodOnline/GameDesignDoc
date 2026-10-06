@@ -15,6 +15,33 @@ ____
  - (_chaine_) **Explorateur II** - découvrir 1200 cases de terrain
  - (_chaine_ ) **Les coffres de la ville** - Entrepot "1" dans toutes les villes de rang 1 ou plus.
  - **Carrefour commercial** - avoir une route sur votre territoire qui touche une route sur un territoire d'un autre joueur
+ - 
+ - 
+
+##### Pack 3
+ - 
+ - 
+ - 
+ - 
+ - 
+
+##### Permanentes
+Il devrait toujours exister des quêtes 1:1 entre les positives et négatives. Les score s'entendent toujours en +/-X / tour.
+###### Quêtes positives
+
+###### Quêtes négatives
+
+
+____
+**A 3000 reput'** : L'allégeance est consommée et on accède aux quêtes de **Champions**
+____
+
+
+
+
+
+
+
 
 
 
@@ -23,6 +50,9 @@ ____
 - **Nord/Sud** - Connaitre du terrain découvert du nord au sud
 - **Faites le tour d'un continent ?**
 - **Le pont maritime** - Utilisez un bateau originaire d'une ville pour décharger des items une liaison commerciale ou logistique entre deux ville
+
+
+
 # Validées :
 
 ## Quêtes d'allégeance
