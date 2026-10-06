@@ -50,7 +50,7 @@ Chaque titre donne +1 Faveur par tour !
 - **Le plus d'Or !**
 
 ### Quête Cyclique Bimensuelle
-- **Les Larmes** - Une gemme par semaine tombe sur le monde. C'est un loot un peu spécial, il a un look de cratère. Il faut le looter pour récupérer la Gemme. Le ramener à sa ville "religieuse"
+- **Les Larmes** - Une gemme par semaine tombe sur le monde. C'est un loot un peu spécial, il a un look de cratère. Il faut le looter pour récupérer la Gemme. Le ramener à sa ville "religieuse" (où Aerin est)
 
 ----
 ## Archives
