@@ -43,7 +43,7 @@ Il devrait toujours exister des quêtes 1:1 entre les positives et négatives. L
  - Prestige moyen trop bas : avoir une ville avec un écart à la moyenne de 50% ou plus : -1
  - Prestige moyen trop bas : avoir une ville avec un écart à la moyenne de 100% ou plus : -5 
  - Défaut d'entretien : avoir sur son territoire des routes sous les 50% d'entretien : -1 / case
- - Feignantise : avoir des inactifs : +1 / inactif
+ - Fainéantise : avoir des inactifs : +1 / inactif
 
 ____
 **A 3000 reput' ** : L'allégeance est consommée et on accède aux quêtes de **Champions**
