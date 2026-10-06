@@ -28,8 +28,8 @@ ____
 ##### Permanentes
 Il devrait toujours exister des quêtes 1:1 entre les positives et négatives. Les score s'entendent toujours en +/-X / tour.
 ###### Quêtes positives
-- **Avoir un espion actif dans une autre ville**
-- **Gagner un niveau de ville**
+- Avoir un espion actif dans une autre ville +1
+- Gagner un niveau de ville +1
 - Ville prospère ?
 - Accepter un traiter de paix +5
 ###### Quêtes négatives
