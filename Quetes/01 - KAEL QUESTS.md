@@ -84,7 +84,7 @@ _____
 ____
 
 ## Quêtes de champions
-
+_Ces quêtes donnent un titre tant qu'ils sont remplis, vérifiés toutes les 24h_
 ### Quêtes HardCore
 - **Comme les troyens** - capturer la capitale d'un empire au dessus de soi militairement, et la raser - ou si en tête, juste en dessous.
 

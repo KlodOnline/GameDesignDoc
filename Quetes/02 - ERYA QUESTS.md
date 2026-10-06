@@ -30,7 +30,6 @@ _____
  - **Prevoyant II** - Avoir un stock de lingots d'acier de 3 stacks
  - **Vie impossible** - Avoir une ville dans un lieu particulierment hostile, qui arrive à survire. (désert ?)  **« Erya vous ordonne de bâtir là où personne ne bâtirait. »** Développez une ville dans une région particulièrement difficile.
 
-
 ##### Permanentes
 Il devrait toujours exister des quêtes 1:1 entre les positives et négatives. Les score s'entendent toujours en +/-X / tour.
 ###### Quêtes positives
@@ -50,14 +49,12 @@ ____
 ____
 
 ## Quêtes de champions
-_Ces quêtes donnent un titre temporaire (1 semaine ?)_
-- **Le plus d'unité de récolte et d'ouvrier !** (+1 faveur / tour)
+_Ces quêtes donnent un titre tant qu'ils sont remplis, vérifiés toutes les 24h_
+- **Une armée de travailleurs** Le plus d'unité de récolte et d'ouvrier ! (+1 faveur / tour)
 - **Le peuple le plus prestigieux ! (en total)** (+1 faveur / tour) 
 - **Le plus d'artisans actifs au monde ! (avec des ressources en stock donc)** (+1 faveur / tour)
 - **Le plus d'unité civile ayant besoin d'outils en Acier !** (+1 faveur / tour)
 
-### Quête Cyclique
+### Quête Cyclique Bimensuelle
 - **Les Artefacts** - posséder le plus d'artefact. Ils se craftent mais coutent très cher (mais avec des ressources clasiques) Il faut donc les créer les stocker et éventuellement les protéger. Par contre, on ne peux pas les voler ?
-### Legendaire (Cycliques)
-- **Ramasser des perles d'Erya (legendaire) / crafter les colliers Divins**
 
