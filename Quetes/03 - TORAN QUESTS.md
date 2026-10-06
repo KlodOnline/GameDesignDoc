@@ -28,20 +28,32 @@ ____
 ##### Permanentes
 Il devrait toujours exister des quêtes 1:1 entre les positives et négatives. Les score s'entendent toujours en +/-X / tour.
 ###### Quêtes positives
-
+- **Avoir un espion actif dans une autre ville**
+- **Gagner un niveau de ville**
+- Ville prospère ?
+- Accepter un traiter de paix +5
 ###### Quêtes négatives
-
+ - Ville en decroissance (-1)
+ - Famines (-5)
+ - Déclarer une guerre (agresser) -5
 
 ____
 **A 3000 reput'** : L'allégeance est consommée et on accède aux quêtes de **Champions**
 ____
 
+## Quêtes de champions
+_Ces quêtes donnent un titre tant qu'ils sont remplis, vérifiés toutes les 24h_
+Chaque titre donne +1 Faveur par tour !
+- **Le plus d'unité marchandes !**
+- **Route la plus longue !**
+- **Le plus d'accord commerciaux !**
+- **Le plus d'Or !**
 
+### Quête Cyclique Bimensuelle
+- **Les Larmes** - Une gemme par semaine tombe sur le monde. C'est un loot un peu spécial, il a un look de cratère. Il faut le looter pour récupérer la Gemme. Le ramener à sa ville "religieuse"
 
-
-
-
-
+----
+## Archives
 
 
 
@@ -173,19 +185,6 @@ _Ces quêtes donnent un titre définitif_
 - **Les réserves inépuisables** - « Aerin observe vos greniers pleins à craquer : prouvez à Toran que votre empire ne connaîtra jamais la disette. (avoir 16 stacks nourriture dans TOUTES les villes de son empire)
 - **Le négociateur** - Obtenez auprès de 50% des joueurs du monde un accord commercial
 
-### Quêtes "Permanentes"
-_Ces quêtes permettent d'entretenir ses Faveurs_
-- **Installer un espion dans une ville jamais espionnée**
-- **Gagner un niveau de ville**
-
-_Ces quêtes donnent un titre temporaire (1 semaine ?)_
-- **Le plus d'unité marchandes !**
-- **Route la plus longue !**
-- **Le plus d'accord commerciaux !**
-- **Le plus d'Or !**
-
-### Quête Cyclique
-- **Les Larmes** - Une gemme par semaine tombe sur le monde. C'est un loot un peu spécial, il a un look de cratère. Il faut le looter pour récupérer la Gemme. Le ramener à sa ville "religieuse"
 
 
 
