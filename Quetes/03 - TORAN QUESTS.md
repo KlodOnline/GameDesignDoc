@@ -45,7 +45,7 @@ ____
 
 ## Quêtes de champions
 _Ces quêtes donnent un titre tant qu'ils sont remplis, vérifiés toutes les 24h_
-Chaque titre donne +1 Faveur par tour !
+
 - **Le plus d'unité marchandes !**
 - **Route la plus longue !**
 - **Le plus d'accord commerciaux !**

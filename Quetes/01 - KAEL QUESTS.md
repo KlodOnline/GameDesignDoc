@@ -41,7 +41,7 @@ ____
 
 ## Quêtes de champions
 _Ces quêtes donnent un titre tant qu'ils sont remplis, vérifiés toutes les 24h_
-Chaque titre donne +1 Faveur par tour !
+
 - **Le plus d'unité de combat !**
 - **Le territoire le plus étendu !**
 - **Le plus de Guerre en simultané !**
