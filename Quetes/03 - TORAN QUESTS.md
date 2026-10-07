@@ -19,7 +19,8 @@ ____
  - **Espionnage** Espionnez la _capitale_ d'un autre joueur
 
 ##### Pack 3
- - 
+- **Le premier comptoir** - « Aerin vous pousse à ouvrir vos frontières aux autres souverains. Effectuez votre tout premier échange commercial avec un joueur voisin. »
+
  - 
  - 
  - 
@@ -55,25 +56,13 @@ Chaque titre donne +1 Faveur par tour !
 ----
 ## Archives
 
-
-
 - **L'expédition** - Transportez une ressource depuis sa zone d'exploitation jusqu'à une ville à plus de X cases.
 - **Tour du monde** - Connaitre du terrain découvert sur le tour du monde
 - **Nord/Sud** - Connaitre du terrain découvert du nord au sud
 - **Faites le tour d'un continent ?**
 - **Le pont maritime** - Utilisez un bateau originaire d'une ville pour décharger des items une liaison commerciale ou logistique entre deux ville
 
-
-
-# Validées :
-
-## Quêtes d'allégeance
-Ce sont les quêtes à réaliser pour accéder aux quête de champions  (Permanentes et Cycliques)
-
-### Quêtes Faciles (ne donne que de la réputation)
 - **Faire un échange commercial** - _f(rareté)_
-- **Le premier comptoir** - « Aerin vous pousse à ouvrir vos frontières aux autres souverains. Effectuez votre tout premier échange commercial avec un joueur voisin. »
-
 
 - (_chaine_) **La Grande Route II** - Reliez deux villes par une route pavée de X cases
 - (_chaine_) **La Grande Route III** - Reliez deux villes par une route pavée avec des ponts de X cases

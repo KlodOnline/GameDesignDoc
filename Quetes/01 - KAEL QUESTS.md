@@ -25,7 +25,9 @@ _____
 - **Grande muraille** - Avoir 5 forts dont la ZoC touche le territoire d'un autre joueur
 - **Attaque éclair** - Capturer une ville avec un éclaireur à cheval 
 
- 
+##### Pack 4
+
+
 ##### Permanentes
 Il devrait toujours exister des quêtes 1:1 entre les positives et négatives. Les score s'entendent toujours en +/-X / tour.
 ###### Quêtes positives
