@@ -1,4 +1,4 @@
-
+Kael
 _____
 Le dieu veut **la guerre, le courage, la domination, la résistance, loyauté**.
 _____
