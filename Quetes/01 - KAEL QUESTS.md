@@ -10,23 +10,20 @@ _____
  - **Poste d'Observation** - Placez une tour de reconnaissance de façon à ce qu'elle découvre des zones appartenant à un autre joueur qui vous était inconnue jusqu'alors
  - **Premier sang** - Remportez votre première bataille
 - (_chaine_) **Espace Vital I** - Avoir un territoire de _300_ cases
-
 ##### Pack 2
  - (_chaine_) **Qui veut la paix... II** - Recruter 5 Guerriers
  - (_chaine_) **Espace Vital II** - Avoir un territoire de _600_ cases
  - **En avant !** - Déplacez une unité militaire sur le territoire d'un joueur qui vous est hostile ou en guerre (barbare compris)
  - (_chaine_) **Du joli** - Remportez votre première "Victoire importante"
  - (_chaine_) **Ouvrage militaire** - Fortification niveau I dans toutes les villes de Rang 1 ou plus
-
 ##### Pack 3
 - (_chaine_) **Espace Vital III** - Avoir un territoire de _1200_ cases
 - (_chaine_) **Qui veut la paix... III** - Recruter 5 Soldats
 - (_chaine_) **Qui veut la paix... IV** - Recruter 5 Légionnaires
 - **Grande muraille** - Avoir 5 forts dont la ZoC touche le territoire d'un autre joueur
 - **Attaque éclair** - Capturer une ville avec un éclaireur à cheval 
-
 ##### Pack 4
-
+ - (_chaine_) **Possessivité II** - Avoir sur son territoire toutes les ressources bleues
 
 ##### Permanentes
 Il devrait toujours exister des quêtes 1:1 entre les positives et négatives. Les score s'entendent toujours en +/-X / tour.

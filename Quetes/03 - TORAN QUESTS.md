@@ -15,15 +15,16 @@ ____
  - (_chaine_) **Explorateur II** - découvrir 1200 cases de terrain
  - (_chaine_ ) **Les coffres de la ville** - Entrepot "1" dans toutes les villes de rang 1 ou plus.
  - **Carrefour commercial** - avoir une route sur votre territoire qui touche une route sur un territoire d'un autre joueur
-
  - **Espionnage** Espionnez la _capitale_ d'un autre joueur
 - **Le premier comptoir** - « Aerin vous pousse à ouvrir vos frontières aux autres souverains. Effectuez votre tout premier échange commercial avec un joueur voisin. »
 ##### Pack 3
-
 - **Nord/Sud** - Connaitre du terrain découvert du nord au sud
 - (_chaine_) **La Grande Route II** - Reliez deux villes par une route pavée de X cases
 - (_chaine_) **Source Violettes** - connaitre sur la carte du monde au moins une source de TOUTES les ressources vertes primaire du jeu
 - (_chaine_) **Paysages chauds** - avoir sur le territoire de vos villes les territoires savane, déserts
+- **À travers les brumes** - avoir tout les biomes sur son propre territoire
+##### Pack 4
+
 
 
 ##### Permanentes
@@ -77,16 +78,15 @@ Chaque titre donne +1 Faveur par tour !
 - (_chaine_) **Le réveil du géant** - « Aerin remarque que votre première ville ronronne un peu trop. Il est temps de stimuler sa croissance en lui assurant un flux constant de denrées rares. » _(booster la ville jusqu'a obtenir un +70 en croissance)_
 - **L'alliance des chemins** - « Aerin estime que nos routes doivent croiser celles d'autres peuples pour devenir éternelles. Multipliez les transactions avec un même partenaire. » _(reliez par une route une de vos ville avec celle d'un autre joueur)_
 - **Le tribut des marchands** - « Aerin vous rappelle que le commerce appelle le commerce. Multipliez les transactions marchandes avec le PNJ marchand ?
-- **À travers les brumes** - « Aerin vous sourit : les terres d'en face cachent des secrets que les faibles ignorent. Envoyez des éclaireurs sonder l'inconnu par-delà la colline. » _(Explorer des cases d'un nouveau biome qui nexiste pas sur votre territoire courant !)_
+
 - (_chaine_) **Bien informé I** - installer un espion dans une capitale tierce avec laquelle vous êtes Neutres, Hostile, ou En Guerre
 - **Le relais** - Faites transporter une même cargaison d'un bateau vers un chariot pour arriver dans une ville qui n'a pas acces à la mer
 - **Le commerce triangulaire** - Obtenez une ressource auprès d'un joueur, échangez-la avec un autre et utilisez le résultat pour votre objectif.
-- **Le convoi impossible** - Faites parvenir une cargaison à une ville située à plus de XXX cases, avec une unité dont la capacité est insuffisante pour transporter toute la cargaison en un seul voyage.
+
 
 🧭 Toran
-- **Le grand détour** - Transportez une cargaison entre deux de vos villes en empruntant un trajet d'au moins X cases.
 - **Au-delà de l'horizon** - Faites parvenir une unité à X cases de la ville la plus éloignée de votre empire.
-- **Le triangle commercial** - Faites circuler des ressources entre trois de vos villes, aucune n'étant directement reliée aux deux autres.
+
 - **L'expédition** - Faites simultanément explorer trois zones différentes de la carte avec trois unités.
 - **Le pont** - Reliez deux parties de votre territoire par une chaîne continue de territoires contrôlés.
 - **Le comptoir lointain** - Faites parvenir une quantité donnée de ressources dans une ville située à X cases de votre capitale.
