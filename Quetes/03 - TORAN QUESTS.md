@@ -24,6 +24,8 @@ ____
 - (_chaine_) **La Grande Route II** - Reliez deux villes par une route pavée de X cases
 - (_chaine_) **Source Violettes** - connaitre sur la carte du monde au moins une source de TOUTES les ressources vertes primaire du jeu
 - (_chaine_) **Paysages chauds** - avoir sur le territoire de vos villes les territoires savane, déserts
+
+
 ##### Permanentes
 Il devrait toujours exister des quêtes 1:1 entre les positives et négatives. Les score s'entendent toujours en +/-X / tour.
 ###### Quêtes positives
@@ -68,11 +70,10 @@ Chaque titre donne +1 Faveur par tour !
 
 - (_chaine_) **Paysages froids** - avoir sur le territoire de vos villes les territoires toundra, banquise
 - (_chaine_) **Paysages variés** - avoir sur le territoire de vos villes toutes les type de territoires différents, collines comprises
-- **Déplacement rapide I** - Définir un trajet de X cases, en moins de N tours (N calculé pour un chemin 100% forêt ?)
-- **Déplacement rapide II** - Définir un trajet de X cases, en moins de N tours (N calculé pour un chemin 50% - 50% plaines ?)
+
 - (_chaine_) **Ebène bleue** - Idem bois _Découvrir une d'ébène Bleue inexploitée_
 - (_chaine_) **L'artère vitale** - « Aerin vous indique que Toran chérit la structure et la circulation. Tracez une route logistique ininterrompue reliant deux de vos cités. » _(Relier deux villes par une piste)_
-- (_chaine_) **L'emprise de l'airain** - « Aerin observe l'horizon et murmure que le territoire n'appartient qu'à ceux qui le marquent. Étendez votre zone de contrôle sur un nouveau gisement. » _(Capturer un territoire avec 5 source n'importe lequelles via votre Zone de Contrôle)_
+
 - (_chaine_) **Le réveil du géant** - « Aerin remarque que votre première ville ronronne un peu trop. Il est temps de stimuler sa croissance en lui assurant un flux constant de denrées rares. » _(booster la ville jusqu'a obtenir un +70 en croissance)_
 - **L'alliance des chemins** - « Aerin estime que nos routes doivent croiser celles d'autres peuples pour devenir éternelles. Multipliez les transactions avec un même partenaire. » _(reliez par une route une de vos ville avec celle d'un autre joueur)_
 - **Le tribut des marchands** - « Aerin vous rappelle que le commerce appelle le commerce. Multipliez les transactions marchandes avec le PNJ marchand ?
