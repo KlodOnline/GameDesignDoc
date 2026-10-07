@@ -15,14 +15,14 @@ ____
  - (_chaine_) **Explorateur II** - découvrir 1200 cases de terrain
  - (_chaine_ ) **Les coffres de la ville** - Entrepot "1" dans toutes les villes de rang 1 ou plus.
  - **Carrefour commercial** - avoir une route sur votre territoire qui touche une route sur un territoire d'un autre joueur
-- (_chaine_) **Source Bleues** - connaitre sur la carte du monde au moins une source de TOUTES les ressources vertes primaire du jeu
+
  - **Espionnage** Espionnez la _capitale_ d'un autre joueur
 
 ##### Pack 3
 - **Le premier comptoir** - « Aerin vous pousse à ouvrir vos frontières aux autres souverains. Effectuez votre tout premier échange commercial avec un joueur voisin. »
-
- - 
- - 
+- **Nord/Sud** - Connaitre du terrain découvert du nord au sud
+- (_chaine_) **La Grande Route II** - Reliez deux villes par une route pavée de X cases
+- (_chaine_) **Source Violettes** - connaitre sur la carte du monde au moins une source de TOUTES les ressources vertes primaire du jeu
  - 
  - 
 
@@ -58,13 +58,12 @@ Chaque titre donne +1 Faveur par tour !
 
 - **L'expédition** - Transportez une ressource depuis sa zone d'exploitation jusqu'à une ville à plus de X cases.
 - **Tour du monde** - Connaitre du terrain découvert sur le tour du monde
-- **Nord/Sud** - Connaitre du terrain découvert du nord au sud
 - **Faites le tour d'un continent ?**
 - **Le pont maritime** - Utilisez un bateau originaire d'une ville pour décharger des items une liaison commerciale ou logistique entre deux ville
 
 - **Faire un échange commercial** - _f(rareté)_
 
-- (_chaine_) **La Grande Route II** - Reliez deux villes par une route pavée de X cases
+
 - (_chaine_) **La Grande Route III** - Reliez deux villes par une route pavée avec des ponts de X cases
 - (_chaine_) **Paysages marins** - avoir sur le territoire de vos villes les territoires côté, océans, grêves
 - (_chaine_) **Paysages montagnards** - avoir sur le territoire de vos villes les territoires collines, montagnes
