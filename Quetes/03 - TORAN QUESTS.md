@@ -17,9 +17,9 @@ ____
  - **Carrefour commercial** - avoir une route sur votre territoire qui touche une route sur un territoire d'un autre joueur
 
  - **Espionnage** Espionnez la _capitale_ d'un autre joueur
-
-##### Pack 3
 - **Le premier comptoir** - « Aerin vous pousse à ouvrir vos frontières aux autres souverains. Effectuez votre tout premier échange commercial avec un joueur voisin. »
+##### Pack 3
+
 - **Nord/Sud** - Connaitre du terrain découvert du nord au sud
 - (_chaine_) **La Grande Route II** - Reliez deux villes par une route pavée de X cases
 - (_chaine_) **Source Violettes** - connaitre sur la carte du monde au moins une source de TOUTES les ressources vertes primaire du jeu
