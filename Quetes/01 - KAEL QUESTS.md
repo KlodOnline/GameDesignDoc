@@ -23,8 +23,8 @@ _____
 - **Grande muraille** - Avoir 5 forts dont la ZoC touche le territoire d'un autre joueur
  - (_chaine_) **Possessivité II** - Avoir sur son territoire toutes les ressources bleues
 ##### Pack 4
-
 - **Attaque éclair** - Capturer une ville avec un éclaireur à cheval 
+- 
 
 ____
 **A 3000 reput'** : L'allégeance est consommée et on accède aux quêtes de **Champions**
@@ -191,16 +191,3 @@ Et surtout, **tout le monde n'est pas obligé de faire la même chose**.
 - **La grande marche** - Faites parcourir à vos forces une distance cumulée de 1 000 cases.
 - **Kael réclame un rival** - Affrontez le joueur possédant le plus grand territoire et survivez au cycle.
 
-
-### Legendaire (Cycliques)
-
-- **Contrôler 1 - 5 monolithes** - (visibles pour tous)
-
-> **« Kael exige que votre bannière flotte là où l'ennemi pensait être en sécurité. »**
-> Conquérez un territoire situé au cœur d'un empire rival.
-
-> **« Kael ne respecte pas ceux qui reculent. »**
-> Remportez une bataille alors que votre armée est en infériorité numérique.
-
-> **« Kael réclame un empire forgé par le sang. »**
-> Conquérez 500 territoires ennemis au cours de cette saison.
