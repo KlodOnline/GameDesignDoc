@@ -25,20 +25,6 @@ _____
 ##### Pack 4
  - (_chaine_) **Possessivité II** - Avoir sur son territoire toutes les ressources bleues
 
-##### Permanentes
-Il devrait toujours exister des quêtes 1:1 entre les positives et négatives. Les score s'entendent toujours en +/-X / tour.
-###### Quêtes positives
- - gagner une bataille contre unité militaire : +1
- - gagner une bataille contre unité militaire avec "honneur" : +X f(honneur) (unité  joueur moins forte que untié en face)
-###### Quêtes négatives
- - perdre une bataille -1
- - perdre une bataille avec deshonneur -X
- - attaquer un civil : -1
-
-Victoire contre plus fort → forte récompense  
-Victoire contre égal → récompense normale  
-Victoire contre beaucoup plus faible → faible récompense  
-Attaque d'un civil → pénalité
 
 ____
 **A 3000 reput'** : L'allégeance est consommée et on accède aux quêtes de **Champions**
@@ -59,6 +45,20 @@ _Ces quêtes donnent un titre tant qu'ils sont remplis, vérifiés toutes les 24
 ## Archives
 
 
+##### Permanentes
+Il devrait toujours exister des quêtes 1:1 entre les positives et négatives. Les score s'entendent toujours en +/-X / tour.
+###### Quêtes positives
+ - gagner une bataille contre unité militaire : +1
+ - gagner une bataille contre unité militaire avec "honneur" : +X f(honneur) (unité  joueur moins forte que untié en face)
+###### Quêtes négatives
+ - perdre une bataille -1
+ - perdre une bataille avec deshonneur -X
+ - attaquer un civil : -1
+
+Victoire contre plus fort → forte récompense  
+Victoire contre égal → récompense normale  
+Victoire contre beaucoup plus faible → faible récompense  
+Attaque d'un civil → pénalité
 
 - **Colosse de bois** - Conserver un fort en montagne pendant 3 jours
 - **Maintenir la liaison** - Disposez trois tours éclaireur sur un terrain de type colline, avec les champs de visions adjacents
