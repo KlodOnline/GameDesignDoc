@@ -55,17 +55,6 @@ Chaque titre donne +1 Faveur par tour !
 ## Archives
 
 
-### A relire :
-
-## 10 Quêtes suivantes (Intermédiaires)
-
-
-# Validées :
-
-## Quêtes d'allégeance
-Ce sont les quêtes à réaliser pour accéder aux quête de champions  (Permanentes et Cycliques)
-
-### Quêtes Faciles (ne donne que de la réputation)
 
 - **Colosse de bois** - Conserver un fort en montagne pendant 3 jours
 - **Maintenir la liaison** - Disposez trois tours éclaireur sur un terrain de type colline, avec les champs de visions adjacents
@@ -95,7 +84,7 @@ Ce sont les quêtes à réaliser pour accéder aux quête de champions  (Permane
 - (_chaine_) **Rusticité II** - Combattre depuis un terrain difficile
 - (_chaine_) **Rusticité III** - Combattre sur un désert
 - (_chaine_) **Rusticité IV** - Combattre sur une banquise
-- **Grande muraille** - Avoir 5 forts dont la ZoC touche le territoire d'un autre joueur
+
 - **Agressivité** - voler du territoire à un autre joueur
 - **A vaincre sans péril...** - tuer une unité plus forte au cours d'un combat
 - (_chaine_) **Espace vital II** - posséder 600 cases de territoire
