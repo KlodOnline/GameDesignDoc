@@ -5,6 +5,12 @@
 
 _Peut être mettre des actions permanentes qui font grimper la réputation ?_
 
+**Une quête a une fin.**  
+**Une réputation a une progression.**  
+**Un Champion a une position.**  
+**Une compétition cyclique a une échéance.**  
+**La Faveur est dépensée.**
+
 ### Faveurs Divines
 Avec les faveurs, viennent les unités et pouvoir spéciaux.
 

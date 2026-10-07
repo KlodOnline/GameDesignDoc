@@ -27,17 +27,6 @@ ____
 
 
 
-##### Permanentes
-Il devrait toujours exister des quêtes 1:1 entre les positives et négatives. Les score s'entendent toujours en +/-X / tour.
-###### Quêtes positives
-- Avoir un espion actif dans une ville +1 (en fait ça marche comme ça : quand on met un espion en ville, le jeu compte le nombre de ville espionnées et si on a dépassé notre max, on gagne +5 pionts à chaque fois)
-- Gagner un niveau de ville +1
-- Accepter un traiter de paix +5
-###### Quêtes négatives
- - Ville en decroissance (-1)
- - Famines (-5)
- - Déclarer une guerre (agresser) -5
-
 ____
 **A 3000 reput'** : L'allégeance est consommée et on accède aux quêtes de **Champions**
 ____
@@ -55,6 +44,19 @@ _Ces quêtes donnent un titre tant qu'ils sont remplis, vérifiés toutes les 24
 
 ----
 ## Archives
+
+
+##### Permanentes
+Il devrait toujours exister des quêtes 1:1 entre les positives et négatives. Les score s'entendent toujours en +/-X / tour.
+###### Quêtes positives
+- Avoir un espion actif dans une ville +1 (en fait ça marche comme ça : quand on met un espion en ville, le jeu compte le nombre de ville espionnées et si on a dépassé notre max, on gagne +5 pionts à chaque fois)
+- Gagner un niveau de ville +1
+- Accepter un traiter de paix +5
+###### Quêtes négatives
+ - Ville en decroissance (-1)
+ - Famines (-5)
+ - Déclarer une guerre (agresser) -5
+
 
 - **L'expédition** - Transportez une ressource depuis sa zone d'exploitation jusqu'à une ville à plus de X cases.
 - **Tour du monde** - Connaitre du terrain découvert sur le tour du monde
