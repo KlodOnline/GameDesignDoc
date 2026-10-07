@@ -20,15 +20,19 @@ _____
  - (_chaine_) **Grand chantier II** - Avoir 5 batiments de rang 1 différents dans une ou plusieurs villes.
  - (_chaine_) **La bonne place II** - Fabriquer un camp de recolteur qui exploite 3 ressource vertes ou mieux en simultané
  - **Prevoyant** - Avoir un stock de 3 stack de lingots de Fer et le 6 de charbon
- - (**chaine**)**Formation professionnelle** - récolteur et modder vert
 
 ##### Pack 3
 - **Tout le monde au travail** - dans une ville qui a débloquée tout l'artisanat possible, avoir 1 artisan qui produit 1 ressource dans TOUTES les ressource possible de la ville, de façon active ! (avec du stock donc)
  - **Atelier de secours** - Disposez de deux villes avec Fonderie 3
+ - (**chaine**)**Formation professionnelle** - récolteur et modder vert
+
  - (**chaine**)**Technicien supérieur** - Récolteur et modder Bleu
  - (**chaine**)**Université Technologique** - Récolteur et modder Violet
+
+##### Pack 4
  - **Prevoyant II** - Avoir un stock de lingots d'acier de 3 stacks
  - **Vie impossible** - Avoir une ville dans un lieu particulierment hostile, qui arrive à survire. (désert ?)  **« Erya vous ordonne de bâtir là où personne ne bâtirait. »** Développez une ville dans une région particulièrement difficile.
+
 
 ##### Permanentes
 Il devrait toujours exister des quêtes 1:1 entre les positives et négatives. Les score s'entendent toujours en +/-X / tour.
