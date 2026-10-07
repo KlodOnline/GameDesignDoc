@@ -27,7 +27,7 @@ _____
  - (_chaine_) **Grand chantier III** - Avoir 3 batiments de rang 2 différents dans une ou plusieurs villes.
  - (**chaine**)**Technicien supérieur** - Récolteur et modder Bleu
 ##### Pack 4
- - **Prevoyant II** - Avoir un stock de lingots d'acier de 3 stacks
+ - **Prevoyant II** - Préparer 3 stack d'acier
  - (_chaine_) **Grand chantier IV** - Avoir 2 batiments de rang 3 différents dans une ou plusieurs villes.
  - (**chaine**)**Université Technologique** - Récolteur et modder Violet
 - **Tout le monde au travail** - dans une ville qui a débloquée tout l'artisanat possible, avoir 1 artisan qui produit 1 ressource dans TOUTES les ressource possible de la ville, de façon active ! (avec du stock donc)
