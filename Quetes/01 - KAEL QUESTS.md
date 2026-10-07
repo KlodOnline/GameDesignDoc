@@ -21,10 +21,10 @@ _____
 - (_chaine_) **Qui veut la paix... III** - Recruter 5 Soldats
 - (_chaine_) **Qui veut la paix... IV** - Recruter 5 Légionnaires
 - **Grande muraille** - Avoir 5 forts dont la ZoC touche le territoire d'un autre joueur
-- **Attaque éclair** - Capturer une ville avec un éclaireur à cheval 
-##### Pack 4
  - (_chaine_) **Possessivité II** - Avoir sur son territoire toutes les ressources bleues
+##### Pack 4
 
+- **Attaque éclair** - Capturer une ville avec un éclaireur à cheval 
 
 ____
 **A 3000 reput'** : L'allégeance est consommée et on accède aux quêtes de **Champions**
