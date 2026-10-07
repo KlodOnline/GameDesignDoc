@@ -22,7 +22,7 @@ ____
 - (_chaine_) **La Grande Route II** - Reliez deux villes par une route pavée de X cases
 - (_chaine_) **Source Violettes** - connaitre sur la carte du monde au moins une source de TOUTES les ressources vertes primaire du jeu
 - (_chaine_) **Paysages chauds** - avoir sur le territoire de vos villes les territoires savane, déserts
-- **À travers les brumes** - avoir tout les biomes sur son propre territoire
+- **Contrées exotiques** - avoir tout les biomes sur son propre territoire
 ##### Pack 4
 
 
