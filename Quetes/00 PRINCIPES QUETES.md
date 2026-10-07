@@ -18,6 +18,7 @@ Donc si on a 200 joueurs, et qu'on est premier, on gagne 199 points de faveurs.
 
 Pour chaque joueur, il reçoit le badge du plus haut ranking qu'il a jamais atteind.
 
+**Badge de "base"** : **Champion de XXX**
 #### Rehabiliter Aerin
 Et on achète sa libération pour 2000 faveurs
 #### Unités spéciales 
