@@ -13,18 +13,23 @@ _____
 ##### Pack 2
  - (_chaine_) **Qui veut la paix... II** - Recruter 5 Guerriers
  - (_chaine_) **Espace Vital II** - Avoir un territoire de _600_ cases
- - **En avant !** - Déplacez une unité militaire sur le territoire d'un joueur qui vous est hostile ou en guerre (barbare compris)
- - (_chaine_) **Du joli** - Remportez votre première "Victoire importante"
+ - **La frontière** - Étendez votre territoire jusqu'à une case adjacente à celui d'un autre joueur.
+ -  (_chaine_) **Du joli** - Remportez votre première "Victoire importante"
  - (_chaine_) **Ouvrage militaire** - Fortification niveau I dans toutes les villes de Rang 1 ou plus
 ##### Pack 3
 - (_chaine_) **Espace Vital III** - Avoir un territoire de _1200_ cases
 - (_chaine_) **Qui veut la paix... III** - Recruter 5 Soldats
 - (_chaine_) **Qui veut la paix... IV** - Recruter 5 Légionnaires
-- **Grande muraille** - Avoir 5 forts dont la ZoC touche le territoire d'un autre joueur
+- **En avant !** - Déplacez une unité militaire sur le territoire d'un joueur qui vous est hostile ou en guerre (barbare compris)
  - (_chaine_) **Possessivité II** - Avoir sur son territoire toutes les ressources bleues
 ##### Pack 4
-- **Attaque éclair** - Capturer une ville avec un éclaireur à cheval 
-- 
+- **Grande muraille** - Avoir 5 unités fortifiées dont la ZoC touche le territoire d'un autre joueur
+- **Attaque éclair** - Capturer une ville avec un éclaireur à cheval
+- **Premier raid** - Attaquez un territoire contrôlé par un autre joueur.
+- **Gagner un combat avec l'aide d'un Général**
+- **Comme les troyens** - capturer la capitale d'un empire au dessus de soi militairement, et la raser - ou si en tête, juste en dessous.
+
+
 
 ____
 **A 3000 reput'** : L'allégeance est consommée et on accède aux quêtes de **Champions**
@@ -91,44 +96,7 @@ Attaque d'un civil → pénalité
 
 - **Agressivité** - voler du territoire à un autre joueur
 - **A vaincre sans péril...** - tuer une unité plus forte au cours d'un combat
-- (_chaine_) **Espace vital II** - posséder 600 cases de territoire
-- **Charognard** - récupérer un loot sur un territoire hostile / guerre
 
-### Quêtes Difficile
-- (_chaine_) **Espace vital III** - posséder 1800 cases de territoire
-
-
-----
-- **Gagner un combat avec l'aide d'un Général**
-_____
-**A ce stade** : L'allégeance est consommée et on accède aux quêtes de **Champions**
-____
-
-## Quêtes de champions
-_Ces quêtes donnent un titre tant qu'ils sont remplis, vérifiés toutes les 24h_
-### Quêtes HardCore
-- **Comme les troyens** - capturer la capitale d'un empire au dessus de soi militairement, et la raser - ou si en tête, juste en dessous.
-
-### Quêtes "Permanentes"
-_Ces quêtes permettent d'entretenir ses Faveurs_
-- **Gagner un combat** - _f(écart attaque/défense)_
-- **Capturer une ville**
-- **Capturer du territoire à un autre joueur**
-
-
-
-# A étudier :
-
-TUER UN MINOTAURE ?
-
-
-- **Premier raid** - Attaquez un territoire contrôlé par un autre joueur.
-- **Ne jamais reculer** - Défendez avec succès un de vos territoires.
-- **Aux armes !** - Atteignez votre première capacité militaire maximale.
-- **Prendre position** - Contrôlez 10 cases supplémentaires.
-- **La frontière** - Étendez votre territoire jusqu'à une case adjacente à celui d'un autre joueur.
-- **En marche** - Déplacez une armée sur une distance de 20 cases.
-- **Premier siège** - Attaquez une ville appartenant à un autre joueur.
 
 ### Intermédiaire
 - **Derrière les lignes** - Faites parvenir une armée dans une zone inaccessible directement depuis votre territoire.

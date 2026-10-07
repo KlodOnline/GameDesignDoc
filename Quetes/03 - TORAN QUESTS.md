@@ -16,15 +16,17 @@ ____
  - (_chaine_ ) **Les coffres de la ville** - Entrepot "1" dans toutes les villes de rang 1 ou plus.
  - **Carrefour commercial** - avoir une route sur votre territoire qui touche une route sur un territoire d'un autre joueur
  - **Espionnage** Espionnez la _capitale_ d'un autre joueur
-- **Le premier comptoir** - « Aerin vous pousse à ouvrir vos frontières aux autres souverains. Effectuez votre tout premier échange commercial avec un joueur voisin. »
+ - (_chaine_) **Source Bleues** - connaitre sur la carte du monde au moins une source de TOUTES les ressources bleues primaire du jeu
+- 
 ##### Pack 3
 - **Nord/Sud** - Connaitre du terrain découvert du nord au sud
 - (_chaine_) **La Grande Route II** - Reliez deux villes par une route pavée de X cases
-- (_chaine_) **Source Violettes** - connaitre sur la carte du monde au moins une source de TOUTES les ressources vertes primaire du jeu
+- (_chaine_) **Source Violettes** - connaitre sur la carte du monde au moins une source de TOUTES les ressources violettes  primaire du jeu
+- **Le premier comptoir** - « Aerin vous pousse à ouvrir vos frontières aux autres souverains. Effectuez votre tout premier échange commercial avec un joueur voisin. »
 - (_chaine_) **Paysages chauds** - avoir sur le territoire de vos villes les territoires savane, déserts
-- **Contrées exotiques** - avoir tout les biomes sur son propre territoire
-##### Pack 4
 
+##### Pack 4
+- **Contrées exotiques** - avoir tout les biomes sur son propre territoire
 
 
 ____
