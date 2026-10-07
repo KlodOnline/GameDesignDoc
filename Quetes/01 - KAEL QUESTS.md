@@ -19,8 +19,10 @@ _____
  - (_chaine_) **Ouvrage militaire** - Fortification niveau I dans toutes les villes de Rang 1 ou plus
 
 ##### Pack 3
- - 
- - 
+- (_chaine_) **Espace Vital III** - Avoir un territoire de _1200_ cases
+- (_chaine_) **Qui veut la paix... III** - Recruter 5 Soldats
+- (_chaine_) **Qui veut la paix... IV** - Recruter 5 Légionnaires
+
  - 
  - 
  - 
@@ -56,13 +58,7 @@ Chaque titre donne +1 Faveur par tour !
 ### A relire :
 
 ## 10 Quêtes suivantes (Intermédiaires)
-- **Placer un fort sur une ile qui en controle la seule greve ?**
-- **Tenir le terrain** - Fortifiez une position contrôlée par votre empire
-- **Le vainqueur prend tout** - Trouvez et Ramassez du loot sur le territoire d'un autre joueur (!!! implique une traçabilité du loot pour éviter que le joueur ne ramasse son propre loot)
 
-- (_chaine_) **Espace Vital III** - Avoir un territoire de _1200_ cases
-- (_chaine_) **Qui veut la paix... III** - Recruter 5 Soldats
-- (_chaine_) **Qui veut la paix... IV** - Recruter 5 Légionnaires
 
 # Validées :
 
