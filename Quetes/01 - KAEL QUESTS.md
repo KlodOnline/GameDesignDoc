@@ -35,6 +35,11 @@ Il devrait toujours exister des quêtes 1:1 entre les positives et négatives. L
  - perdre une bataille avec deshonneur -X
  - attaquer un civil : -1
 
+Victoire contre plus fort → forte récompense  
+Victoire contre égal → récompense normale  
+Victoire contre beaucoup plus faible → faible récompense  
+Attaque d'un civil → pénalité
+
 ____
 **A 3000 reput'** : L'allégeance est consommée et on accède aux quêtes de **Champions**
 ____
