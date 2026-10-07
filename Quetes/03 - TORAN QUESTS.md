@@ -15,8 +15,8 @@ ____
  - (_chaine_) **Explorateur II** - découvrir 1200 cases de terrain
  - (_chaine_ ) **Les coffres de la ville** - Entrepot "1" dans toutes les villes de rang 1 ou plus.
  - **Carrefour commercial** - avoir une route sur votre territoire qui touche une route sur un territoire d'un autre joueur
- - 
- - 
+- (_chaine_) **Source Bleues** - connaitre sur la carte du monde au moins une source de TOUTES les ressources vertes primaire du jeu
+ - **Espionnage** Espionnez la _capitale_ d'un autre joueur
 
 ##### Pack 3
  - 
