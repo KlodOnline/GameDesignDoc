@@ -23,9 +23,7 @@ ____
 - **Nord/Sud** - Connaitre du terrain découvert du nord au sud
 - (_chaine_) **La Grande Route II** - Reliez deux villes par une route pavée de X cases
 - (_chaine_) **Source Violettes** - connaitre sur la carte du monde au moins une source de TOUTES les ressources vertes primaire du jeu
- - 
- - 
-
+- (_chaine_) **Paysages chauds** - avoir sur le territoire de vos villes les territoires savane, déserts
 ##### Permanentes
 Il devrait toujours exister des quêtes 1:1 entre les positives et négatives. Les score s'entendent toujours en +/-X / tour.
 ###### Quêtes positives
@@ -67,7 +65,7 @@ Chaque titre donne +1 Faveur par tour !
 - (_chaine_) **La Grande Route III** - Reliez deux villes par une route pavée avec des ponts de X cases
 - (_chaine_) **Paysages marins** - avoir sur le territoire de vos villes les territoires côté, océans, grêves
 - (_chaine_) **Paysages montagnards** - avoir sur le territoire de vos villes les territoires collines, montagnes
-- (_chaine_) **Paysages chauds** - avoir sur le territoire de vos villes les territoires savane, déserts
+
 - (_chaine_) **Paysages froids** - avoir sur le territoire de vos villes les territoires toundra, banquise
 - (_chaine_) **Paysages variés** - avoir sur le territoire de vos villes toutes les type de territoires différents, collines comprises
 - **Déplacement rapide I** - Définir un trajet de X cases, en moins de N tours (N calculé pour un chemin 100% forêt ?)
