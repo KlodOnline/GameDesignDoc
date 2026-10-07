@@ -22,10 +22,10 @@ _____
 - (_chaine_) **Espace Vital III** - Avoir un territoire de _1200_ cases
 - (_chaine_) **Qui veut la paix... III** - Recruter 5 Soldats
 - (_chaine_) **Qui veut la paix... IV** - Recruter 5 Légionnaires
+- **Grande muraille** - Avoir 5 forts dont la ZoC touche le territoire d'un autre joueur
+- **Attaque éclair** - Capturer une ville avec un éclaireur à cheval 
 
- - 
- - 
- - 
+ 
 ##### Permanentes
 Il devrait toujours exister des quêtes 1:1 entre les positives et négatives. Les score s'entendent toujours en +/-X / tour.
 ###### Quêtes positives
@@ -78,7 +78,7 @@ Chaque titre donne +1 Faveur par tour !
 - **Bouge de là** - Capturer un territoire qui ne nous appartient pas, avec une unité d'un autre joueur dessus !
 - **Racket** - tuer et looter une unité barbare ou d'un autre joueur
 - **Grignotage** - Annexer une partie du territoire d'un autre joueur
-- **Attaque éclair** - Capturer une ville avec un éclaireur à cheval sans combattre
+
 - **Ravitaillement** - Transférer à une unité au moral entamé de la nourriture depuis une unité alliée
 - (_chaine_) **Rusticité I** - Combattre depuis une montagne
 - (_chaine_) **Rusticité II** - Combattre depuis un terrain difficile
