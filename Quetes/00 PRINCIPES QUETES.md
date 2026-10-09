@@ -43,4 +43,4 @@ Et on achète sa libération pour 2000 faveurs
 
 #### Object à cooldown ?
  - Volable ?
- - 
+ - --> Challenge de Psychopathe ?
