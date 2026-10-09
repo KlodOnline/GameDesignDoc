@@ -28,7 +28,7 @@ ____
 - **Contrées exotiques** - avoir tout les biomes sur son propre territoire
 - **Ville lointaine** - avoir une ville de niveau 10 à 800+ cases de sa capitale
 - **Frontières paisibles** - Ayez un accord d'amitié avec tout les joueurs qui ont des frontières collées aux votre
-- 
+- **Tour du monde** - avoir du terrain découvert sur la totalité du tour du monde de façon à pouvoir faire une boucle
 
 
 ____
@@ -111,9 +111,8 @@ Il devrait toujours exister des quêtes 1:1 entre les positives et négatives. L
 
 Là, on est beaucoup plus proche du casse-tête Klod : la quête pose une configuration à atteindre,
 🧭 Toran — Exploration / économie
-- **La route impossible** - Faites parvenir une cargaison à destination en trouvant un itinéraire plus efficace que le trajet direct.
-- **Le raccourci** - Exploitez le terrain pour réduire le temps de transport d'une cargaison.
-- **L'expédition** - Envoyez une unité explorer une zone inconnue et faites-la revenir avec quelque chose d'utile.
+
+
 - **Le grand détour** - Faites parvenir une cargaison à destination en utilisant un itinéraire nettement plus long que la distance directe.
 - **L'expédition commerciale** - Faites parvenir des marchandises dans une ville éloignée de votre territoire principal.
 - **Le triangle commercial** - Faites circuler des marchandises entre trois de vos villes.
