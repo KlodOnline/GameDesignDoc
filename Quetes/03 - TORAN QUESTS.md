@@ -138,8 +138,7 @@ Là, on est beaucoup plus proche du casse-tête Klod : la quête pose une config
 - **L'artère vitale** - « Aerin vous indique que Toran chérit la structure et la circulation. Tracez une route logistique ininterrompue reliant deux de vos cités. » _(Relier deux de vos villes par une route pavée)_
 - **L'emprise de l'airain bis** - « Aerin observe l'horizon et murmure que le territoire n'appartient qu'à ceux qui le marquent. Étendez votre zone de contrôle sur un nouveau gisement. » _(Capturer un territoire avec 10 source n'importe lequelles via votre Zone de Contrôle)_
 - **L'horizon conquis** - « Aerin lève les yeux vers les lointaines montagnes : Toran veut savoir jusqu'où portent vos pas. Envoyez une unité marquer les confins du monde connu. » _(Explorer une zone située très loin de la capitale)_
-- **Le cœur battant** - « Aerin remarque que votre cité s'endort. Dynamisez sa croissance démographique en y injectant un flux constant de denrées. » (_obtenir +80 de croissance par tour ?)
-- **Le ballet des chariots** - « Aerin contemple vos routes encombrées de vie : maintenez un trafic de marchandises continu entre trois de vos cités. » _avoir 5 carrioles attelées en mouvement sur la carte_
+- 
 - **La griffe et le soc** - « Aerin sourit en voyant vos chariots se croiser : la logistique est la véritable épée de Toran. Faites transiter trois types de ressources différentes dans la même journée. » _(Transporter des ressources diversifiées)_ ?
 - **Le négociateur** - Obtenez auprès de 5 joueurs un accord commercial
 - **Le pacte de l'obole** - « Aerin vous invite à consolider vos alliances par le profit mutuel. Réalisez des échanges d'envergure avec une faction alliée. » _(offirir 5000 d'or de valeur de stuff)_
