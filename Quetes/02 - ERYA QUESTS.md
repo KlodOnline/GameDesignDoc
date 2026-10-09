@@ -13,7 +13,6 @@ _____
  - (_chaine_) **Industrie I** - Avoir 15 artisans dans 3 productions différentes
  - (_chaine_) **La bonne place I** - Fabriquer un camp de récolteur qui exploite 2 ressource vertes ou mieux en simultané
  - (_chaine_) **Travailleur, Travailleuses** - Recruter 3 récolteurs et 1 manoeuvre
-
 ##### Pack 2
  - (_chaine_) **Sans importation II** - Produisez tout les éléments de la chaîne de production du Bronze dans une ville en simultané, obtenez 1 stack d'arme et d'outils. (_faire des lingots de bronze & des armes & des outils_)
  - (_chaine_) **Industrie II** - Avoir 25 artisans dans 5 productions différentes

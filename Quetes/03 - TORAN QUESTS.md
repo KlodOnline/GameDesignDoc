@@ -15,17 +15,20 @@ ____
  - (_chaine_) **Explorateur II** - découvrir 1200 cases de terrain
  - (_chaine_ ) **Les coffres de la ville** - Entrepot "1" dans toutes les villes de rang 1 ou plus.
  - **Carrefour commercial** - avoir une route sur votre territoire qui touche une route sur un territoire d'un autre joueur
- - **Espionnage** Espionnez la _capitale_ d'un autre joueur
+ - (_chaine_) **Bien informé I** Espionnez la _capitale_ d'un autre joueur
  - (_chaine_) **Source Bleues** - connaitre sur la carte du monde au moins une source de TOUTES les ressources bleues primaire du jeu
 ##### Pack 3
 - **Nord/Sud** - Connaitre du terrain découvert du nord au sud
 - (_chaine_) **La Grande Route II** - Reliez deux villes par une route pavée de X cases
-- (_chaine_) **Source Violettes** - connaitre sur la carte du monde au moins une source de TOUTES les ressources violettes  primaire du jeu
+- (_chaine_) **Source Violettes** - connaitre sur la carte du monde au moins une source de TOUTES les ressources violettes  primaire du jeu (_or, éléphant, prophyre, bois de rose_)
 - **Le premier comptoir** - « Aerin vous pousse à ouvrir vos frontières aux autres souverains. Effectuez votre tout premier échange commercial avec un joueur voisin. »
 - (_chaine_) **Paysages chauds** - avoir sur le territoire de vos villes les territoires savane, déserts
 
 ##### Pack 4
 - **Contrées exotiques** - avoir tout les biomes sur son propre territoire
+- **Ville lointaine** - avoir une ville de niveau 10 à 800+ cases de sa capitale
+- **Frontières paisibles** - Ayez un accord d'amitié avec tout les joueurs qui ont des frontières collées aux votre
+- 
 
 
 ____
@@ -154,7 +157,7 @@ Là, on est beaucoup plus proche du casse-tête Klod : la quête pose une config
 - **Le coffre-fort des dieux** - « Aerin vous exhorte à thésauriser pour attirer la grâce de Toran. Atteignez un seuil de richesse inouï dans vos caisses. »
 - **Trésor caché** - trouver une ville qui a un bourse de 500 PO
 - **Aux confins** - Atteignez un point situé à plus de 150 cases de votre territoire.
-- **L'art de la plus-value** - « Aerin vous explique que chaque ressource doit trouver sa place là où elle a le plus de prix. Transportez des biens spécialisés vers une ville en demande. » _(necessite de trouver un joueur qui a une demande particulièr et de la lui fournir)_
+
 - **Le négociateur** - Obtenez auprès de 10% des joueurs un accord commercial
 - (_chaine_) **Bien informé III** - installer un espion dans les capitales d'un joueur du top 10 mondial (mais différent)
 
