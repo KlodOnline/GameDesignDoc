@@ -45,6 +45,7 @@ _Ces quêtes donnent un titre tant qu'ils sont remplis, vérifiés toutes les 24
 
 ### Quête Cyclique Bimensuelle
 - **Les Monolithes** - posséder le plus de monolithe sur son territoire. Il apparaissent, au rythme de 1 par semaine. à la fin, il sont tous enlevés par Kael.
+- Seul un disciple de Kael peut le revendiquer
 
 ----
 ## Archives

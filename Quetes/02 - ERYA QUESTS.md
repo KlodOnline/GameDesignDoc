@@ -46,8 +46,7 @@ _Ces quêtes donnent un titre tant qu'ils sont remplis, vérifiés toutes les 24
 
 ### Quête Cyclique Bimensuelle
 - **Les Artefacts** - posséder le plus d'artefact. Ils se craftent mais coûtent très cher (mais avec des ressources classiques) Il faut donc les créer les stocker et éventuellement les protéger. Par contre, on ne peux pas les voler ?
-- La présence d'Aerin dans la Capitale est nécessaire pour cette quête ?
-
+- Seul un disciple de Erya peut les fabriquer ou les stocker
 
 ----
 ## Archives
