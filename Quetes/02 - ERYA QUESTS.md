@@ -45,7 +45,7 @@ _Ces quêtes donnent un titre tant qu'ils sont remplis, vérifiés toutes les 24
 - **Le plus d'unité civile ayant besoin d'outils en Acier !**
 
 ### Quête Cyclique Bimensuelle
-- **Les Artefacts** - posséder le plus d'artefact. Ils se craftent mais coutent très cher (mais avec des ressources clasiques) Il faut donc les créer les stocker et éventuellement les protéger. Par contre, on ne peux pas les voler ?
+- **Les Artefacts** - posséder le plus d'artefact. Ils se craftent mais coûtent très cher (mais avec des ressources classiques) Il faut donc les créer les stocker et éventuellement les protéger. Par contre, on ne peux pas les voler ?
 - La présence d'Aerin dans la Capitale est nécessaire pour cette quête ?
 
 
