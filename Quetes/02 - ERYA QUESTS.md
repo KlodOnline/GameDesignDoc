@@ -37,7 +37,7 @@ ____
 ____
 
 ## Quêtes de champions
-_Ces quêtes donnent un titre tant qu'ils sont remplis, vérifiés toutes les 24h_
+_Ces quêtes donnent un titre tant qu'ils sont remplis, vérifiés toutes les week_
 
 - **Le plus d'unité de récolte et d'ouvrier !**
 - **Le peuple le plus prestigieux ! (en total)** 

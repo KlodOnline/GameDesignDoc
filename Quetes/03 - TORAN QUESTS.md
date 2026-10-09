@@ -36,7 +36,7 @@ ____
 ____
 
 ## Quêtes de champions
-_Ces quêtes donnent un titre tant qu'ils sont remplis, vérifiés toutes les 24h_
+_Ces quêtes donnent un titre tant qu'ils sont remplis, vérifiés toutes les week_
 
 - **Le plus d'unité marchandes !**
 - **Le plus de territoire visible !**
