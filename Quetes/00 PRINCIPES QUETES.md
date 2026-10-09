@@ -41,5 +41,6 @@ Et on achète sa libération pour 2000 faveurs
  - Qui leve l'invisibilité des hautes joueurs pour vous
  - Et voir changer le climat
 
-
-#### 
+#### Object à cooldown ?
+ - Volable ?
+ - 
