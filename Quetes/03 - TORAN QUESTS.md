@@ -50,7 +50,6 @@ _Ces quêtes donnent un titre tant qu'ils sont remplis, vérifiés toutes les we
 ----
 ## Archives
 
-
 ##### Permanentes
 Il devrait toujours exister des quêtes 1:1 entre les positives et négatives. Les score s'entendent toujours en +/-X / tour.
 ###### Quêtes positives
