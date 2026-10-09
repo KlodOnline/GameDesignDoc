@@ -149,10 +149,6 @@ Là, on est beaucoup plus proche du casse-tête Klod : la quête pose une config
 ### Quêtes Difficile
 
 - **Developpez une ville à 100% arbre 2 "commerce"**
-- **L'ancre du pionnier** - « Aerin vous demande de prouver que votre peuple sait marcher au-delà de sa zone de confort. Installez une cité dans une région inexplorée. » _(Fonder une ville dans un territoire demoralisant et entouré de terre seche)_
-- **Le grenier du monde** - « Aerin vous rappelle que Toran exige que la nourriture ne manque jamais. Accumulez un stock massif de provisions dans tout vos entrepôts. »
-- (_chaine_) **Source Porphyre** - "Aerin vous explique que pour briller auprès de Toran, vous devriez sonder le sol à la recherche de cette veine minérale ancienne dont les anciens murmuraient les légendes." _Découvrir une Source Porphyre inexploitée_
-- (_chaine_) **Rosewood** - Idem bois _Découvrir une Source Rosewood inexploitée_
 - **Le pacte des frontières** - « Aerin vous souffle qu'un bon voisin est un voisin avec qui l'on commerce. Échangez des ressources exotics avec un territoire lointain. » _(Effectuer un échange longue distance)_
 - **Le coffre-fort des dieux** - « Aerin vous exhorte à thésauriser pour attirer la grâce de Toran. Atteignez un seuil de richesse inouï dans vos caisses. »
 - **Trésor caché** - trouver une ville qui a un bourse de 500 PO
