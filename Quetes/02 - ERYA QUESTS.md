@@ -39,9 +39,9 @@ ____
 ## Quêtes de champions
 _Ces quêtes donnent un titre tant qu'ils sont remplis, vérifiés toutes les 24h_
 
-- **Une armée de travailleurs** Le plus d'unité de récolte et d'ouvrier !
+- **Le plus d'unité de récolte et d'ouvrier !**
 - **Le peuple le plus prestigieux ! (en total)** 
-- **Le plus d'artisans actifs au monde ! (avec des ressources en stock donc)**
+- **Réseau routier le plus long !**
 - **Le plus d'unité civile ayant besoin d'outils en Acier !**
 
 ### Quête Cyclique Bimensuelle

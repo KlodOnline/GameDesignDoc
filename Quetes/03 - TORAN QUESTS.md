@@ -39,7 +39,7 @@ ____
 _Ces quêtes donnent un titre tant qu'ils sont remplis, vérifiés toutes les 24h_
 
 - **Le plus d'unité marchandes !**
-- **Réseau routier le plus long !**
+- **Le plus de territoire visible !**
 - **Le plus d'accord commerciaux !**
 - **Le plus d'Or !**
 
