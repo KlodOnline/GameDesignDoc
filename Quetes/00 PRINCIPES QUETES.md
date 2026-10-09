@@ -39,6 +39,7 @@ Et on achète sa libération pour 2000 faveurs
  - Qui permet de faire un bâtiment instantané
  - Qui fait comme une fortification 5 temporairement
  - Qui leve l'invisibilité des hautes joueurs pour vous
+ - Et voir changer le climat
 
 
 #### 
