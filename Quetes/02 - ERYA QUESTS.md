@@ -18,7 +18,7 @@ _____
  - (_chaine_) **Industrie II** - Avoir 25 artisans dans 5 productions différentes
  - (_chaine_) **Grand chantier II** - Avoir 6 batiments de rang 1 différents dans une ou plusieurs villes.
  - (_chaine_) **La bonne place II** - Fabriquer un camp de recolteur qui exploite 3 ressource vertes ou mieux en simultané
- - (**chaine**)**Formation professionnelle** - Upgradez 1 récolteurs et 1 manoeuvre
+ - (_chaine_)**Formation professionnelle** - Upgradez 1 récolteurs et 1 manoeuvre
 ##### Pack 3
 - (_chaine_) **Sans importation III** - Produisez tout les éléments de la chaîne de production du Fer dans une ville en simultané, obtenez 1 stack d'arme et d'outils. (_faire des lingots de bronze & des armes & des outils_)
 - **Prevoyant** - Avoir un stock de 3 stack de lingots de Fer et le 6 de charbon
