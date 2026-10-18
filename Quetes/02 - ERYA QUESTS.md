@@ -27,7 +27,7 @@ _____
  - (**chaine**)**Technicien supérieur** - Récolteur et modder Bleu
 ##### Pack 4
  - **Prevoyant II** - Préparer 3 stack d'acier
- - (_chaine_) **Grand chantier IV** - Avoir 2 batiments de rang 3 différents dans une ou plusieurs villes.
+ - (_chaine_) **Grand chantier IV** - Avoir 2 batiments de rang 4 différents dans une ou plusieurs villes.
  - (**chaine**)**Université Technologique** - Récolteur et modder Violet
 - **Le pied marin** : avoir un chantiers navals
 - **Ma belle Forge** : avoir une Forge 3 quelque part.

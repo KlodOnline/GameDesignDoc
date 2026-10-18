@@ -27,7 +27,7 @@ _____
 - **Attaque éclair** - Capturer une ville avec un éclaireur à cheval
 - **Premier raid** - Attaquez un territoire contrôlé par un autre joueur.
 - **Gagner un combat avec l'aide d'un Général**
-- **Comme les troyens** - capturer la capitale d'un empire au dessus de soi militairement, et la raser - ou si en tête, juste en dessous.
+- **Comme les troyens** - capturer une ville d'un empire au dessus de soi militairement, et la faire disparaître (ou si en tête, juste en dessous).
 
 
 
