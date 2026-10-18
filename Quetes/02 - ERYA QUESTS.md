@@ -30,7 +30,7 @@ _____
  - (_chaine_) **Grand chantier IV** - Avoir 2 batiments de rang 4 différents dans une ou plusieurs villes.
  - (**chaine**)**Université Technologique** - Récolteur et modder Violet
 - **Le pied marin** : avoir un chantiers navals
-- **Ma belle Forge** : avoir une Forge 3 quelque part.
+- **Dominer la nature** : Avoir une ville avec niveau 10+ avec au moins 3 cases de terrain "difficile" directement au contact de la ville
 
 ____
 **A 3000 reput'** : L'allégeance est consommée et on accède aux quêtes de **Champions**

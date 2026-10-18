@@ -26,9 +26,10 @@ ____
 
 ##### Pack 4
 - **Contrées exotiques** - avoir tout les biomes sur son propre territoire
-- **Ville lointaine** - avoir une ville de niveau 10 à 800+ cases de sa capitale
+- **Ville lointaine** - avoir une ville de niveau 10+ à 800+ cases de sa capitale
 - **Frontières paisibles** - Ayez un accord d'amitié avec tout les joueurs qui ont des frontières collées aux votre
 - **Tour du monde** - avoir du terrain découvert sur la totalité du tour du monde de façon à pouvoir faire une boucle
+- 
 
 
 ____

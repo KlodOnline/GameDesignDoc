@@ -24,11 +24,11 @@ _____
  - (_chaine_) **Possessivité II** - Avoir sur son territoire toutes les ressources bleues
 ##### Pack 4
 - **Grande muraille** - Avoir 5 unités fortifiées dont la ZoC touche le territoire d'un autre joueur
-- **Attaque éclair** - Capturer une ville avec un éclaireur à cheval
-- **Premier raid** - Attaquez un territoire contrôlé par un autre joueur.
+- **Attaque éclair** - Remportez une victoire "légendaire" à l'aide d'une unité à cheval
 - **Gagner un combat avec l'aide d'un Général**
-- **Comme les troyens** - capturer une ville d'un empire au dessus de soi militairement, et la faire disparaître (ou si en tête, juste en dessous).
-
+- **Comme les troyens** - capturer une ville et la faire disparaître
+- **Montures Massives** : Avoir 5 éléphants de guerre
+ 
 
 
 ____
