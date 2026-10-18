@@ -29,7 +29,7 @@ ____
 - **Ville lointaine** - avoir une ville de niveau 10+ à 150+ cases de sa capitale
 - **Frontières paisibles** - Ayez un accord d'amitié avec tout les joueurs qui ont des frontières collées aux votre
 - **Tour du monde** - avoir du terrain découvert sur la totalité du tour du monde de façon à pouvoir faire une boucle
-- **Transport maritime** Avoir au moins deux villes en bord de mer avec des Quais
+- **Grand Explorateur** Connaitre 50% de la map
 
 
 ____
@@ -46,7 +46,7 @@ _Ces quêtes donnent un titre tant qu'ils sont remplis, vérifiés toutes les we
 
 ### Quête Cyclique Bimensuelle
 - **Les Larmes** - Une gemme par semaine tombe sur le monde. C'est un loot un peu spécial, il a un look de cratère. Il faut le looter pour récupérer la Gemme. Le ramener à sa ville "religieuse" (où Aerin est)
-- Seul un disciple de Toran peut la ramasser
+- Seul un disciple de Toran peut la ramasser, mais tout le monde peut la voir ?
 
 ----
 ## Archives
