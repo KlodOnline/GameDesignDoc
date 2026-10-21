@@ -29,8 +29,6 @@ _____
 - **Comme les troyens** - capturer une ville et la faire disparaître
 - **Montures Massives** : Avoir 5 éléphants de guerre
  
-
-
 ____
 **A 3000 reput'** : L'allégeance est consommée et on accède aux quêtes de **Champions**
 ____

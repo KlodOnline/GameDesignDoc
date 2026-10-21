@@ -31,7 +31,6 @@ ____
 - **Tour du monde** - avoir du terrain découvert sur la totalité du tour du monde de façon à pouvoir faire une boucle
 - **Grand Explorateur** Connaitre 50% de la map
 
-
 ____
 **A 3000 reput'** : L'allégeance est consommée et on accède aux quêtes de **Champions**
 ____
