@@ -4,7 +4,7 @@ Klod rejects social psychology and manipulation applied to marketing and gamepla
 - engineered frustration designed to push players into “pay-to-win”;
 - in-game shops and virtual currencies.
 
-Klod stays free to play. There is no pay-to-win, no shop, no virtual currency. Any contribution is voluntary and comes later, not now: the plan is monthly support (3, 5 or 10 € per month) with only cosmetic in-game rewards in return, never a gameplay advantage, introduced during the beta. If that is not enough to sustain the game, the fallback is a single flat subscription of 3 € per month for everyone, at release. Either way, the rules stay the same for everyone.
+Klod stays free to play. There is no pay-to-win, no shop, no virtual currency. Any contribution is voluntary: crowdfunding is planned ASAP during the beta, as monthly support (3, 5 or 10 € per month) with only cosmetic in-game rewards in return, never a gameplay advantage. If that does not sustain the game within about a year, the fallback is a single flat subscription of 3 € per month for everyone. Either way, the rules stay the same for everyone.
 ## No Disrespect for the Player
 Klod is not here to deliver yet another hollow distraction meant to “empty players’ minds.” A Klodian is a mature, responsible strategist, able to bear the weight of failure and to build success over time. They are not a “customer to retain.” They come, they play, they stay because they enjoy thinking hard. They are crowned with the glory of their victories, and they endure the consequences of their mistakes and betrayals.
 ## No Resale of the Player
