@@ -4,7 +4,7 @@ Klod refuse la psychologie sociale et la manipulation appliquée au marketing et
  - la frustration programmée pour amener le joueur au "pay-to-win".
  - les boutiques intégrées et les monnaies virtuelles.
 
-Klod reste gratuit. Pas de pay-to-win, pas de boutique, pas de monnaie virtuelle. Le jeu est financé par un soutien volontaire mensuel : ceux qui veulent contribuer choisissent 3, 5 ou 10 € par mois, et ne reçoivent en retour que des éléments cosmétiques en jeu, jamais d'avantage de gameplay. Si cela ne suffit pas à faire vivre le jeu, le plan de secours est un abonnement unique de 3 € par mois pour tous. Dans tous les cas, les règles restent les mêmes pour tout le monde.
+Klod reste gratuit. Pas de pay-to-win, pas de boutique, pas de monnaie virtuelle. Toute contribution est volontaire et vient plus tard, pas maintenant : le projet est un soutien mensuel (3, 5 ou 10 € par mois) avec uniquement des éléments cosmétiques en jeu en retour, jamais d'avantage de gameplay, mis en place pendant la beta. Si cela ne suffit pas à faire vivre le jeu, le plan de secours est un abonnement unique de 3 € par mois pour tous, à la sortie. Dans tous les cas, les règles restent les mêmes pour tout le monde.
 
 ## Pas d'irrespect du joueur
 Klod n'est pas là pour offrir un énième divertissement creux ayant pour objectif de "vider la tête" des joueurs. Un Klodien est un stratège mature et responsable, capable de supporter le poids de ses échecs et de construire ses succès dans la durée. Ce n'est pas un "client à fidéliser". Il vient, il joue, il reste parce que se creuser la tête lui plait. Il est auréolé de la gloire de ses victoires, il endure les conséquences de ses erreurs et de ses trahisons.

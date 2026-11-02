@@ -4,7 +4,7 @@ Klod rechaza la psicología social y la manipulación aplicadas al marketing y a
 - la frustración programada para empujar al jugador al “pay-to-win”;
 - las tiendas integradas y las monedas virtuales.
 
-Klod sigue siendo gratuito. Sin pay-to-win, sin tienda, sin moneda virtual. El juego se financia con apoyo voluntario mensual: quien quiera contribuir elige 3, 5 o 10 € al mes, y solo recibe recompensas cosméticas en el juego, nunca ventaja de gameplay. Si no basta para mantener el juego, el plan alternativo es una suscripción única de 3 € al mes para todos. En cualquier caso, las reglas son las mismas para todos.
+Klod sigue siendo gratuito. Sin pay-to-win, sin tienda, sin moneda virtual. Toda contribución es voluntaria y llega más tarde, no ahora: el plan es apoyo mensual (3, 5 o 10 € al mes) con solo recompensas cosméticas en el juego a cambio, nunca ventaja de gameplay, introducido durante la beta. Si no basta para mantener el juego, el plan alternativo es una suscripción única de 3 € al mes para todos, en el lanzamiento. En cualquier caso, las reglas son las mismas para todos.
 ## No al irrespeto del jugador
 Klod no está aquí para ofrecer otro entretenimiento vacío cuyo objetivo sea “vaciar la cabeza” de los jugadores. Un Klodiano es un estratega maduro y responsable, capaz de soportar el peso de sus fracasos y de construir sus éxitos a lo largo del tiempo. No es un “cliente a fidelizar”. Viene, juega y se queda porque le gusta pensar. Está coronado por la gloria de sus victorias y asume las consecuencias de sus errores y de sus traiciones.
 ## No a la reventa del jugador

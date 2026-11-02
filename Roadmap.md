@@ -21,7 +21,7 @@ Avoir des abonnés. L'argent permettrait :
  - On pousse de *develop* vers *main* quand une fonctionnalité est considérée *debuggée*.
 
 ### Diffusion
-Large. Il faut faire connaitre le jeu un maximum, pour permettre des tests de  charge. Récompenser les 50 premiers joueurs d'un abonnement à vie ? Autoriser les abonnements de soutiens.
+Large. Il faut faire connaitre le jeu un maximum, pour permettre des tests de charge. Financement : soutien volontaire mensuel (3, 5 ou 10 €, cosmétiques uniquement) ; plan de secours : abonnement de 3 €/mois pour tous. Récompenser les 50 premiers joueurs d'un accès soutien à vie ?
 ### Fonctionnalités à implémenter durant cette phase
 - [x] Augmentation de la durée de création des colons en fonction de la population des empires
 - [x] Possibilité d'affecter les habitants des villes aux tâches : Production, Crafting, Bâtiments
