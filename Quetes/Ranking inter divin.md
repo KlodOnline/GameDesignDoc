@@ -8,6 +8,21 @@ points(j)    = Base × (1 + activité(j)) × (1 + difficulté(j))
 #### Gemini
 $$\text{Points du jour} = \text{Base de Rang} \times \text{Multiplicateur d'Activité}$$
 
+**Comment gagner des points de dévotion ?**
+- **+10 automatiques** si tu as joué aujourd'hui (participation).  
+- **+0 à +45** selon ton effort par rapport aux autres joueurs de ta divinité (tu es récompensé si tu fais plus qu'eux).
+- **+0 à +45** selon ta progression par rapport à ton niveau (tu es récompensé si tu progresses plus vite que les joueurs de ton niveau).
+- **Ton rang ne te donne aucun point passif.** Être 1er ne te rapporte rien si tu ne joues pas.
+
+**Ton score de dévotion : 73** (▲ +5 par rapport à hier)
+- Tu as fait **plus d'efforts** que hier → +3
+- Ton **niveau a augmenté**, donc l'effort relatif compte plus → +2
+
+- Clic 1 : je vois ma note sur 100 + mon delta.
+- Clic 2 : je vois la décomposition en 3 lignes (participation / effort vs autres / effort vs niveau).
+- Clic 3 : je vois la carte de référence ("comment gagner des points").
+
+
 
 ********
 
