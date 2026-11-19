@@ -1,5 +1,13 @@
 
 
+activité(j)  = min( métrique_jour(j) / médiane_jour(divinité) , 2.0 )
+difficulté(j) = min( métrique_jour(j) / médiane_jour(divinité) , 2.0 )   // ou médiane du décile en V1
+points(j)    = Base × (1 + activité(j)) × (1 + difficulté(j))
+
+
+********
+
+
 activité(j) = métrique_jour(j) / médiane_métrique_jour(divinité)
 
 ## 2. Le calcul des points de dévotion, adapté à tes quêtes faciles
