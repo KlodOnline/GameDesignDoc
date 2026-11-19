@@ -1,3 +1,7 @@
+
+
+activité(j) = métrique_jour(j) / médiane_métrique_jour(divinité)
+
 ## 2. Le calcul des points de dévotion, adapté à tes quêtes faciles
 
 Pour chaque divinité, tu définis :
