@@ -5,6 +5,8 @@ difficulté(j) = min( métrique_jour(j) / médiane_jour(divinité) , 2.0 )   // 
 points(j)    = Base × (1 + activité(j)) × (1 + difficulté(j))
 
 
+
+
 ********
 
 
