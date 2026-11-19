@@ -12,6 +12,12 @@ _Peut être mettre des actions permanentes qui font grimper la réputation ?_
 **La Faveur est dépensée.**
 
 ### Faveurs Divines
+Les Dieux veulent "trier" leurs propre champions !!! Et donc les quetes PvP opposent les champions de la même catégorie !!!
+
+
+
+
+### Faveurs Divines
 Avec les faveurs, viennent les unités et pouvoir spéciaux.
 
 288 faveurs, c'est une journée de réussite.
