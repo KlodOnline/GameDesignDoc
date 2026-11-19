@@ -22,6 +22,29 @@ $$\text{Points du jour} = \text{Base de Rang} \times \text{Multiplicateur d'Acti
 - Clic 2 : je vois la décomposition en 3 lignes (participation / effort vs autres / effort vs niveau).
 - Clic 3 : je vois la carte de référence ("comment gagner des points").
 
+**Concrètement, pour Kael (unités de combat) :**
+- Tu as entraîné 600 unités aujourd'hui.
+- La **médiane** des disciples de Kael a entraîné 300 unités aujourd'hui.
+- Ton ratio = 600 / 300 = **2.0** → plafonné à 2.0.
+- Tu es **au-dessus de la médiane** → tu touches le maximum de la brique : **+45**.
+
+Si tu avais entraîné 150 unités (ratio 0.5) → tu touches **+22** (la moitié).  
+Si tu n'as rien entraîné (ratio 0) → **+0**.
+
+→ **La brique Effort mesure "as-tu fait plus que les autres disciples de ton dieu aujourd'hui ?"** C'est ça, le "+0 à +45".
+
+ - Brique 1 — Participation : +10 automatique
+ - Brique 2 — Effort : +0 à +45 selon ton activité vs les autres disciples du dieu
+ - Brique 3 — Progression : +0 à +45 selon ta progression vs ton propre niveau
+
+
+
+
+
+
+
+
+
 
 
 ********
