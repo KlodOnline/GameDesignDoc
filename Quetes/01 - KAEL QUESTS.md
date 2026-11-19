@@ -36,8 +36,11 @@ ____
 ## Quêtes de champions
 _Ces quêtes donnent un titre tant qu'ils sont remplis, vérifiés toutes les week_
 
+Sur :
 - **Le plus d'unité de combat !**
 - **Le territoire le plus étendu !**
+
+Pas sur :
 - **Le plus de Guerre en simultané !**
 - **Le plus d'unité de combat ayant besoin d'arme en Acier !**
 

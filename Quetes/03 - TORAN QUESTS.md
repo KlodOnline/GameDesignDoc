@@ -38,10 +38,13 @@ ____
 ## Quêtes de champions
 _Ces quêtes donnent un titre tant qu'ils sont remplis, vérifiés toutes les week_
 
+Sur : 
+ - **Le plus d'Or !**
+ - **Le plus de territoire visible !**
+
+Pas sur : 
 - **Le plus d'unité marchandes !**
-- **Le plus de territoire visible !**
 - **Le plus d'accord commerciaux ou de libre passage !**
-- **Le plus d'Or !**
 
 ### Quête Cyclique Bimensuelle
 - **Les Larmes** - Une gemme par semaine tombe sur le monde. C'est un loot un peu spécial, il a un look de cratère. Il faut le looter pour récupérer la Gemme. Le ramener à sa ville "religieuse" (où Aerin est)

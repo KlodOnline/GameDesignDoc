@@ -39,9 +39,12 @@ ____
 ## Quêtes de champions
 _Ces quêtes donnent un titre tant qu'ils sont remplis, vérifiés toutes les week_
 
+Sur :
+ - **Le peuple le plus prestigieux ! (en total)** 
+- **Réseau routier pavées le plus long !**
+
+Pas sur :
 - **Le plus d'unité de récolte et d'ouvrier !**
-- **Le peuple le plus prestigieux ! (en total)** 
-- **Réseau routier le plus long !**
 - **Le plus d'unité civile ayant besoin d'outils en Acier !**
 
 ### Quête Cyclique Bimensuelle
